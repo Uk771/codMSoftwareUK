@@ -1522,7 +1522,7 @@
                                 }),
                                 (0, i.jsx)(d.default, {
                                   className: "active",
-                                  href: "#",
+                                  href: "!#",
                                   children: "Homepages",
                                 }),
                                 (0, i.jsxs)("ul", {
@@ -1548,7 +1548,7 @@
                                   }),
                                 }),
                                 (0, i.jsx)(d.default, {
-                                  href: "#",
+                                  href: "!#",
                                   children: "About Us",
                                 }),
                                 (0, i.jsxs)("ul", {
@@ -1561,19 +1561,19 @@
                                   children: [
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-about",
+                                        href: "/!#",
                                         children: "About us v.1",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-about-2",
+                                        href: "/!#",
                                         children: "About us v.2",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-about-3",
+                                        href: "/!#",
                                         children: "About us v.3",
                                       }),
                                     }),
@@ -1607,31 +1607,31 @@
                                   children: [
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-services-1",
+                                        href: "/!#",
                                         children: "Services v.1",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-services-2",
+                                        href: "/!#",
                                         children: "Services v.2",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-services-3",
+                                        href: "/!#",
                                         children: "Services v.3",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-services-details-1",
+                                        href: "/!#",
                                         children: "Services details v.1",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-services-details-2",
+                                        href: "/!#",
                                         children: "Services details v.2",
                                       }),
                                     }),
@@ -1652,7 +1652,7 @@
                                   }),
                                 }),
                                 (0, i.jsx)(d.default, {
-                                  href: "#",
+                                  href: "!#",
                                   children: "Our Team",
                                 }),
                                 (0, i.jsxs)("ul", {
@@ -1665,49 +1665,49 @@
                                   children: [
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-team-1",
+                                        href: "/!#",
                                         children: "Our team v.1",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-team-2",
+                                        href: "/!#",
                                         children: "Our team v.2",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-team-3",
+                                        href: "/!#",
                                         children: "Our team v.3",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-team-4",
+                                        href: "/!#",
                                         children: "Our team v.4",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-team-5",
+                                        href: "/!#",
                                         children: "Our team v.5",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-team-6",
+                                        href: "/!#",
                                         children: "Our team v.6",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-team-detail-1",
+                                        href: "/!#",
                                         children: "Team detail v.1",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-team-detail-2",
+                                        href: "/!#",
                                         children: "Team detail v.2",
                                       }),
                                     }),
@@ -1728,7 +1728,7 @@
                                   }),
                                 }),
                                 (0, i.jsx)(d.default, {
-                                  href: "#",
+                                  href: "!#",
                                   children: "Features",
                                 }),
                                 (0, i.jsxs)("ul", {
@@ -1741,13 +1741,13 @@
                                   children: [
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-features-1",
+                                        href: "/!#",
                                         children: "Features v.1",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-features-2",
+                                        href: "/!#",
                                         children: "Features v.2",
                                       }),
                                     }),
@@ -1768,7 +1768,7 @@
                                   }),
                                 }),
                                 (0, i.jsx)(d.default, {
-                                  href: "#",
+                                  href: "!#",
                                   children: "Pricing",
                                 }),
                                 (0, i.jsxs)("ul", {
@@ -1781,13 +1781,13 @@
                                   children: [
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-pricing-01",
+                                        href: "/!#",
                                         children: "Pricing v.1",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-pricing-02",
+                                        href: "/!#",
                                         children: "Pricing v.2",
                                       }),
                                     }),
@@ -1808,7 +1808,7 @@
                                   }),
                                 }),
                                 (0, i.jsx)(d.default, {
-                                  href: "#",
+                                  href: "!#",
                                   children: "Contact Us",
                                 }),
                                 (0, i.jsxs)("ul", {
@@ -1821,19 +1821,19 @@
                                   children: [
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-contact-1",
+                                        href: "/!#",
                                         children: "Contact v.1",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-contact-2",
+                                        href: "/!#",
                                         children: "Contact v.2",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-contact-3",
+                                        href: "/!#",
                                         children: "Contact v.3",
                                       }),
                                     }),
@@ -1867,13 +1867,13 @@
                                   children: [
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-blog-1",
+                                        href: "/!#",
                                         children: "Blog v.1",
                                       }),
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/page-blog-2",
+                                        href: "/!#",
                                         children: "Blog v.2",
                                       }),
                                     }),
