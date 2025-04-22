@@ -52,11 +52,7 @@
                         (0, a.jsxs)("h2", {
                           className: "fw-medium mt-4 lh-sm",
                           children: [
-                            "Together, we are creating a",
-                            (0, a.jsx)("span", {
-                              className: "fw-black",
-                              children: "Bright Future.",
-                            }),
+                            "The Innovation Behind the Experience",
                             (0, a.jsx)("span", {
                               className: "text-primary fst-italic",
                               "data-aos": "fade-zoom-in",
@@ -193,10 +189,12 @@
                               }),
                             }),
                           }),
-                          (0, a.jsx)("h6", { children: "Work organization" }),
+                          (0, a.jsx)("h6", {
+                            children: "Seamless Integration",
+                          }),
                           (0, a.jsx)("p", {
                             children:
-                              "A business consultant provides expert advice and guidance to businesses on various aspects.",
+                              "Effortlessly connect with your existing systems for a unified experience.",
                           }),
                         ],
                       }),
@@ -220,11 +218,11 @@
                             }),
                           }),
                           (0, a.jsx)("h6", {
-                            children: "Strategy Development",
+                            children: "Scalable Solution",
                           }),
                           (0, a.jsx)("p", {
                             children:
-                              "Business consultants play a crucial role by offering expert advice and guidance to companies",
+                              "Grow your infrastructure without compromising performance",
                           }),
                         ],
                       }),
@@ -247,10 +245,10 @@
                               }),
                             }),
                           }),
-                          (0, a.jsx)("h6", { children: "Data analytics" }),
+                          (0, a.jsx)("h6", { children: "Real-Time Analytics" }),
                           (0, a.jsx)("p", {
                             children:
-                              "Consultants provide invaluable expertise to businesses, assisting them with strategic advice",
+                              "Gain actionable insights to drive informed decision-making",
                           }),
                         ],
                       }),
@@ -274,11 +272,11 @@
                             }),
                           }),
                           (0, a.jsx)("h6", {
-                            children: "Business Intelligence ",
+                            children: "User-Centric Design",
                           }),
                           (0, a.jsx)("p", {
                             children:
-                              "Through their deep understanding of industry trends and best practices, consultants empower organizations",
+                              "Intuitive interfaces ensuring ease of use for all stakeholders",
                           }),
                         ],
                       }),
@@ -432,20 +430,21 @@
                           (0, a.jsx)("h6", {
                             "data-aos": "fade-zoom-in",
                             "data-aos-delay": 100,
-                            children: "Company's vision",
+                            children: "Our vision",
                           }),
-                          (0, a.jsx)("h3", {
+                          (0, a.jsx)("h6", {
                             className: "ds-3 mt-2 mb-5",
                             "data-aos": "fade-zoom-in",
                             "data-aos-delay": 200,
-                            children: "Powerful agency for corporate business.",
+                            children:
+                              "Driven by Innovation. Focused on Impact.",
                           }),
                           (0, a.jsx)("p", {
                             className: "mb-5",
                             "data-aos": "fade-zoom-in",
                             "data-aos-delay": 300,
                             children:
-                              "Provide your team with top-tier group mentoring programs and exceptional professional benefits.",
+                              "Our vision is to revolutionize the digital world by creating intelligent, scalable, and user-friendly technology that empowers businesses and enriches lives globally.",
                           }),
                           (0, a.jsxs)("div", {
                             className:

@@ -1107,11 +1107,8 @@
                                 className:
                                   "text-white mt-3 mb-4 fw-medium hover-up",
                                 children: [
-                                  "Scalable Business for ",
-                                  (0, i.jsx)("span", {
-                                    className: "fw-bold",
-                                    children: "Startups",
-                                  }),
+                                  "We wholeheartedly believe in giving back and doing our bit for the community",
+                                  (0, i.jsx),
                                   ".",
                                 ],
                               }),
