@@ -3497,8 +3497,8 @@
                                 className: "zoom-img rounded-4",
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
-                                  src: "/assets/imgs/team-3/portrait-1.png",
-                                  alt: "infinia",
+                                  src: "/assets/imgs/Certifications/ApplicationArchitect.png",
+                                  alt: "ApplicationArchitect",
                                 }),
                               }),
                               (0, a.jsxs)(t.default, {
@@ -3511,7 +3511,7 @@
                                     children: [
                                       (0, a.jsx)("h6", {
                                         className: "text-white",
-                                        children: "Michael Anderson",
+                                        children: "Application Architect",
                                       }),
                                       (0, a.jsxs)("div", {
                                         className: "d-flex",

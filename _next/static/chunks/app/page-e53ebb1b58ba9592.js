@@ -45,7 +45,7 @@
                             (0, a.jsx)("span", {
                               className:
                                 "tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase",
-                              children: "Our Features",
+                              children: "Industries We Serve",
                             }),
                           ],
                         }),
@@ -57,7 +57,7 @@
                               className: "text-primary fst-italic",
                               "data-aos": "fade-zoom-in",
                               "data-aos-delay": 400,
-                              children: "Join us.",
+                              // children: "Join us.",
                             }),
                           ],
                         }),
@@ -184,17 +184,17 @@
                             children: (0, a.jsx)("div", {
                               className: "icon",
                               children: (0, a.jsx)("img", {
-                                src: "/assets/imgs/features-1/icon-1.svg",
-                                alt: "infinia",
+                                src: "/assets/imgs/features-1/OIP.jpeg",
+                                alt: "Healthcare",
                               }),
                             }),
                           }),
                           (0, a.jsx)("h6", {
-                            children: "Seamless Integration",
+                            children: "Healthcare",
                           }),
                           (0, a.jsx)("p", {
                             children:
-                              "Effortlessly connect with your existing systems for a unified experience.",
+                              "Tailored solutions for healthcare providers..",
                           }),
                         ],
                       }),
@@ -212,17 +212,17 @@
                             children: (0, a.jsx)("div", {
                               className: "icon",
                               children: (0, a.jsx)("img", {
-                                src: "/assets/imgs/features-1/icon-2.svg",
-                                alt: "infinia",
+                                src: "/assets/imgs/features-1/Education.jpeg",
+                                alt: "Education",
                               }),
                             }),
                           }),
                           (0, a.jsx)("h6", {
-                            children: "Scalable Solution",
+                            children: "Education",
                           }),
                           (0, a.jsx)("p", {
                             children:
-                              "Grow your infrastructure without compromising performance",
+                              "Solutions for modern educational institutions.",
                           }),
                         ],
                       }),
@@ -240,15 +240,15 @@
                             children: (0, a.jsx)("div", {
                               className: "icon",
                               children: (0, a.jsx)("img", {
-                                src: "/assets/imgs/features-1/icon-3.svg",
-                                alt: "infinia",
+                                src: "/assets/imgs/features-1/coe-manufacturing-png-4.png",
+                                alt: "Manufacturing",
                               }),
                             }),
                           }),
-                          (0, a.jsx)("h6", { children: "Real-Time Analytics" }),
+                          (0, a.jsx)("h6", { children: "Manufacturing" }),
                           (0, a.jsx)("p", {
                             children:
-                              "Gain actionable insights to drive informed decision-making",
+                              "Digital management systems for manufacturing facilities.",
                           }),
                         ],
                       }),
@@ -266,17 +266,129 @@
                             children: (0, a.jsx)("div", {
                               className: "icon",
                               children: (0, a.jsx)("img", {
-                                src: "/assets/imgs/features-1/icon-4.svg",
-                                alt: "infinia",
+                                src: "/assets/imgs/features-1/financial.png",
+                                alt: "Financial",
                               }),
                             }),
                           }),
                           (0, a.jsx)("h6", {
-                            children: "User-Centric Design",
+                            children: "Financial Services",
                           }),
                           (0, a.jsx)("p", {
                             children:
-                              "Intuitive interfaces ensuring ease of use for all stakeholders",
+                              "Corporate solutions for finance professionals.",
+                          }),
+                        ],
+                      }),
+                    }),
+                    (0, a.jsx)("div", {
+                      className: "col-lg-3 col-md-6",
+                      "data-aos": "fade-zoom-in",
+                      "data-aos-delay": 300,
+                      children: (0, a.jsxs)("div", {
+                        className: "feature-item mb-5 mb-lg-0",
+                        children: [
+                          (0, a.jsx)("div", {
+                            className:
+                              "bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4",
+                            children: (0, a.jsx)("div", {
+                              className: "icon",
+                              children: (0, a.jsx)("img", {
+                                src: "/assets/imgs/features-1/NonProfit.png",
+                                alt: "Nonprofit",
+                              }),
+                            }),
+                          }),
+                          (0, a.jsx)("h6", {
+                            children: "Nonprofit",
+                          }),
+                          (0, a.jsx)("p", {
+                            children:
+                              "Collaborative technology for nonprofit teams.",
+                          }),
+                        ],
+                      }),
+                    }),
+                    (0, a.jsx)("div", {
+                      className: "col-lg-3 col-md-6",
+                      "data-aos": "fade-zoom-in",
+                      "data-aos-delay": 300,
+                      children: (0, a.jsxs)("div", {
+                        className: "feature-item mb-5 mb-lg-0",
+                        children: [
+                          (0, a.jsx)("div", {
+                            className:
+                              "bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4",
+                            children: (0, a.jsx)("div", {
+                              className: "icon",
+                              children: (0, a.jsx)("img", {
+                                src: "/assets/imgs/features-1/Sales.jpeg",
+                                alt: "Sales Operations",
+                              }),
+                            }),
+                          }),
+                          (0, a.jsx)("h6", {
+                            children: "Sales Operations",
+                          }),
+                          (0, a.jsx)("p", {
+                            children:
+                              "Cutting edge CRM to boost Sales operations.",
+                          }),
+                        ],
+                      }),
+                    }),
+                    (0, a.jsx)("div", {
+                      className: "col-lg-3 col-md-6",
+                      "data-aos": "fade-zoom-in",
+                      "data-aos-delay": 300,
+                      children: (0, a.jsxs)("div", {
+                        className: "feature-item mb-5 mb-lg-0",
+                        children: [
+                          (0, a.jsx)("div", {
+                            className:
+                              "bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4",
+                            children: (0, a.jsx)("div", {
+                              className: "icon",
+                              children: (0, a.jsx)("img", {
+                                src: "/assets/imgs/features-1/cse.jpg",
+                                alt: "Customer Service",
+                              }),
+                            }),
+                          }),
+                          (0, a.jsx)("h6", {
+                            children: "Customer Service",
+                          }),
+                          (0, a.jsx)("p", {
+                            children:
+                              "Salesforce service cloud solutions to handle cases.",
+                          }),
+                        ],
+                      }),
+                    }),
+                    (0, a.jsx)("div", {
+                      className: "col-lg-3 col-md-6",
+                      "data-aos": "fade-zoom-in",
+                      "data-aos-delay": 300,
+                      children: (0, a.jsxs)("div", {
+                        className: "feature-item mb-5 mb-lg-0",
+                        children: [
+                          (0, a.jsx)("div", {
+                            className:
+                              "bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4",
+                            children: (0, a.jsx)("div", {
+                              className: "icon",
+                              children: (0, a.jsx)("img", {
+                                src: "/assets/imgs/features-1/trasnport.png",
+                                alt: "Energy",
+                              }),
+                            }),
+                          }),
+                          (0, a.jsx)("h6", {
+                            children: "Energy, telecommunication and transport",
+                          }),
+                          (0, a.jsx)("p", {
+                            children:
+                              "Industries cloud provides zero code capabilities.",
                           }),
                         ],
                       }),

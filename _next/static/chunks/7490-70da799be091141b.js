@@ -3623,7 +3623,7 @@
                   className: "nav-item",
                   children: (0, i.jsx)(d.default, {
                     className: "nav-link fw-bold d-flex align-items-center",
-                    href: "/page-contact-1",
+                    href: "/index.html",
                     children: "Contact",
                   }),
                 }),
