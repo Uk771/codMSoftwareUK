@@ -4417,18 +4417,18 @@
                                   }),
                                 }),
                               }),
-                              (0, i.jsxs)("div", {
-                                children: [
-                                  (0, i.jsx)("p", {
-                                    className: "mb-0 text-500 fs-8",
-                                    children: "Have Any Questions?",
-                                  }),
-                                  (0, i.jsx)("p", {
-                                    className: "mb-0 text-900 fw-bold",
-                                    children: "+01 567 890 68",
-                                  }),
-                                ],
-                              }),
+                              // (0, i.jsxs)("div", {
+                              //   children: [
+                              //     (0, i.jsx)("p", {
+                              //       className: "mb-0 text-500 fs-8",
+                              //       children: "Have Any Questions?",
+                              //     }),
+                              //     (0, i.jsx)("p", {
+                              //       className: "mb-0 text-900 fw-bold",
+                              //       children: "+01 567 890 68",
+                              //     }),
+                              //   ],
+                              // }),
                             ],
                           }),
                           (0, i.jsx)("a", {
