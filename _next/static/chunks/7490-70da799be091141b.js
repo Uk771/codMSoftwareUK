@@ -413,7 +413,7 @@
                               href: "/",
                               children: [
                                 (0, i.jsx)("img", {
-                                  src: "assets/imgs/template/favicon.svg",
+                                  src: "assets/imgs/template/logo-no-background.png",
                                   alt: "CodM",
                                 }),
                                 (0, i.jsx)("span", { children: "CodM" }),
@@ -1479,7 +1479,7 @@
                       href: "/",
                       children: [
                         (0, i.jsx)("img", {
-                          src: "/assets/imgs/template/favicon.svg",
+                          src: "/assets/imgs/template/logo-no-background.png",
                           alt: "CodM",
                         }),
                       ],
@@ -3663,7 +3663,7 @@
                       href: "/",
                       children: [
                         (0, i.jsx)("img", {
-                          src: "/assets/imgs/template/favicon.svg",
+                          src: "/assets/imgs/template/logo-no-background.png",
                           // src: "logo.jpg",
                           alt: "CodM",
                         }),
@@ -3761,7 +3761,7 @@
                       href: "/",
                       children: [
                         (0, i.jsx)("img", {
-                          src: "assets/imgs/template/favicon.svg",
+                          src: "assets/imgs/template/logo-no-background.png",
                           alt: "CodM",
                         }),
                         (0, i.jsx)("span", { children: "CodM" }),
@@ -4001,7 +4001,7 @@
                           href: "/",
                           children: [
                             (0, i.jsx)("img", {
-                              src: "assets/imgs/template/favicon.svg",
+                              src: "assets/imgs/template/logo-no-background.png",
                               alt: "CodM",
                             }),
                             (0, i.jsx)("span", { children: "CodM" }),
@@ -4102,7 +4102,7 @@
                       href: "/",
                       children: [
                         (0, i.jsx)("img", {
-                          src: "assets/imgs/template/favicon.svg",
+                          src: "assets/imgs/template/logo-no-background.png",
                           alt: "CodM",
                         }),
                         (0, i.jsx)("span", { children: "CodM" }),
@@ -4381,7 +4381,7 @@
                         href: "/",
                         children: [
                           (0, i.jsx)("img", {
-                            src: "assets/imgs/template/favicon.svg",
+                            src: "assets/imgs/template/logo-no-background.png",
                             alt: "CodM",
                           }),
                           (0, i.jsx)("span", { children: "CodM" }),
