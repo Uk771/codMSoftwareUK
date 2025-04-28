@@ -87,7 +87,7 @@
                                 className:
                                   "text-white fw-medium mt-3 mb-6 opacity-50",
                                 children:
-                                  "You may also realize cost savings from your energy efficient choices in your custom home. Federal tax credits for some green materials can allow you to deduct as much.",
+                                  "Boost your business with our customised CRM solutions. Optimised processes, improved customer relationships and scalable growth – we deliver innovations for your success.",
                               }),
                               (0, i.jsxs)("div", {
                                 className: "d-flex social-icons",
@@ -173,18 +173,18 @@
                                           href: "#",
                                           children: "Careers",
                                         }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
-                                          children: "Press  Media",
-                                        }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
-                                          children: "Advertising",
-                                        }),
+                                        // (0, i.jsx)(d.default, {
+                                        //   className:
+                                        //     "hover-effect text-white mb-2 fw-medium fs-6",
+                                        //   href: "#",
+                                        //   children: "Press  Media",
+                                        // }),
+                                        // (0, i.jsx)(d.default, {
+                                        //   className:
+                                        //     "hover-effect text-white mb-2 fw-medium fs-6",
+                                        //   href: "#",
+                                        //   children: "Advertising",
+                                        // }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
@@ -221,18 +221,18 @@
                                           href: "#",
                                           children: "Solutions",
                                         }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
-                                          children: "Customers",
-                                        }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
-                                          children: "News  Events",
-                                        }),
+                                        // (0, i.jsx)(d.default, {
+                                        //   className:
+                                        //     "hover-effect text-white mb-2 fw-medium fs-6",
+                                        //   href: "#",
+                                        //   children: "Customers",
+                                        // }),
+                                        // (0, i.jsx)(d.default, {
+                                        //   className:
+                                        //     "hover-effect text-white mb-2 fw-medium fs-6",
+                                        //   href: "#",
+                                        //   children: "News  Events",
+                                        // }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
@@ -281,12 +281,12 @@
                                           href: "#",
                                           children: "Workflow",
                                         }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
-                                          children: "Gantt chart makers",
-                                        }),
+                                        // (0, i.jsx)(d.default, {
+                                        //   className:
+                                        //     "hover-effect text-white mb-2 fw-medium fs-6",
+                                        //   href: "#",
+                                        //   children: "Gantt chart makers",
+                                        // }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
@@ -423,7 +423,7 @@
                               className:
                                 "text-900 fw-medium mt-3 mb-6 opacity-50",
                               children:
-                                "You may also realize cost savings from your energy efficient choices in your custom home. Federal tax credits for some green materials can allow you to deduct as much.",
+                                "Boost your business with our customised CRM solutions. Optimised processes, improved customer relationships and scalable growth – we deliver innovations for your success.",
                             }),
                             (0, i.jsxs)("div", {
                               className: "d-flex social-icons",
@@ -1220,7 +1220,7 @@
                               (0, i.jsx)(d.default, {
                                 href: "/",
                                 children: (0, i.jsx)("img", {
-                                  src: "assets/imgs/logo/logo-white.svg",
+                                  src: "assets/imgs/template/logo-no-background.png",
                                   alt: "CodM",
                                 }),
                               }),
@@ -1228,7 +1228,7 @@
                                 className:
                                   "text-white fw-medium mt-3 mb-6 opacity-50",
                                 children:
-                                  "You may also realize cost savings from your energy efficient choices in your custom home. Federal tax credits for some green materials can allow you to deduct as much.",
+                                  "Boost your business with our customised CRM solutions. Optimised processes, improved customer relationships and scalable growth – we deliver innovations for your success.",
                               }),
                               (0, i.jsxs)("div", {
                                 className: "d-flex social-icons",
@@ -3623,7 +3623,7 @@
                   className: "nav-item",
                   children: (0, i.jsx)(d.default, {
                     className: "nav-link fw-bold d-flex align-items-center",
-                    href: "/index.html",
+                    href: "/contact.html",
                     children: "Contact",
                   }),
                 }),

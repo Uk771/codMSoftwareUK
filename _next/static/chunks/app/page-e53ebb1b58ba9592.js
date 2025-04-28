@@ -57,7 +57,7 @@
                               className: "text-primary fst-italic",
                               "data-aos": "fade-zoom-in",
                               "data-aos-delay": 400,
-                              // children: "Join us.",
+                              children: "Join us.",
                             }),
                           ],
                         }),
