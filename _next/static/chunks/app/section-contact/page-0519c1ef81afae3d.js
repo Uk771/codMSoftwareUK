@@ -1820,7 +1820,7 @@
                                 "Email ",
                                 (0, i.jsx)("span", {
                                   className: "text-900",
-                                  children: "support@alithemes.com",
+                                  children: "hr@codmsoftware.com",
                                 }),
                                 " For ",
                                 (0, i.jsx)("br", {}),
@@ -1854,9 +1854,7 @@
                               children: [
                                 "Call us to speak to a member of our team. ",
                                 (0, i.jsx)("br", {}),
-                                "(+01) 234 567 89 ",
-                                (0, i.jsx)("br", {}),
-                                "(+01) 456 789 21",
+                                "(+44) 0121 818 6924 ",
                               ],
                             }),
                           ],
@@ -1886,7 +1884,7 @@
                               children: [
                                 "Contact the sales department about cooperation projects ",
                                 (0, i.jsx)("br", {}),
-                                "(+01) 789 456 23",
+                                "(+44) 0121 818 6924",
                               ],
                             }),
                           ],
@@ -1914,9 +1912,7 @@
                               children: [
                                 "Contact us to open our branches globally. ",
                                 (0, i.jsx)("br", {}),
-                                "(+01) 234 567 89 ",
-                                (0, i.jsx)("br", {}),
-                                "(+01) 456 789 23",
+                                "(+44) 0121 818 6924",
                               ],
                             }),
                           ],
