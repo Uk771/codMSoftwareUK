@@ -79,7 +79,7 @@
                               (0, i.jsx)(d.default, {
                                 href: "/",
                                 children: (0, i.jsx)("img", {
-                                  src: "/assets/imgs/logo/logo-white.svg",
+                                  src: "/assets/imgs/template/logo-no-background.png",
                                   alt: "CodM",
                                 }),
                               }),
@@ -1513,26 +1513,26 @@
                                 1 === l ? "active" : ""
                               ),
                               children: [
-                                (0, i.jsx)("span", {
-                                  className: "menu-expand",
-                                  onClick: () => n(1),
-                                  children: (0, i.jsx)("i", {
-                                    className: "arrow-small-down",
-                                  }),
-                                }),
+                                // (0, i.jsx)("span", {
+                                //   className: "menu-expand",
+                                //   onClick: () => n(1),
+                                //   children: (0, i.jsx)("i", {
+                                //     className: "arrow-small-down",
+                                //   }),
+                                // }),
                                 (0, i.jsx)(d.default, {
                                   className: "active",
-                                  href: "!#",
-                                  children: "Homepages",
+                                  href: "/index.html",
+                                  children: "Home",
                                 }),
-                                (0, i.jsxs)("ul", {
-                                  className: "sub-menu",
-                                  style: {
-                                    display: "".concat(
-                                      1 == l ? "block" : "none"
-                                    ),
-                                  },
-                                }),
+                                // (0, i.jsxs)("ul", {
+                                //   className: "sub-menu",
+                                //   style: {
+                                //     display: "".concat(
+                                //       1 == l ? "block" : "none"
+                                //     ),
+                                //   },
+                                // }),
                               ],
                             }),
                             (0, i.jsxs)("li", {
@@ -1540,45 +1540,45 @@
                                 2 === l ? "active" : ""
                               ),
                               children: [
-                                (0, i.jsx)("span", {
-                                  className: "menu-expand",
-                                  onClick: () => n(2),
-                                  children: (0, i.jsx)("i", {
-                                    className: "arrow-small-down",
-                                  }),
-                                }),
+                                // (0, i.jsx)("span", {
+                                //   className: "menu-expand",
+                                //   onClick: () => n(2),
+                                //   children: (0, i.jsx)("i", {
+                                //     className: "arrow-small-down",
+                                //   }),
+                                // }),
                                 (0, i.jsx)(d.default, {
                                   href: "!#",
                                   children: "About Us",
                                 }),
-                                (0, i.jsxs)("ul", {
-                                  className: "sub-menu",
-                                  style: {
-                                    display: "".concat(
-                                      2 == l ? "block" : "none"
-                                    ),
-                                  },
-                                  children: [
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "About us v.1",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "About us v.2",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "About us v.3",
-                                      }),
-                                    }),
-                                  ],
-                                }),
+                                // (0, i.jsxs)("ul", {
+                                //   className: "sub-menu",
+                                //   style: {
+                                //     display: "".concat(
+                                //       2 == l ? "block" : "none"
+                                //     ),
+                                //   },
+                                //   children: [
+                                //     (0, i.jsx)("li", {
+                                //       children: (0, i.jsx)(d.default, {
+                                //         href: "/!#",
+                                //         children: "About us",
+                                //       }),
+                                //     }),
+                                //     // (0, i.jsx)("li", {
+                                //     //   children: (0, i.jsx)(d.default, {
+                                //     //     href: "/!#",
+                                //     //     children: "About us v.2",
+                                //     //   }),
+                                //     // }),
+                                //     // (0, i.jsx)("li", {
+                                //     //   children: (0, i.jsx)(d.default, {
+                                //     //     href: "/!#",
+                                //     //     children: "About us v.3",
+                                //     //   }),
+                                //     // }),
+                                //   ],
+                                // }),
                               ],
                             }),
                             (0, i.jsxs)("li", {
@@ -1608,611 +1608,611 @@
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
                                         href: "/!#",
-                                        children: "Services v.1",
+                                        children: "Services ",
                                       }),
                                     }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Services v.2",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Services v.3",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Services details v.1",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Services details v.2",
-                                      }),
-                                    }),
+                                    // (0, i.jsx)("li", {
+                                    //   children: (0, i.jsx)(d.default, {
+                                    //     href: "/!#",
+                                    //     children: "Services v.2",
+                                    //   }),
+                                    // }),
+                                    // (0, i.jsx)("li", {
+                                    //   children: (0, i.jsx)(d.default, {
+                                    //     href: "/!#",
+                                    //     children: "Services v.3",
+                                    //   }),
+                                    // }),
+                                    // (0, i.jsx)("li", {
+                                    //   children: (0, i.jsx)(d.default, {
+                                    //     href: "/!#",
+                                    //     children: "Services details v.1",
+                                    //   }),
+                                    // }),
+                                    // (0, i.jsx)("li", {
+                                    //   children: (0, i.jsx)(d.default, {
+                                    //     href: "/!#",
+                                    //     children: "Services details v.2",
+                                    //   }),
+                                    // }),
                                   ],
                                 }),
                               ],
                             }),
-                            (0, i.jsxs)("li", {
-                              className: "has-children ".concat(
-                                4 === l ? "active" : ""
-                              ),
-                              children: [
-                                (0, i.jsx)("span", {
-                                  className: "menu-expand",
-                                  onClick: () => n(4),
-                                  children: (0, i.jsx)("i", {
-                                    className: "arrow-small-down",
-                                  }),
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "!#",
-                                  children: "Our Team",
-                                }),
-                                (0, i.jsxs)("ul", {
-                                  className: "sub-menu",
-                                  style: {
-                                    display: "".concat(
-                                      4 == l ? "block" : "none"
-                                    ),
-                                  },
-                                  children: [
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Our team v.1",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Our team v.2",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Our team v.3",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Our team v.4",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Our team v.5",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Our team v.6",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Team detail v.1",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Team detail v.2",
-                                      }),
-                                    }),
-                                  ],
-                                }),
-                              ],
-                            }),
-                            (0, i.jsxs)("li", {
-                              className: "has-children ".concat(
-                                5 === l ? "active" : ""
-                              ),
-                              children: [
-                                (0, i.jsx)("span", {
-                                  className: "menu-expand",
-                                  onClick: () => n(5),
-                                  children: (0, i.jsx)("i", {
-                                    className: "arrow-small-down",
-                                  }),
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "!#",
-                                  children: "Features",
-                                }),
-                                (0, i.jsxs)("ul", {
-                                  className: "sub-menu",
-                                  style: {
-                                    display: "".concat(
-                                      5 == l ? "block" : "none"
-                                    ),
-                                  },
-                                  children: [
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Features v.1",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Features v.2",
-                                      }),
-                                    }),
-                                  ],
-                                }),
-                              ],
-                            }),
-                            (0, i.jsxs)("li", {
-                              className: "has-children ".concat(
-                                6 === l ? "active" : ""
-                              ),
-                              children: [
-                                (0, i.jsx)("span", {
-                                  className: "menu-expand",
-                                  onClick: () => n(6),
-                                  children: (0, i.jsx)("i", {
-                                    className: "arrow-small-down",
-                                  }),
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "!#",
-                                  children: "Pricing",
-                                }),
-                                (0, i.jsxs)("ul", {
-                                  className: "sub-menu",
-                                  style: {
-                                    display: "".concat(
-                                      6 == l ? "block" : "none"
-                                    ),
-                                  },
-                                  children: [
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Pricing v.1",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Pricing v.2",
-                                      }),
-                                    }),
-                                  ],
-                                }),
-                              ],
-                            }),
+                            // (0, i.jsxs)("li", {
+                            //   className: "has-children ".concat(
+                            //     4 === l ? "active" : ""
+                            //   ),
+                            //   children: [
+                            //     (0, i.jsx)("span", {
+                            //       className: "menu-expand",
+                            //       onClick: () => n(4),
+                            //       children: (0, i.jsx)("i", {
+                            //         className: "arrow-small-down",
+                            //       }),
+                            //     }),
+                            //     (0, i.jsx)(d.default, {
+                            //       href: "!#",
+                            //       children: "Our Team",
+                            //     }),
+                            //     (0, i.jsxs)("ul", {
+                            //       className: "sub-menu",
+                            //       style: {
+                            //         display: "".concat(
+                            //           4 == l ? "block" : "none"
+                            //         ),
+                            //       },
+                            //       children: [
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/!#",
+                            //             children: "Our team ",
+                            //           }),
+                            //         }),
+                            //         // (0, i.jsx)("li", {
+                            //         //   children: (0, i.jsx)(d.default, {
+                            //         //     href: "/!#",
+                            //         //     children: "Our team v.2",
+                            //         //   }),
+                            //         // }),
+                            //         // (0, i.jsx)("li", {
+                            //         //   children: (0, i.jsx)(d.default, {
+                            //         //     href: "/!#",
+                            //         //     children: "Our team v.3",
+                            //         //   }),
+                            //         // }),
+                            //         // (0, i.jsx)("li", {
+                            //         //   children: (0, i.jsx)(d.default, {
+                            //         //     href: "/!#",
+                            //         //     children: "Our team v.4",
+                            //         //   }),
+                            //         // }),
+                            //         // (0, i.jsx)("li", {
+                            //         //   children: (0, i.jsx)(d.default, {
+                            //         //     href: "/!#",
+                            //         //     children: "Our team v.5",
+                            //         //   }),
+                            //         // }),
+                            //         // (0, i.jsx)("li", {
+                            //         //   children: (0, i.jsx)(d.default, {
+                            //         //     href: "/!#",
+                            //         //     children: "Our team v.6",
+                            //         //   }),
+                            //         // }),
+                            //         // (0, i.jsx)("li", {
+                            //         //   children: (0, i.jsx)(d.default, {
+                            //         //     href: "/!#",
+                            //         //     children: "Team detail v.1",
+                            //         //   }),
+                            //         // }),
+                            //         // (0, i.jsx)("li", {
+                            //         //   children: (0, i.jsx)(d.default, {
+                            //         //     href: "/!#",
+                            //         //     children: "Team detail v.2",
+                            //         //   }),
+                            //         // }),
+                            //       ],
+                            //     }),
+                            //   ],
+                            // }),
+                            // (0, i.jsxs)("li", {
+                            //   className: "has-children ".concat(
+                            //     5 === l ? "active" : ""
+                            //   ),
+                            //   children: [
+                            //     (0, i.jsx)("span", {
+                            //       className: "menu-expand",
+                            //       onClick: () => n(5),
+                            //       children: (0, i.jsx)("i", {
+                            //         className: "arrow-small-down",
+                            //       }),
+                            //     }),
+                            //     (0, i.jsx)(d.default, {
+                            //       href: "!#",
+                            //       children: "Features",
+                            //     }),
+                            //     (0, i.jsxs)("ul", {
+                            //       className: "sub-menu",
+                            //       style: {
+                            //         display: "".concat(
+                            //           5 == l ? "block" : "none"
+                            //         ),
+                            //       },
+                            //       children: [
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/!#",
+                            //             children: "Features v.1",
+                            //           }),
+                            //         }),
+                            //         // (0, i.jsx)("li", {
+                            //         //   children: (0, i.jsx)(d.default, {
+                            //         //     href: "/!#",
+                            //         //     children: "Features v.2",
+                            //         //   }),
+                            //         // }),
+                            //       ],
+                            //     }),
+                            //   ],
+                            // }),
+                            // (0, i.jsxs)("li", {
+                            //   className: "has-children ".concat(
+                            //     6 === l ? "active" : ""
+                            //   ),
+                            //   children: [
+                            //     (0, i.jsx)("span", {
+                            //       className: "menu-expand",
+                            //       onClick: () => n(6),
+                            //       children: (0, i.jsx)("i", {
+                            //         className: "arrow-small-down",
+                            //       }),
+                            //     }),
+                            //     (0, i.jsx)(d.default, {
+                            //       href: "!#",
+                            //       children: "Pricing",
+                            //     }),
+                            //     (0, i.jsxs)("ul", {
+                            //       className: "sub-menu",
+                            //       style: {
+                            //         display: "".concat(
+                            //           6 == l ? "block" : "none"
+                            //         ),
+                            //       },
+                            //       children: [
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/!#",
+                            //             children: "Pricing v.1",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/!#",
+                            //             children: "Pricing v.2",
+                            //           }),
+                            //         }),
+                            //       ],
+                            //     }),
+                            //   ],
+                            // }),
                             (0, i.jsxs)("li", {
                               className: "has-children ".concat(
                                 7 === l ? "active" : ""
                               ),
                               children: [
-                                (0, i.jsx)("span", {
-                                  className: "menu-expand",
-                                  onClick: () => n(7),
-                                  children: (0, i.jsx)("i", {
-                                    className: "arrow-small-down",
-                                  }),
-                                }),
+                                // (0, i.jsx)("span", {
+                                //   className: "menu-expand",
+                                //   onClick: () => n(7),
+                                //   children: (0, i.jsx)("i", {
+                                //     className: "arrow-small-down",
+                                //   }),
+                                // }),
                                 (0, i.jsx)(d.default, {
-                                  href: "!#",
+                                  href: "/contact.html",
                                   children: "Contact Us",
                                 }),
-                                (0, i.jsxs)("ul", {
-                                  className: "sub-menu",
-                                  style: {
-                                    display: "".concat(
-                                      7 == l ? "block" : "none"
-                                    ),
-                                  },
-                                  children: [
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Contact v.1",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Contact v.2",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Contact v.3",
-                                      }),
-                                    }),
-                                  ],
-                                }),
+                                // (0, i.jsxs)("ul", {
+                                //   className: "sub-menu",
+                                //   style: {
+                                //     display: "".concat(
+                                //       7 == l ? "block" : "none"
+                                //     ),
+                                //   },
+                                //   children: [
+                                //     (0, i.jsx)("li", {
+                                //       children: (0, i.jsx)(d.default, {
+                                //         href: "/!#",
+                                //         children: "Contact v.1",
+                                //       }),
+                                //     }),
+                                //     // (0, i.jsx)("li", {
+                                //     //   children: (0, i.jsx)(d.default, {
+                                //     //     href: "/!#",
+                                //     //     children: "Contact v.2",
+                                //     //   }),
+                                //     // }),
+                                //     // (0, i.jsx)("li", {
+                                //     //   children: (0, i.jsx)(d.default, {
+                                //     //     href: "/!#",
+                                //     //     children: "Contact v.3",
+                                //     //   }),
+                                //     // }),
+                                //   ],
+                                // }),
                               ],
                             }),
                             (0, i.jsxs)("li", {
                               className: "has-children ".concat(
                                 8 === l ? "active" : ""
                               ),
-                              children: [
-                                (0, i.jsx)("span", {
-                                  className: "menu-expand",
-                                  onClick: () => n(8),
-                                  children: (0, i.jsx)("i", {
-                                    className: "arrow-small-down",
-                                  }),
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "#",
-                                  children: "Blog  News",
-                                }),
-                                (0, i.jsxs)("ul", {
-                                  className: "sub-menu",
-                                  style: {
-                                    display: "".concat(
-                                      8 == l ? "block" : "none"
-                                    ),
-                                  },
-                                  children: [
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Blog v.1",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/!#",
-                                        children: "Blog v.2",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-blog-details",
-                                        children: "Blog details",
-                                      }),
-                                    }),
-                                  ],
-                                }),
-                              ],
+                              // children: [
+                              //   (0, i.jsx)("span", {
+                              //     className: "menu-expand",
+                              //     onClick: () => n(8),
+                              //     children: (0, i.jsx)("i", {
+                              //       className: "arrow-small-down",
+                              //     }),
+                              //   }),
+                              //   (0, i.jsx)(d.default, {
+                              //     href: "#",
+                              //     children: "Blog  News",
+                              //   }),
+                              //   (0, i.jsxs)("ul", {
+                              //     className: "sub-menu",
+                              //     style: {
+                              //       display: "".concat(
+                              //         8 == l ? "block" : "none"
+                              //       ),
+                              //     },
+                              //     children: [
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/!#",
+                              //           children: "Blog v.1",
+                              //         }),
+                              //       }),
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/!#",
+                              //           children: "Blog v.2",
+                              //         }),
+                              //       }),
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-blog-details",
+                              //           children: "Blog details",
+                              //         }),
+                              //       }),
+                              //     ],
+                              //   }),
+                              // ],
                             }),
                             (0, i.jsxs)("li", {
                               className: "has-children ".concat(
                                 9 === l ? "active" : ""
                               ),
-                              children: [
-                                (0, i.jsx)("span", {
-                                  className: "menu-expand",
-                                  onClick: () => n(9),
-                                  children: (0, i.jsx)("i", {
-                                    className: "arrow-small-down",
-                                  }),
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "#",
-                                  children: "Case Study",
-                                }),
-                                (0, i.jsxs)("ul", {
-                                  className: "sub-menu",
-                                  style: {
-                                    display: "".concat(
-                                      9 == l ? "block" : "none"
-                                    ),
-                                  },
-                                  children: [
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-case-study",
-                                        children: "Case Study",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-case-study-details",
-                                        children: "Case study details",
-                                      }),
-                                    }),
-                                  ],
-                                }),
-                              ],
+                              // children: [
+                              //   (0, i.jsx)("span", {
+                              //     className: "menu-expand",
+                              //     onClick: () => n(9),
+                              //     children: (0, i.jsx)("i", {
+                              //       className: "arrow-small-down",
+                              //     }),
+                              //   }),
+                              //   (0, i.jsx)(d.default, {
+                              //     href: "#",
+                              //     children: "Case Study",
+                              //   }),
+                              //   (0, i.jsxs)("ul", {
+                              //     className: "sub-menu",
+                              //     style: {
+                              //       display: "".concat(
+                              //         9 == l ? "block" : "none"
+                              //       ),
+                              //     },
+                              //     children: [
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-case-study",
+                              //           children: "Case Study",
+                              //         }),
+                              //       }),
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-case-study-details",
+                              //           children: "Case study details",
+                              //         }),
+                              //       }),
+                              //     ],
+                              //   }),
+                              // ],
                             }),
                             (0, i.jsxs)("li", {
                               className: "has-children ".concat(
                                 10 === l ? "active" : ""
                               ),
-                              children: [
-                                (0, i.jsx)("span", {
-                                  className: "menu-expand",
-                                  onClick: () => n(10),
-                                  children: (0, i.jsx)("i", {
-                                    className: "arrow-small-down",
-                                  }),
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "#",
-                                  children: "Authentication",
-                                }),
-                                (0, i.jsxs)("ul", {
-                                  className: "sub-menu",
-                                  style: {
-                                    display: "".concat(
-                                      10 == l ? "block" : "none"
-                                    ),
-                                  },
-                                  children: [
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-register",
-                                        children: "Register",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-login",
-                                        children: "Sign in",
-                                      }),
-                                    }),
-                                  ],
-                                }),
-                              ],
+                              // children: [
+                              //   (0, i.jsx)("span", {
+                              //     className: "menu-expand",
+                              //     onClick: () => n(10),
+                              //     children: (0, i.jsx)("i", {
+                              //       className: "arrow-small-down",
+                              //     }),
+                              //   }),
+                              //   (0, i.jsx)(d.default, {
+                              //     href: "#",
+                              //     children: "Authentication",
+                              //   }),
+                              //   (0, i.jsxs)("ul", {
+                              //     className: "sub-menu",
+                              //     style: {
+                              //       display: "".concat(
+                              //         10 == l ? "block" : "none"
+                              //       ),
+                              //     },
+                              //     children: [
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-register",
+                              //           children: "Register",
+                              //         }),
+                              //       }),
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-login",
+                              //           children: "Sign in",
+                              //         }),
+                              //       }),
+                              //     ],
+                              //   }),
+                              // ],
                             }),
                             (0, i.jsxs)("li", {
                               className: "has-children ".concat(
                                 11 === l ? "active" : ""
                               ),
-                              children: [
-                                (0, i.jsx)("span", {
-                                  className: "menu-expand",
-                                  onClick: () => n(11),
-                                  children: (0, i.jsx)("i", {
-                                    className: "arrow-small-down",
-                                  }),
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "#",
-                                  children: "Utilities",
-                                }),
-                                (0, i.jsxs)("ul", {
-                                  className: "sub-menu",
-                                  style: {
-                                    display: "".concat(
-                                      11 == l ? "block" : "none"
-                                    ),
-                                  },
-                                  children: [
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-work-process",
-                                        children: "Work Process",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-book-a-demo",
-                                        children: "Book a demo",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-integration",
-                                        children: "Integration",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-changelog",
-                                        children: "Change log",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-privacy-policy",
-                                        children: "Privacy policy",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-terms-conditions",
-                                        children: "Terms conditions",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-comming-soon",
-                                        children: "Comming soon",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-404",
-                                        children: "Error 404",
-                                      }),
-                                    }),
-                                  ],
-                                }),
-                              ],
+                              // children: [
+                              //   (0, i.jsx)("span", {
+                              //     className: "menu-expand",
+                              //     onClick: () => n(11),
+                              //     children: (0, i.jsx)("i", {
+                              //       className: "arrow-small-down",
+                              //     }),
+                              //   }),
+                              //   (0, i.jsx)(d.default, {
+                              //     href: "#",
+                              //     children: "Utilities",
+                              //   }),
+                              //   (0, i.jsxs)("ul", {
+                              //     className: "sub-menu",
+                              //     style: {
+                              //       display: "".concat(
+                              //         11 == l ? "block" : "none"
+                              //       ),
+                              //     },
+                              //     children: [
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-work-process",
+                              //           children: "Work Process",
+                              //         }),
+                              //       }),
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-book-a-demo",
+                              //           children: "Book a demo",
+                              //         }),
+                              //       }),
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-integration",
+                              //           children: "Integration",
+                              //         }),
+                              //       }),
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-changelog",
+                              //           children: "Change log",
+                              //         }),
+                              //       }),
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-privacy-policy",
+                              //           children: "Privacy policy",
+                              //         }),
+                              //       }),
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-terms-conditions",
+                              //           children: "Terms conditions",
+                              //         }),
+                              //       }),
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-comming-soon",
+                              //           children: "Comming soon",
+                              //         }),
+                              //       }),
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-404",
+                              //           children: "Error 404",
+                              //         }),
+                              //       }),
+                              //     ],
+                              //   }),
+                              // ],
                             }),
                             (0, i.jsxs)("li", {
                               className: "has-children ".concat(
                                 12 === l ? "active" : ""
                               ),
-                              children: [
-                                (0, i.jsx)("span", {
-                                  className: "menu-expand",
-                                  onClick: () => n(12),
-                                  children: (0, i.jsx)("i", {
-                                    className: "arrow-small-down",
-                                  }),
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "#",
-                                  children: "Style Guide",
-                                }),
-                                (0, i.jsxs)("ul", {
-                                  className: "sub-menu",
-                                  style: {
-                                    display: "".concat(
-                                      12 == l ? "block" : "none"
-                                    ),
-                                  },
-                                  children: [
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-style-guide",
-                                        children: "Color  Typography",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/page-elements",
-                                        children: "Basic elements",
-                                      }),
-                                    }),
-                                  ],
-                                }),
-                              ],
+                              // children: [
+                              //   (0, i.jsx)("span", {
+                              //     className: "menu-expand",
+                              //     onClick: () => n(12),
+                              //     children: (0, i.jsx)("i", {
+                              //       className: "arrow-small-down",
+                              //     }),
+                              //   }),
+                              //   (0, i.jsx)(d.default, {
+                              //     href: "#",
+                              //     children: "Style Guide",
+                              //   }),
+                              //   (0, i.jsxs)("ul", {
+                              //     className: "sub-menu",
+                              //     style: {
+                              //       display: "".concat(
+                              //         12 == l ? "block" : "none"
+                              //       ),
+                              //     },
+                              //     children: [
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-style-guide",
+                              //           children: "Color  Typography",
+                              //         }),
+                              //       }),
+                              //       (0, i.jsx)("li", {
+                              //         children: (0, i.jsx)(d.default, {
+                              //           href: "/page-elements",
+                              //           children: "Basic elements",
+                              //         }),
+                              //       }),
+                              //     ],
+                              //   }),
+                              // ],
                             }),
-                            (0, i.jsxs)("li", {
-                              className: "has-children ".concat(
-                                13 === l ? "active" : ""
-                              ),
-                              children: [
-                                (0, i.jsx)("span", {
-                                  className: "menu-expand",
-                                  onClick: () => n(13),
-                                  children: (0, i.jsx)("i", {
-                                    className: "arrow-small-down",
-                                  }),
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "#",
-                                  children: "All Sections",
-                                }),
-                                (0, i.jsxs)("ul", {
-                                  className: "sub-menu",
-                                  style: {
-                                    display: "".concat(
-                                      13 == l ? "block" : "none"
-                                    ),
-                                  },
-                                  children: [
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-navigation",
-                                        children: " Navigation ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-hero",
-                                        children: " Hero ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-logo-cloud",
-                                        children: " Logo cloud ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-cta",
-                                        children: " Call to action ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-how-it-work",
-                                        children: " How it work ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-services",
-                                        children: " Services ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-team",
-                                        children: " Team ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-pricing",
-                                        children: " Pricing ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-faqs",
-                                        children: " FAQS ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-testimonial",
-                                        children: " Testimonials ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-blog",
-                                        children: " Blog ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-newsletter",
-                                        children: " Newsletter ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-footer",
-                                        children: " Footer ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-features",
-                                        children: " Features ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-projects",
-                                        children: " Projects ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-contact",
-                                        children: " Contact ",
-                                      }),
-                                    }),
-                                    (0, i.jsx)("li", {
-                                      children: (0, i.jsx)(d.default, {
-                                        href: "/section-static",
-                                        children: " Static ",
-                                      }),
-                                    }),
-                                  ],
-                                }),
-                              ],
-                            }),
+                            // (0, i.jsxs)("li", {
+                            //   className: "has-children ".concat(
+                            //     13 === l ? "active" : ""
+                            //   ),
+                            //   children: [
+                            //     (0, i.jsx)("span", {
+                            //       className: "menu-expand",
+                            //       onClick: () => n(13),
+                            //       children: (0, i.jsx)("i", {
+                            //         className: "arrow-small-down",
+                            //       }),
+                            //     }),
+                            //     (0, i.jsx)(d.default, {
+                            //       href: "#",
+                            //       children: "All Sections",
+                            //     }),
+                            //     (0, i.jsxs)("ul", {
+                            //       className: "sub-menu",
+                            //       style: {
+                            //         display: "".concat(
+                            //           13 == l ? "block" : "none"
+                            //         ),
+                            //       },
+                            //       children: [
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-navigation",
+                            //             children: " Navigation ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-hero",
+                            //             children: " Hero ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-logo-cloud",
+                            //             children: " Logo cloud ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-cta",
+                            //             children: " Call to action ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-how-it-work",
+                            //             children: " How it work ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-services",
+                            //             children: " Services ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-team",
+                            //             children: " Team ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-pricing",
+                            //             children: " Pricing ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-faqs",
+                            //             children: " FAQS ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-testimonial",
+                            //             children: " Testimonials ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-blog",
+                            //             children: " Blog ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-newsletter",
+                            //             children: " Newsletter ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-footer",
+                            //             children: " Footer ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-features",
+                            //             children: " Features ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-projects",
+                            //             children: " Projects ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-contact",
+                            //             children: " Contact ",
+                            //           }),
+                            //         }),
+                            //         (0, i.jsx)("li", {
+                            //           children: (0, i.jsx)(d.default, {
+                            //             href: "/section-static",
+                            //             children: " Static ",
+                            //           }),
+                            //         }),
+                            //       ],
+                            //     }),
+                            //   ],
+                            // }),
                           ],
                         }),
                       }),
@@ -4384,7 +4384,7 @@
                             src: "assets/imgs/template/logo-no-background.png",
                             alt: "CodM",
                           }),
-                          (0, i.jsx)("span", { children: "CodM" }),
+                          // (0, i.jsx)("span", { children: "CodM" }),
                         ],
                       }),
                       (0, i.jsx)(g, {}),
