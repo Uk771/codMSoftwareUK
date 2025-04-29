@@ -68,7 +68,7 @@
                               children: [
                                 (0, a.jsx)("img", {
                                   className: "rounded-4 position-relative z-1",
-                                  src: "/assets/imgs/cta-7/img-1.png",
+                                  src: "/assets/imgs/cta-7/ContactUs.png",
                                   alt: "infinia",
                                 }),
                                 (0, a.jsxs)("div", {
@@ -292,7 +292,7 @@
                                             children: [
                                               (0, a.jsx)("img", {
                                                 className: "rounded-3",
-                                                src: "/assets/imgs/cta-7/img-2.png",
+                                                src: "/assets/imgs/cta-7/Contactus-2.png",
                                                 alt: "",
                                               }),
                                               (0, a.jsxs)(t.default, {
