@@ -54,8 +54,8 @@
                             "rounded-4 border border-5 border-white zoom-img mb-5",
                           children: (0, n.jsx)("img", {
                             className: "rounded-4 w-100",
-                            src: "/assets/imgs/contact-4/img-1.png",
-                            alt: "infinia",
+                            src: "/assets/imgs/contact-4/img-4.avif",
+                            alt: "Codm",
                           }),
                         }),
                       }),
@@ -66,8 +66,8 @@
                             "rounded-4 border border-5 border-white zoom-img mb-5 mb-lg-0",
                           children: (0, n.jsx)("img", {
                             className: "rounded-4 w-100",
-                            src: "/assets/imgs/contact-4/img-2.png",
-                            alt: "infinia",
+                            src: "/assets/imgs/contact-4/img-5.png",
+                            alt: "Codm",
                           }),
                         }),
                       }),
@@ -85,17 +85,17 @@
                                   children: [
                                     (0, n.jsx)("img", {
                                       src: "/assets/imgs/hero-1/avatar-1.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, n.jsx)("img", {
                                       className: "avt-hero",
                                       src: "/assets/imgs/hero-1/avatar-2.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, n.jsx)("img", {
                                       className: "avt-hero",
                                       src: " assets/imgs/hero-1/avatar-3.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   ],
                                 }),
@@ -123,7 +123,7 @@
                               className:
                                 "position-absolute top-50 start-50 translate-middle z-0",
                               src: "/assets/imgs/contact-4/img-bg-1.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           ],
                         }),
@@ -136,7 +136,7 @@
                           children: (0, n.jsx)("img", {
                             className: "rounded-4 w-100",
                             src: "/assets/imgs/contact-4/img-3.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                         }),
                       }),
@@ -163,7 +163,7 @@
                                 className: "icon",
                                 children: (0, n.jsx)("img", {
                                   src: "/assets/imgs/contact-5/icon-1.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             }),
@@ -174,13 +174,12 @@
                                 "Email ",
                                 (0, n.jsx)("span", {
                                   className: "text-900",
-                                  children: "hr@codmsoftware.com",
+                                  children: "info@codmsoftware.co.uk ",
                                 }),
-                                " For ",
                                 (0, n.jsx)("br", {}),
-                                "help with a current product or ",
+                                "Contact us for help with products, services, or developer tools.",
                                 (0, n.jsx)("br", {}),
-                                "service or refer to FAQs and developer tools",
+                                "We aim to respond within 24 hours on business days",
                               ],
                             }),
                           ],
@@ -198,7 +197,7 @@
                                 className: "icon",
                                 children: (0, n.jsx)("img", {
                                   src: "/assets/imgs/contact-5/icon-2.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             }),
@@ -209,6 +208,8 @@
                                 "Call us to speak to a member of our team. ",
                                 (0, n.jsx)("br", {}),
                                 "(+44) 0121 818 6924 ",
+                                (0, n.jsx)("br", {}),
+                                "(+44) 07436934216 ",
                               ],
                             }),
                           ],
@@ -226,7 +227,7 @@
                                 className: "icon",
                                 children: (0, n.jsx)("img", {
                                   src: "/assets/imgs/contact-5/icon-3.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             }),
@@ -235,11 +236,34 @@
                             }),
                             (0, n.jsxs)("p", {
                               className: "text-500",
+                              // children: [
+                              //   "Contact the sales department about cooperation projects ",
+                              //   (0, n.jsx)("br", {}),
+                              //   "(+44) 0121 818 6924",
+                              // ],
                               children: [
-                                "Contact the sales department about cooperation projects ",
+                                "Contact the sales department about cooperation projects.",
                                 (0, n.jsx)("br", {}),
-                                "(+44) 0121 818 6924",
-                              ],
+                                (0, n.jsx)("br", {}),
+                                (0, n.jsx)("span", { children: [
+                                  (0, n.jsx)("img", {
+                                    src: "/assets/imgs/contact-4/Flag of UK.png",
+                                    alt: "India Flag",
+                                    style: { width: "28px", height: "20px", marginRight: "6px" }
+                                  }),
+                                  "Spaces - Birmingham, The Mailbox Level 1, The Mailbox, 3 Wharfside Street Spaces, Birmingham B1 1RD, UK"
+                                ]}),
+                                (0, n.jsx)("br", {}),
+                                (0, n.jsx)("br", {}),
+                                (0, n.jsx)("span", { children: [
+                                  (0, n.jsx)("img", {
+                                    src: "/assets/imgs/contact-4/Flag of UK.png",
+                                    alt: "USA Flag",
+                                    style: { width: "28px", height: "20px",marginRight: "6px" }
+                                  }),
+                                  "London : 71-75, Shelton Street, Covent,Garden London, WC2H 9JQ, UK"
+                                ]}),
+                              ]
                             }),
                           ],
                         }),
@@ -256,7 +280,7 @@
                                 className: "icon",
                                 children: (0, n.jsx)("img", {
                                   src: "/assets/imgs/contact-5/icon-4.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             }),
@@ -266,8 +290,26 @@
                               children: [
                                 "Contact us to open our branches globally. ",
                                 (0, n.jsx)("br", {}),
-                                "(+44) 0121 818 6924",
-                              ],
+                                (0, n.jsx)("br", {}),
+                                (0, n.jsx)("span", { children: [
+                                  (0, n.jsx)("img", {
+                                    src: "/assets/imgs/contact-4/Flag_of_India.png",
+                                    alt: "India Flag",
+                                    style: { width: "28px", height: "20px", marginRight: "6px" }
+                                  }),
+                                  "India : Ihdp Business Park Plot, Sector 127, Noida Uttar Pradesh 201304"
+                                ]}),
+                                (0, n.jsx)("br", {}),
+                                (0, n.jsx)("br", {}),
+                                (0, n.jsx)("span", { children: [
+                                  (0, n.jsx)("img", {
+                                    src: "/assets/imgs/contact-4/Flag_of_the_United_States.png",
+                                    alt: "USA Flag",
+                                    style: { width: "28px", height: "20px", marginRight: "6px" }
+                                  }),
+                                  "USA : Talent4World LLC 4501 Nightland Dr Plano, TX 75024 - USA"
+                                ]}),
+                              ], 
                             }),
                           ],
                         }),
@@ -293,7 +335,7 @@
                             children: [
                               (0, n.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, n.jsx)("span", {
                                 className:
@@ -331,7 +373,7 @@
                                   className: "icon",
                                   children: (0, n.jsx)("img", {
                                     src: "/assets/imgs/contact-1/icon-1.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                               }),
@@ -364,7 +406,7 @@
                                   className: "icon",
                                   children: (0, n.jsx)("img", {
                                     src: "/assets/imgs/contact-1/icon-2.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                               }),
@@ -397,7 +439,7 @@
                                   className: "icon",
                                   children: (0, n.jsx)("img", {
                                     src: "/assets/imgs/contact-1/icon-3.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                               }),
