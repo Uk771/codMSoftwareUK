@@ -2567,15 +2567,15 @@
                   ],
                 }),
                 (0, i.jsxs)("li", {
-                  className: "nav-item dropdown has-mega-menu",
+                  className: "nav-item dropdown has-mega",
                   children: [
                     (0, i.jsx)(d.default, {
                       className: "nav-link fw-bold d-flex align-items-center",
-                      href: "#",
+                      href: "/AboutUs.html",
                       role: "button",
-                      "data-bs-toggle": "dropdown",
-                      "aria-expanded": "false",
-                      children: "Company",
+                      // "data-bs-toggle": "dropdown",
+                      // "aria-expanded": "false",
+                      children: "About Us",
                     }),
                     // (0, i.jsxs)("div", {
                     //   className: "mega-menu fix start-50 translate-middle-x",
@@ -3314,14 +3314,14 @@
                   ],
                 }),
                 (0, i.jsxs)("li", {
-                  className: "nav-item dropdown has-mega-menu-2",
+                  className: "nav-item dropdown has-mega",
                   children: [
                     (0, i.jsx)(d.default, {
                       className: "nav-link fw-bold d-flex align-items-center",
                       href: "/Services.html",
                       role: "button",
-                      "data-bs-toggle": "dropdown",
-                      "aria-expanded": "false",
+                      // "data-bs-toggle": "dropdown",
+                      // "aria-expanded": "false",
                       children: "Services",
                     }),
                     // (0, i.jsxs)("div", {
@@ -3569,55 +3569,55 @@
                     // }),
                   ],
                 }),
-                (0, i.jsxs)("li", {
-                  className: "nav-item dropdown menu-item-has-children",
-                  children: [
-                    (0, i.jsx)(d.default, {
-                      className: "nav-link fw-bold d-flex align-items-center",
-                      href: "#",
-                      role: "button",
-                      "data-bs-toggle": "dropdown",
-                      "aria-expanded": "false",
-                      children: "Products",
-                    }),
-                    // (0, i.jsxs)("div", {
-                    //   className: "dropdown-menu p-4 fix",
-                    //   children: [
-                    //     (0, i.jsxs)("ul", {
-                    //       className: "list-unstyled",
-                    //       children: [
-                    //         (0, i.jsx)("li", {
-                    //           className: "position-relative border-bottom z-1",
-                    //           children: (0, i.jsx)(d.default, {
-                    //             className:
-                    //               "dropdown-item position-relative z-1 d-flex align-items-start",
-                    //             href: "/page-style-guide",
-                    //             children: "Style guide",
-                    //           }),
-                    //         }),
-                    //         (0, i.jsx)("li", {
-                    //           className: "position-relative z-1",
-                    //           children: (0, i.jsx)(d.default, {
-                    //             className:
-                    //               "dropdown-item position-relative z-1 d-flex align-items-start",
-                    //             href: "/page-elements",
-                    //             children: "Elements",
-                    //           }),
-                    //         }),
-                    //       ],
-                    //     }),
-                    //     (0, i.jsx)("div", {
-                    //       className:
-                    //         "ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0",
-                    //     }),
-                    //     (0, i.jsx)("div", {
-                    //       className:
-                    //         "ellipse-rotate-primary-sm position-absolute bottom-0 end-0 translate-middle z-0",
-                    //     }),
-                    //   ],
-                    // }),
-                  ],
-                }),
+                // (0, i.jsxs)("li", {
+                //   className: "nav-item dropdown menu-item-has-children",
+                //   children: [
+                //     (0, i.jsx)(d.default, {
+                //       className: "nav-link fw-bold d-flex align-items-center",
+                //       href: "#",
+                //       role: "button",
+                //       "data-bs-toggle": "dropdown",
+                //       "aria-expanded": "false",
+                //       children: "Products",
+                //     }),
+                //     // (0, i.jsxs)("div", {
+                //     //   className: "dropdown-menu p-4 fix",
+                //     //   children: [
+                //     //     (0, i.jsxs)("ul", {
+                //     //       className: "list-unstyled",
+                //     //       children: [
+                //     //         (0, i.jsx)("li", {
+                //     //           className: "position-relative border-bottom z-1",
+                //     //           children: (0, i.jsx)(d.default, {
+                //     //             className:
+                //     //               "dropdown-item position-relative z-1 d-flex align-items-start",
+                //     //             href: "/page-style-guide",
+                //     //             children: "Style guide",
+                //     //           }),
+                //     //         }),
+                //     //         (0, i.jsx)("li", {
+                //     //           className: "position-relative z-1",
+                //     //           children: (0, i.jsx)(d.default, {
+                //     //             className:
+                //     //               "dropdown-item position-relative z-1 d-flex align-items-start",
+                //     //             href: "/page-elements",
+                //     //             children: "Elements",
+                //     //           }),
+                //     //         }),
+                //     //       ],
+                //     //     }),
+                //     //     (0, i.jsx)("div", {
+                //     //       className:
+                //     //         "ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0",
+                //     //     }),
+                //     //     (0, i.jsx)("div", {
+                //     //       className:
+                //     //         "ellipse-rotate-primary-sm position-absolute bottom-0 end-0 translate-middle z-0",
+                //     //     }),
+                //     //   ],
+                //     // }),
+                //   ],
+                // }),
                 (0, i.jsx)("li", {
                   className: "nav-item",
                   children: (0, i.jsx)(d.default, {
@@ -4189,7 +4189,7 @@
               children: (0, i.jsx)("div", {
                 className: "container-fluid bg-primary",
                 children: (0, i.jsx)("div", {
-                  className: "container-fluid py-2 px-8",
+                  className: "",
                   children: (0, i.jsxs)("div", {
                     className:
                       "d-flex flex-column flex-lg-row justify-content-between align-items-center",
