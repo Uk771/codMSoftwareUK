@@ -107,17 +107,18 @@
                         children: [
                           (0, i.jsx)("img", {
                             className: "rounded-3",
-                            src: "/assets/imgs/services-details-2/img-1.png",
+                            src: "/assets/imgs/services-details-2/crm-infographic.jpg",
+                            style: { height: "500px", width: "100%" },
                             alt: "Codm",
                           }),
                           (0, i.jsx)("h4", {
                             className: "my-3",
-                            children: "Innovative Business Services",
+                            children: "Drive Business Growth with Salesforce CRM",
                           }),
                           (0, i.jsxs)("p", {
                             className: "mb-0",
                             children: [
-                              "In today's fast-paced and competitive business environment, staying ahead requires more than just traditional methods. At Infinia, we understand the necessity of innovation in driving business growth and success. ",
+                              "At Codm, we empower businesses to transform their customer relationships, streamline operations, and boost revenue using Salesforce — the world’s #1 CRM platform. Whether you're a small business or a global enterprise, our Salesforce CRM services are tailored to help you unlock the full potential of your customer data and workflows. ",
                               (0, i.jsx)("span", {
                                 className: "text-900 fw-bold",
                                 children: "Our innovative business",
@@ -235,12 +236,12 @@
                           }),
                           (0, i.jsx)("h5", {
                             className: "pt-4 border-top mb-3 mt-5",
-                            children: "Digital Transformation",
+                            children: "What is Salesforce CRM?",
                           }),
                           (0, i.jsx)("p", {
                             className: "mb-4",
                             children:
-                              "At Infinia, we are committed to delivering innovative solutions that drive real results. Our team of experts combines industry knowledge with technological expertise to provide services that are both practical and visionary. We work closely with you to understand your unique challenges and tailor our services to meet your specific needs.",
+                              "Salesforce CRM (Customer Relationship Management) is a cloud-based platform that enables businesses to manage sales, marketing, customer service, and more—all in one place. With powerful automation, analytics, and integration capabilities, Salesforce helps you nurture leads, close deals faster, and deliver personalized customer experiences.",
                           }),
                           (0, i.jsxs)("div", {
                             className: "row",
@@ -750,7 +751,7 @@
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                             children: [
-                              "Financial Consultancy",
+                              "Salesforce CRM",
                               (0, i.jsx)("svg", {
                                 xmlns: "http://www.w3.org/2000/svg",
                                 width: 24,
@@ -770,7 +771,7 @@
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                             children: [
-                              "Business Consultancy",
+                              ".NET Application",
                               (0, i.jsx)("svg", {
                                 xmlns: "http://www.w3.org/2000/svg",
                                 width: 24,
@@ -790,7 +791,7 @@
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                             children: [
-                              "Solicitory Consultancy",
+                              "React Application",
                               (0, i.jsx)("svg", {
                                 xmlns: "http://www.w3.org/2000/svg",
                                 width: 24,
@@ -810,7 +811,7 @@
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                             children: [
-                              "HR Consultancy",
+                              "API Integration",
                               (0, i.jsx)("svg", {
                                 xmlns: "http://www.w3.org/2000/svg",
                                 width: 24,
@@ -830,7 +831,7 @@
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                             children: [
-                              "Strategy Consultancy",
+                              "Data Integration/ Migration",
                               (0, i.jsx)("svg", {
                                 xmlns: "http://www.w3.org/2000/svg",
                                 width: 24,
@@ -850,7 +851,7 @@
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                             children: [
-                              "Start Ups",
+                              "Technical Support",
                               (0, i.jsx)("svg", {
                                 xmlns: "http://www.w3.org/2000/svg",
                                 width: 24,
@@ -865,76 +866,76 @@
                               }),
                             ],
                           }),
-                          (0, i.jsxs)("div", {
-                            className:
-                              "bg-neutral-100 px-5 pb-5 mt-7 rounded-4 border",
-                            children: [
-                              (0, i.jsx)("h6", {
-                                className: "mb-4 mt-3",
-                                children: "Service Brochure",
-                              }),
-                              (0, i.jsxs)(n.default, {
-                                href: "#",
-                                className:
-                                  "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                                children: [
-                                  (0, i.jsx)("img", {
-                                    src: "/assets/imgs/services-details/icon-1.svg",
-                                    alt: "Codm",
-                                  }),
-                                  (0, i.jsx)("p", {
-                                    className: "text-900 fs-7 mb-0 ms-3",
-                                    children: "PDF. Download (25 Mb)",
-                                  }),
-                                ],
-                              }),
-                              (0, i.jsxs)(n.default, {
-                                href: "#",
-                                className:
-                                  "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                                children: [
-                                  (0, i.jsx)("img", {
-                                    src: "/assets/imgs/services-details/icon-2.svg",
-                                    alt: "Codm",
-                                  }),
-                                  (0, i.jsx)("p", {
-                                    className: "text-900 fs-7 mb-0 ms-3",
-                                    children: "DOC. Download (28 Mb)",
-                                  }),
-                                ],
-                              }),
-                              (0, i.jsxs)(n.default, {
-                                href: "#",
-                                className:
-                                  "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                                children: [
-                                  (0, i.jsx)("img", {
-                                    src: "/assets/imgs/services-details/icon-3.svg",
-                                    alt: "Codm",
-                                  }),
-                                  (0, i.jsx)("p", {
-                                    className: "text-900 fs-7 mb-0 ms-3",
-                                    children: "Open on Google Driver",
-                                  }),
-                                ],
-                              }),
-                              (0, i.jsxs)(n.default, {
-                                href: "#",
-                                className:
-                                  "bg-white rounded-3 p-3 border d-flex align-items-center",
-                                children: [
-                                  (0, i.jsx)("img", {
-                                    src: "/assets/imgs/services-details/icon-4.svg",
-                                    alt: "Codm",
-                                  }),
-                                  (0, i.jsx)("p", {
-                                    className: "text-900 fs-7 mb-0 ms-3",
-                                    children: "Open on Google Driver",
-                                  }),
-                                ],
-                              }),
-                            ],
-                          }),
+                          // (0, i.jsxs)("div", {
+                          //   className:
+                          //     "bg-neutral-100 px-5 pb-5 mt-7 rounded-4 border",
+                          //   children: [
+                          //     (0, i.jsx)("h6", {
+                          //       className: "mb-4 mt-3",
+                          //       children: "Service Brochure",
+                          //     }),
+                          //     (0, i.jsxs)(n.default, {
+                          //       href: "#",
+                          //       className:
+                          //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
+                          //       children: [
+                          //         (0, i.jsx)("img", {
+                          //           src: "/assets/imgs/services-details/icon-1.svg",
+                          //           alt: "Codm",
+                          //         }),
+                          //         (0, i.jsx)("p", {
+                          //           className: "text-900 fs-7 mb-0 ms-3",
+                          //           children: "PDF. Download (25 Mb)",
+                          //         }),
+                          //       ],
+                          //     }),
+                          //     (0, i.jsxs)(n.default, {
+                          //       href: "#",
+                          //       className:
+                          //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
+                          //       children: [
+                          //         (0, i.jsx)("img", {
+                          //           src: "/assets/imgs/services-details/icon-2.svg",
+                          //           alt: "Codm",
+                          //         }),
+                          //         (0, i.jsx)("p", {
+                          //           className: "text-900 fs-7 mb-0 ms-3",
+                          //           children: "DOC. Download (28 Mb)",
+                          //         }),
+                          //       ],
+                          //     }),
+                          //     (0, i.jsxs)(n.default, {
+                          //       href: "#",
+                          //       className:
+                          //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
+                          //       children: [
+                          //         (0, i.jsx)("img", {
+                          //           src: "/assets/imgs/services-details/icon-3.svg",
+                          //           alt: "Codm",
+                          //         }),
+                          //         (0, i.jsx)("p", {
+                          //           className: "text-900 fs-7 mb-0 ms-3",
+                          //           children: "Open on Google Driver",
+                          //         }),
+                          //       ],
+                          //     }),
+                          //     (0, i.jsxs)(n.default, {
+                          //       href: "#",
+                          //       className:
+                          //         "bg-white rounded-3 p-3 border d-flex align-items-center",
+                          //       children: [
+                          //         (0, i.jsx)("img", {
+                          //           src: "/assets/imgs/services-details/icon-4.svg",
+                          //           alt: "Codm",
+                          //         }),
+                          //         (0, i.jsx)("p", {
+                          //           className: "text-900 fs-7 mb-0 ms-3",
+                          //           children: "Open on Google Driver",
+                          //         }),
+                          //       ],
+                          //     }),
+                          //   ],
+                          // }),
                           (0, i.jsxs)("div", {
                             className:
                               "bg-primary rounded-4 mt-7 position-relative",
@@ -949,7 +950,7 @@
                                       (0, i.jsx)("br", {}),
                                       "Ultimate Experience ",
                                       (0, i.jsx)("br", {}),
-                                      "in Financial Services",
+                                      "in Salesforce CRM",
                                     ],
                                   }),
                                   (0, i.jsxs)(n.default, {
@@ -970,7 +971,7 @@
                                           }),
                                           (0, i.jsx)("h5", {
                                             className: "text-white d-block",
-                                            children: "+01 (24) 568 900",
+                                            children: "(+44) 07436934216",
                                           }),
                                         ],
                                       }),
@@ -982,7 +983,8 @@
                                       "fw-bold btn text-start bg-white fs-6 d-flex align-items-center justify-content-between text-primary hover-up w-100",
                                     children: [
                                       (0, i.jsx)("span", {
-                                        children: "Get 15 Days Free Trial",
+                                        style: { font: "11px"},
+                                        children: "Get a free POC for your project ",
                                       }),
                                       (0, i.jsx)("svg", {
                                         xmlns: "http://www.w3.org/2000/svg",
@@ -1389,36 +1391,36 @@
                                       }),
                                     ],
                                   }),
-                                  (0, i.jsxs)("div", {
-                                    className: "d-flex mb-2",
-                                    children: [
-                                      (0, i.jsx)("img", {
-                                        src: "/assets/imgs/contact-2/icon-2.svg",
-                                        alt: "Codm",
-                                      }),
-                                      (0, i.jsx)(n.default, {
-                                        className:
-                                          "ms-2 text-decoration-underline text-900 fs-7",
-                                        href: "#",
-                                        children: "Chat via Viber",
-                                      }),
-                                    ],
-                                  }),
-                                  (0, i.jsxs)("div", {
-                                    className: "d-flex mb-2 mb-5",
-                                    children: [
-                                      (0, i.jsx)("img", {
-                                        src: "/assets/imgs/contact-2/icon-3.svg",
-                                        alt: "Codm",
-                                      }),
-                                      (0, i.jsx)(n.default, {
-                                        className:
-                                          "ms-2 text-decoration-underline text-900 fs-7",
-                                        href: "#",
-                                        children: "Chat via Messager",
-                                      }),
-                                    ],
-                                  }),
+                                  // (0, i.jsxs)("div", {
+                                  //   className: "d-flex mb-2",
+                                  //   children: [
+                                  //     (0, i.jsx)("img", {
+                                  //       src: "/assets/imgs/contact-2/icon-2.svg",
+                                  //       alt: "Codm",
+                                  //     }),
+                                  //     (0, i.jsx)(n.default, {
+                                  //       className:
+                                  //         "ms-2 text-decoration-underline text-900 fs-7",
+                                  //       href: "#",
+                                  //       children: "Chat via Viber",
+                                  //     }),
+                                  //   ],
+                                  // }),
+                                  // (0, i.jsxs)("div", {
+                                  //   className: "d-flex mb-2 mb-5",
+                                  //   children: [
+                                  //     (0, i.jsx)("img", {
+                                  //       src: "/assets/imgs/contact-2/icon-3.svg",
+                                  //       alt: "Codm",
+                                  //     }),
+                                  //     (0, i.jsx)(n.default, {
+                                  //       className:
+                                  //         "ms-2 text-decoration-underline text-900 fs-7",
+                                  //       href: "#",
+                                  //       children: "Chat via Messager",
+                                  //     }),
+                                  //   ],
+                                  // }),
                                   (0, i.jsx)("h6", {
                                     children: "Send us an email",
                                   }),
@@ -1438,7 +1440,7 @@
                                         className:
                                           "ms-2 text-decoration-underline text-900 fs-7",
                                         href: "#",
-                                        children: "support@Codm.com",
+                                        children: "support@Codm.co.uk",
                                       }),
                                     ],
                                   }),
@@ -1453,7 +1455,7 @@
                                         className:
                                           "ms-2 text-decoration-underline text-900 fs-7",
                                         href: "#",
-                                        children: "sale@Codm.com",
+                                        children: "sales@Codm.co.uk",
                                       }),
                                     ],
                                   }),
@@ -1476,7 +1478,7 @@
                                         className:
                                           "ms-2 text-decoration-underline text-900 fs-7",
                                         href: "#",
-                                        children: "+01 (24) 568 900",
+                                        children: "(+44)07436934216",
                                       }),
                                     ],
                                   }),

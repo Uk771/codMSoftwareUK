@@ -297,7 +297,13 @@
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
                                           href: "/Services.html",
-                                          children: "D.I./ D.M.",
+                                          children: "Data Integration",
+                                        }),
+                                        (0, i.jsx)(d.default, {
+                                          className:
+                                            "hover-effect text-white mb-2 fw-medium fs-6",
+                                          href: "/Services.html",
+                                          children: "Data Migration",
                                         }),
                                         (0, i.jsx)(d.default, {
                                           className:
