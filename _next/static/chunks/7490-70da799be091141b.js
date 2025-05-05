@@ -203,7 +203,7 @@
                                     (0, i.jsx)("h3", {
                                       className:
                                         "text-white opacity-50 fs-6 fw-black text-uppercase pb-3 pt-5",
-                                      children: "Guides",
+                                      children: "About Us",
                                     }),
                                     (0, i.jsxs)("div", {
                                       className:
@@ -266,20 +266,20 @@
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
-                                          children: "Project software",
+                                          href: "/Services.html",
+                                          children: "Salesforce CRM",
                                         }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
-                                          children: "Resource software",
+                                          href: "/Services.html",
+                                          children: ".NET Application",
                                         }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
-                                          children: "Workflow",
+                                          href: "/Services.html",
+                                          children: "React Application",
                                         }),
                                         // (0, i.jsx)(d.default, {
                                         //   className:
@@ -290,14 +290,20 @@
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
-                                          children: "Project dashboards",
+                                          href: "/Services.html",
+                                          children: "API Integration",
                                         }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
-                                          children: "Task software",
+                                          href: "/Services.html",
+                                          children: "D.I./ D.M.",
+                                        }),
+                                        (0, i.jsx)(d.default, {
+                                          className:
+                                            "hover-effect text-white mb-2 fw-medium fs-6",
+                                          href: "/Services.html",
+                                          children: "Technical Support",
                                         }),
                                       ],
                                     }),
@@ -311,7 +317,7 @@
                                     (0, i.jsx)("h3", {
                                       className:
                                         "text-white opacity-50 fs-6 fw-black text-uppercase pb-3 pt-5",
-                                      children: "Resource",
+                                      children: "Contact",
                                     }),
                                     (0, i.jsxs)("div", {
                                       className:
@@ -320,25 +326,25 @@
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
+                                          href: "/contact.html",
                                           children: "Knowledge Base",
                                         }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
+                                          href: "/contact.html",
                                           children: "Documents",
                                         }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
+                                          href: "/contact.html",
                                           children: "System Status",
                                         }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "#",
+                                          href: "/contact.html",
                                           children: "Security",
                                         }),
                                       ],
@@ -834,7 +840,7 @@
                                   (0, i.jsx)("h3", {
                                     className:
                                       "text-white opacity-50 fs-6 fw-black text-uppercase pb-3 pt-5 pt-lg-0",
-                                    children: "Guides",
+                                    children: "About Us",
                                   }),
                                   (0, i.jsxs)("div", {
                                     className:
@@ -895,38 +901,38 @@
                                       (0, i.jsx)(d.default, {
                                         className:
                                           "hover-effect text-white mb-2 fw-medium fs-6",
-                                        href: "/#",
-                                        children: "Project software",
+                                        href: "/Services.html",
+                                        children: "Salesforce CRM",
                                       }),
                                       (0, i.jsx)(d.default, {
                                         className:
                                           "hover-effect text-white mb-2 fw-medium fs-6",
-                                        href: "/#",
-                                        children: "Resource software",
+                                        href: "/Services.html",
+                                        children: ".NET Application",
                                       }),
                                       (0, i.jsx)(d.default, {
                                         className:
                                           "hover-effect text-white mb-2 fw-medium fs-6",
-                                        href: "/#",
-                                        children: "Workflow",
+                                        href: "/Services.html",
+                                        children: "API Integration",
+                                      }),
+                                      // (0, i.jsx)(d.default, {
+                                      //   className:
+                                      //     "hover-effect text-white mb-2 fw-medium fs-6",
+                                      //   href: "/#",
+                                      //   children: "Gantt chart makers",
+                                      // }),
+                                      (0, i.jsx)(d.default, {
+                                        className:
+                                          "hover-effect text-white mb-2 fw-medium fs-6",
+                                        href: "/Services.html",
+                                        children: "Data Integration / Migration",
                                       }),
                                       (0, i.jsx)(d.default, {
                                         className:
                                           "hover-effect text-white mb-2 fw-medium fs-6",
-                                        href: "/#",
-                                        children: "Gantt chart makers",
-                                      }),
-                                      (0, i.jsx)(d.default, {
-                                        className:
-                                          "hover-effect text-white mb-2 fw-medium fs-6",
-                                        href: "/#",
-                                        children: "Project dashboards",
-                                      }),
-                                      (0, i.jsx)(d.default, {
-                                        className:
-                                          "hover-effect text-white mb-2 fw-medium fs-6",
-                                        href: "/#",
-                                        children: "Task software",
+                                        href: "/Services.html",
+                                        children: "Technical Support",
                                       }),
                                     ],
                                   }),
@@ -2236,101 +2242,99 @@
               (0, i.jsx)("div", {
                 className: "offcanvas-header",
                 children: (0, i.jsx)("button", {
-                  className: "btn-close",
-                  "data-bs-dismiss": "offcanvas",
-                  "aria-label": "Close",
+                  className: "",
                   onClick: a,
                 }),
               }),
               (0, i.jsx)("div", {
                 className: "offcanvas-body",
-                children: (0, i.jsx)("div", {
-                  className: "container",
-                  children: (0, i.jsx)("div", {
-                    className: "row py-md-5 py-2",
-                    children: (0, i.jsxs)("div", {
-                      className: "col-12 col-lg-8 mx-auto",
-                      children: [
-                        (0, i.jsx)("h4", {
-                          className: "mb-2 fs-sm-5",
-                          children: "What are you looking for?",
-                        }),
-                        (0, i.jsx)("p", {
-                          className: "text-500 fs-6 mb-5",
-                          children:
-                            "Explore our services and discover how we can help you achieve your goals",
-                        }),
-                        (0, i.jsxs)("div", {
-                          className: "input-group",
-                          "data-aos": "zoom-in",
-                          children: [
-                            (0, i.jsx)("input", {
-                              type: "text",
-                              className: "form-control ps-5 rounded-start-pill",
-                              name: "name",
-                              placeholder: "Enter Your Keywords",
-                            }),
-                            (0, i.jsx)("button", {
-                              className: "btn btn-primary rounded-end-pill",
-                              children: (0, i.jsx)("svg", {
-                                xmlns: "http://www.w3.org/2000/svg",
-                                width: 24,
-                                height: 24,
-                                viewBox: "0 0 24 24",
-                                fill: "none",
-                                children: (0, i.jsx)("path", {
-                                  d: "M19.25 19.25L15.5 15.5M4.75 11C4.75 7.54822 7.54822 4.75 11 4.75C14.4518 4.75 17.25 7.54822 17.25 11C17.25 14.4518 14.4518 17.25 11 17.25C7.54822 17.25 4.75 14.4518 4.75 11Z",
-                                  stroke: "white",
-                                  strokeWidth: "1.5",
-                                  strokeLinecap: "round",
-                                  strokeLinejoin: "round",
-                                }),
-                              }),
-                            }),
-                          ],
-                        }),
-                        (0, i.jsxs)("div", {
-                          className: "d-flex flex-column flex-lg-row mt-5",
-                          children: [
-                            (0, i.jsx)("h6", {
-                              className: "d-inline me-2",
-                              children: "Suggest:",
-                            }),
-                            (0, i.jsxs)("div", {
-                              className: "d-flex flex-wrap gap-2",
-                              children: [
-                                (0, i.jsx)(d.default, {
-                                  href: "#",
-                                  children: "Startup",
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "#",
-                                  children: "Agency",
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "#",
-                                  children: "Creative",
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "#",
-                                  children: "Consulting",
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "#",
-                                  children: "IT services",
-                                }),
-                                (0, i.jsx)(d.default, {
-                                  href: "#",
-                                  children: "Pricing",
-                                }),
-                              ],
-                            }),
-                          ],
-                        }),
-                      ],
-                    }),
-                  }),
-                }),
+                // children: (0, i.jsx)("div", {
+                //   className: "container",
+                //   children: (0, i.jsx)("div", {
+                //     className: "row py-md-5 py-2",
+                //     children: (0, i.jsxs)("div", {
+                //       className: "",
+                //       children: [
+                //         (0, i.jsx)("h4", {
+                //           className: "",
+                //           children: "",
+                //         }),
+                //         (0, i.jsx)("p", {
+                //           className: "text-500 fs-6 mb-5",
+                //           children:
+                //             "Explore our services and discover how we can help you achieve your goals",
+                //         }),
+                //         (0, i.jsxs)("div", {
+                //           className: "input-group",
+                //           "data-aos": "zoom-in",
+                //           children: [
+                //             (0, i.jsx)("input", {
+                //               type: "text",
+                //               className: "form-control ps-5 rounded-start-pill",
+                //               name: "name",
+                //               placeholder: "Enter Your Keywords",
+                //             }),
+                //             (0, i.jsx)("button", {
+                //               className: "btn btn-primary rounded-end-pill",
+                //               children: (0, i.jsx)("svg", {
+                //                 xmlns: "http://www.w3.org/2000/svg",
+                //                 width: 24,
+                //                 height: 24,
+                //                 viewBox: "0 0 24 24",
+                //                 fill: "none",
+                //                 children: (0, i.jsx)("path", {
+                //                   d: "M19.25 19.25L15.5 15.5M4.75 11C4.75 7.54822 7.54822 4.75 11 4.75C14.4518 4.75 17.25 7.54822 17.25 11C17.25 14.4518 14.4518 17.25 11 17.25C7.54822 17.25 4.75 14.4518 4.75 11Z",
+                //                   stroke: "white",
+                //                   strokeWidth: "1.5",
+                //                   strokeLinecap: "round",
+                //                   strokeLinejoin: "round",
+                //                 }),
+                //               }),
+                //             }),
+                //           ],
+                //         }),
+                //         (0, i.jsxs)("div", {
+                //           className: "d-flex flex-column flex-lg-row mt-5",
+                //           children: [
+                //             (0, i.jsx)("h6", {
+                //               className: "d-inline me-2",
+                //               children: "Suggest:",
+                //             }),
+                //             (0, i.jsxs)("div", {
+                //               className: "d-flex flex-wrap gap-2",
+                //               children: [
+                //                 (0, i.jsx)(d.default, {
+                //                   href: "#",
+                //                   children: "Startup",
+                //                 }),
+                //                 (0, i.jsx)(d.default, {
+                //                   href: "#",
+                //                   children: "Agency",
+                //                 }),
+                //                 (0, i.jsx)(d.default, {
+                //                   href: "#",
+                //                   children: "Creative",
+                //                 }),
+                //                 (0, i.jsx)(d.default, {
+                //                   href: "#",
+                //                   children: "Consulting",
+                //                 }),
+                //                 (0, i.jsx)(d.default, {
+                //                   href: "#",
+                //                   children: "IT services",
+                //                 }),
+                //                 (0, i.jsx)(d.default, {
+                //                   href: "#",
+                //                   children: "Pricing",
+                //                 }),
+                //               ],
+                //             }),
+                //           ],
+                //         }),
+                //       ],
+                //     }),
+                //   }),
+                // }),
               }),
             ],
           }),
@@ -3674,25 +3678,25 @@
                         "d-flex align-items-center pe-5 pe-lg-0 me-5 me-lg-0",
                       children: [
                         (0, i.jsx)("div", {
-                          "data-bs-toggle": "offcanvas",
-                          "data-bs-target": ".offcanvasTop",
+                          // "data-bs-toggle": "offcanvas",
+                          // "data-bs-target": ".offcanvasTop",
                           onClick: r,
-                          className: "cursor-pointer",
-                          children: (0, i.jsx)("svg", {
-                            xmlns: "http://www.w3.org/2000/svg",
-                            width: 24,
-                            height: 24,
-                            viewBox: "0 0 24 24",
-                            fill: "none",
-                            children: (0, i.jsx)("path", {
-                              className: "stroke-dark",
-                              d: "M19.25 19.25L15.5 15.5M4.75 11C4.75 7.54822 7.54822 4.75 11 4.75C14.4518 4.75 17.25 7.54822 17.25 11C17.25 14.4518 14.4518 17.25 11 17.25C7.54822 17.25 4.75 14.4518 4.75 11Z",
-                              stroke: "black",
-                              strokeWidth: "1.5",
-                              strokeLinecap: "round",
-                              strokeLinejoin: "round",
-                            }),
-                          }),
+                          className: "",
+                          // children: (0, i.jsx)("svg", {
+                          //   xmlns: "http://www.w3.org/2000/svg",
+                          //   width: 24,
+                          //   height: 24,
+                          //   viewBox: "0 0 24 24",
+                          //   fill: "none",
+                          //   children: (0, i.jsx)("path", {
+                          //     className: "stroke-dark",
+                          //     d: "M19.25 19.25L15.5 15.5M4.75 11C4.75 7.54822 7.54822 4.75 11 4.75C14.4518 4.75 17.25 7.54822 17.25 11C17.25 14.4518 14.4518 17.25 11 17.25C7.54822 17.25 4.75 14.4518 4.75 11Z",
+                          //     stroke: "black",
+                          //     strokeWidth: "1.5",
+                          //     strokeLinecap: "round",
+                          //     strokeLinejoin: "round",
+                          //   }),
+                          // }),
                         }),
                         (0, i.jsx)(u, {}),
                         (0, i.jsx)(d.default, {
@@ -3772,13 +3776,13 @@
                         "d-flex align-items-center pe-5 pe-lg-0 me-5 me-lg-0",
                       children: [
                         (0, i.jsx)(d.default, {
-                          href: "javascript:void(0)",
-                          "data-bs-toggle": "offcanvas",
-                          "data-bs-target": ".offcanvasTop",
+                          // href: "javascript:void(0)",
+                          // "data-bs-toggle": "offcanvas",
+                          // "data-bs-target": ".offcanvasTop",
                           onClick: r,
                           className: "cursor-pointer",
                           children: (0, i.jsx)("svg", {
-                            xmlns: "http://www.w3.org/2000/svg",
+                            xmlns: "",
                             width: 24,
                             height: 24,
                             viewBox: "0 0 24 24",
@@ -4430,28 +4434,28 @@
                             //   // }),
                             // ],
                           }),
-                          (0, i.jsx)("a", {
-                            href: "javascript:void(0)",
-                            "data-bs-toggle": "offcanvas",
-                            "data-bs-target": ".offcanvasTop",
-                            onClick: r,
-                            className: "cursor-pointer",
-                            children: (0, i.jsx)("svg", {
-                              xmlns: "http://www.w3.org/2000/svg",
-                              width: 24,
-                              height: 24,
-                              viewBox: "0 0 24 24",
-                              fill: "none",
-                              children: (0, i.jsx)("path", {
-                                className: "stroke-dark",
-                                d: "M19.25 19.25L15.5 15.5M4.75 11C4.75 7.54822 7.54822 4.75 11 4.75C14.4518 4.75 17.25 7.54822 17.25 11C17.25 14.4518 14.4518 17.25 11 17.25C7.54822 17.25 4.75 14.4518 4.75 11Z",
-                                stroke: "black",
-                                strokeWidth: "1.5",
-                                strokeLinecap: "round",
-                                strokeLinejoin: "round",
-                              }),
-                            }),
-                          }),
+                          // (0, i.jsx)("a", {
+                          //   href: "javascript:void(0)",
+                          //   "data-bs-toggle": "offcanvas",
+                          //   "data-bs-target": ".offcanvasTop",
+                          //   onClick: r,
+                          //   className: "cursor-pointer",
+                          //   children: (0, i.jsx)("svg", {
+                          //     xmlns: "http://www.w3.org/2000/svg",
+                          //     width: 24,
+                          //     height: 24,
+                          //     viewBox: "0 0 24 24",
+                          //     fill: "none",
+                          //     children: (0, i.jsx)("path", {
+                          //       className: "stroke-dark",
+                          //       d: "M19.25 19.25L15.5 15.5M4.75 11C4.75 7.54822 7.54822 4.75 11 4.75C14.4518 4.75 17.25 7.54822 17.25 11C17.25 14.4518 14.4518 17.25 11 17.25C7.54822 17.25 4.75 14.4518 4.75 11Z",
+                          //       stroke: "black",
+                          //       strokeWidth: "1.5",
+                          //       strokeLinecap: "round",
+                          //       strokeLinejoin: "round",
+                          //     }),
+                          //   }),
+                          // }),
                           (0, i.jsx)(u, {}),
                           (0, i.jsxs)("a", {
                             href: "#",

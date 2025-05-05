@@ -32,14 +32,14 @@
           children: (0, a.jsxs)(t.default, {
             children: [
               (0, a.jsxs)("section", {
-                className: "section-page-header py-10 fix position-relative",
+                className: "",
                 children: [
                   (0, a.jsx)("div", {
-                    className: "container position-relative z-1",
+                    className: "",
                     children: (0, a.jsxs)("div", {
                       className: "text-start",
                       children: [
-                        (0, a.jsx)("h3", { children: "Our Services" }),
+                        (0, a.jsx)("h3", { children: "" }),
                         (0, a.jsxs)("div", {
                           className: "d-flex",
                           children: [
@@ -47,29 +47,29 @@
                               href: "#",
                               children: (0, a.jsx)("p", {
                                 className: "mb-0 text-900",
-                                children: "Home",
+                                children: "",
                               }),
                             }),
-                            (0, a.jsx)("svg", {
-                              className: "mx-3 mt-1",
-                              xmlns: "http://www.w3.org/2000/svg",
-                              width: 8,
-                              height: 13,
-                              viewBox: "0 0 8 13",
-                              fill: "none",
-                              children: (0, a.jsx)("path", {
-                                className: "stroke-dark",
-                                d: "M1 1.5L6.5 6.75L1 12",
-                                stroke: "#111827",
-                                strokeWidth: "1.5",
-                                strokeLinecap: "round",
-                                strokeLinejoin: "round",
-                              }),
-                            }),
-                            (0, a.jsx)("p", {
-                              className: "text-primary mb-0",
-                              children: "Our Services",
-                            }),
+                            // (0, a.jsx)("svg", {
+                            //   className: "mx-3 mt-1",
+                            //   xmlns: "http://www.w3.org/2000/svg",
+                            //   width: 8,
+                            //   height: 13,
+                            //   viewBox: "0 0 8 13",
+                            //   fill: "none",
+                            //   children: (0, a.jsx)("path", {
+                            //     className: "stroke-dark",
+                            //     d: "M1 1.5L6.5 6.75L1 12",
+                            //     stroke: "#111827",
+                            //     strokeWidth: "1.5",
+                            //     strokeLinecap: "round",
+                            //     strokeLinejoin: "round",
+                            //   }),
+                            // }),
+                            // (0, a.jsx)("p", {
+                            //   className: "text-primary mb-0",
+                            //   children: "Our Services",
+                            // }),
                           ],
                         }),
                       ],
@@ -112,24 +112,24 @@
                       (0, a.jsxs)("div", {
                         className: "row",
                         children: [
-                          (0, a.jsx)("div", {
-                            className: "col-lg-6",
-                            children: (0, a.jsxs)("h5", {
-                              className: "fw-regular ds-5",
-                              children: [
-                                "High ",
-                                (0, a.jsxs)("span", {
-                                  className: "fw-bold",
-                                  children: [
-                                    "Performance ",
-                                    (0, a.jsx)("br", {}),
-                                    " Services For ",
-                                  ],
-                                }),
-                                " All Industries.",
-                              ],
-                            }),
-                          }),
+                          // (0, a.jsx)("div", {
+                          //   className: "col-lg-6",
+                          //   children: (0, a.jsxs)("h5", {
+                          //     className: "fw-regular ds-5",
+                          //     children: [
+                          //       "High",
+                          //       (0, a.jsxs)("span", {
+                          //         className: "fw-bold",
+                          //         children: [
+                          //           "Performance ",
+                          //           (0, a.jsx)("br", {}),
+                          //           " Services For ",
+                          //         ],
+                          //       }),
+                          //       " All Industries.",
+                          //     ],
+                          //   }),
+                          // }),
                           (0, a.jsxs)("div", {
                             className: "row align-items-center",
                             children: [
@@ -434,7 +434,7 @@
                                           (0, a.jsx)("p", {
                                             className: "text-900 mb-4",
                                             children:
-                                              "at CODM Software, our mission is to empower businesses worldwide with innovative, reliable, and scalable IT solutions. We strive to bridge the gap between technology and business goals by delivering custom software, cloud services, and digital products that drive real results.",
+                                              "At CODM Software, our mission is to empower businesses worldwide with innovative, reliable, and scalable IT solutions. We strive to bridge the gap between technology and business goals by delivering custom software, cloud services, and digital products that drive real results.",
                                           }),
                                           (0, a.jsxs)("div", {
                                             className: "row",
@@ -480,7 +480,7 @@
                                           (0, a.jsx)("p", {
                                             className: "text-900 mb-4",
                                             children:
-                                              "at CODM Software , our vision is to be a global leader in driving digital transformation through innovative and reliable technology solutions. We aim to redefine how businesses operate by delivering smart, scalable, and future-proof IT services that unlock new possibilities. ",
+                                              "At CODM Software , our vision is to be a global leader in driving digital transformation through innovative and reliable technology solutions. We aim to redefine how businesses operate by delivering smart, scalable, and future-proof IT services that unlock new possibilities. ",
                                           }),
                                           (0, a.jsxs)("div", {
                                             className: "row",

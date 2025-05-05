@@ -218,7 +218,7 @@
                             }),
                           }),
                           (0, a.jsx)("h6", {
-                            children: "Education",
+                            children: "Higher Education",
                           }),
                           (0, a.jsx)("p", {
                             children:
