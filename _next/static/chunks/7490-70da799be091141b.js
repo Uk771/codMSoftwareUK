@@ -3181,15 +3181,6 @@
                                 children: "Salesforce CRM",
                               }),
                             }),
-                            // (0, i.jsx)("li", {
-                            //   className: "position-relative z-1",
-                            //   children: (0, i.jsx)(d.default, {
-                            //     className:
-                            //       "dropdown-item position-relative z-1 d-flex align-items-start",
-                            //     href: "/page-elements",
-                            //     children: "Elements",
-                            //   }),
-                            // }),
                           ],
                         }),
                         (0, i.jsx)("div", {
@@ -3204,55 +3195,6 @@
                     }),
                   ],
                 }),
-                // (0, i.jsxs)("li", {
-                //   className: "nav-item dropdown menu-item-has-children",
-                //   children: [
-                //     (0, i.jsx)(d.default, {
-                //       className: "nav-link fw-bold d-flex align-items-center",
-                //       href: "#",
-                //       role: "button",
-                //       "data-bs-toggle": "dropdown",
-                //       "aria-expanded": "false",
-                //       children: "Products",
-                //     }),
-                //     (0, i.jsxs)("div", {
-                //       className: "dropdown-menu p-4 fix",
-                //       children: [
-                //         (0, i.jsxs)("ul", {
-                //           className: "list-unstyled",
-                //           children: [
-                //             (0, i.jsx)("li", {
-                //               className: "position-relative border-bottom z-1",
-                //               children: (0, i.jsx)(d.default, {
-                //                 className:
-                //                   "dropdown-item position-relative z-1 d-flex align-items-start",
-                //                 href: "/page-style-guide",
-                //                 children: "Style guide",
-                //               }),
-                //             }),
-                //             (0, i.jsx)("li", {
-                //               className: "position-relative z-1",
-                //               children: (0, i.jsx)(d.default, {
-                //                 className:
-                //                   "dropdown-item position-relative z-1 d-flex align-items-start",
-                //                 href: "/page-elements",
-                //                 children: "Elements",
-                //               }),
-                //             }),
-                //           ],
-                //         }),
-                //         (0, i.jsx)("div", {
-                //           className:
-                //             "ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0",
-                //         }),
-                //         (0, i.jsx)("div", {
-                //           className:
-                //             "ellipse-rotate-primary-sm position-absolute bottom-0 end-0 translate-middle z-0",
-                //         }),
-                //       ],
-                //     }),
-                //   ],
-                // }),
                 (0, i.jsx)("li", {
                   className: "nav-item",
                   children: (0, i.jsx)(d.default, {
