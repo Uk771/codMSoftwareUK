@@ -107,8 +107,8 @@
                         children: [
                           (0, i.jsx)("img", {
                             className: "rounded-3",
-                            src: "/assets/imgs/services-details-2/crm-infographic.jpg",
-                            style: { height: "500px", width: "100%" },
+                            src: "/assets/imgs/services-details-2/Salesforce-Integration-scaled.jpg",
+                            // style: { height: "500px", width: "100%" },
                             alt: "Codm",
                           }),
                           (0, i.jsx)("h4", {
@@ -1440,7 +1440,7 @@
                                         className:
                                           "ms-2 text-decoration-underline text-900 fs-7",
                                         href: "#",
-                                        children: "support@Codm.co.uk",
+                                        children: "support@codmsoftware.co.uk",
                                       }),
                                     ],
                                   }),
@@ -1455,7 +1455,7 @@
                                         className:
                                           "ms-2 text-decoration-underline text-900 fs-7",
                                         href: "#",
-                                        children: "sales@Codm.co.uk",
+                                        children: "sales@codmsoftware.co.uk",
                                       }),
                                     ],
                                   }),
