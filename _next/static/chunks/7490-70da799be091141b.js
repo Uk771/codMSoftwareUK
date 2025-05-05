@@ -3317,260 +3317,71 @@
                     // }),
                   ],
                 }),
+                // (0, i.jsxs)("li", {
+                //   className: "nav-item dropdown has-mega menu-item-has-children",
+                //   children: [
+                //     (0, i.jsx)(d.default, {
+                //       className: "nav-link fw-bold d-flex align-items-center",
+                //       href: "/Services.html",
+                //       role: "button",
+                //       "data-bs-toggle": "dropdown",
+                //       "aria-expanded": "false",
+                //       children: "Services",
+                //     }),
+                    
+                //         (0, i.jsx)("div", {
+                //           className:
+                //             "ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0",
+                //         }),
+                //   ],
+                // }),
                 (0, i.jsxs)("li", {
-                  className: "nav-item dropdown has-mega",
+                  className: "nav-item dropdown menu-item-has-children",
                   children: [
                     (0, i.jsx)(d.default, {
                       className: "nav-link fw-bold d-flex align-items-center",
                       href: "/Services.html",
                       role: "button",
-                      // "data-bs-toggle": "dropdown",
-                      // "aria-expanded": "false",
+                      "data-bs-toggle": "dropdown",
+                      "aria-expanded": "false",
                       children: "Services",
                     }),
-                    // (0, i.jsxs)("div", {
-                    //   className: "mega-menu fix",
-                    //   children: [
-                    //     (0, i.jsxs)("div", {
-                    //       className:
-                    //         "d-flex flex-wrap gap-2 position-relative z-1",
-                    //       children: [
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-navigation",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Navigation",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "09",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-hero",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Hero",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "05",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-logo-cloud",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Logo cloud",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "05",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-cta",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Call to action",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "15",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-how-it-work",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "How it work",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "02",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-services",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Services",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "04",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-team",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Team",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "07",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-pricing",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Pricing",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "05",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-faqs",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "FAQS",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "03",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-testimonial",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Testimonials",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "04",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-blog",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Blog",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "05",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-newsletter",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Newsletter",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "03",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-footer",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Footer",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "05",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-features",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Features",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "13",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-projects",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Projects",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "02",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-contact",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Contact",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "06",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //         (0, i.jsxs)(d.default, {
-                    //           href: "/section-static",
-                    //           className:
-                    //             "btn btn-md btn-filter mb-2 me-2 rounded-pill py-2 d-inline-flex",
-                    //           children: [
-                    //             "Static",
-                    //             (0, i.jsx)("span", {
-                    //               className:
-                    //                 "rounded-pill ms-2 fs-9 bg-primary-soft text-dark px-2 py-1",
-                    //               children: "03",
-                    //             }),
-                    //           ],
-                    //         }),
-                    //       ],
-                    //     }),
-                    //     (0, i.jsx)("div", {
-                    //       className: "position-absolute bottom-0 end-0 z-0",
-                    //       children: (0, i.jsx)("img", {
-                    //         src: "/assets/imgs/other/bg-line.png",
-                    //         alt: "CodM",
-                    //       }),
-                    //     }),
-                    //     (0, i.jsx)("div", {
-                    //       className:
-                    //         "ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0",
-                    //     }),
-                    //   ],
-                    // }),
+                    (0, i.jsxs)("div", {
+                      className: "dropdown-menu p-4 fix",
+                      children: [
+                        (0, i.jsxs)("ul", {
+                          className: "list-unstyled",
+                          children: [
+                            (0, i.jsx)("li", {
+                              className: "position-relative border-bottom z-1",
+                              children: (0, i.jsx)(d.default, {
+                                className:
+                                  "dropdown-item position-relative z-1 d-flex align-items-start",
+                                href: "/page-style-guide",
+                                children: "Style guide",
+                              }),
+                            }),
+                            (0, i.jsx)("li", {
+                              className: "position-relative z-1",
+                              children: (0, i.jsx)(d.default, {
+                                className:
+                                  "dropdown-item position-relative z-1 d-flex align-items-start",
+                                href: "/page-elements",
+                                children: "Elements",
+                              }),
+                            }),
+                          ],
+                        }),
+                        (0, i.jsx)("div", {
+                          className:
+                            "ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0",
+                        }),
+                        (0, i.jsx)("div", {
+                          className:
+                            "ellipse-rotate-primary-sm position-absolute bottom-0 end-0 translate-middle z-0",
+                        }),
+                      ],
+                    }),
                   ],
                 }),
                 // (0, i.jsxs)("li", {
@@ -3584,42 +3395,42 @@
                 //       "aria-expanded": "false",
                 //       children: "Products",
                 //     }),
-                //     // (0, i.jsxs)("div", {
-                //     //   className: "dropdown-menu p-4 fix",
-                //     //   children: [
-                //     //     (0, i.jsxs)("ul", {
-                //     //       className: "list-unstyled",
-                //     //       children: [
-                //     //         (0, i.jsx)("li", {
-                //     //           className: "position-relative border-bottom z-1",
-                //     //           children: (0, i.jsx)(d.default, {
-                //     //             className:
-                //     //               "dropdown-item position-relative z-1 d-flex align-items-start",
-                //     //             href: "/page-style-guide",
-                //     //             children: "Style guide",
-                //     //           }),
-                //     //         }),
-                //     //         (0, i.jsx)("li", {
-                //     //           className: "position-relative z-1",
-                //     //           children: (0, i.jsx)(d.default, {
-                //     //             className:
-                //     //               "dropdown-item position-relative z-1 d-flex align-items-start",
-                //     //             href: "/page-elements",
-                //     //             children: "Elements",
-                //     //           }),
-                //     //         }),
-                //     //       ],
-                //     //     }),
-                //     //     (0, i.jsx)("div", {
-                //     //       className:
-                //     //         "ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0",
-                //     //     }),
-                //     //     (0, i.jsx)("div", {
-                //     //       className:
-                //     //         "ellipse-rotate-primary-sm position-absolute bottom-0 end-0 translate-middle z-0",
-                //     //     }),
-                //     //   ],
-                //     // }),
+                //     (0, i.jsxs)("div", {
+                //       className: "dropdown-menu p-4 fix",
+                //       children: [
+                //         (0, i.jsxs)("ul", {
+                //           className: "list-unstyled",
+                //           children: [
+                //             (0, i.jsx)("li", {
+                //               className: "position-relative border-bottom z-1",
+                //               children: (0, i.jsx)(d.default, {
+                //                 className:
+                //                   "dropdown-item position-relative z-1 d-flex align-items-start",
+                //                 href: "/page-style-guide",
+                //                 children: "Style guide",
+                //               }),
+                //             }),
+                //             (0, i.jsx)("li", {
+                //               className: "position-relative z-1",
+                //               children: (0, i.jsx)(d.default, {
+                //                 className:
+                //                   "dropdown-item position-relative z-1 d-flex align-items-start",
+                //                 href: "/page-elements",
+                //                 children: "Elements",
+                //               }),
+                //             }),
+                //           ],
+                //         }),
+                //         (0, i.jsx)("div", {
+                //           className:
+                //             "ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0",
+                //         }),
+                //         (0, i.jsx)("div", {
+                //           className:
+                //             "ellipse-rotate-primary-sm position-absolute bottom-0 end-0 translate-middle z-0",
+                //         }),
+                //       ],
+                //     }),
                 //   ],
                 // }),
                 (0, i.jsx)("li", {
