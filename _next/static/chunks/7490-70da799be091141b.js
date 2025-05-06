@@ -3187,6 +3187,51 @@
                                 children: "Salesforce CRM",
                               }),
                             }),
+                            (0, i.jsx)("li", {
+                              className: "position-relative border-bottom z-1",
+                              children: (0, i.jsx)(d.default, {
+                                className:
+                                  "dropdown-item position-relative z-1 d-flex align-items-start",
+                                href: "/DotNetApplication.html",
+                                children: ".NET Application",
+                              }),
+                            }),
+                            (0, i.jsx)("li", {
+                              className: "position-relative border-bottom z-1",
+                              children: (0, i.jsx)(d.default, {
+                                className:
+                                  "dropdown-item position-relative z-1 d-flex align-items-start",
+                                href: "/React-Application.html",
+                                children: "React Application",
+                              }),
+                            }),
+                            (0, i.jsx)("li", {
+                              className: "position-relative border-bottom z-1",
+                              children: (0, i.jsx)(d.default, {
+                                className:
+                                  "dropdown-item position-relative z-1 d-flex align-items-start",
+                                href: "/API-Integration.html",
+                                children: "API Integration ",
+                              }),
+                            }),
+                            (0, i.jsx)("li", {
+                              className: "position-relative border-bottom z-1",
+                              children: (0, i.jsx)(d.default, {
+                                className:
+                                  "dropdown-item position-relative z-1 d-flex align-items-start",
+                                href: "/D.I-D.M.html",
+                                children: "Data Integration/Migration",
+                              }),
+                            }),
+                            (0, i.jsx)("li", {
+                              className: "position-relative border-bottom z-1",
+                              children: (0, i.jsx)(d.default, {
+                                className:
+                                  "dropdown-item position-relative z-1 d-flex align-items-start",
+                                href: "/Technical-Support.html",
+                                children: "Technical Support",
+                              }),
+                            }),
                           ],
                         }),
                         (0, i.jsx)("div", {

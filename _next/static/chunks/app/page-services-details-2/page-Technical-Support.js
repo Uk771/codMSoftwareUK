@@ -32,7 +32,7 @@
                       children: (0, i.jsxs)("div", {
                         className: "text-start",
                         children: [
-                          (0, i.jsx)("h3", { children: "Salesforce CRM" }),
+                          (0, i.jsx)("h3", { children: "Technical Support" }),
                           (0, i.jsxs)("div", {
                             className: "d-flex",
                             children: [
@@ -61,7 +61,7 @@
                               }),
                               (0, i.jsx)("p", {
                                 className: "text-primary mb-0",
-                                children: "Salesforce CRM",
+                                children: "Technical Support",
                               }),
                             ],
                           }),
@@ -107,18 +107,17 @@
                           children: [
                             (0, i.jsx)("img", {
                               className: "rounded-3",
-                              src: "/assets/imgs/services-details-2/Salesforce-Integration-scaled.jpg",
-                              // style: { height: "500px", width: "100%" },
+                              src: "/assets/imgs/services-details-2/DOTNET-Application/img-1.png",
                               alt: "Codm",
                             }),
                             (0, i.jsx)("h4", {
                               className: "my-3",
-                              children: "Drive Business Growth with Salesforce CRM",
+                              children: "Build Fast, Scalable, and Engaging User Interfaces with React",
                             }),
                             (0, i.jsxs)("p", {
                               className: "mb-0",
                               children: [
-                                "At Codm, we empower businesses to transform their customer relationships, streamline operations, and boost revenue using Salesforce — the world’s #1 CRM platform. Whether you're a small business or a global enterprise, our Salesforce CRM services are tailored to help you unlock the full potential of your customer data and workflows. ",
+                                "At Codm,we deliver high-performance React applications that combine speed, scalability, and a seamless user experience. React.js, developed and maintained by Facebook, is the go-to JavaScript library for building interactive and dynamic front-end applications — and we use it to craft everything from MVPs to enterprise-grade solutions.",
                                 (0, i.jsx)("span", {
                                   className: "text-900 fw-bold",
                                   children: "Our innovative business",
@@ -142,7 +141,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "Customer Journey Mapping",
+                                          children: "Custom .NET Application Development",
                                         }),
                                       ],
                                     }),
@@ -156,7 +155,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "Customer Feedback Systems",
+                                          children: "Web Application Development",
                                         }),
                                       ],
                                     }),
@@ -177,7 +176,7 @@
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
                                           children:
-                                            "Sustainable Business Practices",
+                                            "Enterprise Solutions",
                                         }),
                                       ],
                                     }),
@@ -192,7 +191,7 @@
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
                                           children:
-                                            "Corporate Social Responsibility",
+                                            ".NET Migration & Modernization",
                                         }),
                                       ],
                                     }),
@@ -212,7 +211,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "Ideation and Concept",
+                                          children: "API & Microservices Development",
                                         }),
                                       ],
                                     }),
@@ -226,7 +225,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "Intellectual Property",
+                                          children: "Cloud-Based .NET Development",
                                         }),
                                       ],
                                     }),
@@ -236,12 +235,12 @@
                             }),
                             (0, i.jsx)("h5", {
                               className: "pt-4 border-top mb-3 mt-5",
-                              children: "What is Salesforce CRM?",
+                              children: "What is .NET Application?",
                             }),
                             (0, i.jsx)("p", {
                               className: "mb-4",
                               children:
-                                "Salesforce CRM (Customer Relationship Management) is a cloud-based platform that enables businesses to manage sales, marketing, customer service, and more—all in one place. With powerful automation, analytics, and integration capabilities, Salesforce helps you nurture leads, close deals faster, and deliver personalized customer experiences.",
+                                "A .NET application is a software program developed using Microsoft's .NET framework or its modern, cross-platform successor, .NET Core / .NET 5+. It can be a web, desktop, mobile, cloud, or API-based application, written primarily in languages like C#, VB.NET, or F#.",
                             }),
                             (0, i.jsxs)("div", {
                               className: "row",
@@ -268,15 +267,11 @@
                                           children: [
                                             (0, i.jsx)("h6", {
                                               children:
-                                                "Market Analysis and Insights",
+                                                "Web Applications",
                                             }),
                                             (0, i.jsxs)("p", {
                                               children: [
-                                                "Gain a deep understanding of your industry ",
-                                                (0, i.jsx)("br", {}),
-                                                "and competitors with our comprehensive ",
-                                                (0, i.jsx)("br", {}),
-                                                "market analysis.",
+                                                "Built using ASP.NET or ASP.NET Core – run on browsers ",
                                               ],
                                             }),
                                           ],
@@ -302,15 +297,11 @@
                                           children: [
                                             (0, i.jsx)("h6", {
                                               children:
-                                                "Business Model Innovation",
+                                                "Desktop Applications",
                                             }),
                                             (0, i.jsxs)("p", {
                                               children: [
-                                                "We assist in redefining your business model ",
-                                                (0, i.jsx)("br", {}),
-                                                "to align with current market trends and ",
-                                                (0, i.jsx)("br", {}),
-                                                "future demands",
+                                                "Built using WPF, WinForms, or UWP – installed and run on Windows machines. ",
                                               ],
                                             }),
                                           ],
@@ -335,15 +326,11 @@
                                           className: "ps-5",
                                           children: [
                                             (0, i.jsx)("h6", {
-                                              children: "Change Management",
+                                              children: "Mobile Applications",
                                             }),
                                             (0, i.jsxs)("p", {
                                               children: [
-                                                "Successfully manage organizational change with ",
-                                                (0, i.jsx)("br", {}),
-                                                "our expert guidance. We help you navigate ",
-                                                (0, i.jsx)("br", {}),
-                                                "transitions smoothly",
+                                                "Developed using Xamarin or .NET MAUI – run on Android and iOS with a single codebase.",
                                               ],
                                             }),
                                           ],
@@ -747,7 +734,7 @@
                           className: "col-lg-4 sidebar",
                           children: [
                             (0, i.jsxs)(n.default, {
-                              href: "#",
+                              href: "/SalesforceCRM.html",
                               className:
                                 "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                               children: [
@@ -767,7 +754,7 @@
                               ],
                             }),
                             (0, i.jsxs)(n.default, {
-                              href: "#",
+                              href: "/DotNetApplication.html",
                               className:
                                 "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                               children: [
@@ -787,9 +774,9 @@
                               ],
                             }),
                             (0, i.jsxs)(n.default, {
-                              href: "#",
+                              href: "/React-Application.html",
                               className:
-                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center ",
                               children: [
                                 "React Application",
                                 (0, i.jsx)("svg", {
@@ -807,7 +794,7 @@
                               ],
                             }),
                             (0, i.jsxs)(n.default, {
-                              href: "#",
+                              href: "/API-Integration.html",
                               className:
                                 "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                               children: [
@@ -827,7 +814,7 @@
                               ],
                             }),
                             (0, i.jsxs)(n.default, {
-                              href: "#",
+                              href: "/D.I-D.M.html",
                               className:
                                 "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                               children: [
@@ -849,7 +836,7 @@
                             (0, i.jsxs)(n.default, {
                               href: "#",
                               className:
-                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center active",
                               children: [
                                 "Technical Support",
                                 (0, i.jsx)("svg", {

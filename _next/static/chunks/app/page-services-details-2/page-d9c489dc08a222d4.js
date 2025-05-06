@@ -749,7 +749,7 @@
                           (0, i.jsxs)(n.default, {
                             href: "#",
                             className:
-                              "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                              "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center active",
                             children: [
                               "Salesforce CRM",
                               (0, i.jsx)("svg", {
@@ -767,7 +767,7 @@
                             ],
                           }),
                           (0, i.jsxs)(n.default, {
-                            href: "#",
+                            href: "/DotNetApplication.html",
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                             children: [
@@ -787,7 +787,7 @@
                             ],
                           }),
                           (0, i.jsxs)(n.default, {
-                            href: "#",
+                            href: "/React-Application.html",
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                             children: [
@@ -807,7 +807,7 @@
                             ],
                           }),
                           (0, i.jsxs)(n.default, {
-                            href: "#",
+                            href: "/API-Integration.html",
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                             children: [
@@ -827,7 +827,7 @@
                             ],
                           }),
                           (0, i.jsxs)(n.default, {
-                            href: "#",
+                            href: "/D.I-D.M.html",
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                             children: [
@@ -847,7 +847,7 @@
                             ],
                           }),
                           (0, i.jsxs)(n.default, {
-                            href: "#",
+                            href: "/Technical-Support.html",
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                             children: [
@@ -866,76 +866,6 @@
                               }),
                             ],
                           }),
-                          // (0, i.jsxs)("div", {
-                          //   className:
-                          //     "bg-neutral-100 px-5 pb-5 mt-7 rounded-4 border",
-                          //   children: [
-                          //     (0, i.jsx)("h6", {
-                          //       className: "mb-4 mt-3",
-                          //       children: "Service Brochure",
-                          //     }),
-                          //     (0, i.jsxs)(n.default, {
-                          //       href: "#",
-                          //       className:
-                          //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                          //       children: [
-                          //         (0, i.jsx)("img", {
-                          //           src: "/assets/imgs/services-details/icon-1.svg",
-                          //           alt: "Codm",
-                          //         }),
-                          //         (0, i.jsx)("p", {
-                          //           className: "text-900 fs-7 mb-0 ms-3",
-                          //           children: "PDF. Download (25 Mb)",
-                          //         }),
-                          //       ],
-                          //     }),
-                          //     (0, i.jsxs)(n.default, {
-                          //       href: "#",
-                          //       className:
-                          //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                          //       children: [
-                          //         (0, i.jsx)("img", {
-                          //           src: "/assets/imgs/services-details/icon-2.svg",
-                          //           alt: "Codm",
-                          //         }),
-                          //         (0, i.jsx)("p", {
-                          //           className: "text-900 fs-7 mb-0 ms-3",
-                          //           children: "DOC. Download (28 Mb)",
-                          //         }),
-                          //       ],
-                          //     }),
-                          //     (0, i.jsxs)(n.default, {
-                          //       href: "#",
-                          //       className:
-                          //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                          //       children: [
-                          //         (0, i.jsx)("img", {
-                          //           src: "/assets/imgs/services-details/icon-3.svg",
-                          //           alt: "Codm",
-                          //         }),
-                          //         (0, i.jsx)("p", {
-                          //           className: "text-900 fs-7 mb-0 ms-3",
-                          //           children: "Open on Google Driver",
-                          //         }),
-                          //       ],
-                          //     }),
-                          //     (0, i.jsxs)(n.default, {
-                          //       href: "#",
-                          //       className:
-                          //         "bg-white rounded-3 p-3 border d-flex align-items-center",
-                          //       children: [
-                          //         (0, i.jsx)("img", {
-                          //           src: "/assets/imgs/services-details/icon-4.svg",
-                          //           alt: "Codm",
-                          //         }),
-                          //         (0, i.jsx)("p", {
-                          //           className: "text-900 fs-7 mb-0 ms-3",
-                          //           children: "Open on Google Driver",
-                          //         }),
-                          //       ],
-                          //     }),
-                          //   ],
-                          // }),
                           (0, i.jsxs)("div", {
                             className:
                               "bg-primary rounded-4 mt-7 position-relative",
