@@ -72,7 +72,7 @@
                     className:
                       "position-absolute bottom-0 start-0 end-0 top-0 z-0",
                     src: "/assets/imgs/page-header/bg-line.png",
-                    alt: "infinia",
+                    alt: "Codm",
                   }),
                   (0, r.jsxs)("div", {
                     className: "bouncing-blobs-container",
@@ -993,7 +993,7 @@
                                   children: [
                                     (0, r.jsx)("img", {
                                       src: "/assets/imgs/features-1/dots.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, r.jsx)("span", {
                                       className:

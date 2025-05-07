@@ -86,7 +86,7 @@
                     className:
                       "position-absolute bottom-0 start-0 end-0 top-0 z-0",
                     src: "/assets/imgs/page-header/bg-line.png",
-                    alt: "infinia",
+                    alt: "Codm",
                   }),
                   (0, a.jsxs)("div", {
                     className: "bouncing-blobs-container",
@@ -256,17 +256,17 @@
                                       children: [
                                         (0, a.jsx)("img", {
                                           src: "/assets/imgs/hero-1/avatar-1.png",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                         (0, a.jsx)("img", {
                                           className: "avt-hero",
                                           src: "/assets/imgs/hero-1/avatar-2.png",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                         (0, a.jsx)("img", {
                                           className: "avt-hero",
                                           src: " assets/imgs/hero-1/avatar-3.png",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                       ],
                                     }),
@@ -288,7 +288,7 @@
                                   "data-aos-delay": 300,
                                   children: (0, a.jsx)("img", {
                                     src: "/assets/imgs/hero-1/brand-1.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsx)("div", {
@@ -297,7 +297,7 @@
                                   "data-aos-delay": 300,
                                   children: (0, a.jsx)("img", {
                                     src: "/assets/imgs/hero-1/brand-2.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                               ],
@@ -312,14 +312,14 @@
                           (0, a.jsx)("img", {
                             className: "hero-img",
                             src: "/assets/imgs/hero-1/background.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                           (0, a.jsx)("div", {
                             className: "shape-1 position-absolute",
                             children: (0, a.jsx)("img", {
                               className: "rightToLeft",
                               src: "/assets/imgs/hero-1/shape-1.png",
-                              alt: "infinia",
+                              alt: "Codm",
                               "data-aos": "zoom-in",
                               "data-aos-delay": 500,
                             }),
@@ -329,7 +329,7 @@
                               "shape-2 position-absolute d-none d-md-block",
                             children: (0, a.jsx)("img", {
                               src: "/assets/imgs/hero-1/shape-2.png",
-                              alt: "infinia",
+                              alt: "Codm",
                               "data-aos": "zoom-in",
                               "data-aos-delay": 200,
                             }),
@@ -339,7 +339,7 @@
                               "shape-3 position-absolute d-none d-md-block",
                             children: (0, a.jsx)("img", {
                               src: "/assets/imgs/hero-1/shape-3.png",
-                              alt: "infinia",
+                              alt: "Codm",
                               "data-aos": "zoom-in",
                               "data-aos-delay": 300,
                             }),
@@ -351,7 +351,7 @@
                               (0, a.jsx)("img", {
                                 className: "rounded-3",
                                 src: "/assets/imgs/hero-1/shape-4.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)("h6", {
                                 className: "mt-3",
@@ -521,7 +521,7 @@
                             children: [
                               (0, a.jsx)("img", {
                                 src: "/assets/imgs/hero-2/macbook.png",
-                                alt: "infinia",
+                                alt: "Codm",
                                 "data-aos": "fade-up",
                                 "data-aos-delay": 100,
                               }),
@@ -529,7 +529,7 @@
                                 className:
                                   "alltuchtopdown d-none d-md-block position-absolute bottom-0 end-0 pe-10 me-lg-10 mb-lg-10",
                                 src: "/assets/imgs/hero-2/vector.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)("div", {
                                 className:
@@ -562,7 +562,7 @@
                                           children: [
                                             (0, a.jsx)("img", {
                                               src: "/assets/imgs/hero-2/check.png",
-                                              alt: "infinia",
+                                              alt: "Codm",
                                             }),
                                             (0, a.jsx)("span", {
                                               className: "ms-2",
@@ -576,7 +576,7 @@
                                           children: [
                                             (0, a.jsx)("img", {
                                               src: "/assets/imgs/hero-2/check.png",
-                                              alt: "infinia",
+                                              alt: "Codm",
                                             }),
                                             (0, a.jsx)("span", {
                                               className: "ms-2",
@@ -590,7 +590,7 @@
                                           children: [
                                             (0, a.jsx)("img", {
                                               src: "/assets/imgs/hero-2/check.png",
-                                              alt: "infinia",
+                                              alt: "Codm",
                                             }),
                                             (0, a.jsx)("span", {
                                               className: "ms-2",
@@ -604,7 +604,7 @@
                                           children: [
                                             (0, a.jsx)("img", {
                                               src: "/assets/imgs/hero-2/check.png",
-                                              alt: "infinia",
+                                              alt: "Codm",
                                             }),
                                             (0, a.jsx)("span", {
                                               className: "ms-2",
@@ -618,7 +618,7 @@
                                           children: [
                                             (0, a.jsx)("img", {
                                               src: "/assets/imgs/hero-2/check.png",
-                                              alt: "infinia",
+                                              alt: "Codm",
                                             }),
                                             (0, a.jsx)("span", {
                                               className: "ms-2",
@@ -639,7 +639,7 @@
                             children: (0, a.jsx)("img", {
                               className: "flickering",
                               src: "/assets/imgs/hero-2/star-1.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           }),
                           (0, a.jsx)("div", {
@@ -648,7 +648,7 @@
                             children: (0, a.jsx)("img", {
                               className: "flickering",
                               src: "/assets/imgs/hero-2/star-3.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           }),
                           (0, a.jsx)("div", {
@@ -659,7 +659,7 @@
                               children: (0, a.jsx)("img", {
                                 className: "flickering",
                                 src: "/assets/imgs/hero-2/star-2.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                             }),
                           }),
@@ -672,7 +672,7 @@
                       "position-absolute top-0 start-50 translate-middle-x",
                     children: (0, a.jsx)("img", {
                       src: "/assets/imgs/hero-2/bg-line.png",
-                      alt: "infinia",
+                      alt: "Codm",
                     }),
                   }),
                   (0, a.jsxs)("div", {
@@ -835,7 +835,7 @@
                                         className:
                                           " icon-shape icon-xxl border border-5 border-white-keep bg-primary-soft rounded-circle",
                                         src: "/assets/imgs/hero-3/avatar-1.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, a.jsx)("div", {
@@ -844,7 +844,7 @@
                                         className:
                                           " icon-shape icon-xxl border border-5 border-white-keep bg-primary-soft rounded-circle",
                                         src: "/assets/imgs/hero-3/avatar-2.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, a.jsx)("div", {
@@ -852,7 +852,7 @@
                                         "avt-hero icon-shape icon-xxl border border-5 border-white-keep bg-primary-soft rounded-circle",
                                       children: (0, a.jsx)("img", {
                                         src: " assets/imgs/hero-3/icon.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                   ],
@@ -926,7 +926,7 @@
                                             className:
                                               "filter-invert rounded-4",
                                             src: "/assets/imgs/hero-3/logo-1.png",
-                                            alt: "infinia",
+                                            alt: "Codm",
                                           }),
                                         }),
                                         (0, a.jsx)("li", {
@@ -935,7 +935,7 @@
                                           children: (0, a.jsx)("img", {
                                             className: "rounded-4",
                                             src: "/assets/imgs/hero-3/logo-2.png",
-                                            alt: "infinia",
+                                            alt: "Codm",
                                           }),
                                         }),
                                         (0, a.jsx)("li", {
@@ -944,7 +944,7 @@
                                           children: (0, a.jsx)("img", {
                                             className: "rounded-4",
                                             src: "/assets/imgs/hero-3/logo-3.png",
-                                            alt: "infinia",
+                                            alt: "Codm",
                                           }),
                                         }),
                                       ],
@@ -972,7 +972,7 @@
                                     children: (0, a.jsx)("img", {
                                       className: "rounded-4",
                                       src: "/assets/imgs/hero-3/img-4.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                   (0, a.jsx)("div", {
@@ -981,7 +981,7 @@
                                     children: (0, a.jsx)("img", {
                                       className: "rounded-4",
                                       src: "/assets/imgs/hero-3/img-3.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 ],
@@ -995,7 +995,7 @@
                                     children: (0, a.jsx)("img", {
                                       className: "rounded-4",
                                       src: "/assets/imgs/hero-3/img-1.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                   (0, a.jsx)("div", {
@@ -1004,7 +1004,7 @@
                                     children: (0, a.jsx)("img", {
                                       className: "rounded-4",
                                       src: "/assets/imgs/hero-3/img-2.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 ],
@@ -1017,7 +1017,7 @@
                             children: (0, a.jsx)("img", {
                               className: "rotateme",
                               src: "/assets/imgs/hero-3/star-rotate.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           }),
                           (0, a.jsx)("div", {
@@ -1050,7 +1050,7 @@
                                 className:
                                   "rounded-5 border border-5 border-white",
                                 src: "/assets/imgs/hero-4/img-1.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsxs)("div", {
                                 className:
@@ -1104,7 +1104,7 @@
                                   className: "alltuchtopdown",
                                   children: (0, a.jsx)("img", {
                                     src: "/assets/imgs/hero-4/vector-1.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                               }),
@@ -1281,7 +1281,7 @@
                                                         className:
                                                           "rounded-circle",
                                                         src: "/assets/imgs/hero-4/avatar-1.png",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }
                                                     ),
                                                   }),
@@ -1293,23 +1293,23 @@
                                                         children: [
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                         ],
                                                       }),
@@ -1346,7 +1346,7 @@
                                                         className:
                                                           "rounded-circle",
                                                         src: "/assets/imgs/hero-4/avatar-1.png",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }
                                                     ),
                                                   }),
@@ -1358,23 +1358,23 @@
                                                         children: [
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                         ],
                                                       }),
@@ -1411,7 +1411,7 @@
                                                         className:
                                                           "rounded-circle",
                                                         src: "/assets/imgs/hero-4/avatar-1.png",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }
                                                     ),
                                                   }),
@@ -1423,23 +1423,23 @@
                                                         children: [
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                         ],
                                                       }),
@@ -1476,7 +1476,7 @@
                                                         className:
                                                           "rounded-circle",
                                                         src: "/assets/imgs/hero-4/avatar-1.png",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }
                                                     ),
                                                   }),
@@ -1488,23 +1488,23 @@
                                                         children: [
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, a.jsx)("img", {
                                                             src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                         ],
                                                       }),
@@ -1542,7 +1542,7 @@
                                   "position-absolute top-0 end-0 z-1 flickering pt-9 pe-4",
                                 children: (0, a.jsx)("img", {
                                   src: "/assets/imgs/hero-4/star-1.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -1556,7 +1556,7 @@
                       children: (0, a.jsx)("img", {
                         className: "h-100",
                         src: "/assets/imgs/hero-4/line-bg.png",
-                        alt: "infinia",
+                        alt: "Codm",
                       }),
                     }),
                     (0, a.jsx)("div", {
@@ -1564,7 +1564,7 @@
                         "position-absolute bg-rotate d-none d-lg-block pb-10 ps-9 mb-8 z-0",
                       children: (0, a.jsx)("img", {
                         src: "/assets/imgs/hero-4/favicon.svg",
-                        alt: "infinia",
+                        alt: "Codm",
                       }),
                     }),
                   ],
@@ -1622,7 +1622,7 @@
                                                   className:
                                                     "alltuchtopdown img-fluid filter-invert",
                                                   src: "/assets/imgs/hero-5/icon-1.svg",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                                 "for",
                                               ],
@@ -1736,7 +1736,7 @@
                                   "position-absolute top-0 start-0 z-0",
                                 children: (0, a.jsx)("img", {
                                   src: "/assets/imgs/hero-5/img-bg-line.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -1784,7 +1784,7 @@
                                                   className:
                                                     "alltuchtopdown img-fluid filter-invert",
                                                   src: "/assets/imgs/hero-5/icon-1.svg",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                                 "for",
                                               ],
@@ -1898,7 +1898,7 @@
                                   "position-absolute top-0 start-0 z-0",
                                 children: (0, a.jsx)("img", {
                                   src: "/assets/imgs/hero-5/img-bg-line.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -1946,7 +1946,7 @@
                                                   className:
                                                     "alltuchtopdown img-fluid filter-invert",
                                                   src: "/assets/imgs/hero-5/icon-1.svg",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                                 "for",
                                               ],
@@ -2060,7 +2060,7 @@
                                   "position-absolute top-0 start-0 z-0",
                                 children: (0, a.jsx)("img", {
                                   src: "/assets/imgs/hero-5/img-bg-line.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -2108,7 +2108,7 @@
                                                   className:
                                                     "alltuchtopdown img-fluid filter-invert",
                                                   src: "/assets/imgs/hero-5/icon-1.svg",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                                 "for",
                                               ],
@@ -2222,7 +2222,7 @@
                                   "position-absolute top-0 start-0 z-0",
                                 children: (0, a.jsx)("img", {
                                   src: "/assets/imgs/hero-5/img-bg-line.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -2270,7 +2270,7 @@
                                                   className:
                                                     "alltuchtopdown img-fluid filter-invert",
                                                   src: "/assets/imgs/hero-5/icon-1.svg",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                                 "for",
                                               ],
@@ -2384,7 +2384,7 @@
                                   "position-absolute top-0 start-0 z-0",
                                 children: (0, a.jsx)("img", {
                                   src: "/assets/imgs/hero-5/img-bg-line.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -2432,7 +2432,7 @@
                                                   className:
                                                     "alltuchtopdown img-fluid filter-invert",
                                                   src: "/assets/imgs/hero-5/icon-1.svg",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                                 "for",
                                               ],
@@ -2546,7 +2546,7 @@
                                   "position-absolute top-0 start-0 z-0",
                                 children: (0, a.jsx)("img", {
                                   src: "/assets/imgs/hero-5/img-bg-line.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],

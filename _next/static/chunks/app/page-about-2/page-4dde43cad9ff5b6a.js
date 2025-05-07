@@ -63,7 +63,7 @@
                                 children: [
                                   (0, a.jsx)("img", {
                                     src: "/assets/imgs/features-1/dots.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)("span", {
                                     className:
@@ -114,7 +114,7 @@
                                   className: "zoom-img rounded-4 fix",
                                   children: (0, a.jsx)("img", {
                                     src: "/assets/imgs/cta-13/img-1.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsxs)("div", {
@@ -135,17 +135,17 @@
                                       children: [
                                         (0, a.jsx)("img", {
                                           src: "/assets/imgs/features-3/avatar-1.png",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                         (0, a.jsx)("img", {
                                           className: "avt-hero z-1",
                                           src: "/assets/imgs/features-3/avatar-2.png",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                         (0, a.jsx)("img", {
                                           className: "avt-hero z-0",
                                           src: " assets/imgs/features-3/avatar-3.png",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                       ],
                                     }),
@@ -329,7 +329,7 @@
                                     children: (0, a.jsx)("img", {
                                       className: "h-100",
                                       src: "/assets/imgs/cta-13/img-2.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -345,7 +345,7 @@
                       "position-absolute top-0 start-50 translate-middle-x z-0",
                     children: (0, a.jsx)("img", {
                       src: "/assets/imgs/service-2/bg-line.png",
-                      alt: "infinia",
+                      alt: "Codm",
                     }),
                   }),
                   (0, a.jsx)("div", {
@@ -381,7 +381,7 @@
                               children: (0, a.jsx)("img", {
                                 className: "filter-invert",
                                 src: "/assets/imgs/logo-cloud-3/logo-1.svg",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                             }),
                             (0, a.jsx)("li", {
@@ -389,7 +389,7 @@
                                 "carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2",
                               children: (0, a.jsx)("img", {
                                 src: "/assets/imgs/logo-cloud-3/logo-2.svg",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                             }),
                             (0, a.jsx)("li", {
@@ -397,7 +397,7 @@
                                 "carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2",
                               children: (0, a.jsx)("img", {
                                 src: "/assets/imgs/logo-cloud-3/logo-3.svg",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                             }),
                             (0, a.jsx)("li", {
@@ -405,7 +405,7 @@
                                 "carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2",
                               children: (0, a.jsx)("img", {
                                 src: "/assets/imgs/logo-cloud-3/logo-4.svg",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                             }),
                             (0, a.jsx)("li", {
@@ -455,7 +455,7 @@
                                 "carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2",
                               children: (0, a.jsx)("img", {
                                 src: "/assets/imgs/logo-cloud-3/logo-6.svg",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                             }),
                             (0, a.jsx)("li", {
@@ -463,7 +463,7 @@
                                 "carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2",
                               children: (0, a.jsx)("img", {
                                 src: "/assets/imgs/logo-cloud-3/logo-7.svg",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                             }),
                           ],
@@ -486,7 +486,7 @@
                                   children: (0, a.jsx)("img", {
                                     className: "filter-invert",
                                     src: "/assets/imgs/logo-cloud-3/logo-8.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsx)("li", {
@@ -495,7 +495,7 @@
                                   children: (0, a.jsx)("img", {
                                     className: "filter-invert",
                                     src: "/assets/imgs/logo-cloud-3/logo-9.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsx)("li", {
@@ -503,7 +503,7 @@
                                     "carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2",
                                   children: (0, a.jsx)("img", {
                                     src: "/assets/imgs/logo-cloud-3/logo-3.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsx)("li", {
@@ -512,7 +512,7 @@
                                   children: (0, a.jsx)("img", {
                                     className: "filter-invert",
                                     src: "/assets/imgs/logo-cloud-3/logo-10.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsx)("li", {
@@ -520,7 +520,7 @@
                                     "carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2",
                                   children: (0, a.jsx)("img", {
                                     src: "/assets/imgs/logo-cloud-3/logo-11.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsx)("li", {
@@ -529,7 +529,7 @@
                                   children: (0, a.jsx)("img", {
                                     className: "filter-invert",
                                     src: "/assets/imgs/logo-cloud-3/logo-12.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                               ],
@@ -559,7 +559,7 @@
                             children: [
                               (0, a.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)("span", {
                                 className:
@@ -646,7 +646,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-1.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -712,7 +712,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-2.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -778,7 +778,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-3.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -844,7 +844,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-4.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -910,7 +910,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-5.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -976,7 +976,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-6.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -1042,7 +1042,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-7.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -1108,7 +1108,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-8.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -1191,7 +1191,7 @@
                                 className: "icon",
                                 children: (0, a.jsx)("img", {
                                   src: "/assets/imgs/features-1/icon-1.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             }),
@@ -1258,7 +1258,7 @@
                                 className: "icon",
                                 children: (0, a.jsx)("img", {
                                   src: "/assets/imgs/features-1/icon-2.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             }),
@@ -1325,7 +1325,7 @@
                                 className: "icon",
                                 children: (0, a.jsx)("img", {
                                   src: "/assets/imgs/features-1/icon-3.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             }),
@@ -1392,7 +1392,7 @@
                                 className: "icon",
                                 children: (0, a.jsx)("img", {
                                   src: "/assets/imgs/features-1/icon-4.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             }),
@@ -1471,7 +1471,7 @@
                               children: [
                                 (0, a.jsx)("img", {
                                   src: "/assets/imgs/features-1/dots.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                                 (0, a.jsx)("span", {
                                   className:
@@ -1498,7 +1498,7 @@
                                     className: "icon",
                                     children: (0, a.jsx)("img", {
                                       src: "/assets/imgs/features-11/icon-1.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -1529,7 +1529,7 @@
                                     className: "icon",
                                     children: (0, a.jsx)("img", {
                                       src: "/assets/imgs/features-11/icon-2.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -1560,7 +1560,7 @@
                                     className: "icon",
                                     children: (0, a.jsx)("img", {
                                       src: "/assets/imgs/features-11/icon-3.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -1598,7 +1598,7 @@
                               className: "zoom-img rounded-3 mt-8 me-3",
                               children: (0, a.jsx)("img", {
                                 src: "/assets/imgs/features-11/img-1.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                             }),
                             (0, a.jsx)("div", {
@@ -1606,7 +1606,7 @@
                               children: (0, a.jsx)("img", {
                                 className: "rounded-3",
                                 src: "/assets/imgs/features-11/img-2.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                             }),
                           ],
@@ -1633,7 +1633,7 @@
                               children: [
                                 (0, a.jsx)("img", {
                                   src: "/assets/imgs/features-1/dots.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                                 (0, a.jsx)("span", {
                                   className:
@@ -1699,7 +1699,7 @@
                                       children: (0, a.jsx)("img", {
                                         className: "img-fluid w-100",
                                         src: "/assets/imgs/project-2/img-1.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, a.jsxs)(o.default, {
@@ -1745,7 +1745,7 @@
                                       children: (0, a.jsx)("img", {
                                         className: "img-fluid w-100",
                                         src: "/assets/imgs/project-2/img-2.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, a.jsxs)(o.default, {
@@ -1791,7 +1791,7 @@
                                       children: (0, a.jsx)("img", {
                                         className: "img-fluid w-100",
                                         src: "/assets/imgs/project-2/img-3.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, a.jsxs)(o.default, {
@@ -1836,7 +1836,7 @@
                                       children: (0, a.jsx)("img", {
                                         className: "img-fluid w-100",
                                         src: "/assets/imgs/project-2/img-1.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, a.jsxs)(o.default, {
@@ -1882,7 +1882,7 @@
                                       children: (0, a.jsx)("img", {
                                         className: "img-fluid w-100",
                                         src: "/assets/imgs/project-2/img-2.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, a.jsxs)(o.default, {
@@ -1928,7 +1928,7 @@
                                       children: (0, a.jsx)("img", {
                                         className: "img-fluid w-100",
                                         src: "/assets/imgs/project-2/img-3.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, a.jsxs)(o.default, {
@@ -1986,7 +1986,7 @@
                               children: [
                                 (0, a.jsx)("img", {
                                   src: "/assets/imgs/features-1/dots.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                                 (0, a.jsx)("span", {
                                   className:
@@ -2052,7 +2052,7 @@
                                   (0, a.jsx)("img", {
                                     className: "rounded-top-3",
                                     src: "/assets/imgs/features-7/img-1.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)(o.default, {
                                     href: "#",
@@ -2115,7 +2115,7 @@
                                   (0, a.jsx)("img", {
                                     className: "rounded-top-3",
                                     src: "/assets/imgs/features-7/img-2.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)(o.default, {
                                     href: "#",
@@ -2178,7 +2178,7 @@
                                   (0, a.jsx)("img", {
                                     className: "rounded-top-3",
                                     src: "/assets/imgs/features-7/img-3.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)(o.default, {
                                     href: "#",
@@ -2241,7 +2241,7 @@
                                   (0, a.jsx)("img", {
                                     className: "rounded-top-3",
                                     src: "/assets/imgs/features-7/img-1.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)(o.default, {
                                     href: "#",
@@ -2304,7 +2304,7 @@
                                   (0, a.jsx)("img", {
                                     className: "rounded-top-3",
                                     src: "/assets/imgs/features-7/img-2.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)(o.default, {
                                     href: "#",
@@ -2367,7 +2367,7 @@
                                   (0, a.jsx)("img", {
                                     className: "rounded-top-3",
                                     src: "/assets/imgs/features-7/img-3.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)(o.default, {
                                     href: "#",
@@ -2450,13 +2450,13 @@
                                     className:
                                       "rounded-4 border border-3 border-white me-3 mb-3",
                                     src: "/assets/imgs/newsletter-1/img-1.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)("img", {
                                     className:
                                       "rounded-4 border border-3 border-white me-3 mb-3",
                                     src: "/assets/imgs/newsletter-1/img-2.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                     "data-aos": "fade-zoom-in",
                                     "data-aos-delay": 50,
                                   }),
@@ -2464,7 +2464,7 @@
                                     className:
                                       "rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline",
                                     src: "/assets/imgs/newsletter-1/img-3.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 ],
                               }),
@@ -2477,13 +2477,13 @@
                                     className:
                                       "rounded-4 border border-3 border-white me-3 mb-3",
                                     src: "/assets/imgs/newsletter-1/img-4.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)("img", {
                                     className:
                                       "rounded-4 border border-3 border-white me-3 mb-3",
                                     src: "/assets/imgs/newsletter-1/img-5.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                     "data-aos": "fade-zoom-in",
                                     "data-aos-delay": 100,
                                   }),
@@ -2491,13 +2491,13 @@
                                     className:
                                       "rounded-4 border border-3 border-white me-3 mb-3",
                                     src: "/assets/imgs/newsletter-1/img-6.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)("img", {
                                     className:
                                       "rounded-4 border border-3 border-white me-3 mb-3",
                                     src: "/assets/imgs/newsletter-1/img-7.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                     "data-aos": "fade-zoom-in",
                                     "data-aos-delay": 100,
                                   }),
@@ -2513,7 +2513,7 @@
                                     className:
                                       "rounded-4 border border-3 border-white me-3 mb-3",
                                     src: "/assets/imgs/newsletter-1/img-8.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                     "data-aos": "fade-zoom-in",
                                     "data-aos-delay": 50,
                                   }),
@@ -2521,7 +2521,7 @@
                                     className:
                                       "rounded-4 border border-3 border-white me-3 mb-3",
                                     src: "/assets/imgs/newsletter-1/img-9.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                     "data-aos": "fade-zoom-in",
                                     "data-aos-delay": 100,
                                   }),
@@ -2529,7 +2529,7 @@
                                     className:
                                       "rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline",
                                     src: "/assets/imgs/newsletter-1/img-10.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 ],
                               }),
@@ -2549,7 +2549,7 @@
                                 children: [
                                   (0, a.jsx)("img", {
                                     src: "/assets/imgs/features-1/dots.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)("span", {
                                     className:
@@ -2606,7 +2606,7 @@
                         "position-absolute top-50 start-50 translate-middle z-0",
                       children: (0, a.jsx)("img", {
                         src: "/assets/imgs/newsletter-1/bg-line.png",
-                        alt: "infinia",
+                        alt: "Codm",
                       }),
                     }),
                     (0, a.jsxs)("div", {

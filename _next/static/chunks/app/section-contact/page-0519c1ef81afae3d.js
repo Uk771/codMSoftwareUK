@@ -68,7 +68,7 @@
                     className:
                       "position-absolute bottom-0 start-0 end-0 top-0 z-0",
                     src: "/assets/imgs/page-header/bg-line.png",
-                    alt: "infinia",
+                    alt: "Codm",
                   }),
                   (0, i.jsxs)("div", {
                     className: "bouncing-blobs-container",
@@ -108,7 +108,7 @@
                             children: [
                               (0, i.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, i.jsx)("span", {
                                 className:
@@ -146,7 +146,7 @@
                                   className: "icon",
                                   children: (0, i.jsx)("img", {
                                     src: "/assets/imgs/contact-1/icon-1.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                               }),
@@ -179,7 +179,7 @@
                                   className: "icon",
                                   children: (0, i.jsx)("img", {
                                     src: "/assets/imgs/contact-1/icon-2.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                               }),
@@ -212,7 +212,7 @@
                                   className: "icon",
                                   children: (0, i.jsx)("img", {
                                     src: "/assets/imgs/contact-1/icon-3.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                               }),
@@ -833,7 +833,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/contact-2/icon-1.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)(n.default, {
                                         className:
@@ -848,7 +848,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/contact-2/icon-2.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)(n.default, {
                                         className:
@@ -863,7 +863,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/contact-2/icon-3.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)(n.default, {
                                         className:
@@ -886,13 +886,13 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/contact-2/icon-4.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)(n.default, {
                                         className:
                                           "ms-2 text-decoration-underline text-900 fs-7",
                                         href: "#",
-                                        children: "support@infinia.com",
+                                        children: "support@Codm.com",
                                       }),
                                     ],
                                   }),
@@ -901,13 +901,13 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/contact-2/icon-4.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)(n.default, {
                                         className:
                                           "ms-2 text-decoration-underline text-900 fs-7",
                                         href: "#",
-                                        children: "sale@infinia.com",
+                                        children: "sale@Codm.com",
                                       }),
                                     ],
                                   }),
@@ -924,7 +924,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/contact-2/icon-5.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)(n.default, {
                                         className:
@@ -962,7 +962,7 @@
                             children: [
                               (0, i.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, i.jsx)("span", {
                                 className:
@@ -1562,7 +1562,7 @@
                                           className:
                                             "ms-2 text-decoration-underline text-900 fs-7",
                                           href: "#",
-                                          children: "support@infinia.com",
+                                          children: "support@Codm.com",
                                         }),
                                       ],
                                     }),
@@ -1584,7 +1584,7 @@
                                           className:
                                             "ms-2 text-decoration-underline text-900 fs-7",
                                           href: "#",
-                                          children: "sale@infinia.com",
+                                          children: "sale@Codm.com",
                                         }),
                                       ],
                                     }),
@@ -1701,7 +1701,7 @@
                           children: (0, i.jsx)("img", {
                             className: "rounded-4 w-100",
                             src: "/assets/imgs/contact-4/img-1.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                         }),
                       }),
@@ -1713,7 +1713,7 @@
                           children: (0, i.jsx)("img", {
                             className: "rounded-4 w-100",
                             src: "/assets/imgs/contact-4/img-2.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                         }),
                       }),
@@ -1731,17 +1731,17 @@
                                   children: [
                                     (0, i.jsx)("img", {
                                       src: "/assets/imgs/hero-1/avatar-1.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, i.jsx)("img", {
                                       className: "avt-hero",
                                       src: "/assets/imgs/hero-1/avatar-2.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, i.jsx)("img", {
                                       className: "avt-hero",
                                       src: " assets/imgs/hero-1/avatar-3.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   ],
                                 }),
@@ -1769,7 +1769,7 @@
                               className:
                                 "position-absolute top-50 start-50 translate-middle z-0",
                               src: "/assets/imgs/contact-4/img-bg-1.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           ],
                         }),
@@ -1782,7 +1782,7 @@
                           children: (0, i.jsx)("img", {
                             className: "rounded-4 w-100",
                             src: "/assets/imgs/contact-4/img-3.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                         }),
                       }),
@@ -1809,7 +1809,7 @@
                                 className: "icon",
                                 children: (0, i.jsx)("img", {
                                   src: "/assets/imgs/contact-5/icon-1.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             }),
@@ -1844,7 +1844,7 @@
                                 className: "icon",
                                 children: (0, i.jsx)("img", {
                                   src: "/assets/imgs/contact-5/icon-2.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             }),
@@ -1872,7 +1872,7 @@
                                 className: "icon",
                                 children: (0, i.jsx)("img", {
                                   src: "/assets/imgs/contact-5/icon-3.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             }),
@@ -1902,11 +1902,11 @@
                                 className: "icon",
                                 children: (0, i.jsx)("img", {
                                   src: "/assets/imgs/contact-5/icon-4.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             }),
-                            (0, i.jsx)("h6", { children: "Global branch" }),
+                            (0, i.jsx)("h6", { children: "Global Branch" }),
                             (0, i.jsxs)("p", {
                               className: "text-500",
                               children: [
@@ -1938,7 +1938,7 @@
                           children: [
                             (0, i.jsx)("img", {
                               src: "/assets/imgs/features-1/dots.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                             (0, i.jsx)("span", {
                               className:
@@ -2544,7 +2544,7 @@
                                         className:
                                           "ms-2 text-decoration-underline text-900 fs-7",
                                         href: "#",
-                                        children: "support@infinia.com",
+                                        children: "support@Codm.com",
                                       }),
                                     ],
                                   }),
@@ -2566,7 +2566,7 @@
                                         className:
                                           "ms-2 text-decoration-underline text-900 fs-7",
                                         href: "#",
-                                        children: "sale@infinia.com",
+                                        children: "sale@Codm.com",
                                       }),
                                     ],
                                   }),

@@ -50,7 +50,7 @@
                           children: [
                             (0, a.jsx)("img", {
                               src: "/assets/imgs/features-1/dots.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                             (0, a.jsx)("span", {
                               className:
@@ -130,7 +130,7 @@
                               (0, a.jsx)("img", {
                                 className: "rounded-top-3",
                                 src: "/assets/imgs/blog-4/card-img-1.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)(t.default, {
                                 href: "#",
@@ -168,7 +168,7 @@
                                             children: (0, a.jsx)("img", {
                                               className: "rounded-circle",
                                               src: "/assets/imgs/blog-4/avatar-1.png",
-                                              alt: "infinia",
+                                              alt: "Codm",
                                             }),
                                           }),
                                           (0, a.jsxs)("div", {
@@ -234,7 +234,7 @@
                               (0, a.jsx)("img", {
                                 className: "rounded-top-3",
                                 src: "/assets/imgs/blog-4/card-img-2.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)(t.default, {
                                 href: "#",
@@ -272,7 +272,7 @@
                                             children: (0, a.jsx)("img", {
                                               className: "rounded-circle",
                                               src: "/assets/imgs/blog-4/avatar-2.png",
-                                              alt: "infinia",
+                                              alt: "Codm",
                                             }),
                                           }),
                                           (0, a.jsxs)("div", {
@@ -338,7 +338,7 @@
                               (0, a.jsx)("img", {
                                 className: "rounded-top-3",
                                 src: "/assets/imgs/blog-4/card-img-3.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)(t.default, {
                                 href: "#",
@@ -376,7 +376,7 @@
                                             children: (0, a.jsx)("img", {
                                               className: "rounded-circle",
                                               src: "/assets/imgs/blog-4/avatar-3.png",
-                                              alt: "infinia",
+                                              alt: "Codm",
                                             }),
                                           }),
                                           (0, a.jsxs)("div", {
@@ -442,7 +442,7 @@
                               (0, a.jsx)("img", {
                                 className: "rounded-top-3",
                                 src: "/assets/imgs/blog-4/card-img-1.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)(t.default, {
                                 href: "#",
@@ -480,7 +480,7 @@
                                             children: (0, a.jsx)("img", {
                                               className: "rounded-circle",
                                               src: "/assets/imgs/blog-4/avatar-1.png",
-                                              alt: "infinia",
+                                              alt: "Codm",
                                             }),
                                           }),
                                           (0, a.jsxs)("div", {
@@ -546,7 +546,7 @@
                               (0, a.jsx)("img", {
                                 className: "rounded-top-3",
                                 src: "/assets/imgs/blog-4/card-img-2.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)(t.default, {
                                 href: "#",
@@ -584,7 +584,7 @@
                                             children: (0, a.jsx)("img", {
                                               className: "rounded-circle",
                                               src: "/assets/imgs/blog-4/avatar-2.png",
-                                              alt: "infinia",
+                                              alt: "Codm",
                                             }),
                                           }),
                                           (0, a.jsxs)("div", {
@@ -650,7 +650,7 @@
                               (0, a.jsx)("img", {
                                 className: "rounded-top-3",
                                 src: "/assets/imgs/blog-4/card-img-3.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)(t.default, {
                                 href: "#",
@@ -688,7 +688,7 @@
                                             children: (0, a.jsx)("img", {
                                               className: "rounded-circle",
                                               src: "/assets/imgs/blog-4/avatar-3.png",
-                                              alt: "infinia",
+                                              alt: "Codm",
                                             }),
                                           }),
                                           (0, a.jsxs)("div", {
@@ -790,7 +790,7 @@
                               (0, a.jsx)("img", {
                                 className: "rounded-4",
                                 src: "/assets/imgs/cta-4/img-1.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)("div", {
                                 className:
@@ -836,7 +836,7 @@
                             children: (0, a.jsx)("img", {
                               className: "alltuchtopdown",
                               src: "/assets/imgs/cta-4/vector.svg",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           }),
                         ],
@@ -873,7 +873,7 @@
                                   children: [
                                     (0, a.jsx)("img", {
                                       src: "/assets/imgs/cta-2/check.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, a.jsx)("span", {
                                       className: "ms-2 text-900",
@@ -886,7 +886,7 @@
                                   children: [
                                     (0, a.jsx)("img", {
                                       src: "/assets/imgs/cta-2/check.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, a.jsx)("span", {
                                       className: "ms-2 text-900",
@@ -905,7 +905,7 @@
                                   children: [
                                     (0, a.jsx)("img", {
                                       src: "/assets/imgs/cta-2/check.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, a.jsx)("span", {
                                       className: "ms-2 text-900",
@@ -918,7 +918,7 @@
                                   children: [
                                     (0, a.jsx)("img", {
                                       src: "/assets/imgs/cta-2/check.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, a.jsx)("span", {
                                       className: "ms-2 text-900",
@@ -1025,7 +1025,7 @@
                           (0, a.jsx)("img", {
                             className: "rounded-4 position-relative z-1",
                             src: "/assets/imgs/cta-5/img-1.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                           (0, a.jsxs)("div", {
                             className:
@@ -1045,17 +1045,17 @@
                                 children: [
                                   (0, a.jsx)("img", {
                                     src: "/assets/imgs/features-3/avatar-1.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)("img", {
                                     className: "avt-hero z-1",
                                     src: "/assets/imgs/features-3/avatar-2.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)("img", {
                                     className: "avt-hero z-0",
                                     src: " assets/imgs/features-3/avatar-3.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 ],
                               }),
@@ -1128,7 +1128,7 @@
                             children: (0, a.jsx)("img", {
                               className: "alltuchtopdown",
                               src: "/assets/imgs/cta-4/vector.svg",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           }),
                         ],
@@ -1489,7 +1489,7 @@
                         children: [
                           (0, a.jsx)("img", {
                             src: "/assets/imgs/features-8/icon-star.svg",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                           (0, a.jsx)("h2", {
                             className: "text-white mt-3 mb-4 fw-black",
@@ -1574,7 +1574,7 @@
                                   (0, a.jsx)("img", {
                                     className: "mt-2",
                                     src: "/assets/imgs/features-2/tick.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsxs)("div", {
                                     className: "ms-3 pb-4 border-bottom",
@@ -1601,7 +1601,7 @@
                                   (0, a.jsx)("img", {
                                     className: "mt-2",
                                     src: "/assets/imgs/features-2/tick.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsxs)("div", {
                                     className: "ms-3 pb-4 border-bottom",
@@ -1628,7 +1628,7 @@
                                   (0, a.jsx)("img", {
                                     className: "mt-2",
                                     src: "/assets/imgs/features-2/tick.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsxs)("div", {
                                     className: "ms-3 pb-4 border-bottom",
@@ -1663,7 +1663,7 @@
                                   (0, a.jsx)("img", {
                                     className: "mt-2",
                                     src: "/assets/imgs/features-2/tick.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsxs)("div", {
                                     className: "ms-3 pb-4 border-bottom",
@@ -1690,7 +1690,7 @@
                                   (0, a.jsx)("img", {
                                     className: "mt-2",
                                     src: "/assets/imgs/features-2/tick.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsxs)("div", {
                                     className: "ms-3 pb-4 border-bottom",
@@ -1717,7 +1717,7 @@
                                   (0, a.jsx)("img", {
                                     className: "mt-2",
                                     src: "/assets/imgs/features-2/tick.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsxs)("div", {
                                     className: "ms-3 pb-4 border-bottom",
@@ -1747,7 +1747,7 @@
                   children: (0, a.jsx)("img", {
                     className: "rotate-center",
                     src: "/assets/imgs/features-8/bg-img-favicon.png",
-                    alt: "infinia",
+                    alt: "Codm",
                   }),
                 }),
                 (0, a.jsx)("div", {
@@ -1793,7 +1793,7 @@
                             children: [
                               (0, a.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)("span", {
                                 className:
@@ -1822,7 +1822,7 @@
                                   children: [
                                     (0, a.jsx)("img", {
                                       src: "/assets/imgs/features-9/tick.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, a.jsx)("p", {
                                       className: " mb-0 ms-2 fs-5 text-900",
@@ -1839,7 +1839,7 @@
                                   children: [
                                     (0, a.jsx)("img", {
                                       src: "/assets/imgs/features-9/tick.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, a.jsx)("p", {
                                       className: " mb-0 ms-2 fs-5 text-900",
@@ -1856,7 +1856,7 @@
                                   children: [
                                     (0, a.jsx)("img", {
                                       src: "/assets/imgs/features-9/tick.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, a.jsx)("p", {
                                       className: " mb-0 ms-2 fs-5 text-900",
@@ -1878,7 +1878,7 @@
                               className:
                                 "rounded-4 border border-3 border-white",
                               src: "/assets/imgs/features-9/img-1.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                             (0, a.jsx)("div", {
                               className:
@@ -1889,7 +1889,7 @@
                                 children: [
                                   (0, a.jsx)("img", {
                                     src: "/assets/imgs/cta-3/icon-contact.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsxs)("span", {
                                     className: "ms-3",
@@ -2071,7 +2071,7 @@
                           (0, a.jsx)("img", {
                             className: "rounded-5 border border-5 border-white",
                             src: "/assets/imgs/hero-4/img-1.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                           (0, a.jsxs)("div", {
                             className:
@@ -2123,7 +2123,7 @@
                               className: "alltuchtopdown",
                               children: (0, a.jsx)("img", {
                                 src: "/assets/imgs/hero-4/vector-1.svg",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                             }),
                           }),
@@ -2305,7 +2305,7 @@
                                                 children: (0, a.jsx)("img", {
                                                   className: "rounded-circle",
                                                   src: "/assets/imgs/hero-4/avatar-1.png",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                               }),
                                               (0, a.jsxs)("div", {
@@ -2316,23 +2316,23 @@
                                                     children: [
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                     ],
                                                   }),
@@ -2365,7 +2365,7 @@
                                                 children: (0, a.jsx)("img", {
                                                   className: "rounded-circle",
                                                   src: "/assets/imgs/hero-4/avatar-1.png",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                               }),
                                               (0, a.jsxs)("div", {
@@ -2376,23 +2376,23 @@
                                                     children: [
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                     ],
                                                   }),
@@ -2425,7 +2425,7 @@
                                                 children: (0, a.jsx)("img", {
                                                   className: "rounded-circle",
                                                   src: "/assets/imgs/hero-4/avatar-1.png",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                               }),
                                               (0, a.jsxs)("div", {
@@ -2436,23 +2436,23 @@
                                                     children: [
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                     ],
                                                   }),
@@ -2485,7 +2485,7 @@
                                                 children: (0, a.jsx)("img", {
                                                   className: "rounded-circle",
                                                   src: "/assets/imgs/hero-4/avatar-1.png",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                               }),
                                               (0, a.jsxs)("div", {
@@ -2496,23 +2496,23 @@
                                                     children: [
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                       (0, a.jsx)("img", {
                                                         src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                        alt: "infinia",
+                                                        alt: "Codm",
                                                       }),
                                                     ],
                                                   }),
@@ -2549,7 +2549,7 @@
                               "position-absolute top-0 end-0 z-1 flickering pt-9 pe-4",
                             children: (0, a.jsx)("img", {
                               src: "/assets/imgs/hero-4/star-1.svg",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           }),
                         ],
@@ -2563,7 +2563,7 @@
                   children: (0, a.jsx)("img", {
                     className: "h-100",
                     src: "/assets/imgs/hero-4/line-bg.png",
-                    alt: "infinia",
+                    alt: "Codm",
                   }),
                 }),
                 (0, a.jsx)("div", {
@@ -2571,7 +2571,7 @@
                     "position-absolute bg-rotate d-none d-lg-block pb-10 ps-9 mb-8 z-0",
                   children: (0, a.jsx)("img", {
                     src: "/assets/imgs/hero-4/favicon.svg",
-                    alt: "infinia",
+                    alt: "Codm",
                   }),
                 }),
               ],
@@ -2609,7 +2609,7 @@
                       children: [
                         (0, a.jsx)("img", {
                           src: "/assets/imgs/features-1/dots.png",
-                          alt: "infinia",
+                          alt: "Codm",
                         }),
                         (0, a.jsx)("span", {
                           className:
@@ -2676,7 +2676,7 @@
                                     className: "icon",
                                     children: (0, a.jsx)("img", {
                                       src: "/assets/imgs/service-3/icon-1.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -2743,7 +2743,7 @@
                                     className: "icon",
                                     children: (0, a.jsx)("img", {
                                       src: "/assets/imgs/service-3/icon-2.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -2810,7 +2810,7 @@
                                     className: "icon",
                                     children: (0, a.jsx)("img", {
                                       src: "/assets/imgs/service-3/icon-3.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -2877,7 +2877,7 @@
                                     className: "icon",
                                     children: (0, a.jsx)("img", {
                                       src: "/assets/imgs/service-3/icon-4.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -2944,7 +2944,7 @@
                                     className: "icon",
                                     children: (0, a.jsx)("img", {
                                       src: "/assets/imgs/service-3/icon-1.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -3011,7 +3011,7 @@
                                     className: "icon",
                                     children: (0, a.jsx)("img", {
                                       src: "/assets/imgs/service-3/icon-2.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -3078,7 +3078,7 @@
                                     className: "icon",
                                     children: (0, a.jsx)("img", {
                                       src: "/assets/imgs/service-3/icon-3.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -3145,7 +3145,7 @@
                                     className: "icon",
                                     children: (0, a.jsx)("img", {
                                       src: "/assets/imgs/service-3/icon-4.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -3440,7 +3440,7 @@
                         children: [
                           (0, a.jsx)("img", {
                             src: "/assets/imgs/features-1/dots.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                           (0, a.jsx)("span", {
                             className:
@@ -3572,7 +3572,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-3/portrait-2.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(t.default, {
@@ -3646,7 +3646,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-3/portrait-3.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(t.default, {
@@ -3720,7 +3720,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-3/portrait-4.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(t.default, {
@@ -3794,7 +3794,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-3/portrait-1.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(t.default, {
@@ -3868,7 +3868,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-3/portrait-2.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(t.default, {
@@ -3942,7 +3942,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-3/portrait-3.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(t.default, {
@@ -4016,7 +4016,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-3/portrait-4.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(t.default, {

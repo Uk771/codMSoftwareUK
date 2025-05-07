@@ -75,7 +75,7 @@
                     className:
                       "position-absolute bottom-0 start-0 end-0 top-0 z-0",
                     src: "/assets/imgs/page-header/bg-line.png",
-                    alt: "infinia",
+                    alt: "Codm",
                   }),
                   (0, n.jsxs)("div", {
                     className: "bouncing-blobs-container",
@@ -156,7 +156,7 @@
                                       children: (0, n.jsx)("img", {
                                         className: "w-100",
                                         src: "/assets/imgs/case-study-details/img-1.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, n.jsx)(c.o5, {
@@ -164,7 +164,7 @@
                                       children: (0, n.jsx)("img", {
                                         className: "w-100",
                                         src: "/assets/imgs/case-study-details/img-2.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                   ],
@@ -363,7 +363,7 @@
                                   children: [
                                     (0, n.jsx)("img", {
                                       src: "/assets/imgs/services-details/icon-contact.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, n.jsxs)("div", {
                                       className: "ms-3",
@@ -406,7 +406,7 @@
                             (0, n.jsx)("img", {
                               className: "position-absolute top-0 end-0",
                               src: "/assets/imgs/services-details/bg-line-3.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           ],
                         }),
@@ -433,7 +433,7 @@
                             children: [
                               (0, n.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, n.jsx)("span", {
                                 className:
@@ -766,7 +766,7 @@
                                   (0, n.jsx)("img", {
                                     className: "rounded-3 w-100 w-md-auto",
                                     src: "/assets/imgs/features-6/img-1.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, n.jsxs)("div", {
                                     className: "content mt-md-0 mt-4 ms-5",
@@ -791,7 +791,7 @@
                                   (0, n.jsx)("img", {
                                     className: "rounded-3 w-100 w-md-auto",
                                     src: "/assets/imgs/features-6/img-2.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, n.jsxs)("div", {
                                     className: "content mt-md-0 mt-4 ms-5",
@@ -816,7 +816,7 @@
                                   (0, n.jsx)("img", {
                                     className: "rounded-3 w-100 w-md-auto",
                                     src: "/assets/imgs/features-6/img-3.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, n.jsxs)("div", {
                                     className: "content mt-md-0 mt-4 ms-5",
@@ -844,7 +844,7 @@
                       "position-absolute top-0 start-50 translate-middle-x z-0",
                     children: (0, n.jsx)("img", {
                       src: "/assets/imgs/service-2/bg-line.png",
-                      alt: "infinia",
+                      alt: "Codm",
                     }),
                   }),
                   (0, n.jsx)("div", {

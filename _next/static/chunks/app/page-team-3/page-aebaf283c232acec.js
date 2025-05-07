@@ -44,7 +44,7 @@
                             children: [
                               (0, i.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, i.jsx)("span", {
                                 className:
@@ -80,7 +80,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-1.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsxs)(t.default, {
@@ -154,7 +154,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-2.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsxs)(t.default, {
@@ -228,7 +228,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-3.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsxs)(t.default, {
@@ -302,7 +302,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-4.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsxs)(t.default, {
@@ -376,7 +376,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-5.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsxs)(t.default, {
@@ -450,7 +450,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-6.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsxs)(t.default, {
@@ -524,7 +524,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-7.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsxs)(t.default, {
@@ -598,7 +598,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-8.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsxs)(t.default, {
@@ -739,7 +739,7 @@
                             children: [
                               (0, i.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, i.jsx)("span", {
                                 className:
@@ -996,7 +996,7 @@
                                               children: [
                                                 (0, i.jsx)("img", {
                                                   src: "/assets/imgs/testimonial-1/flag-1.png",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                                 (0, i.jsx)("span", {
                                                   className: "fs-8",
@@ -1039,7 +1039,7 @@
                                               children: [
                                                 (0, i.jsx)("img", {
                                                   src: "/assets/imgs/testimonial-1/flag-2.png",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                                 (0, i.jsx)("span", {
                                                   className: "fs-8",
@@ -1082,7 +1082,7 @@
                                               children: [
                                                 (0, i.jsx)("img", {
                                                   src: "/assets/imgs/testimonial-1/flag-3.png",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                                 (0, i.jsx)("span", {
                                                   className: "fs-8",
@@ -1125,7 +1125,7 @@
                                               children: [
                                                 (0, i.jsx)("img", {
                                                   src: "/assets/imgs/testimonial-1/flag-4.png",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                                 (0, i.jsx)("span", {
                                                   className: "fs-8",
@@ -1168,7 +1168,7 @@
                                               children: [
                                                 (0, i.jsx)("img", {
                                                   src: "/assets/imgs/testimonial-1/flag-1.png",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                                 (0, i.jsx)("span", {
                                                   className: "fs-8",
@@ -1211,7 +1211,7 @@
                                               children: [
                                                 (0, i.jsx)("img", {
                                                   src: "/assets/imgs/testimonial-1/flag-2.png",
-                                                  alt: "infinia",
+                                                  alt: "Codm",
                                                 }),
                                                 (0, i.jsx)("span", {
                                                   className: "fs-8",
@@ -1253,7 +1253,7 @@
                       "position-absolute top-0 start-50 translate-middle-x z-0",
                     children: (0, i.jsx)("img", {
                       src: "/assets/imgs/team-1/bg-line.png",
-                      alt: "infinia",
+                      alt: "Codm",
                     }),
                   }),
                   (0, i.jsx)("div", {

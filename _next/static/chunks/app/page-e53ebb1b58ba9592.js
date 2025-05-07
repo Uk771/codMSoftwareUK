@@ -40,7 +40,7 @@
                           children: [
                             (0, a.jsx)("img", {
                               src: "/assets/imgs/features-1/dots.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                             (0, a.jsx)("span", {
                               className:
@@ -78,7 +78,7 @@
                               className:
                                 "rounded-3 border border-3 border-white",
                               src: "/assets/imgs/features-1/img-1.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           }),
                           (0, a.jsx)("div", {
@@ -90,7 +90,7 @@
                               className:
                                 "rounded-3 border border-3 border-white",
                               src: "/assets/imgs/features-1/img-2.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           }),
                           (0, a.jsxs)("div", {
@@ -103,7 +103,7 @@
                                 className:
                                   "rounded-3 border border-3 border-white",
                                 src: "/assets/imgs/features-1/img-3.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsxs)(l.default, {
                                 href: "#",
@@ -148,17 +148,17 @@
                             className:
                               "position-absolute top-50 start-0 translate-middle-y z-0",
                             src: "/assets/imgs/features-1/bg-ellipse.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                           (0, a.jsx)("img", {
                             className: "position-absolute z-2 star-lg",
                             src: "/assets/imgs/features-1/star-lg.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                           (0, a.jsx)("img", {
                             className: "position-absolute z-2 star-md",
                             src: "/assets/imgs/features-1/star-md.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                         ],
                       }),
@@ -431,7 +431,7 @@
                           (0, a.jsx)("img", {
                             className: "rounded-4",
                             src: "/assets/imgs/features-3/img-1.png",
-                            alt: "infinia",
+                            alt: "Codm",
                             "data-aos": "fade-zoom-in",
                             "data-aos-delay": 200,
                           }),
@@ -446,17 +446,17 @@
                             //     children: [
                             //       (0, a.jsx)("img", {
                             //         src: "/assets/imgs/features-3/avatar-1.png",
-                            //         alt: "infinia",
+                            //         alt: "Codm",
                             //       }),
                             //       (0, a.jsx)("img", {
                             //         className: "avt-hero z-1",
                             //         src: "/assets/imgs/features-3/avatar-2.png",
-                            //         alt: "infinia",
+                            //         alt: "Codm",
                             //       }),
                             //       (0, a.jsx)("img", {
                             //         className: "avt-hero z-0",
                             //         src: " assets/imgs/features-3/avatar-3.png",
-                            //         alt: "infinia",
+                            //         alt: "Codm",
                             //       }),
                             //     ],
                             //   }),
@@ -736,7 +736,7 @@
         //                       children: [
         //                         (0, a.jsx)("img", {
         //                           src: "/assets/imgs/features-1/dots.png",
-        //                           alt: "infinia",
+        //                           alt: "Codm",
         //                         }),
         //                         (0, a.jsx)("span", {
         //                           className:
@@ -851,7 +851,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -864,7 +864,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -877,7 +877,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -890,7 +890,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-secondary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2 text-400",
@@ -903,7 +903,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-secondary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2 text-400",
@@ -977,7 +977,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -990,7 +990,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -1003,7 +1003,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -1016,7 +1016,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -1029,7 +1029,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -1103,7 +1103,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -1116,7 +1116,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -1129,7 +1129,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -1142,7 +1142,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -1155,7 +1155,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -1229,7 +1229,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -1242,7 +1242,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -1255,7 +1255,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -1268,7 +1268,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",
@@ -1281,7 +1281,7 @@
         //                           children: [
         //                             (0, a.jsx)("img", {
         //                               src: "/assets/imgs/pricing-1/check-primary.svg",
-        //                               alt: "infinia",
+        //                               alt: "Codm",
         //                             }),
         //                             (0, a.jsx)("h6", {
         //                               className: "fs-6 mb-0 ms-2",

@@ -41,7 +41,7 @@
                                 children: [
                                   (0, i.jsx)("img", {
                                     src: "/assets/imgs/features-1/dots.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, i.jsx)("span", {
                                     className:
@@ -67,7 +67,7 @@
                                 children: [
                                   (0, i.jsx)("img", {
                                     src: "/assets/imgs/team-2/contact.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, i.jsxs)("div", {
                                     className: "ms-3",
@@ -104,7 +104,7 @@
                                       children: (0, i.jsx)("img", {
                                         className: "img-fluid w-100",
                                         src: "/assets/imgs/team-2/avatar-1.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, i.jsxs)(a.default, {
@@ -156,7 +156,7 @@
                                       children: (0, i.jsx)("img", {
                                         className: "img-fluid w-100",
                                         src: "/assets/imgs/team-2/avatar-2.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, i.jsxs)(a.default, {
@@ -216,7 +216,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-2/avatar-3.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsxs)(a.default, {
@@ -266,7 +266,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-2/avatar-4.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsxs)(a.default, {
@@ -316,7 +316,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-2/avatar-5.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsxs)(a.default, {
@@ -366,7 +366,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-2/avatar-6.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsxs)(a.default, {
@@ -429,7 +429,7 @@
                               children: [
                                 (0, i.jsx)("img", {
                                   src: "/assets/imgs/features-1/dots.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                                 (0, i.jsx)("span", {
                                   className:
@@ -457,7 +457,7 @@
                                     className: "icon",
                                     children: (0, i.jsx)("img", {
                                       src: "/assets/imgs/service-4/icon-1.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -488,7 +488,7 @@
                                     className: "icon",
                                     children: (0, i.jsx)("img", {
                                       src: "/assets/imgs/service-4/icon-2.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -521,7 +521,7 @@
                               (0, i.jsx)("img", {
                                 className: "rounded-4 position-relative z-1",
                                 src: "/assets/imgs/cta-5/img-1.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, i.jsxs)("div", {
                                 className:
@@ -554,7 +554,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "alltuchtopdown",
                                   src: "/assets/imgs/cta-4/vector.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -639,7 +639,7 @@
                                 (0, i.jsx)("img", {
                                   className: "rounded-2",
                                   src: "/assets/imgs/banner-3/img-1.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                                 (0, i.jsx)("div", {
                                   className:
@@ -652,12 +652,12 @@
                         (0, i.jsx)("img", {
                           className: "position-absolute top-0 end-0 z-0",
                           src: "/assets/imgs/services-details/bg-line-1.png",
-                          alt: "infinia",
+                          alt: "Codm",
                         }),
                         (0, i.jsx)("img", {
                           className: "position-absolute bottom-0 start-0 z-0",
                           src: "/assets/imgs/services-details/bg-line-2.png",
-                          alt: "infinia",
+                          alt: "Codm",
                         }),
                       ],
                     }),

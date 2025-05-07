@@ -69,7 +69,7 @@
                     className:
                       "position-absolute bottom-0 start-0 end-0 top-0 z-0",
                     src: "/assets/imgs/page-header/bg-line.png",
-                    alt: "infinia",
+                    alt: "Codm",
                   }),
                   (0, a.jsxs)("div", {
                     className: "bouncing-blobs-container",
@@ -112,7 +112,7 @@
                               children: [
                                 (0, a.jsx)("img", {
                                   src: "/assets/imgs/features-1/dots.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                                 (0, a.jsx)("span", {
                                   className:
@@ -158,7 +158,7 @@
                                   children: (0, a.jsx)("img", {
                                     className: "img-fluid w-100",
                                     src: "/assets/imgs/team-1/avatar-1.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsxs)(r.default, {
@@ -208,7 +208,7 @@
                                   children: (0, a.jsx)("img", {
                                     className: "img-fluid w-100",
                                     src: "/assets/imgs/team-1/avatar-2.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsxs)(r.default, {
@@ -258,7 +258,7 @@
                                   children: (0, a.jsx)("img", {
                                     className: "img-fluid w-100",
                                     src: "/assets/imgs/team-1/avatar-3.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsxs)(r.default, {
@@ -308,7 +308,7 @@
                                   children: (0, a.jsx)("img", {
                                     className: "img-fluid w-100",
                                     src: "/assets/imgs/team-1/avatar-4.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsxs)(r.default, {
@@ -358,7 +358,7 @@
                                   children: (0, a.jsx)("img", {
                                     className: "img-fluid w-100",
                                     src: "/assets/imgs/team-1/avatar-5.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsxs)(r.default, {
@@ -408,7 +408,7 @@
                                   children: (0, a.jsx)("img", {
                                     className: "img-fluid w-100",
                                     src: "/assets/imgs/team-1/avatar-6.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsxs)(r.default, {
@@ -458,7 +458,7 @@
                                   children: (0, a.jsx)("img", {
                                     className: "img-fluid w-100",
                                     src: "/assets/imgs/team-1/avatar-7.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsxs)(r.default, {
@@ -508,7 +508,7 @@
                                   children: (0, a.jsx)("img", {
                                     className: "img-fluid w-100",
                                     src: "/assets/imgs/team-1/avatar-8.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, a.jsxs)(r.default, {
@@ -554,7 +554,7 @@
                       "position-absolute top-0 start-50 translate-middle-x z-0",
                     children: (0, a.jsx)("img", {
                       src: "/assets/imgs/team-1/bg-line.png",
-                      alt: "infinia",
+                      alt: "Codm",
                     }),
                   }),
                   (0, a.jsx)("div", {
@@ -588,7 +588,7 @@
                                 children: [
                                   (0, a.jsx)("img", {
                                     src: "/assets/imgs/features-1/dots.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsx)("span", {
                                     className:
@@ -614,7 +614,7 @@
                                 children: [
                                   (0, a.jsx)("img", {
                                     src: "/assets/imgs/team-2/contact.svg",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, a.jsxs)("div", {
                                     className: "ms-3",
@@ -651,7 +651,7 @@
                                       children: (0, a.jsx)("img", {
                                         className: "img-fluid w-100",
                                         src: "/assets/imgs/team-2/avatar-1.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, a.jsxs)(r.default, {
@@ -703,7 +703,7 @@
                                       children: (0, a.jsx)("img", {
                                         className: "img-fluid w-100",
                                         src: "/assets/imgs/team-2/avatar-2.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, a.jsxs)(r.default, {
@@ -763,7 +763,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-2/avatar-3.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(r.default, {
@@ -813,7 +813,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-2/avatar-4.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(r.default, {
@@ -863,7 +863,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-2/avatar-5.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(r.default, {
@@ -913,7 +913,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-2/avatar-6.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(r.default, {
@@ -973,7 +973,7 @@
                             children: [
                               (0, a.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)("span", {
                                 className:
@@ -1031,7 +1031,7 @@
                                     children: (0, a.jsx)("img", {
                                       className: "img-fluid w-100",
                                       src: "/assets/imgs/team-3/portrait-1.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                   (0, a.jsxs)(r.default, {
@@ -1105,7 +1105,7 @@
                                     children: (0, a.jsx)("img", {
                                       className: "img-fluid w-100",
                                       src: "/assets/imgs/team-3/portrait-2.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                   (0, a.jsxs)(r.default, {
@@ -1179,7 +1179,7 @@
                                     children: (0, a.jsx)("img", {
                                       className: "img-fluid w-100",
                                       src: "/assets/imgs/team-3/portrait-3.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                   (0, a.jsxs)(r.default, {
@@ -1253,7 +1253,7 @@
                                     children: (0, a.jsx)("img", {
                                       className: "img-fluid w-100",
                                       src: "/assets/imgs/team-3/portrait-4.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                   (0, a.jsxs)(r.default, {
@@ -1327,7 +1327,7 @@
                                     children: (0, a.jsx)("img", {
                                       className: "img-fluid w-100",
                                       src: "/assets/imgs/team-3/portrait-1.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                   (0, a.jsxs)(r.default, {
@@ -1401,7 +1401,7 @@
                                     children: (0, a.jsx)("img", {
                                       className: "img-fluid w-100",
                                       src: "/assets/imgs/team-3/portrait-2.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                   (0, a.jsxs)(r.default, {
@@ -1475,7 +1475,7 @@
                                     children: (0, a.jsx)("img", {
                                       className: "img-fluid w-100",
                                       src: "/assets/imgs/team-3/portrait-3.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                   (0, a.jsxs)(r.default, {
@@ -1549,7 +1549,7 @@
                                     children: (0, a.jsx)("img", {
                                       className: "img-fluid w-100",
                                       src: "/assets/imgs/team-3/portrait-4.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                   (0, a.jsxs)(r.default, {
@@ -1638,7 +1638,7 @@
                           children: [
                             (0, a.jsx)("img", {
                               src: "/assets/imgs/features-1/dots.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                             (0, a.jsx)("span", {
                               className:
@@ -1675,7 +1675,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-4/avatar-1.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsx)("div", {
@@ -1726,7 +1726,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-4/avatar-2.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsx)("div", {
@@ -1777,7 +1777,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-4/avatar-3.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsx)("div", {
@@ -1833,7 +1833,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-4/avatar-4.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsx)("div", {
@@ -1884,7 +1884,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-4/avatar-5.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsx)("div", {
@@ -1935,7 +1935,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-4/avatar-6.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsx)("div", {
@@ -1986,7 +1986,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-4/avatar-7.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsx)("div", {
@@ -2049,7 +2049,7 @@
                             children: [
                               (0, a.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)("span", {
                                 className:
@@ -2105,7 +2105,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-5/img-portrait-1.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)("div", {
@@ -2170,7 +2170,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-5/img-portrait-2.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)("div", {
@@ -2235,7 +2235,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-5/img-portrait-3.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)("div", {
@@ -2300,7 +2300,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-5/img-portrait-4.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)("div", {
@@ -2365,7 +2365,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-5/img-portrait-5.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)("div", {
@@ -2430,7 +2430,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-5/img-portrait-6.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)("div", {
@@ -2495,7 +2495,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-5/img-portrait-7.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)("div", {
@@ -2560,7 +2560,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-5/img-portrait-8.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)("div", {
@@ -2722,7 +2722,7 @@
                             children: [
                               (0, a.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)("span", {
                                 className:
@@ -2809,7 +2809,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-1.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -2875,7 +2875,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-2.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -2941,7 +2941,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-3.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -3007,7 +3007,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-4.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -3073,7 +3073,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-5.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -3139,7 +3139,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-6.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -3205,7 +3205,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-7.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -3271,7 +3271,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-6/img-portrait-8.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -3352,7 +3352,7 @@
                             children: [
                               (0, a.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, a.jsx)("span", {
                                 className:
@@ -3388,7 +3388,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-1.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(r.default, {
@@ -3462,7 +3462,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-2.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(r.default, {
@@ -3536,7 +3536,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-3.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(r.default, {
@@ -3610,7 +3610,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-4.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(r.default, {
@@ -3684,7 +3684,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-5.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(r.default, {
@@ -3758,7 +3758,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-6.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(r.default, {
@@ -3832,7 +3832,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-7.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(r.default, {
@@ -3906,7 +3906,7 @@
                                 children: (0, a.jsx)("img", {
                                   className: "img-fluid w-100",
                                   src: "/assets/imgs/team-7/portrait-8.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, a.jsxs)(r.default, {

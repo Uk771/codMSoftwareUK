@@ -726,7 +726,7 @@
                           children: (0, i.jsx)(d.default, {
                             href: "/",
                             children: (0, i.jsx)("img", {
-                              src: "assets/imgs/logo/logo-white.svg",
+                              src: "assets/imgs/template/logo-no-background.png",
                               alt: "CodM",
                             }),
                           }),

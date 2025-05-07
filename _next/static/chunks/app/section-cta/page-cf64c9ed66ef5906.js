@@ -79,7 +79,7 @@
                     className:
                       "position-absolute bottom-0 start-0 end-0 top-0 z-0",
                     src: "/assets/imgs/page-header/bg-line.png",
-                    alt: "infinia",
+                    alt: "Codm",
                   }),
                   (0, i.jsxs)("div", {
                     className: "bouncing-blobs-container",
@@ -124,7 +124,7 @@
                                 children: [
                                   (0, i.jsx)("img", {
                                     src: "/assets/imgs/features-1/dots.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, i.jsx)("span", {
                                     className:
@@ -156,7 +156,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/pricing-1/check-primary.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("span", {
                                         className: "mb-0 ms-2 fs-5 fw-bold",
@@ -172,7 +172,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/pricing-1/check-primary.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("span", {
                                         className: "mb-0 ms-2 fs-5 fw-bold",
@@ -188,7 +188,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/pricing-1/check-primary.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("span", {
                                         className: "mb-0 ms-2 fs-5 fw-bold",
@@ -206,21 +206,21 @@
                                     href: "#",
                                     children: (0, i.jsx)("img", {
                                       src: "/assets/imgs/cta-1/app-1.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                   (0, i.jsx)(n.default, {
                                     href: "#",
                                     children: (0, i.jsx)("img", {
                                       src: "/assets/imgs/cta-1/app-2.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                   (0, i.jsx)(n.default, {
                                     href: "#",
                                     children: (0, i.jsx)("img", {
                                       src: "/assets/imgs/cta-1/app-3.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 ],
@@ -233,17 +233,17 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/hero-1/avatar-1.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("img", {
                                         className: "avt-hero",
                                         src: "/assets/imgs/hero-1/avatar-2.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("img", {
                                         className: "avt-hero",
                                         src: " assets/imgs/hero-1/avatar-3.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     ],
                                   }),
@@ -285,7 +285,7 @@
                           className: "col-lg-6 text-lg-end text-center",
                           children: (0, i.jsx)("img", {
                             src: "/assets/imgs/cta-1/img-1.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                         }),
                       ],
@@ -327,7 +327,7 @@
                           children: [
                             (0, i.jsx)("img", {
                               src: "/assets/imgs/features-1/dots.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                             (0, i.jsx)("span", {
                               className:
@@ -371,7 +371,7 @@
                                 className:
                                   "rounded-4 border border-2 border-white mb-10 mt-5",
                                 src: "/assets/imgs/cta-2/img-1.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, i.jsx)("div", {
                                 className:
@@ -414,7 +414,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "flickering",
                                   src: "/assets/imgs/cta-2/star-2.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsx)("div", {
@@ -422,7 +422,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "alltuchtopdown",
                                   src: "/assets/imgs/cta-2/star-1.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -455,7 +455,7 @@
                                       children: [
                                         (0, i.jsx)("img", {
                                           src: "/assets/imgs/cta-2/check.svg",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                         (0, i.jsx)("span", {
                                           className:
@@ -470,7 +470,7 @@
                                       children: [
                                         (0, i.jsx)("img", {
                                           src: "/assets/imgs/cta-2/check.svg",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                         (0, i.jsx)("span", {
                                           className:
@@ -491,7 +491,7 @@
                                       children: [
                                         (0, i.jsx)("img", {
                                           src: "/assets/imgs/cta-2/check.svg",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                         (0, i.jsx)("span", {
                                           className:
@@ -506,7 +506,7 @@
                                       children: [
                                         (0, i.jsx)("img", {
                                           src: "/assets/imgs/cta-2/check.svg",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                         (0, i.jsx)("span", {
                                           className:
@@ -532,7 +532,7 @@
                                         className:
                                           "rounded-circle border border-5 border-primary-light",
                                         src: " assets/imgs/cta-2/avatar-1.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     }),
                                     (0, i.jsxs)("div", {
@@ -541,7 +541,7 @@
                                         (0, i.jsx)("img", {
                                           className: "filter-invert",
                                           src: "/assets/imgs/cta-2/name-ad.svg",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                         (0, i.jsxs)("h6", {
                                           className: "mt-1",
@@ -642,7 +642,7 @@
                               children: [
                                 (0, i.jsx)("img", {
                                   src: "/assets/imgs/cta-3/icon-contact.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                                 (0, i.jsxs)("span", {
                                   className: "ms-3",
@@ -708,7 +708,7 @@
                                 (0, i.jsx)("img", {
                                   className: "rounded-4",
                                   src: "/assets/imgs/cta-4/img-1.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                                 (0, i.jsx)("div", {
                                   className:
@@ -754,7 +754,7 @@
                               children: (0, i.jsx)("img", {
                                 className: "alltuchtopdown",
                                 src: "/assets/imgs/cta-4/vector.svg",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                             }),
                           ],
@@ -791,7 +791,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/cta-2/check.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("span", {
                                         className: "ms-2 text-900",
@@ -804,7 +804,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/cta-2/check.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("span", {
                                         className: "ms-2 text-900",
@@ -823,7 +823,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/cta-2/check.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("span", {
                                         className: "ms-2 text-900",
@@ -836,7 +836,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/cta-2/check.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("span", {
                                         className: "ms-2 text-900",
@@ -919,7 +919,7 @@
                               (0, i.jsx)("img", {
                                 className: "rounded-4 position-relative z-1",
                                 src: "/assets/imgs/cta-5/img-1.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, i.jsxs)("div", {
                                 className:
@@ -939,17 +939,17 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/features-3/avatar-1.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("img", {
                                         className: "avt-hero z-1",
                                         src: "/assets/imgs/features-3/avatar-2.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("img", {
                                         className: "avt-hero z-0",
                                         src: " assets/imgs/features-3/avatar-3.png",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                     ],
                                   }),
@@ -1022,7 +1022,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "alltuchtopdown",
                                   src: "/assets/imgs/cta-4/vector.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -1381,7 +1381,7 @@
                           children: (0, i.jsx)("img", {
                             className: "rounded-end-lg-0 rounded-4",
                             src: "/assets/imgs/cta-6/img-1.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                         }),
                       }),
@@ -1397,7 +1397,7 @@
                               children: [
                                 (0, i.jsx)("img", {
                                   src: "/assets/imgs/features-1/dots.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                                 (0, i.jsx)("span", {
                                   className:
@@ -1509,7 +1509,7 @@
                                       className:
                                         "rounded-4 position-relative z-1",
                                       src: "/assets/imgs/cta-7/ContactUs.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                     (0, i.jsxs)("div", {
                                       className:
@@ -1672,7 +1672,7 @@
                                                         children: [
                                                           (0, i.jsx)("img", {
                                                             src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, i.jsx)("p", {
                                                             className:
@@ -1688,7 +1688,7 @@
                                                         children: [
                                                           (0, i.jsx)("img", {
                                                             src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, i.jsx)("p", {
                                                             className:
@@ -1704,7 +1704,7 @@
                                                         children: [
                                                           (0, i.jsx)("img", {
                                                             src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, i.jsx)("p", {
                                                             className:
@@ -1720,7 +1720,7 @@
                                                         children: [
                                                           (0, i.jsx)("img", {
                                                             src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, i.jsx)("p", {
                                                             className:
@@ -1757,7 +1757,7 @@
                                                             className:
                                                               "rounded-circle border border-5 border-primary-light",
                                                             src: " assets/imgs/cta-2/avatar-1.png",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }
                                                         ),
                                                       }),
@@ -1871,7 +1871,7 @@
                                                         children: [
                                                           (0, i.jsx)("img", {
                                                             src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, i.jsx)("p", {
                                                             className:
@@ -1887,7 +1887,7 @@
                                                         children: [
                                                           (0, i.jsx)("img", {
                                                             src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, i.jsx)("p", {
                                                             className:
@@ -1903,7 +1903,7 @@
                                                         children: [
                                                           (0, i.jsx)("img", {
                                                             src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, i.jsx)("p", {
                                                             className:
@@ -1919,7 +1919,7 @@
                                                         children: [
                                                           (0, i.jsx)("img", {
                                                             src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "infinia",
+                                                            alt: "Codm",
                                                           }),
                                                           (0, i.jsx)("p", {
                                                             className:
@@ -1992,7 +1992,7 @@
                           "position-absolute top-0 end-0 z-1 flickering p-10 m-10 d-none d-lg-block",
                         children: (0, i.jsx)("img", {
                           src: "/assets/imgs/cta-7/star-1.svg",
-                          alt: "infinia",
+                          alt: "Codm",
                         }),
                       }),
                     ],
@@ -2020,7 +2020,7 @@
                               children: [
                                 (0, i.jsx)("img", {
                                   src: "/assets/imgs/features-1/dots.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                                 (0, i.jsx)("span", {
                                   className:
@@ -2048,7 +2048,7 @@
                                     className: "icon",
                                     children: (0, i.jsx)("img", {
                                       src: "/assets/imgs/service-4/icon-1.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -2079,7 +2079,7 @@
                                     className: "icon",
                                     children: (0, i.jsx)("img", {
                                       src: "/assets/imgs/service-4/icon-2.svg",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -2112,7 +2112,7 @@
                               (0, i.jsx)("img", {
                                 className: "rounded-4 position-relative z-1",
                                 src: "/assets/imgs/cta-5/img-1.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, i.jsxs)("div", {
                                 className:
@@ -2144,7 +2144,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "alltuchtopdown",
                                   src: "/assets/imgs/cta-4/vector.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -2250,7 +2250,7 @@
                               children: [
                                 (0, i.jsx)("img", {
                                   src: "/assets/imgs/features-1/dots.png",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                                 (0, i.jsx)("span", {
                                   className:
@@ -2385,7 +2385,7 @@
                             children: [
                               (0, i.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, i.jsx)("span", {
                                 className:
@@ -2415,7 +2415,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/cta-2/check.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("span", {
                                         className:
@@ -2429,7 +2429,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/cta-2/check.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("span", {
                                         className:
@@ -2449,7 +2449,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/cta-2/check.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("span", {
                                         className:
@@ -2463,7 +2463,7 @@
                                     children: [
                                       (0, i.jsx)("img", {
                                         src: "/assets/imgs/cta-2/check.svg",
-                                        alt: "infinia",
+                                        alt: "Codm",
                                       }),
                                       (0, i.jsx)("span", {
                                         className:
@@ -2487,7 +2487,7 @@
                               className:
                                 "rounded-4 border border-2 bg-white shadow-2 hover-up mt-5 p-6 position-relative z-1",
                               src: "/assets/imgs/cta-10/img-1.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                             (0, i.jsx)("div", {
                               className:
@@ -2647,7 +2647,7 @@
                             children: [
                               (0, i.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, i.jsx)("span", {
                                 className:
@@ -2688,23 +2688,23 @@
                                             children: [
                                               (0, i.jsx)("img", {
                                                 src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                alt: "infinia",
+                                                alt: "Codm",
                                               }),
                                               (0, i.jsx)("img", {
                                                 src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                alt: "infinia",
+                                                alt: "Codm",
                                               }),
                                               (0, i.jsx)("img", {
                                                 src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                alt: "infinia",
+                                                alt: "Codm",
                                               }),
                                               (0, i.jsx)("img", {
                                                 src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                alt: "infinia",
+                                                alt: "Codm",
                                               }),
                                               (0, i.jsx)("img", {
                                                 src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                alt: "infinia",
+                                                alt: "Codm",
                                               }),
                                             ],
                                           }),
@@ -2742,23 +2742,23 @@
                                             children: [
                                               (0, i.jsx)("img", {
                                                 src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                alt: "infinia",
+                                                alt: "Codm",
                                               }),
                                               (0, i.jsx)("img", {
                                                 src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                alt: "infinia",
+                                                alt: "Codm",
                                               }),
                                               (0, i.jsx)("img", {
                                                 src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                alt: "infinia",
+                                                alt: "Codm",
                                               }),
                                               (0, i.jsx)("img", {
                                                 src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                alt: "infinia",
+                                                alt: "Codm",
                                               }),
                                               (0, i.jsx)("img", {
                                                 src: "/assets/imgs/hero-4/star-yellow.svg",
-                                                alt: "infinia",
+                                                alt: "Codm",
                                               }),
                                             ],
                                           }),
@@ -2804,7 +2804,7 @@
                             children: [
                               (0, i.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, i.jsx)("span", {
                                 className:
@@ -2972,7 +2972,7 @@
                                 children: [
                                   (0, i.jsx)("img", {
                                     src: "/assets/imgs/features-1/dots.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, i.jsx)("span", {
                                     className:
@@ -3023,7 +3023,7 @@
                                   className: "zoom-img rounded-4 fix",
                                   children: (0, i.jsx)("img", {
                                     src: "/assets/imgs/cta-13/img-1.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                 }),
                                 (0, i.jsxs)("div", {
@@ -3044,17 +3044,17 @@
                                       children: [
                                         (0, i.jsx)("img", {
                                           src: "/assets/imgs/features-3/avatar-1.png",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                         (0, i.jsx)("img", {
                                           className: "avt-hero z-1",
                                           src: "/assets/imgs/features-3/avatar-2.png",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                         (0, i.jsx)("img", {
                                           className: "avt-hero z-0",
                                           src: " assets/imgs/features-3/avatar-3.png",
-                                          alt: "infinia",
+                                          alt: "Codm",
                                         }),
                                       ],
                                     }),
@@ -3238,7 +3238,7 @@
                                     children: (0, i.jsx)("img", {
                                       className: "h-100",
                                       src: "/assets/imgs/cta-13/img-2.png",
-                                      alt: "infinia",
+                                      alt: "Codm",
                                     }),
                                   }),
                                 }),
@@ -3254,7 +3254,7 @@
                       "position-absolute top-0 start-50 translate-middle-x z-0",
                     children: (0, i.jsx)("img", {
                       src: "/assets/imgs/service-2/bg-line.png",
-                      alt: "infinia",
+                      alt: "Codm",
                     }),
                   }),
                   (0, i.jsx)("div", {
@@ -3284,7 +3284,7 @@
                             children: [
                               (0, i.jsx)("img", {
                                 src: "/assets/imgs/features-1/dots.png",
-                                alt: "infinia",
+                                alt: "Codm",
                               }),
                               (0, i.jsx)("span", {
                                 className:
@@ -3326,7 +3326,7 @@
                                   (0, i.jsx)("img", {
                                     className: "rounded-3",
                                     src: "/assets/imgs/cta-14/img-1.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, i.jsx)("div", {
                                     className:
@@ -3372,7 +3372,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "alltuchtopdown",
                                   src: "/assets/imgs/cta-14/vector.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                               (0, i.jsx)("div", {
@@ -3380,7 +3380,7 @@
                                 children: (0, i.jsx)("img", {
                                   className: "alltuchtopdown",
                                   src: "/assets/imgs/cta-14/vector-2.svg",
-                                  alt: "infinia",
+                                  alt: "Codm",
                                 }),
                               }),
                             ],
@@ -3394,7 +3394,7 @@
                       "position-absolute top-0 start-50 translate-middle-x z-0",
                     children: (0, i.jsx)("img", {
                       src: "/assets/imgs/service-2/bg-line.png",
-                      alt: "infinia",
+                      alt: "Codm",
                     }),
                   }),
                   (0, i.jsx)("div", {
@@ -3427,7 +3427,7 @@
                                 children: [
                                   (0, i.jsx)("img", {
                                     src: "/assets/imgs/features-1/dots.png",
-                                    alt: "infinia",
+                                    alt: "Codm",
                                   }),
                                   (0, i.jsx)("span", {
                                     className:
@@ -3466,13 +3466,13 @@
                         className:
                           "position-absolute z-2 top-0 end-0 pe-10 pe-lg-10",
                         src: "/assets/imgs/cta-15/star-2.svg",
-                        alt: "infinia",
+                        alt: "Codm",
                       }),
                       (0, i.jsx)("img", {
                         className:
                           "position-absolute z-2 bottom-0 start-0 ps-10 ms-10",
                         src: "/assets/imgs/cta-15/star-1.svg",
-                        alt: "infinia",
+                        alt: "Codm",
                       }),
                     ],
                   }),
@@ -3490,7 +3490,7 @@
                               className:
                                 "rounded-3 border border-3 border-white",
                               src: "/assets/imgs/cta-15/img-1.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           }),
                           (0, i.jsx)("div", {
@@ -3499,7 +3499,7 @@
                               className:
                                 "rounded-3 border border-3 border-white",
                               src: "/assets/imgs/cta-15/img-2.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           }),
                           (0, i.jsx)("div", {
@@ -3508,7 +3508,7 @@
                               className:
                                 "rounded-3 border border-3 border-white",
                               src: "/assets/imgs/cta-15/img-3.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           }),
                           (0, i.jsx)("div", {
@@ -3517,7 +3517,7 @@
                               className:
                                 "rounded-3 border border-3 border-white",
                               src: "/assets/imgs/cta-15/img-4.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           }),
                           (0, i.jsx)("div", {
@@ -3527,14 +3527,14 @@
                               className:
                                 "rounded-3 border border-3 border-white",
                               src: "/assets/imgs/cta-15/img-5.png",
-                              alt: "infinia",
+                              alt: "Codm",
                             }),
                           }),
                           (0, i.jsx)("img", {
                             className:
                               "position-absolute top-50 end-50 translate-middle-y z-0",
                             src: "/assets/imgs/cta-15/bg-ellipse.png",
-                            alt: "infinia",
+                            alt: "Codm",
                           }),
                         ],
                       }),

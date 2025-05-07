@@ -115,7 +115,7 @@
                                 }),
                                 (0, n.jsx)("p", {
                                   className: "fs-5 text-100-keep mb-0",
-                                  children: "Users Active / Month",
+                                  children: " Active Projects",
                                 }),
                               ],
                             }),
@@ -207,9 +207,11 @@
                               children: [
                                 "Call us to speak to a member of our team. ",
                                 (0, n.jsx)("br", {}),
-                                "(+44) 0121 818 6924 ",
+                                "UK: (+44) 0121 818 6924 ",
                                 (0, n.jsx)("br", {}),
-                                "(+44) 07436934216 ",
+                                "UK: (+44) 07436934216 ",
+                                (0, n.jsx)("br", {}),
+                                "USA : (+1) 201 623 3132 ",
                               ],
                             }),
                           ],
@@ -284,7 +286,7 @@
                                 }),
                               }),
                             }),
-                            (0, n.jsx)("h6", { children: "Global branch" }),
+                            (0, n.jsx)("h6", { children: "Global Branch" }),
                             (0, n.jsxs)("p", {
                               className: "text-500",
                               children: [
