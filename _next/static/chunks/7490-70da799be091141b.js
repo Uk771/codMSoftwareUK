@@ -3232,6 +3232,24 @@
                                 children: "Technical Support",
                               }),
                             }),
+                            (0, i.jsx)("li", {
+                              className: "position-relative border-bottom z-1",
+                              children: (0, i.jsx)(d.default, {
+                                className:
+                                  "dropdown-item position-relative z-1 d-flex align-items-start",
+                                href: "buildingLLM+.html",
+                                children: "Building LLM",
+                              }),
+                            }),
+                            (0, i.jsx)("li", {
+                              className: "position-relative border-bottom z-1",
+                              children: (0, i.jsx)(d.default, {
+                                className:
+                                  "dropdown-item position-relative z-1 d-flex align-items-start",
+                                href: "/Python.html",
+                                children: "Python Application",
+                              }),
+                            }),
                           ],
                         }),
                         (0, i.jsx)("div", {

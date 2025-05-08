@@ -364,17 +364,17 @@
                           }),
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
-                            children: "Sustainability and CSR",
+                            children: "Financial Services: Enhancing Client Relationships and Compliance",
                           }),
                           (0, i.jsx)("p", {
                             className: "mb-3",
                             children:
-                              "Embrace the future of business with Infinia's innovative services. Let us help you transform your organization and achieve unprecedented success. Contact us today to learn more about how we can support your journey towards innovation and excellence.",
+                              "In the financial sector, Salesforce CRM facilitates.",
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-bold text-900",
                             children: [
-                              "Ideation and Concept Development: ",
+                              "Personalized Client Engagement: ",
                               (0, i.jsx)("span", {
                                 className: "fw-medium text-600",
                                 children:
@@ -385,44 +385,59 @@
                           (0, i.jsxs)("p", {
                             className: "fw-bold text-900",
                             children: [
-                              "RD Support: ",
+                              "Regulatory Compliance: ",
                               (0, i.jsx)("span", {
                                 className: "fw-medium text-600",
                                 children:
-                                  "Accelerate your research and development efforts with our expert support. We provide the resources and expertise needed to bring your innovative ideas to life.",
+                                  "Automating compliance processes to adhere to financial regulations efficiently.",
                               }),
                             ],
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-bold text-900",
                             children: [
-                              "Intellectual Property Management: ",
+                              "Risk Management: ",
                               (0, i.jsx)("span", {
                                 className: "fw-medium text-600",
                                 children:
-                                  "Protect your innovations with our comprehensive IP management services. From patent filing to trademark registration, we safeguard your intellectual assets.",
+                                  " Integrating risk assessment tools to proactively manage financial risks.Protect your innovations with our comprehensive IP management services. From patent filing to trademark registration, we safeguard your intellectual assets.",
+                              }),
+                            ],
+                          }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "Healthcare: Streamlining Patient Care and Data Management",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-bold text-900",
+                            children: [
+                              "Patient-Centric Services: ",
+                              (0, i.jsx)("span", {
+                                className: "fw-medium text-600",
+                                children:
+                                  " Centralizing patient information for coordinated and personalized care.",
                               }),
                             ],
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-bold text-900",
                             children: [
-                              "Market Analysis and Insights: ",
+                              "Appointment Scheduling: ",
                               (0, i.jsx)("span", {
                                 className: "fw-medium text-600",
                                 children:
-                                  "Stay ahead of the competition with in-depth market analysis. We provide you with actionable insights that help you identify new opportunities and make informed strategic decisions.",
+                                  "Automating scheduling processes to improve efficiency.",
                               }),
                             ],
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-bold text-900",
                             children: [
-                              "Business Model Innovation: ",
+                              "Data Security: ",
                               (0, i.jsx)("span", {
                                 className: "fw-medium text-600",
                                 children:
-                                  "Reinvent your business model to meet the demands of today's market. Our experts help you create a flexible, scalable model that drives",
+                                  "Ensuring patient data privacy and compliance with health regulations.",
                               }),
                             ],
                           }),
@@ -456,7 +471,7 @@
                                         (0, i.jsx)("h6", {
                                           className: "m-0",
                                           children:
-                                            "Digital product engineering",
+                                            "What is Salesforce CRM, and how can it benefit my business?",
                                         }),
                                         (0, i.jsx)("span", {
                                           className: "ms-auto arrow me-2",
@@ -490,7 +505,7 @@
                                       className:
                                         "px-0 card-body fs-6 text-600 mb-0",
                                       children:
-                                        "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                        "Salesforce CRM is a cloud-based customer relationship management platform that helps businesses manage sales, customer service, marketing, and more. It enables organizations to streamline processes, enhance customer interactions, and drive growth by providing a unified view of customer data and automating various business functions.",
                                     }),
                                   }),
                                 ],
@@ -517,7 +532,7 @@
                                         }),
                                         (0, i.jsx)("h6", {
                                           className: "m-0",
-                                          children: "Crafting SaaS development",
+                                          children: "How customizable is Salesforce CRM to fit our specific business needs?",
                                         }),
                                         (0, i.jsx)("span", {
                                           className: "ms-auto arrow me-2",
@@ -551,7 +566,7 @@
                                       className:
                                         "px-0 card-body fs-6 text-600 mb-0",
                                       children:
-                                        "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                        "Salesforce CRM is highly customizable. It allows businesses to tailor workflows, fields, objects, and user interfaces to match their unique processes. Additionally, with tools like Salesforce AppExchange, businesses can integrate third-party applications or develop custom apps to extend functionality.",
                                     }),
                                   }),
                                 ],
@@ -578,7 +593,7 @@
                                         }),
                                         (0, i.jsx)("h6", {
                                           className: "m-0",
-                                          children: "AI app development",
+                                          children: "Can Salesforce CRM integrate with our existing systems?",
                                         }),
                                         (0, i.jsx)("span", {
                                           className: "ms-auto arrow me-2",
@@ -612,7 +627,7 @@
                                       className:
                                         "px-0 card-body fs-6 text-600 mb-0",
                                       children:
-                                        "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                        "Yes, Salesforce CRM offers robust integration capabilities. It can connect with various systems such as ERP, marketing automation tools, and other third-party applications through APIs and middleware solutions, ensuring seamless data flow across platforms.",
                                     }),
                                   }),
                                 ],
@@ -639,7 +654,7 @@
                                         }),
                                         (0, i.jsx)("h6", {
                                           className: "m-0",
-                                          children: "E-commerce development",
+                                          children: "What kind of support and training does Salesforce provide?",
                                         }),
                                         (0, i.jsx)("span", {
                                           className: "ms-auto arrow me-2",
@@ -673,7 +688,7 @@
                                       className:
                                         "px-0 card-body fs-6 text-600 mb-0",
                                       children:
-                                        "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                        "Salesforce offers comprehensive support and training resources,An interactive learning platform with modules and projects.Help & Training Portal: Access to documentation, tutorials, and community forums. Customer Support: Various support plans offering different levels of assistance.",
                                     }),
                                   }),
                                 ],
@@ -700,7 +715,7 @@
                                         }),
                                         (0, i.jsx)("h6", {
                                           className: "m-0",
-                                          children: "Web Development Services",
+                                          children: "How does Salesforce CRM ensure data security and compliance?",
                                         }),
                                         (0, i.jsx)("span", {
                                           className: "ms-auto arrow me-2",
@@ -734,7 +749,7 @@
                                       className:
                                         "px-0 card-body fs-6 text-600 mb-0",
                                       children:
-                                        "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                        "Salesforce CRM employs stringent security measures, including data encryption, user authentication, and regular security audits. It complies with global standards and regulations such as GDPR and HIPAA, ensuring that customer data is protected and managed responsibly.",
                                     }),
                                   }),
                                 ],

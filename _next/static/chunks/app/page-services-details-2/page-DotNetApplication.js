@@ -352,65 +352,202 @@
                             }),
                             (0, i.jsx)("h4", {
                               className: "mt-3 pt-3 border-top mb-3",
-                              children: "Sustainability and CSR",
+                              children: ".NET Development Services: Building Scalable, Secure, and High-Performance Applications Across Industries",
                             }),
                             (0, i.jsx)("p", {
                               className: "mb-3",
                               children:
-                                "Embrace the future of business with Infinia's innovative services. Let us help you transform your organization and achieve unprecedented success. Contact us today to learn more about how we can support your journey towards innovation and excellence.",
+                                "Harness the power of Microsoft's .NET framework to create robust, scalable, and secure applications tailored to your industry's unique needs. Our .NET development services offer versatile solutions that drive digital transformation and operational excellence.",
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Ideation and Concept Development: ",
+                                "Financial Services: Enhancing Security and Compliance ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Foster a culture of innovation within your organization. We facilitate ideation sessions and help you develop viable concepts that can be turned into profitable ventures.",
+                                    "In the financial sector, .NET provides a reliable platform for developing applications that require high security and compliance standards.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "RD Support: ",
+                                "Secure Transaction Processing: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Accelerate your research and development efforts with our expert support. We provide the resources and expertise needed to bring your innovative ideas to life.",
+                                    "Implementing secure payment gateways and transaction systems.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Intellectual Property Management: ",
+                                "Regulatory Compliance: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Protect your innovations with our comprehensive IP management services. From patent filing to trademark registration, we safeguard your intellectual assets.",
+                                    "Ensuring applications meet financial regulations and standards.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Market Analysis and Insights: ",
+                                "Data Analytics: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Stay ahead of the competition with in-depth market analysis. We provide you with actionable insights that help you identify new opportunities and make informed strategic decisions.",
+                                    "Developing tools for real-time financial data analysis and reporting.",
+                                }),
+                              ],
+                            }),
+                            (0, i.jsx)("h4", {
+                              className: "mt-3 pt-3 border-top mb-3",
+                              children: "Healthcare: Improving Patient Care and Data Management",
+                            }),
+                            (0, i.jsxs)("p", {
+                              className: "fw-bold text-900",
+                              children: [
+                                "Electronic Health Records (EHR): ",
+                                (0, i.jsx)("span", {
+                                  className: "fw-medium text-600",
+                                  children:
+                                    "Creating secure and accessible EHR systems.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Business Model Innovation: ",
+                                "Telemedicine Platforms: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Reinvent your business model to meet the demands of today's market. Our experts help you create a flexible, scalable model that drives",
+                                    "Developing applications for remote consultations and patient monitoring.",
+                                }),
+                              ],
+                            }),
+                            (0, i.jsxs)("p", {
+                              className: "fw-bold text-900",
+                              children: [
+                                "Healthcare Analytics: ",
+                                (0, i.jsx)("span", {
+                                  className: "fw-medium text-600",
+                                  children:
+                                    "Implementing tools for analyzing patient data to improve outcomes.",
+                                }),
+                              ],
+                            }),
+                            (0, i.jsx)("h4", {
+                              className: "mt-3 pt-3 border-top mb-3",
+                              children: "E-commerce: Driving Sales and Customer Engagement",
+                            }),
+                            (0, i.jsxs)("p", {
+                              className: "fw-bold text-900",
+                              children: [
+                                "Online Storefronts: ",
+                                (0, i.jsx)("span", {
+                                  className: "fw-medium text-600",
+                                  children:
+                                    "Building responsive and user-friendly e-commerce websites.",
+                                }),
+                              ],
+                            }),
+                            (0, i.jsxs)("p", {
+                              className: "fw-bold text-900",
+                              children: [
+                                "Inventory Management: ",
+                                (0, i.jsx)("span", {
+                                  className: "fw-medium text-600",
+                                  children:
+                                    "Integrating systems for real-time inventory tracking.",
+                                }),
+                              ],
+                            }),
+                            (0, i.jsxs)("p", {
+                              className: "fw-bold text-900",
+                              children: [
+                                "Customer Relationship Management (CRM): ",
+                                (0, i.jsx)("span", {
+                                  className: "fw-medium text-600",
+                                  children:
+                                    " Developing tools to manage customer interactions and data.",
+                                }),
+                              ],
+                            }),
+                            (0, i.jsx)("h4", {
+                              className: "mt-3 pt-3 border-top mb-3",
+                              children: "Education: Facilitating Learning and Administration",
+                            }),
+                            (0, i.jsxs)("p", {
+                              className: "fw-bold text-900",
+                              children: [
+                                "Learning Management Systems (LMS): ",
+                                (0, i.jsx)("span", {
+                                  className: "fw-medium text-600",
+                                  children:
+                                    "Developing platforms for course delivery and tracking.",
+                                }),
+                              ],
+                            }),
+                            (0, i.jsxs)("p", {
+                              className: "fw-bold text-900",
+                              children: [
+                                "Student Information Systems: ",
+                                (0, i.jsx)("span", {
+                                  className: "fw-medium text-600",
+                                  children:
+                                    "Creating systems to manage student records and academic data.",
+                                }),
+                              ],
+                            }),
+                            (0, i.jsxs)("p", {
+                              className: "fw-bold text-900",
+                              children: [
+                                "Virtual Classrooms: ",
+                                (0, i.jsx)("span", {
+                                  className: "fw-medium text-600",
+                                  children:
+                                    "Implementing tools for online teaching and collaboration.",
+                                }),
+                              ],
+                            }),
+                            (0, i.jsx)("h4", {
+                              className: "mt-3 pt-3 border-top mb-3",
+                              children: "Manufacturing: Streamlining Operations and Production",
+                            }),
+                            (0, i.jsxs)("p", {
+                              className: "fw-bold text-900",
+                              children: [
+                                "Supply Chain Management: ",
+                                (0, i.jsx)("span", {
+                                  className: "fw-medium text-600",
+                                  children:
+                                    "Building systems for tracking and managing supply chain activities.",
+                                }),
+                              ],
+                            }),
+                            (0, i.jsxs)("p", {
+                              className: "fw-bold text-900",
+                              children: [
+                                "Production Monitoring: ",
+                                (0, i.jsx)("span", {
+                                  className: "fw-medium text-600",
+                                  children:
+                                    "Developing applications to monitor and control manufacturing processes.",
+                                }),
+                              ],
+                            }),
+                            (0, i.jsxs)("p", {
+                              className: "fw-bold text-900",
+                              children: [
+                                "Predictive Maintenance : ",
+                                (0, i.jsx)("span", {
+                                  className: "fw-medium text-600",
+                                  children:
+                                    " Implementing tools to predict equipment failures and schedule maintenance.",
                                 }),
                               ],
                             }),
@@ -444,7 +581,7 @@
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
                                             children:
-                                              "Digital product engineering",
+                                              "What types of applications can be developed using .NET?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -478,7 +615,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          ".NET is a versatile framework that supports the development of various applications, including ,Web Applications: Using ASP.NET for dynamic websites and web services, Desktop Applications: With Windows Forms or WPF for rich client applications. Mobile Applications: Through Xamarin for cross-platform mobile apps. Cloud-Based Applications: Leveraging Azure integration for scalable solutions. Microservices and APIs: Utilizing .NET Core for lightweight, modular services.",
                                       }),
                                     }),
                                   ],
@@ -505,7 +642,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "Crafting SaaS development",
+                                            children: "How does .NET ensure cross-platform compatibility?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -539,7 +676,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "With the introduction of .NET Core and the evolution into .NET 5 and beyond, .NET provides cross-platform support, allowing applications to run seamlessly on Windows, Linux, and macOS. This flexibility enables businesses to deploy applications across diverse environments without significant code changes.",
                                       }),
                                     }),
                                   ],
@@ -566,7 +703,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "AI app development",
+                                            children: "Is .NET suitable for enterprise-level applications?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -600,7 +737,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "Absolutely. .NET is designed to handle the demands of enterprise applications.offering Scalability, Security , Integration, Maintainability",
                                       }),
                                     }),
                                   ],
@@ -627,7 +764,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "E-commerce development",
+                                            children: "How does .NET support modern development practices?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -661,7 +798,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          ".NET aligns with contemporary development methodologies by supporting.,Continuous Integration/Continuous Deployment (CI/CD) , Containerization , Microservices Architecture , Cloud Integration",
                                       }),
                                     }),
                                   ],
@@ -688,7 +825,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "Web Development Services",
+                                            children: "What are the benefits of choosing .NET for application development?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -722,7 +859,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "Choosing .NET offers several advantages like Performance,Versatility,Community Support,Long-Term Support.",
                                       }),
                                     }),
                                   ],
@@ -854,6 +991,46 @@
                                 }),
                               ],
                             }),
+                            (0, i.jsxs)(n.default, {
+                              href: "buildingLLM.html",
+                              className:
+                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                              children: [
+                                "Building LLM",
+                                (0, i.jsx)("svg", {
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  width: 24,
+                                  height: 24,
+                                  viewBox: "0 0 24 24",
+                                  fill: "none",
+                                  children: (0, i.jsx)("path", {
+                                    className: "fill-neutral-100",
+                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                                    fill: "#f3f4f6",
+                                  }),
+                                }),
+                              ],
+                            }),
+                            (0, i.jsxs)(n.default, {
+                              href: "Python.html",
+                              className:
+                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                              children: [
+                                "Python Application",
+                                (0, i.jsx)("svg", {
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  width: 24,
+                                  height: 24,
+                                  viewBox: "0 0 24 24",
+                                  fill: "none",
+                                  children: (0, i.jsx)("path", {
+                                    className: "fill-neutral-100",
+                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                                    fill: "#f3f4f6",
+                                  }),
+                                }),
+                              ],
+                            }),
                             (0, i.jsxs)("div", {
                               className:
                                 "bg-primary rounded-4 mt-7 position-relative",
@@ -868,11 +1045,11 @@
                                         (0, i.jsx)("br", {}),
                                         "Ultimate Experience ",
                                         (0, i.jsx)("br", {}),
-                                        "in Salesforce CRM",
+                                        "in .NET Application",
                                       ],
                                     }),
                                     (0, i.jsxs)(n.default, {
-                                      href: "/page-contact-1",
+                                      href: "/contact.html",
                                       className:
                                         "d-flex align-items-center mt-8 mb-9",
                                       children: [
@@ -889,7 +1066,7 @@
                                             }),
                                             (0, i.jsx)("h5", {
                                               className: "text-white d-block",
-                                              children: "(+44) 07436934216",
+                                              children: "(+44) 0121 818 6924",
                                             }),
                                           ],
                                         }),
@@ -1024,7 +1201,8 @@
                                     children: "Leave a message",
                                   }),
                                   (0, i.jsx)("form", {
-                                    action: "#",
+                                    action: "https://formsubmit.co/info@codmsoftware.co.uk",
+                                    method : "post",
                                     children: (0, i.jsxs)("div", {
                                       className: "row mt-5",
                                       children: [
@@ -1105,7 +1283,7 @@
                                                 type: "text",
                                                 className:
                                                   "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                                                name: "name",
+                                                name: "email",
                                                 placeholder: "info@",
                                                 "aria-label": "email",
                                               }),
@@ -1152,7 +1330,7 @@
                                                 type: "text",
                                                 className:
                                                   "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                                                name: "name",
+                                                name: "Phone",
                                                 placeholder: "Phone",
                                                 "aria-label": "phone",
                                               }),
@@ -1199,7 +1377,7 @@
                                                 type: "text",
                                                 className:
                                                   "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                                                name: "name",
+                                                name: "Subject",
                                                 placeholder: "Subject",
                                                 "aria-label": "subject",
                                               }),
@@ -1242,7 +1420,7 @@
                                               (0, i.jsx)("textarea", {
                                                 className:
                                                   "form-control border border-start-0 ms-0 rounded-start-0 rounded-1 pb-10",
-                                                name: "name",
+                                                name: "Description",
                                                 placeholder:
                                                   "Describe Your Project in Short",
                                                 "aria-label": "With textarea",
@@ -1304,7 +1482,7 @@
                                         (0, i.jsx)(n.default, {
                                           className:
                                             "ms-2 text-decoration-underline text-900 fs-7",
-                                          href: "#",
+                                          href: "https://wa.me/+4407436934216",
                                           children: "Chat via Whatsapp",
                                         }),
                                       ],
@@ -1357,26 +1535,26 @@
                                         (0, i.jsx)(n.default, {
                                           className:
                                             "ms-2 text-decoration-underline text-900 fs-7",
-                                          href: "#",
-                                          children: "support@codmsoftware.co.uk",
+                                          href: "mailto:info@codmsoftware.co.uk",
+                                          children: "info@codmsoftware.co.uk",
                                         }),
                                       ],
                                     }),
-                                    (0, i.jsxs)("div", {
-                                      className: "d-flex mb-2 mb-5",
-                                      children: [
-                                        (0, i.jsx)("img", {
-                                          src: "/assets/imgs/contact-2/icon-4.svg",
-                                          alt: "Codm",
-                                        }),
-                                        (0, i.jsx)(n.default, {
-                                          className:
-                                            "ms-2 text-decoration-underline text-900 fs-7",
-                                          href: "#",
-                                          children: "sales@codmsoftware.co.uk",
-                                        }),
-                                      ],
-                                    }),
+                                    // (0, i.jsxs)("div", {
+                                    //   className: "d-flex mb-2 mb-5",
+                                    //   children: [
+                                    //     (0, i.jsx)("img", {
+                                    //       src: "/assets/imgs/contact-2/icon-4.svg",
+                                    //       alt: "Codm",
+                                    //     }),
+                                    //     (0, i.jsx)(n.default, {
+                                    //       className:
+                                    //         "ms-2 text-decoration-underline text-900 fs-7",
+                                    //       href: "#",
+                                    //       children: "sales@codmsoftware.co.uk",
+                                    //     }),
+                                    //   ],
+                                    // }),
                                     (0, i.jsx)("h6", {
                                       children: "For more inquiry",
                                     }),
@@ -1396,7 +1574,7 @@
                                           className:
                                             "ms-2 text-decoration-underline text-900 fs-7",
                                           href: "#",
-                                          children: "(+44)07436934216",
+                                          children: "(+44) 0121 818 6924",
                                         }),
                                       ],
                                     }),
