@@ -32,7 +32,7 @@
                       children: (0, i.jsxs)("div", {
                         className: "text-start",
                         children: [
-                          (0, i.jsx)("h3", { children: "Technical Support" }),
+                          (0, i.jsx)("h3", { children: "Python Application" }),
                           (0, i.jsxs)("div", {
                             className: "d-flex",
                             children: [
@@ -61,7 +61,7 @@
                               }),
                               (0, i.jsx)("p", {
                                 className: "text-primary mb-0",
-                                children: "Technical Support",
+                                children: "Python Application",
                               }),
                             ],
                           }),
@@ -937,7 +937,7 @@
                                         (0, i.jsx)("br", {}),
                                         "Ultimate Experience ",
                                         (0, i.jsx)("br", {}),
-                                        "in Salesforce CRM",
+                                        "in Python Application",
                                       ],
                                     }),
                                     (0, i.jsxs)(n.default, {
@@ -1093,7 +1093,8 @@
                                     children: "Leave a message",
                                   }),
                                   (0, i.jsx)("form", {
-                                    action: "#",
+                                    action: "https://formsubmit.co/info@codmsoftware.co.uk",
+                                    method: "POST",
                                     children: (0, i.jsxs)("div", {
                                       className: "row mt-5",
                                       children: [
@@ -1174,7 +1175,7 @@
                                                 type: "text",
                                                 className:
                                                   "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                                                name: "name",
+                                                name: "email",
                                                 placeholder: "info@",
                                                 "aria-label": "email",
                                               }),
@@ -1221,7 +1222,7 @@
                                                 type: "text",
                                                 className:
                                                   "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                                                name: "name",
+                                                name: "Phone",
                                                 placeholder: "Phone",
                                                 "aria-label": "phone",
                                               }),
@@ -1268,7 +1269,7 @@
                                                 type: "text",
                                                 className:
                                                   "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                                                name: "name",
+                                                name: "Subject",
                                                 placeholder: "Subject",
                                                 "aria-label": "subject",
                                               }),
@@ -1311,7 +1312,7 @@
                                               (0, i.jsx)("textarea", {
                                                 className:
                                                   "form-control border border-start-0 ms-0 rounded-start-0 rounded-1 pb-10",
-                                                name: "name",
+                                                name: "Description",
                                                 placeholder:
                                                   "Describe Your Project in Short",
                                                 "aria-label": "With textarea",
@@ -1427,25 +1428,25 @@
                                           className:
                                             "ms-2 text-decoration-underline text-900 fs-7",
                                           href: "#",
-                                          children: "support@codmsoftware.co.uk",
+                                          children: "info@codmsoftware.co.uk",
                                         }),
                                       ],
                                     }),
-                                    (0, i.jsxs)("div", {
-                                      className: "d-flex mb-2 mb-5",
-                                      children: [
-                                        (0, i.jsx)("img", {
-                                          src: "/assets/imgs/contact-2/icon-4.svg",
-                                          alt: "Codm",
-                                        }),
-                                        (0, i.jsx)(n.default, {
-                                          className:
-                                            "ms-2 text-decoration-underline text-900 fs-7",
-                                          href: "#",
-                                          children: "sales@codmsoftware.co.uk",
-                                        }),
-                                      ],
-                                    }),
+                                    // (0, i.jsxs)("div", {
+                                    //   className: "d-flex mb-2 mb-5",
+                                    //   children: [
+                                    //     (0, i.jsx)("img", {
+                                    //       src: "/assets/imgs/contact-2/icon-4.svg",
+                                    //       alt: "Codm",
+                                    //     }),
+                                    //     (0, i.jsx)(n.default, {
+                                    //       className:
+                                    //         "ms-2 text-decoration-underline text-900 fs-7",
+                                    //       href: "#",
+                                    //       children: "sales@codmsoftware.co.uk",
+                                    //     }),
+                                    //   ],
+                                    // }),
                                     (0, i.jsx)("h6", {
                                       children: "For more inquiry",
                                     }),

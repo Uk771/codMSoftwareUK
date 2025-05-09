@@ -1093,7 +1093,8 @@
                                     children: "Leave a message",
                                   }),
                                   (0, i.jsx)("form", {
-                                    action: "#",
+                                    action: "https://formsubmit.co/info@codmsoftware.co.uk",
+                                    method: "POST",
                                     children: (0, i.jsxs)("div", {
                                       className: "row mt-5",
                                       children: [
@@ -1174,7 +1175,7 @@
                                                 type: "text",
                                                 className:
                                                   "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                                                name: "name",
+                                                name: "email",
                                                 placeholder: "info@",
                                                 "aria-label": "email",
                                               }),
@@ -1221,7 +1222,7 @@
                                                 type: "text",
                                                 className:
                                                   "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                                                name: "name",
+                                                name: "Phone",
                                                 placeholder: "Phone",
                                                 "aria-label": "phone",
                                               }),
@@ -1268,7 +1269,7 @@
                                                 type: "text",
                                                 className:
                                                   "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                                                name: "name",
+                                                name: "Subject",
                                                 placeholder: "Subject",
                                                 "aria-label": "subject",
                                               }),
@@ -1311,7 +1312,7 @@
                                               (0, i.jsx)("textarea", {
                                                 className:
                                                   "form-control border border-start-0 ms-0 rounded-start-0 rounded-1 pb-10",
-                                                name: "name",
+                                                name: "Description",
                                                 placeholder:
                                                   "Describe Your Project in Short",
                                                 "aria-label": "With textarea",

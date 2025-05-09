@@ -1133,7 +1133,8 @@
                                     children: "Leave a message",
                                   }),
                                   (0, i.jsx)("form", {
-                                    action: "#",
+                                    action: "https://formsubmit.co/info@codmsoftware.co.uk",
+                                    method: "POST",
                                     children: (0, i.jsxs)("div", {
                                       className: "row mt-5",
                                       children: [
