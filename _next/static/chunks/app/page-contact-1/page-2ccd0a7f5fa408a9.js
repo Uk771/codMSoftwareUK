@@ -107,10 +107,9 @@
                                       className: "odometer",
                                     }),
                                     (0, n.jsx)(r.ZP, {
-                                      end: 500,
+                                      end: 20,
                                       enableScrollSpy: !0,
                                     }),
-                                    "k",
                                   ],
                                 }),
                                 (0, n.jsx)("p", {
