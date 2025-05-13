@@ -79,7 +79,7 @@
                               (0, i.jsx)(d.default, {
                                 href: "/",
                                 children: (0, i.jsx)("img", {
-                                  src: "/assets/imgs/template/logo-no-background.png",
+                                  src: "/assets/imgs/template/image (17).png",
                                   alt: "CodM",
                                 }),
                               }),
@@ -425,7 +425,7 @@
                               href: "/",
                               children: [
                                 (0, i.jsx)("img", {
-                                  src: "assets/imgs/template/logo-no-background.png",
+                                  src: "assets/imgs/template/image (17).png",
                                   alt: "CodM",
                                 }),
                                 (0, i.jsx)("span", { children: "CodM" }),
@@ -726,7 +726,7 @@
                           children: (0, i.jsx)(d.default, {
                             href: "/",
                             children: (0, i.jsx)("img", {
-                              src: "assets/imgs/template/logo-no-background.png",
+                              src: "assets/imgs/template/image (17).png",
                               alt: "CodM",
                             }),
                           }),
@@ -1232,7 +1232,7 @@
                               (0, i.jsx)(d.default, {
                                 href: "/",
                                 children: (0, i.jsx)("img", {
-                                  src: "assets/imgs/template/logo-no-background.png",
+                                  src: "assets/imgs/template/image (17).png",
                                   alt: "CodM",
                                 }),
                               }),
@@ -1491,7 +1491,7 @@
                       href: "/",
                       children: [
                         (0, i.jsx)("img", {
-                          src: "/assets/imgs/template/logo-no-background.png",
+                          src: "/assets/imgs/template/image (17).png",
                           alt: "CodM",
                         }),
                       ],
@@ -3308,7 +3308,7 @@
                       href: "/",
                       children: [
                         (0, i.jsx)("img", {
-                          src: "/assets/imgs/template/logo-no-background.png",
+                          src: "/assets/imgs/template/image (17).png",
                           // src: "logo.jpg",
                           alt: "CodM",
                         }),
@@ -3406,7 +3406,7 @@
                       href: "/",
                       children: [
                         (0, i.jsx)("img", {
-                          src: "assets/imgs/template/logo-no-background.png",
+                          src: "assets/imgs/template/image (17).png",
                           alt: "CodM",
                         }),
                         (0, i.jsx)("span", { children: "CodM" }),
@@ -3646,7 +3646,7 @@
                           href: "/",
                           children: [
                             (0, i.jsx)("img", {
-                              src: "assets/imgs/template/logo-no-background.png",
+                              src: "assets/imgs/template/image (17).png",
                               alt: "CodM",
                             }),
                             (0, i.jsx)("span", { children: "CodM" }),
@@ -3747,7 +3747,7 @@
                       href: "/",
                       children: [
                         (0, i.jsx)("img", {
-                          src: "assets/imgs/template/logo-no-background.png",
+                          src: "assets/imgs/template/image (17).png",
                           alt: "CodM",
                         }),
                         (0, i.jsx)("span", { children: "CodM" }),
@@ -4026,7 +4026,7 @@
                         href: "/",
                         children: [
                           (0, i.jsx)("img", {
-                            src: "assets/imgs/template/logo-no-background.png",
+                            src: "assets/imgs/template/image (17).png",
                             alt: "CodM",
                           }),
                           // (0, i.jsx)("span", { children: "CodM" }),
