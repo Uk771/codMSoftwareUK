@@ -36,8 +36,8 @@
                   e
                     ? window.scrollTo({ top: e.offsetTop, behavior: "smooth" })
                     : console.error(
-                        "Element with target '".concat(s, "' not found")
-                      );
+                      "Element with target '".concat(s, "' not found")
+                    );
                 },
                 children: (0, i.jsx)("svg", {
                   className: "progress-square svg-content",
@@ -1498,7 +1498,7 @@
                     }),
                     (0, i.jsxs)("div", {
                       className:
-                        "burger-icon burger-icon-white border rounded-3 ".concat(
+                        "burger-icon burger-icon-white border rounded-3 mt-3 ".concat(
                           s ? "burger-close" : ""
                         ),
                       onClick: a,
@@ -2396,773 +2396,16 @@
                     }),
                   ],
                 }),
-                (0, i.jsxs)("li", {
-                  className: "nav-item dropdown has-mega",
-                  children: [
-                    (0, i.jsx)(d.default, {
-                      className: "nav-link fw-bold d-flex align-items-center",
-                      href: "/AboutUs.html",
-                      role: "button",
-                      // "data-bs-toggle": "dropdown",
-                      // "aria-expanded": "false",
-                      children: "About Us",
-                    }),
-                    // (0, i.jsxs)("div", {
-                    //   className: "mega-menu fix start-50 translate-middle-x",
-                    //   children: [
-                    //     (0, i.jsx)("div", {
-                    //       className: "container",
-                    //       children: (0, i.jsx)("div", {
-                    //         className: "row",
-                    //         children: (0, i.jsx)("div", {
-                    //           className: "col-12",
-                    //           children: (0, i.jsx)("div", {
-                    //             className: "mega-menu-content",
-                    //             children: (0, i.jsxs)("div", {
-                    //               className: "row",
-                    //               children: [
-                    //                 (0, i.jsx)("div", {
-                    //                   className: "col-2",
-                    //                   children: (0, i.jsxs)("div", {
-                    //                     className: "mega-menu-list",
-                    //                     children: [
-                    //                       (0, i.jsx)("p", {
-                    //                         className:
-                    //                           "text-primary fw-bold mb-1 fs-7",
-                    //                         children: "ABOUT US",
-                    //                       }),
-                    //                       (0, i.jsxs)("ul", {
-                    //                         className: "list-unstyled",
-                    //                         children: [
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-about",
-                    //                                 children: "About us v.1",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-about-2",
-                    //                                 children: "About us v.2",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-about-3",
-                    //                                 children: "About us v.3",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                         ],
-                    //                       }),
-                    //                       (0, i.jsx)("p", {
-                    //                         className:
-                    //                           "text-primary fw-bold mb-1 fs-7 mt-4",
-                    //                         children: "SERVICES",
-                    //                       }),
-                    //                       (0, i.jsxs)("ul", {
-                    //                         className: "list-unstyled",
-                    //                         children: [
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-services-1",
-                    //                                 children: "Services v.1",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-services-2",
-                    //                                 children: "Services v.2",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-services-3",
-                    //                                 children: "Services v.3",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-services-details-1",
-                    //                                 children:
-                    //                                   "Services details v.1",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-services-details-2",
-                    //                                 children:
-                    //                                   "Services details v.2",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                         ],
-                    //                       }),
-                    //                     ],
-                    //                   }),
-                    //                 }),
-                    //                 (0, i.jsx)("div", {
-                    //                   className: "col-2",
-                    //                   children: (0, i.jsxs)("div", {
-                    //                     className: "mega-menu-list",
-                    //                     children: [
-                    //                       (0, i.jsx)("p", {
-                    //                         className:
-                    //                           "text-primary fw-bold mb-1 fs-7",
-                    //                         children: "OUR TEAM",
-                    //                       }),
-                    //                       (0, i.jsxs)("ul", {
-                    //                         className: "list-unstyled",
-                    //                         children: [
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-team-1",
-                    //                                 children: "Our team v.1",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-team-2",
-                    //                                 children: "Our team v.2",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-team-3",
-                    //                                 children: "Our team v.3",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-team-4",
-                    //                                 children: "Our team v.4",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-team-5",
-                    //                                 children: "Our team v.5",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-team-6",
-                    //                                 children: "Our team v.6",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-team-detail-1",
-                    //                                 children: "Team detail v.1",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-team-detail-2",
-                    //                                 children: "Team detail v.2",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                         ],
-                    //                       }),
-                    //                     ],
-                    //                   }),
-                    //                 }),
-                    //                 (0, i.jsx)("div", {
-                    //                   className: "col-2",
-                    //                   children: (0, i.jsxs)("div", {
-                    //                     className: "mega-menu-list",
-                    //                     children: [
-                    //                       (0, i.jsx)("p", {
-                    //                         className:
-                    //                           "text-primary fw-bold mb-1 fs-7",
-                    //                         children: "FEATURES",
-                    //                       }),
-                    //                       (0, i.jsxs)("ul", {
-                    //                         className: "list-unstyled",
-                    //                         children: [
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-features-1",
-                    //                                 children: "Features v.1",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-features-2",
-                    //                                 children: "Features v.2",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                         ],
-                    //                       }),
-                    //                       (0, i.jsx)("p", {
-                    //                         className:
-                    //                           "text-primary fw-bold mb-1 fs-7 mt-4",
-                    //                         children: "PRICING",
-                    //                       }),
-                    //                       (0, i.jsxs)("ul", {
-                    //                         className: "list-unstyled",
-                    //                         children: [
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-pricing-01",
-                    //                                 children: "Pricing v.1",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-pricing-02",
-                    //                                 children: "Pricing v.2",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                         ],
-                    //                       }),
-                    //                       (0, i.jsx)("p", {
-                    //                         className:
-                    //                           "text-primary fw-bold mb-1 fs-7 mt-4",
-                    //                         children: "CONTACT",
-                    //                       }),
-                    //                       (0, i.jsxs)("ul", {
-                    //                         className: "list-unstyled",
-                    //                         children: [
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-contact-1",
-                    //                                 children: "Contact v.1",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-contact-2",
-                    //                                 children: "Contact v.2",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-contact-3",
-                    //                                 children: "Contact v.3",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                         ],
-                    //                       }),
-                    //                     ],
-                    //                   }),
-                    //                 }),
-                    //                 (0, i.jsx)("div", {
-                    //                   className: "col-2",
-                    //                   children: (0, i.jsxs)("div", {
-                    //                     className: "mega-menu-list",
-                    //                     children: [
-                    //                       (0, i.jsx)("p", {
-                    //                         className:
-                    //                           "text-primary fw-bold mb-1 fs-7",
-                    //                         children: "BLOG",
-                    //                       }),
-                    //                       (0, i.jsxs)("ul", {
-                    //                         className: "list-unstyled",
-                    //                         children: [
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-blog-1",
-                    //                                 children: "Blog v.1",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-blog-2",
-                    //                                 children: "Blog v.2",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-blog-details",
-                    //                                 children: "Blog details",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                         ],
-                    //                       }),
-                    //                       (0, i.jsx)("p", {
-                    //                         className:
-                    //                           "text-primary fw-bold mb-1 fs-7 mt-4",
-                    //                         children: "CASE STUDY",
-                    //                       }),
-                    //                       (0, i.jsxs)("ul", {
-                    //                         className: "list-unstyled",
-                    //                         children: [
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-case-study",
-                    //                                 children: "Case Study",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-case-study-details",
-                    //                                 children:
-                    //                                   "Case study details",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                         ],
-                    //                       }),
-                    //                       (0, i.jsx)("p", {
-                    //                         className:
-                    //                           "text-primary fw-bold mb-1 fs-7 mt-4",
-                    //                         children: "AUTHENTICATION",
-                    //                       }),
-                    //                       (0, i.jsxs)("ul", {
-                    //                         className: "list-unstyled",
-                    //                         children: [
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-register",
-                    //                                 children: "Register",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-login",
-                    //                                 children: "Sign in",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                         ],
-                    //                       }),
-                    //                     ],
-                    //                   }),
-                    //                 }),
-                    //                 (0, i.jsx)("div", {
-                    //                   className: "col-2",
-                    //                   children: (0, i.jsxs)("div", {
-                    //                     className: "mega-menu-list",
-                    //                     children: [
-                    //                       (0, i.jsx)("p", {
-                    //                         className:
-                    //                           "text-primary fw-bold mb-1 fs-7",
-                    //                         children: "UTILITIES",
-                    //                       }),
-                    //                       (0, i.jsxs)("ul", {
-                    //                         className: "list-unstyled",
-                    //                         children: [
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-work-process",
-                    //                                 children: "Work Process",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-book-a-demo",
-                    //                                 children: "Book a demo",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-integration",
-                    //                                 children: "Integration",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-changelog",
-                    //                                 children: "Change log",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-privacy-policy",
-                    //                                 children: "Privacy policy",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-terms-conditions",
-                    //                                 children:
-                    //                                   "Terms conditions",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-comming-soon",
-                    //                                 children: "Comming soon",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                           (0, i.jsx)("li", {
-                    //                             children: (0, i.jsx)(
-                    //                               d.default,
-                    //                               {
-                    //                                 className:
-                    //                                   "dropdown-item position-relative z-1",
-                    //                                 href: "/page-404",
-                    //                                 children: "Error 404",
-                    //                               }
-                    //                             ),
-                    //                           }),
-                    //                         ],
-                    //                       }),
-                    //                     ],
-                    //                   }),
-                    //                 }),
-                    //                 (0, i.jsxs)("div", {
-                    //                   className: "col-2",
-                    //                   children: [
-                    //                     (0, i.jsxs)("div", {
-                    //                       className: "mega-menu-list",
-                    //                       children: [
-                    //                         (0, i.jsx)("p", {
-                    //                           className:
-                    //                             "text-primary fw-bold mb-1 fs-7",
-                    //                           children: "STYLE GUIDE",
-                    //                         }),
-                    //                         (0, i.jsxs)("ul", {
-                    //                           className: "list-unstyled",
-                    //                           children: [
-                    //                             (0, i.jsx)("li", {
-                    //                               children: (0, i.jsx)(
-                    //                                 d.default,
-                    //                                 {
-                    //                                   className:
-                    //                                     "dropdown-item position-relative z-1",
-                    //                                   href: "/page-style-guide",
-                    //                                   children:
-                    //                                     "Color  Typography",
-                    //                                 }
-                    //                               ),
-                    //                             }),
-                    //                             (0, i.jsx)("li", {
-                    //                               children: (0, i.jsx)(
-                    //                                 d.default,
-                    //                                 {
-                    //                                   className:
-                    //                                     "dropdown-item position-relative z-1",
-                    //                                   href: "/page-elements",
-                    //                                   children:
-                    //                                     "Basic elements",
-                    //                                 }
-                    //                               ),
-                    //                             }),
-                    //                           ],
-                    //                         }),
-                    //                       ],
-                    //                     }),
-                    //                     (0, i.jsxs)("div", {
-                    //                       className:
-                    //                         "position-relative bg-4 rounded-3 mt-5",
-                    //                       children: [
-                    //                         (0, i.jsx)("img", {
-                    //                           className: "rounded-3",
-                    //                           src: "/assets/imgs/template/bg-card.png",
-                    //                           alt: "",
-                    //                         }),
-                    //                         (0, i.jsxs)("div", {
-                    //                           className:
-                    //                             "position-absolute top-50 start-50 translate-middle z-0",
-                    //                           children: [
-                    //                             (0, i.jsx)("img", {
-                    //                               className: "ms-3",
-                    //                               src: "/assets/imgs/logo/logo-dark.svg",
-                    //                               alt: "CodM",
-                    //                             }),
-                    //                             (0, i.jsxs)("p", {
-                    //                               className:
-                    //                                 "fs-7 fw-bold text-900 text-center my-3 text-nowrap",
-                    //                               children: [
-                    //                                 "Multi-layout SaaS  ",
-                    //                                 (0, i.jsx)("br", {}),
-                    //                                 " Startup Website ",
-                    //                                 (0, i.jsx)("br", {}),
-                    //                                 " Template",
-                    //                               ],
-                    //                             }),
-                    //                             (0, i.jsxs)("div", {
-                    //                               className: "d-flex mt-3 ms-3",
-                    //                               children: [
-                    //                                 (0, i.jsx)("img", {
-                    //                                   src: "/assets/imgs/other/avatar-1.png",
-                    //                                   alt: "CodM",
-                    //                                 }),
-                    //                                 (0, i.jsx)("img", {
-                    //                                   className: "avt-hero",
-                    //                                   src: "/assets/imgs/other/avatar-2.png",
-                    //                                   alt: "CodM",
-                    //                                 }),
-                    //                                 (0, i.jsx)("img", {
-                    //                                   className: "avt-hero ",
-                    //                                   src: " assets/imgs/other/avatar-3.png",
-                    //                                   alt: "CodM",
-                    //                                 }),
-                    //                               ],
-                    //                             }),
-                    //                             (0, i.jsxs)(d.default, {
-                    //                               href: "#",
-                    //                               className:
-                    //                                 "btn btn-md btn-gradient fs-8 mt-3 text-nowrap",
-                    //                               children: [
-                    //                                 "Get this now",
-                    //                                 (0, i.jsxs)("svg", {
-                    //                                   xmlns:
-                    //                                     "http://www.w3.org/2000/svg",
-                    //                                   width: 18,
-                    //                                   height: 18,
-                    //                                   viewBox: "0 0 18 18",
-                    //                                   fill: "none",
-                    //                                   children: [
-                    //                                     (0, i.jsx)("path", {
-                    //                                       d: "M12.5477 11.3147V5.30603H6.53906",
-                    //                                       stroke: "white",
-                    //                                       strokeWidth:
-                    //                                         "1.06034",
-                    //                                       strokeLinecap:
-                    //                                         "round",
-                    //                                       strokeLinejoin:
-                    //                                         "round",
-                    //                                     }),
-                    //                                     (0, i.jsx)("path", {
-                    //                                       d: "M12.3707 5.48276L5.125 12.7284",
-                    //                                       stroke: "white",
-                    //                                       strokeWidth:
-                    //                                         "1.06034",
-                    //                                       strokeLinecap:
-                    //                                         "round",
-                    //                                       strokeLinejoin:
-                    //                                         "round",
-                    //                                     }),
-                    //                                   ],
-                    //                                 }),
-                    //                               ],
-                    //                             }),
-                    //                           ],
-                    //                         }),
-                    //                       ],
-                    //                     }),
-                    //                   ],
-                    //                 }),
-                    //               ],
-                    //             }),
-                    //           }),
-                    //         }),
-                    //       }),
-                    //     }),
-                    //     (0, i.jsx)("div", {
-                    //       className:
-                    //         "position-absolute top-0 start-50 translate-middle-x z-0",
-                    //       children: (0, i.jsx)("img", {
-                    //         src: "/assets/imgs/team-1/bg-line.png",
-                    //         alt: "CodM",
-                    //       }),
-                    //     }),
-                    //     (0, i.jsx)("div", {
-                    //       className:
-                    //         "ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0",
-                    //     }),
-                    //     (0, i.jsx)("div", {
-                    //       className:
-                    //         "ellipse-rotate-primary-sm position-absolute top-0 end-0 translate-middle-y z-0",
-                    //     }),
-                    //   ],
-                    // }),
-                  ],
+                (0, i.jsx)("li", {
+                  className: "nav-item",
+                  children: (0, i.jsx)(d.default, {
+                    className: "nav-link fw-bold d-flex align-items-center",
+                    href: "/AboutUs.html",
+                    children: "About",
+                  }),
                 }),
-                // (0, i.jsxs)("li", {
-                //   className: "nav-item dropdown has-mega menu-item-has-children",
-                //   children: [
-                //     (0, i.jsx)(d.default, {
-                //       className: "nav-link fw-bold d-flex align-items-center",
-                //       href: "/Services.html",
-                //       role: "button",
-                //       "data-bs-toggle": "dropdown",
-                //       "aria-expanded": "false",
-                //       children: "Services",
-                //     }),
-                    
-                //         (0, i.jsx)("div", {
-                //           className:
-                //             "ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0",
-                //         }),
-                //   ],
-                // }),
                 (0, i.jsxs)("li", {
-                  className: "nav-item dropdown menu-item-has-children",
+                  className: "nav-item dropdown has-mega-menu",
                   children: [
                     (0, i.jsx)(d.default, {
                       className: "nav-link fw-bold d-flex align-items-center",
@@ -3173,92 +2416,204 @@
                       children: "Services",
                     }),
                     (0, i.jsxs)("div", {
-                      className: "dropdown-menu p-4 fix",
+                      className: "mega-menu fix start-50 translate-middle-x",
                       children: [
-                        (0, i.jsxs)("ul", {
-                          className: "list-unstyled",
-                          children: [
-                            (0, i.jsx)("li", {
-                              className: "position-relative border-bottom z-1",
-                              children: (0, i.jsx)(d.default, {
-                                className:
-                                  "dropdown-item position-relative z-1 d-flex align-items-start",
-                                href: "/SalesforceCRM.html",
-                                children: "Salesforce CRM",
-                              }),
-                            }),
-                            (0, i.jsx)("li", {
-                              className: "position-relative border-bottom z-1",
-                              children: (0, i.jsx)(d.default, {
-                                className:
-                                  "dropdown-item position-relative z-1 d-flex align-items-start",
-                                href: "/DotNetApplication.html",
-                                children: ".NET Application",
-                              }),
-                            }),
-                            (0, i.jsx)("li", {
-                              className: "position-relative border-bottom z-1",
-                              children: (0, i.jsx)(d.default, {
-                                className:
-                                  "dropdown-item position-relative z-1 d-flex align-items-start",
-                                href: "/React-Application.html",
-                                children: "React Application",
-                              }),
-                            }),
-                            (0, i.jsx)("li", {
-                              className: "position-relative border-bottom z-1",
-                              children: (0, i.jsx)(d.default, {
-                                className:
-                                  "dropdown-item position-relative z-1 d-flex align-items-start",
-                                href: "/API-Integration.html",
-                                children: "API Integration ",
-                              }),
-                            }),
-                            (0, i.jsx)("li", {
-                              className: "position-relative border-bottom z-1",
-                              children: (0, i.jsx)(d.default, {
-                                className:
-                                  "dropdown-item position-relative z-1 d-flex align-items-start",
-                                href: "/D.I-D.M.html",
-                                children: "Data Integration/Migration",
-                              }),
-                            }),
-                            (0, i.jsx)("li", {
-                              className: "position-relative border-bottom z-1",
-                              children: (0, i.jsx)(d.default, {
-                                className:
-                                  "dropdown-item position-relative z-1 d-flex align-items-start",
-                                href: "/Technical-Support.html",
-                                children: "Technical Support",
-                              }),
-                            }),
-                            (0, i.jsx)("li", {
-                              className: "position-relative border-bottom z-1",
-                              children: (0, i.jsx)(d.default, {
-                                className:
-                                  "dropdown-item position-relative z-1 d-flex align-items-start",
-                                href: "BuildingLLM.html",
-                                children: "Building LLM",
-                              }),
-                            }),
-                            (0, i.jsx)("li", {
-                              className: "position-relative border-bottom z-1",
-                              children: (0, i.jsx)(d.default, {
-                                className:
-                                  "dropdown-item position-relative z-1 d-flex align-items-start",
-                                href: "/Python.html",
-                                children: "Python Application",
-                              }),
-                            }),
-                          ],
-                        }),
                         (0, i.jsx)("div", {
-                          className:
-                            "ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0",
-                        }),
-                        (0, i.jsx)("div", {
-                          className:
-                            "ellipse-rotate-primary-sm position-absolute bottom-0 end-0 translate-middle z-0",
+                          className: "container",
+                          children: (0, i.jsx)("div", {
+                            className: "row g-2", // Reduced gutter spacing with g-2
+                            children: (0, i.jsx)("div", {
+                              className: "col-12",
+                              children: (0, i.jsx)("div", {
+                                className: "mega-menu-content p-2", // Added padding
+                                children: (0, i.jsxs)("div", {
+                                  className: "row g-3", // Reduced row gutter
+                                  children: [
+                                    // Group 1: Multi-item categories
+                                    (0, i.jsx)("div", {
+                                      className: "col-md-3",
+                                      children: (0, i.jsxs)("div", {
+                                        className: "mega-menu-list",
+                                        children: [
+                                          (0, i.jsx)("p", {
+                                            className: "text-primary fw-bold mb-1 fs-7",
+                                            children: "SALESFORCE CRM",
+                                          }),
+                                          (0, i.jsxs)("ul", {
+                                            className: "list-unstyled mb-2", // Added margin bottom
+                                            children: [
+                                              (0, i.jsx)("li", {
+                                                className: "py-1", // Reduced item padding
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1", // Compact padding
+                                                  href: "/page-about",
+                                                  children: "Education Cloud",
+                                                }),
+                                              }),
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "/page-services-1",
+                                                  children: "Financial Cloud",
+                                                }),
+                                              }),
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "/page-services-1",
+                                                  children: "Health Cloud",
+                                                }),
+                                              }),
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "/page-services-1",
+                                                  children: "Sales Cloud",
+                                                }),
+                                              }),
+                                              
+                                            ],
+                                          }),
+                                        ],
+                                      }),
+                                    }),
+                                    
+                                    // Data Section
+                                    (0, i.jsx)("div", {
+                                      className: "col-md-3",
+                                      children: (0, i.jsxs)("div", {
+                                        className: "mega-menu-list",
+                                        children: [
+                                          (0, i.jsx)("p", {
+                                            className: "text-primary fw-bold mb-1 fs-7",
+                                            children: "DATA",
+                                          }),
+                                          (0, i.jsxs)("ul", {
+                                            className: "list-unstyled mb-2",
+                                            children: [
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "/API-Integration.html",
+                                                  children: "API Integration",
+                                                }),
+                                              }),
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "/D.I-D.M.html",
+                                                  children: "Data Integration",
+                                                }),
+                                              }),
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "/D.I-D.M.html",
+                                                  children: "Data Migration",
+                                                }),
+                                              }),
+                                            ],
+                                          }),
+                                        ],
+                                      }),
+                                    }),
+                                    
+                                    // Development Section (combined single items)
+                                    (0, i.jsx)("div", {
+                                      className: "col-md-3",
+                                      children: (0, i.jsxs)("div", {
+                                        className: "mega-menu-list",
+                                        children: [
+                                          (0, i.jsx)("p", {
+                                            className: "text-primary fw-bold mb-1 fs-7",
+                                            children: "DEVELOPMENT",
+                                          }),
+                                          (0, i.jsxs)("ul", {
+                                            className: "list-unstyled mb-2",
+                                            children: [
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "/DotNetApplication.html",
+                                                  children: "CRM Development",
+                                                }),
+                                              }),
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "/BuildingLLM.html",
+                                                  children: "Building LLM",
+                                                }),
+                                              }),
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "/DotNetApplication.html",
+                                                  children: ".NET Application",
+                                                }),
+                                              }),
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "/React-Application.html",
+                                                  children: "React Application",
+                                                }),
+                                              }),
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "/Python.html",
+                                                  children: "Python Application",
+                                                }),
+                                              }),
+                                            ],
+                                          }),
+                                        ],
+                                      }),
+                                    }),
+                                    
+                                    // Support Section
+                                    (0, i.jsx)("div", {
+                                      className: "col-md-3",
+                                      children: (0, i.jsxs)("div", {
+                                        className: "mega-menu-list",
+                                        children: [
+                                          (0, i.jsx)("p", {
+                                            className: "text-primary fw-bold mb-1 fs-7",
+                                            children: "SUPPORT",
+                                          }),
+                                          (0, i.jsxs)("ul", {
+                                            className: "list-unstyled mb-2",
+                                            children: [
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "/Technical-Support.html",
+                                                  children: "Technical Support",
+                                                }),
+                                              }),
+                                            ],
+                                          }),
+                                        ],
+                                      }),
+                                    }),
+                                  ],
+                                }),
+                              }),
+                            }),
+                          }),
                         }),
                       ],
                     }),
@@ -3348,7 +2703,7 @@
                         }),
                         (0, i.jsxs)("div", {
                           className:
-                            "burger-icon burger-icon-white border rounded-3",
+                            "burger-icon burger-icon-white border rounded-3 mt-3",
                           onClick: l,
                           children: [
                             (0, i.jsx)("span", {
@@ -3447,7 +2802,7 @@
                         }),
                         (0, i.jsxs)("div", {
                           className:
-                            "burger-icon burger-icon-white border rounded-3",
+                            "burger-icon burger-icon-white border rounded-3 mt-3",
                           onClick: l,
                           children: [
                             (0, i.jsx)("span", {
@@ -3687,7 +3042,7 @@
                             }),
                             (0, i.jsxs)("div", {
                               className:
-                                "burger-icon burger-icon-white border rounded-3",
+                                "burger-icon burger-icon-white border rounded-3 mt-3",
                               onClick: l,
                               children: [
                                 (0, i.jsx)("span", {
@@ -3792,7 +3147,7 @@
                         }),
                         (0, i.jsxs)("div", {
                           className:
-                            "burger-icon burger-icon-white border rounded-3",
+                            "burger-icon burger-icon-white border rounded-3 mt-3",
                           onClick: l,
                           children: [
                             (0, i.jsx)("span", {
@@ -4136,7 +3491,7 @@
                           }),
                           (0, i.jsxs)("div", {
                             className:
-                              "burger-icon burger-icon-white border rounded-3",
+                              "burger-icon burger-icon-white border rounded-3 mt-3",
                             onClick: l,
                             children: [
                               (0, i.jsx)("span", {
@@ -4165,11 +3520,11 @@
       }
       function y(e) {
         let {
-            headerStyle: s,
-            footerStyle: l,
-            breadcrumbTitle: d,
-            children: x,
-          } = e,
+          headerStyle: s,
+          footerStyle: l,
+          breadcrumbTitle: d,
+          children: x,
+        } = e,
           [j, p] = (0, r.useState)(!1),
           [u, g] = (0, r.useState)(!1),
           y = () => {
@@ -4203,7 +3558,17 @@
             children: [
               (0, i.jsx)("div", { id: "top" }),
               !s &&
-                (0, i.jsx)(C, {
+              (0, i.jsx)(C, {
+                scroll: j,
+                isMobileMenu: u,
+                handleMobileMenu: y,
+                isSearch: k,
+                handleSearch: M,
+                isOffCanvas: H,
+                handleOffCanvas: z,
+              }),
+              1 == s
+                ? (0, i.jsx)(v, {
                   scroll: j,
                   isMobileMenu: u,
                   handleMobileMenu: y,
@@ -4211,61 +3576,51 @@
                   handleSearch: M,
                   isOffCanvas: H,
                   handleOffCanvas: z,
-                }),
-              1 == s
-                ? (0, i.jsx)(v, {
-                    scroll: j,
-                    isMobileMenu: u,
-                    handleMobileMenu: y,
-                    isSearch: k,
-                    handleSearch: M,
-                    isOffCanvas: H,
-                    handleOffCanvas: z,
-                  })
+                })
                 : null,
               2 == s
                 ? (0, i.jsx)(w, {
-                    scroll: j,
-                    isMobileMenu: u,
-                    handleMobileMenu: y,
-                    isSearch: k,
-                    handleSearch: M,
-                    isOffCanvas: H,
-                    handleOffCanvas: z,
-                  })
+                  scroll: j,
+                  isMobileMenu: u,
+                  handleMobileMenu: y,
+                  isSearch: k,
+                  handleSearch: M,
+                  isOffCanvas: H,
+                  handleOffCanvas: z,
+                })
                 : null,
               3 == s
                 ? (0, i.jsx)(b, {
-                    scroll: j,
-                    isMobileMenu: u,
-                    handleMobileMenu: y,
-                    isSearch: k,
-                    handleSearch: M,
-                    isOffCanvas: H,
-                    handleOffCanvas: z,
-                  })
+                  scroll: j,
+                  isMobileMenu: u,
+                  handleMobileMenu: y,
+                  isSearch: k,
+                  handleSearch: M,
+                  isOffCanvas: H,
+                  handleOffCanvas: z,
+                })
                 : null,
               4 == s
                 ? (0, i.jsx)(N, {
-                    scroll: j,
-                    isMobileMenu: u,
-                    handleMobileMenu: y,
-                    isSearch: k,
-                    handleSearch: M,
-                    isOffCanvas: H,
-                    handleOffCanvas: z,
-                  })
+                  scroll: j,
+                  isMobileMenu: u,
+                  handleMobileMenu: y,
+                  isSearch: k,
+                  handleSearch: M,
+                  isOffCanvas: H,
+                  handleOffCanvas: z,
+                })
                 : null,
               5 == s
                 ? (0, i.jsx)(C, {
-                    scroll: j,
-                    isMobileMenu: u,
-                    handleMobileMenu: y,
-                    isSearch: k,
-                    handleSearch: M,
-                    isOffCanvas: H,
-                    handleOffCanvas: z,
-                  })
+                  scroll: j,
+                  isMobileMenu: u,
+                  handleMobileMenu: y,
+                  isSearch: k,
+                  handleSearch: M,
+                  isOffCanvas: H,
+                  handleOffCanvas: z,
+                })
                 : null,
               (0, i.jsxs)("main", {
                 children: [d && (0, i.jsx)(c, { breadcrumbTitle: d }), x],
