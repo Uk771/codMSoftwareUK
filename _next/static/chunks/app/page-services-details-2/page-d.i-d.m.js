@@ -107,22 +107,17 @@
                           children: [
                             (0, i.jsx)("img", {
                               className: "rounded-3",
-                              src: "/assets/imgs/services-details-2/DOTNET-Application/img-1.png",
+                              src: "/assets/imgs/services-details-2/d.i-d.m/img-1.png",
                               alt: "Codm",
                             }),
                             (0, i.jsx)("h4", {
                               className: "my-3",
-                              children: "Build Fast, Scalable, and Engaging User Interfaces with React",
+                              children: "Empowering Seamless Data Transformation Across Industries",
                             }),
                             (0, i.jsxs)("p", {
                               className: "mb-0",
                               children: [
-                                "At Codm,we deliver high-performance React applications that combine speed, scalability, and a seamless user experience. React.js, developed and maintained by Facebook, is the go-to JavaScript library for building interactive and dynamic front-end applications — and we use it to craft everything from MVPs to enterprise-grade solutions.",
-                                (0, i.jsx)("span", {
-                                  className: "text-900 fw-bold",
-                                  children: "Our innovative business",
-                                }),
-                                " services are designed to help you navigate the complexities of the modern marketplace, leveraging cutting-edge technology and forward-thinking strategies to transform your operations and achieve your goals. We implement intelligent automation tools tailored to your specific needs.",
+                                "In today's data-driven landscape, organizations must efficiently manage and utilize vast amounts of information. Data Integration and Data Migration are pivotal processes that enable businesses to consolidate, transfer, and optimize data across diverse systems, ensuring accuracy, consistency, and accessibility.",
                               ],
                             }),
                             (0, i.jsxs)("div", {
@@ -235,12 +230,12 @@
                             }),
                             (0, i.jsx)("h5", {
                               className: "pt-4 border-top mb-3 mt-5",
-                              children: "What is .NET Application?",
+                              children: "What is Data Integration?",
                             }),
                             (0, i.jsx)("p", {
                               className: "mb-4",
                               children:
-                                "A .NET application is a software program developed using Microsoft's .NET framework or its modern, cross-platform successor, .NET Core / .NET 5+. It can be a web, desktop, mobile, cloud, or API-based application, written primarily in languages like C#, VB.NET, or F#.",
+                                "Data Integration is the process of combining data from multiple sources into a unified view, facilitating comprehensive analysis and decision-making. This approach enhances collaboration, improves data quality, and streamlines business operations by providing a single source of truth.",
                             }),
                             (0, i.jsxs)("div", {
                               className: "row",
@@ -267,11 +262,11 @@
                                           children: [
                                             (0, i.jsx)("h6", {
                                               children:
-                                                "Web Applications",
+                                                "Enhanced Decision-Making",
                                             }),
                                             (0, i.jsxs)("p", {
                                               children: [
-                                                "Built using ASP.NET or ASP.NET Core – run on browsers ",
+                                                "Unified data enables more informed and timely business decisions",
                                               ],
                                             }),
                                           ],
@@ -297,11 +292,11 @@
                                           children: [
                                             (0, i.jsx)("h6", {
                                               children:
-                                                "Desktop Applications",
+                                                "Improved Data Quality",
                                             }),
                                             (0, i.jsxs)("p", {
                                               children: [
-                                                "Built using WPF, WinForms, or UWP – installed and run on Windows machines. ",
+                                                "Consolidation helps identify and rectify inconsistencies, ensuring data accuracy. ",
                                               ],
                                             }),
                                           ],
@@ -326,11 +321,11 @@
                                           className: "ps-5",
                                           children: [
                                             (0, i.jsx)("h6", {
-                                              children: "Mobile Applications",
+                                              children: "Increased Efficiency",
                                             }),
                                             (0, i.jsxs)("p", {
                                               children: [
-                                                "Developed using Xamarin or .NET MAUI – run on Android and iOS with a single codebase.",
+                                                "Automating data consolidation reduces manual efforts and operational costs.",
                                               ],
                                             }),
                                           ],
@@ -351,71 +346,49 @@
                             }),
                             (0, i.jsx)("h4", {
                               className: "mt-3 pt-3 border-top mb-3",
-                              children: "Sustainability and CSR",
+                              children: "What is Data Migration?",
                             }),
                             (0, i.jsx)("p", {
                               className: "mb-3",
                               children:
-                                "Embrace the future of business with Infinia's innovative services. Let us help you transform your organization and achieve unprecedented success. Contact us today to learn more about how we can support your journey towards innovation and excellence.",
+                                "Data Migration involves transferring data from one system, format, or location to another, often during system upgrades, cloud transitions, or infrastructure changes. This process ensures that data remains accessible and functional in new environments.",
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Ideation and Concept Development: ",
+                                "System Modernization: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Foster a culture of innovation within your organization. We facilitate ideation sessions and help you develop viable concepts that can be turned into profitable ventures.",
+                                    "Facilitates the adoption of advanced technologies and platforms.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "RD Support: ",
+                                "Cost Reduction: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Accelerate your research and development efforts with our expert support. We provide the resources and expertise needed to bring your innovative ideas to life.",
+                                    "Eliminates expenses associated with maintaining outdated systems.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Intellectual Property Management: ",
+                                "Enhanced Performance: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Protect your innovations with our comprehensive IP management services. From patent filing to trademark registration, we safeguard your intellectual assets.",
-                                }),
-                              ],
-                            }),
-                            (0, i.jsxs)("p", {
-                              className: "fw-bold text-900",
-                              children: [
-                                "Market Analysis and Insights: ",
-                                (0, i.jsx)("span", {
-                                  className: "fw-medium text-600",
-                                  children:
-                                    "Stay ahead of the competition with in-depth market analysis. We provide you with actionable insights that help you identify new opportunities and make informed strategic decisions.",
-                                }),
-                              ],
-                            }),
-                            (0, i.jsxs)("p", {
-                              className: "fw-bold text-900",
-                              children: [
-                                "Business Model Innovation: ",
-                                (0, i.jsx)("span", {
-                                  className: "fw-medium text-600",
-                                  children:
-                                    "Reinvent your business model to meet the demands of today's market. Our experts help you create a flexible, scalable model that drives",
+                                    "Migrating to optimized systems improves data processing speeds and reliability.",
                                 }),
                               ],
                             }),
                             (0, i.jsx)("h5", {
                               className: "pt-3 border-top mb-3 mt-5",
-                              children: "Questions about service",
+                              children: "Use Cases Across Industries",
                             }),
                             (0, i.jsxs)("div", {
                               className: "accordion",
@@ -443,7 +416,7 @@
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
                                             children:
-                                              "Digital product engineering",
+                                              "Healthcare: Streamlining Patient Data Management",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -477,7 +450,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "A hospital network migrated petabytes of patient data from legacy systems to a modern cloud-based platform, enhancing data accessibility and compliance with health regulations.",
                                       }),
                                     }),
                                   ],
@@ -504,7 +477,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "Crafting SaaS development",
+                                            children: "Retail: Integrating Sales and Inventory Systems",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -538,7 +511,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "A leading retailer integrated data from various sales channels and inventory systems, enabling real-time stock management and personalized customer experiences.",
                                       }),
                                     }),
                                   ],
@@ -565,7 +538,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "AI app development",
+                                            children: "Finance: Consolidating Customer Information",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -599,7 +572,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "A financial institution consolidated customer data from multiple branches and online platforms, improving data accuracy and enabling targeted marketing strategies.",
                                       }),
                                     }),
                                   ],
@@ -626,7 +599,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "E-commerce development",
+                                            children: "Manufacturing: Migrating to Advanced ERP Systems",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -660,7 +633,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "A manufacturing company transitioned from outdated ERP systems to a modern solution, streamlining operations and enhancing supply chain visibility.",
                                       }),
                                     }),
                                   ],
@@ -687,7 +660,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "Web Development Services",
+                                            children: "Public Sector: Ensuring Secure Data Transfers",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -721,7 +694,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "A government agency migrated sensitive data across secure platforms, maintaining data integrity and adhering to strict compliance standards.",
                                       }),
                                     }),
                                   ],
@@ -853,76 +826,6 @@
                                 }),
                               ],
                             }),
-                            // (0, i.jsxs)("div", {
-                            //   className:
-                            //     "bg-neutral-100 px-5 pb-5 mt-7 rounded-4 border",
-                            //   children: [
-                            //     (0, i.jsx)("h6", {
-                            //       className: "mb-4 mt-3",
-                            //       children: "Service Brochure",
-                            //     }),
-                            //     (0, i.jsxs)(n.default, {
-                            //       href: "#",
-                            //       className:
-                            //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                            //       children: [
-                            //         (0, i.jsx)("img", {
-                            //           src: "/assets/imgs/services-details/icon-1.svg",
-                            //           alt: "Codm",
-                            //         }),
-                            //         (0, i.jsx)("p", {
-                            //           className: "text-900 fs-7 mb-0 ms-3",
-                            //           children: "PDF. Download (25 Mb)",
-                            //         }),
-                            //       ],
-                            //     }),
-                            //     (0, i.jsxs)(n.default, {
-                            //       href: "#",
-                            //       className:
-                            //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                            //       children: [
-                            //         (0, i.jsx)("img", {
-                            //           src: "/assets/imgs/services-details/icon-2.svg",
-                            //           alt: "Codm",
-                            //         }),
-                            //         (0, i.jsx)("p", {
-                            //           className: "text-900 fs-7 mb-0 ms-3",
-                            //           children: "DOC. Download (28 Mb)",
-                            //         }),
-                            //       ],
-                            //     }),
-                            //     (0, i.jsxs)(n.default, {
-                            //       href: "#",
-                            //       className:
-                            //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                            //       children: [
-                            //         (0, i.jsx)("img", {
-                            //           src: "/assets/imgs/services-details/icon-3.svg",
-                            //           alt: "Codm",
-                            //         }),
-                            //         (0, i.jsx)("p", {
-                            //           className: "text-900 fs-7 mb-0 ms-3",
-                            //           children: "Open on Google Driver",
-                            //         }),
-                            //       ],
-                            //     }),
-                            //     (0, i.jsxs)(n.default, {
-                            //       href: "#",
-                            //       className:
-                            //         "bg-white rounded-3 p-3 border d-flex align-items-center",
-                            //       children: [
-                            //         (0, i.jsx)("img", {
-                            //           src: "/assets/imgs/services-details/icon-4.svg",
-                            //           alt: "Codm",
-                            //         }),
-                            //         (0, i.jsx)("p", {
-                            //           className: "text-900 fs-7 mb-0 ms-3",
-                            //           children: "Open on Google Driver",
-                            //         }),
-                            //       ],
-                            //     }),
-                            //   ],
-                            // }),
                             (0, i.jsxs)("div", {
                               className:
                                 "bg-primary rounded-4 mt-7 position-relative",
