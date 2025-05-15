@@ -1399,25 +1399,25 @@
                                           className:
                                             "ms-2 text-decoration-underline text-900 fs-7",
                                           href: "#",
-                                          children: "support@codmsoftware.co.uk",
+                                          children: "info@codmsoftware.co.uk",
                                         }),
                                       ],
                                     }),
-                                    (0, i.jsxs)("div", {
-                                      className: "d-flex mb-2 mb-5",
-                                      children: [
-                                        (0, i.jsx)("img", {
-                                          src: "/assets/imgs/contact-2/icon-4.svg",
-                                          alt: "Codm",
-                                        }),
-                                        (0, i.jsx)(n.default, {
-                                          className:
-                                            "ms-2 text-decoration-underline text-900 fs-7",
-                                          href: "#",
-                                          children: "sales@codmsoftware.co.uk",
-                                        }),
-                                      ],
-                                    }),
+                                    // (0, i.jsxs)("div", {
+                                    //   className: "d-flex mb-2 mb-5",
+                                    //   children: [
+                                    //     (0, i.jsx)("img", {
+                                    //       src: "/assets/imgs/contact-2/icon-4.svg",
+                                    //       alt: "Codm",
+                                    //     }),
+                                    //     (0, i.jsx)(n.default, {
+                                    //       className:
+                                    //         "ms-2 text-decoration-underline text-900 fs-7",
+                                    //       href: "#",
+                                    //       children: "sales@codmsoftware.co.uk",
+                                    //     }),
+                                    //   ],
+                                    // }),
                                     (0, i.jsx)("h6", {
                                       children: "For more inquiry",
                                     }),
