@@ -352,65 +352,65 @@
                             }),
                             (0, i.jsx)("h4", {
                               className: "mt-3 pt-3 border-top mb-3",
-                              children: "Sustainability and CSR",
+                              children: "Empowering Industry-Specific Digital Solutions",
                             }),
                             (0, i.jsx)("p", {
                               className: "mb-3",
                               children:
-                                "Embrace the future of business with Infinia's innovative services. Let us help you transform your organization and achieve unprecedented success. Contact us today to learn more about how we can support your journey towards innovation and excellence.",
+                                "React, a powerful JavaScript library, enables the development of dynamic and responsive user interfaces. Its integration capabilities allow businesses across various industries to enhance user experiences, streamline operations, and drive innovation.",
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Ideation and Concept Development: ",
+                                "Retail & E-commerce: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Foster a culture of innovation within your organization. We facilitate ideation sessions and help you develop viable concepts that can be turned into profitable ventures.",
+                                    "Retailers leverage React to build interactive and scalable e-commerce platforms. For instance, Walmart utilizes React to create a seamless shopping experience, enabling real-time updates and efficient state management.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "RD Support: ",
+                                "Media & Entertainment: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Accelerate your research and development efforts with our expert support. We provide the resources and expertise needed to bring your innovative ideas to life.",
+                                    "Streaming services like Netflix employ React to manage their user interfaces, ensuring smooth navigation and real-time content updates. React's component-based architecture allows for efficient rendering of dynamic content, enhancing user satisfaction.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Intellectual Property Management: ",
+                                "Transportation & Logistics: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Protect your innovations with our comprehensive IP management services. From patent filing to trademark registration, we safeguard your intellectual assets.",
+                                    "Companies like Uber Eats integrate React Native to develop their Restaurant Dashboard, facilitating real-time order tracking and efficient communication between restaurants and delivery partners.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Market Analysis and Insights: ",
+                                "Healthcare: Improving Patient Interaction ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Stay ahead of the competition with in-depth market analysis. We provide you with actionable insights that help you identify new opportunities and make informed strategic decisions.",
+                                    "Healthcare applications utilize React to create intuitive interfaces for patient portals, appointment scheduling, and telemedicine services. React's flexibility ensures secure and responsive platforms, enhancing patient engagement.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Business Model Innovation: ",
+                                "Education: Facilitating Interactive Learning ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Reinvent your business model to meet the demands of today's market. Our experts help you create a flexible, scalable model that drives",
+                                    "Educational platforms adopt React to develop interactive learning management systems (LMS), enabling real-time updates, quizzes, and collaborative tools that enhance the learning experience.",
                                 }),
                               ],
                             }),
@@ -444,7 +444,7 @@
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
                                             children:
-                                              "Digital product engineering",
+                                              "What is React Integration, and how does it benefit businesses?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -478,7 +478,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "React Integration involves incorporating React—a JavaScript library for building user interfaces—into existing or new applications to create dynamic and responsive user experiences. By integrating React, businesses can enhance performance, improve scalability, and provide a seamless user interface across various platforms.",
                                       }),
                                     }),
                                   ],
@@ -505,7 +505,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "Crafting SaaS development",
+                                            children: "How does React Integration improve user experience in web applications?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -539,7 +539,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "React's component-based architecture allows for the development of reusable UI components, leading to consistent design and behavior across the application. Its virtual DOM efficiently updates and renders components, resulting in faster load times and a smoother user experience.",
                                       }),
                                     }),
                                   ],
@@ -566,7 +566,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "AI app development",
+                                            children: "Can React be integrated with existing backend systems?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -600,7 +600,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "Yes, React can be seamlessly integrated with various backend systems and APIs. It works well with technologies like Node.js, Express, Django, Ruby on Rails, and more, allowing for the creation of full-stack applications that leverage existing infrastructures.",
                                       }),
                                     }),
                                   ],
@@ -627,7 +627,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "E-commerce development",
+                                            children: "What industries benefit most from React Integration?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -661,7 +661,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "Industries such as e-commerce, healthcare, education, finance, and entertainment benefit significantly from React Integration. For instance, e-commerce platforms use React to create dynamic product pages, while healthcare applications utilize it for responsive patient portals.",
                                       }),
                                     }),
                                   ],
@@ -688,7 +688,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "Web Development Services",
+                                            children: "How does React Integration support mobile application development?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -722,7 +722,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "Through React Native, React's principles extend to mobile app development, enabling the creation of native mobile applications for iOS and Android using a single codebase. This approach reduces development time and ensures consistency across web and mobile platforms.",
                                       }),
                                     }),
                                   ],
@@ -840,6 +840,46 @@
                                 "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                               children: [
                                 "Technical Support",
+                                (0, i.jsx)("svg", {
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  width: 24,
+                                  height: 24,
+                                  viewBox: "0 0 24 24",
+                                  fill: "none",
+                                  children: (0, i.jsx)("path", {
+                                    className: "fill-neutral-100",
+                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                                    fill: "#f3f4f6",
+                                  }),
+                                }),
+                              ],
+                            }),
+                            (0, i.jsxs)(n.default, {
+                              href: "/BuildingLLM.html",
+                              className:
+                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                              children: [
+                                "Building LLM",
+                                (0, i.jsx)("svg", {
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  width: 24,
+                                  height: 24,
+                                  viewBox: "0 0 24 24",
+                                  fill: "none",
+                                  children: (0, i.jsx)("path", {
+                                    className: "fill-neutral-100",
+                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                                    fill: "#f3f4f6",
+                                  }),
+                                }),
+                              ],
+                            }),
+                            (0, i.jsxs)(n.default, {
+                              href: "/Python.html",
+                              className:
+                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                              children: [
+                                "Python Application",
                                 (0, i.jsx)("svg", {
                                   xmlns: "http://www.w3.org/2000/svg",
                                   width: 24,

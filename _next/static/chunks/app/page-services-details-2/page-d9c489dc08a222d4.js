@@ -939,7 +939,7 @@
                                     ],
                                   }),
                                   (0, i.jsxs)(n.default, {
-                                    href: "/page-contact-1",
+                                    href: "/contact.html",
                                     className:
                                       "d-flex align-items-center mt-8 mb-9",
                                     children: [
