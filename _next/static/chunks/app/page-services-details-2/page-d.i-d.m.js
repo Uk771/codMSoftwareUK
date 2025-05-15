@@ -136,7 +136,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "Custom .NET Application Development",
+                                          children: "Enhanced Decision-Making",
                                         }),
                                       ],
                                     }),
@@ -150,7 +150,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "Web Application Development",
+                                          children: "Improved Data Quality",
                                         }),
                                       ],
                                     }),
@@ -171,7 +171,7 @@
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
                                           children:
-                                            "Enterprise Solutions",
+                                            "Increased Efficiency",
                                         }),
                                       ],
                                     }),
@@ -186,7 +186,7 @@
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
                                           children:
-                                            ".NET Migration & Modernization",
+                                            "System Modernization",
                                         }),
                                       ],
                                     }),
@@ -206,7 +206,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "API & Microservices Development",
+                                          children: "Cost Reduction",
                                         }),
                                       ],
                                     }),
@@ -220,7 +220,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "Cloud-Based .NET Development",
+                                          children: "Enhanced Performance",
                                         }),
                                       ],
                                     }),
@@ -826,6 +826,46 @@
                                 }),
                               ],
                             }),
+                            (0, i.jsxs)(n.default, {
+                              href: "/BuildingLLM.html",
+                              className:
+                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                              children: [
+                                "Building LLM",
+                                (0, i.jsx)("svg", {
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  width: 24,
+                                  height: 24,
+                                  viewBox: "0 0 24 24",
+                                  fill: "none",
+                                  children: (0, i.jsx)("path", {
+                                    className: "fill-neutral-100",
+                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                                    fill: "#f3f4f6",
+                                  }),
+                                }),
+                              ],
+                            }),
+                            (0, i.jsxs)(n.default, {
+                              href: "/Python.html",
+                              className:
+                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                              children: [
+                                "Python Application",
+                                (0, i.jsx)("svg", {
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  width: 24,
+                                  height: 24,
+                                  viewBox: "0 0 24 24",
+                                  fill: "none",
+                                  children: (0, i.jsx)("path", {
+                                    className: "fill-neutral-100",
+                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                                    fill: "#f3f4f6",
+                                  }),
+                                }),
+                              ],
+                            }),
                             (0, i.jsxs)("div", {
                               className:
                                 "bg-primary rounded-4 mt-7 position-relative",
@@ -840,7 +880,7 @@
                                         (0, i.jsx)("br", {}),
                                         "Ultimate Experience ",
                                         (0, i.jsx)("br", {}),
-                                        "in Salesforce CRM",
+                                        "in Data Integration/Migration",
                                       ],
                                     }),
                                     (0, i.jsxs)(n.default, {

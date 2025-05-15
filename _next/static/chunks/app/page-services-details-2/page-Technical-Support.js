@@ -107,22 +107,17 @@
                           children: [
                             (0, i.jsx)("img", {
                               className: "rounded-3",
-                              src: "/assets/imgs/services-details-2/DOTNET-Application/img-1.png",
+                              src: "/assets/imgs/services-details-2/Technical-Support/img-1.jpg",
                               alt: "Codm",
                             }),
                             (0, i.jsx)("h4", {
                               className: "my-3",
-                              children: "Build Fast, Scalable, and Engaging User Interfaces with React",
+                              children: "Empowering Your Business with Reliable Technical Support",
                             }),
                             (0, i.jsxs)("p", {
                               className: "mb-0",
                               children: [
-                                "At Codm,we deliver high-performance React applications that combine speed, scalability, and a seamless user experience. React.js, developed and maintained by Facebook, is the go-to JavaScript library for building interactive and dynamic front-end applications — and we use it to craft everything from MVPs to enterprise-grade solutions.",
-                                (0, i.jsx)("span", {
-                                  className: "text-900 fw-bold",
-                                  children: "Our innovative business",
-                                }),
-                                " services are designed to help you navigate the complexities of the modern marketplace, leveraging cutting-edge technology and forward-thinking strategies to transform your operations and achieve your goals. We implement intelligent automation tools tailored to your specific needs.",
+                                "In today's fast-paced digital landscape, uninterrupted technical operations are crucial for business success. Our Technical Support Services are designed to ensure your systems run smoothly, minimizing downtime and enhancing productivity.",
                               ],
                             }),
                             (0, i.jsxs)("div", {
@@ -141,7 +136,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "Custom .NET Application Development",
+                                          children: "24/7 Helpdesk Support",
                                         }),
                                       ],
                                     }),
@@ -155,7 +150,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "Web Application Development",
+                                          children: "Remote Troubleshooting",
                                         }),
                                       ],
                                     }),
@@ -176,7 +171,7 @@
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
                                           children:
-                                            "Enterprise Solutions",
+                                            "On-Site Support",
                                         }),
                                       ],
                                     }),
@@ -191,7 +186,7 @@
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
                                           children:
-                                            ".NET Migration & Modernization",
+                                            "System Maintenance",
                                         }),
                                       ],
                                     }),
@@ -211,7 +206,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "API & Microservices Development",
+                                          children: "Software Installation & Updates",
                                         }),
                                       ],
                                     }),
@@ -225,7 +220,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "Cloud-Based .NET Development",
+                                          children: "Hardware Support",
                                         }),
                                       ],
                                     }),
@@ -235,12 +230,12 @@
                             }),
                             (0, i.jsx)("h5", {
                               className: "pt-4 border-top mb-3 mt-5",
-                              children: "What is .NET Application?",
+                              children: "What is Technical Support?",
                             }),
                             (0, i.jsx)("p", {
                               className: "mb-4",
                               children:
-                                "A .NET application is a software program developed using Microsoft's .NET framework or its modern, cross-platform successor, .NET Core / .NET 5+. It can be a web, desktop, mobile, cloud, or API-based application, written primarily in languages like C#, VB.NET, or F#.",
+                                "Technical Support refers to assistance provided to users experiencing technical issues with products or services, including hardware, software, or electronic systems. This support encompasses troubleshooting problems, providing guidance on product usage, performing repairs, and ensuring optimal functionality. Services are delivered through various channels such as phone, email, online chat, or in-person interactions.",
                             }),
                             (0, i.jsxs)("div", {
                               className: "row",
@@ -267,11 +262,11 @@
                                           children: [
                                             (0, i.jsx)("h6", {
                                               children:
-                                                "Web Applications",
+                                                "Reduced Downtime",
                                             }),
                                             (0, i.jsxs)("p", {
                                               children: [
-                                                "Built using ASP.NET or ASP.NET Core – run on browsers ",
+                                                "Quick issue resolution minimizes disruptions to your operations ",
                                               ],
                                             }),
                                           ],
@@ -297,11 +292,11 @@
                                           children: [
                                             (0, i.jsx)("h6", {
                                               children:
-                                                "Desktop Applications",
+                                                "Cost Efficiency",
                                             }),
                                             (0, i.jsxs)("p", {
                                               children: [
-                                                "Built using WPF, WinForms, or UWP – installed and run on Windows machines. ",
+                                                "Preventive maintenance and timely support reduce long-term operational costs. ",
                                               ],
                                             }),
                                           ],
@@ -326,11 +321,11 @@
                                           className: "ps-5",
                                           children: [
                                             (0, i.jsx)("h6", {
-                                              children: "Mobile Applications",
+                                              children: "Expert Assistance",
                                             }),
                                             (0, i.jsxs)("p", {
                                               children: [
-                                                "Developed using Xamarin or .NET MAUI – run on Android and iOS with a single codebase.",
+                                                "Access to skilled professionals with extensive technical knowledge.",
                                               ],
                                             }),
                                           ],
@@ -351,71 +346,71 @@
                             }),
                             (0, i.jsx)("h4", {
                               className: "mt-3 pt-3 border-top mb-3",
-                              children: "Sustainability and CSR",
+                              children: "Industries We Serve",
                             }),
                             (0, i.jsx)("p", {
                               className: "mb-3",
                               children:
-                                "Embrace the future of business with Infinia's innovative services. Let us help you transform your organization and achieve unprecedented success. Contact us today to learn more about how we can support your journey towards innovation and excellence.",
+                                "Our Technical Support Services cater to a diverse range of industries, including.",
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Ideation and Concept Development: ",
+                                "Healthcare: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Foster a culture of innovation within your organization. We facilitate ideation sessions and help you develop viable concepts that can be turned into profitable ventures.",
+                                    "Ensuring the reliability of critical medical systems and patient data security.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "RD Support: ",
+                                "Finance: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Accelerate your research and development efforts with our expert support. We provide the resources and expertise needed to bring your innovative ideas to life.",
+                                    "Maintaining the integrity and uptime of financial systems and transaction platforms.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Intellectual Property Management: ",
+                                "Retail: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Protect your innovations with our comprehensive IP management services. From patent filing to trademark registration, we safeguard your intellectual assets.",
+                                    "Supporting POS systems, inventory management, and e-commerce platforms.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Market Analysis and Insights: ",
+                                "Education: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Stay ahead of the competition with in-depth market analysis. We provide you with actionable insights that help you identify new opportunities and make informed strategic decisions.",
+                                    "Facilitating seamless operation of educational technologies and online learning tools.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Business Model Innovation: ",
+                                "Manufacturing: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Reinvent your business model to meet the demands of today's market. Our experts help you create a flexible, scalable model that drives",
+                                    "Ensuring the smooth functioning of production systems and machinery.",
                                 }),
                               ],
                             }),
                             (0, i.jsx)("h5", {
                               className: "pt-3 border-top mb-3 mt-5",
-                              children: "Questions about service",
+                              children: "Technical Support Services",
                             }),
                             (0, i.jsxs)("div", {
                               className: "accordion",
@@ -443,7 +438,7 @@
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
                                             children:
-                                              "Digital product engineering",
+                                              "What types of technical support services do you offer?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -477,7 +472,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "We provide comprehensive technical support services, including 24/7 helpdesk assistance, remote troubleshooting, on-site support, system maintenance, software installation and updates, and hardware diagnostics and repairs. Our goal is to ensure your IT infrastructure operates smoothly and efficiently.",
                                       }),
                                     }),
                                   ],
@@ -504,7 +499,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "Crafting SaaS development",
+                                            children: "How can your technical support services benefit my business?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -538,7 +533,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "Our technical support services minimize downtime by promptly addressing IT issues, enhance productivity through efficient system maintenance, and reduce operational costs by preventing potential problems. By ensuring your technology functions optimally, we help you focus on your core business activities.",
                                       }),
                                     }),
                                   ],
@@ -565,7 +560,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "AI app development",
+                                            children: "Do you offer support for both hardware and software issues?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -599,7 +594,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "Yes, our team is equipped to handle a wide range of technical issues, including hardware malfunctions and software glitches. Whether it's a faulty component or a software error, we provide effective solutions to restore your systems to full functionality.",
                                       }),
                                     }),
                                   ],
@@ -626,7 +621,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "E-commerce development",
+                                            children: "How do you ensure the security of our data during support services?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -660,7 +655,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "We prioritize data security by implementing strict protocols during all support activities. Our technicians follow best practices to protect sensitive information, and we use secure tools for remote access and data handling to maintain confidentiality and integrity.",
                                       }),
                                     }),
                                   ],
@@ -687,7 +682,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "Web Development Services",
+                                            children: "Can you provide customized support plans for different business needs?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -721,7 +716,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "Absolutely. We understand that each business has unique requirements, so we offer tailored support plans that align with your specific needs and budget. Whether you're a small business or a large enterprise, we can design a support strategy that fits your operations.",
                                       }),
                                     }),
                                   ],
@@ -893,76 +888,6 @@
                                 }),
                               ],
                             }),
-                            // (0, i.jsxs)("div", {
-                            //   className:
-                            //     "bg-neutral-100 px-5 pb-5 mt-7 rounded-4 border",
-                            //   children: [
-                            //     (0, i.jsx)("h6", {
-                            //       className: "mb-4 mt-3",
-                            //       children: "Service Brochure",
-                            //     }),
-                            //     (0, i.jsxs)(n.default, {
-                            //       href: "#",
-                            //       className:
-                            //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                            //       children: [
-                            //         (0, i.jsx)("img", {
-                            //           src: "/assets/imgs/services-details/icon-1.svg",
-                            //           alt: "Codm",
-                            //         }),
-                            //         (0, i.jsx)("p", {
-                            //           className: "text-900 fs-7 mb-0 ms-3",
-                            //           children: "PDF. Download (25 Mb)",
-                            //         }),
-                            //       ],
-                            //     }),
-                            //     (0, i.jsxs)(n.default, {
-                            //       href: "#",
-                            //       className:
-                            //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                            //       children: [
-                            //         (0, i.jsx)("img", {
-                            //           src: "/assets/imgs/services-details/icon-2.svg",
-                            //           alt: "Codm",
-                            //         }),
-                            //         (0, i.jsx)("p", {
-                            //           className: "text-900 fs-7 mb-0 ms-3",
-                            //           children: "DOC. Download (28 Mb)",
-                            //         }),
-                            //       ],
-                            //     }),
-                            //     (0, i.jsxs)(n.default, {
-                            //       href: "#",
-                            //       className:
-                            //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                            //       children: [
-                            //         (0, i.jsx)("img", {
-                            //           src: "/assets/imgs/services-details/icon-3.svg",
-                            //           alt: "Codm",
-                            //         }),
-                            //         (0, i.jsx)("p", {
-                            //           className: "text-900 fs-7 mb-0 ms-3",
-                            //           children: "Open on Google Driver",
-                            //         }),
-                            //       ],
-                            //     }),
-                            //     (0, i.jsxs)(n.default, {
-                            //       href: "#",
-                            //       className:
-                            //         "bg-white rounded-3 p-3 border d-flex align-items-center",
-                            //       children: [
-                            //         (0, i.jsx)("img", {
-                            //           src: "/assets/imgs/services-details/icon-4.svg",
-                            //           alt: "Codm",
-                            //         }),
-                            //         (0, i.jsx)("p", {
-                            //           className: "text-900 fs-7 mb-0 ms-3",
-                            //           children: "Open on Google Driver",
-                            //         }),
-                            //       ],
-                            //     }),
-                            //   ],
-                            // }),
                             (0, i.jsxs)("div", {
                               className:
                                 "bg-primary rounded-4 mt-7 position-relative",
@@ -977,7 +902,7 @@
                                         (0, i.jsx)("br", {}),
                                         "Ultimate Experience ",
                                         (0, i.jsx)("br", {}),
-                                        "in Salesforce CRM",
+                                        "in Technical Support",
                                       ],
                                     }),
                                     (0, i.jsxs)(n.default, {
@@ -998,7 +923,7 @@
                                             }),
                                             (0, i.jsx)("h5", {
                                               className: "text-white d-block",
-                                              children: "(+44) 07436934216",
+                                              children: "(+44) 0121 818 6924",
                                             }),
                                           ],
                                         }),
