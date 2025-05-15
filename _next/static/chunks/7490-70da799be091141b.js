@@ -2446,35 +2446,42 @@
                                                 className: "py-1", // Reduced item padding
                                                 children: (0, i.jsx)(d.default, {
                                                   className: "dropdown-item position-relative z-1 p-1", // Compact padding
-                                                  href: "/page-about",
-                                                  children: "Education Cloud",
+                                                  href: "#",
+                                                  children: "Higher Education",
                                                 }),
                                               }),
                                               (0, i.jsx)("li", {
                                                 className: "py-1",
                                                 children: (0, i.jsx)(d.default, {
                                                   className: "dropdown-item position-relative z-1 p-1",
-                                                  href: "/page-services-1",
-                                                  children: "Financial Cloud",
+                                                  href: "#",
+                                                  children: "Financial Service",
                                                 }),
                                               }),
                                               (0, i.jsx)("li", {
                                                 className: "py-1",
                                                 children: (0, i.jsx)(d.default, {
                                                   className: "dropdown-item position-relative z-1 p-1",
-                                                  href: "/page-services-1",
-                                                  children: "Health Cloud",
+                                                  href: "#",
+                                                  children: "Customer Service",
                                                 }),
                                               }),
                                               (0, i.jsx)("li", {
                                                 className: "py-1",
                                                 children: (0, i.jsx)(d.default, {
                                                   className: "dropdown-item position-relative z-1 p-1",
-                                                  href: "/page-services-1",
+                                                  href: "#",
+                                                  children: "Service Cloud",
+                                                }),
+                                              }),
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "#",
                                                   children: "Sales Cloud",
                                                 }),
                                               }),
-                                              
                                             ],
                                           }),
                                         ],
@@ -2541,7 +2548,7 @@
                                                 className: "py-1",
                                                 children: (0, i.jsx)(d.default, {
                                                   className: "dropdown-item position-relative z-1 p-1",
-                                                  href: "/DotNetApplication.html",
+                                                  href: "/SalesforceCRM.html",
                                                   children: "CRM Development",
                                                 }),
                                               }),
@@ -3417,18 +3424,6 @@
                             //       }),
                             //     }),
                             //   }),
-                            //   // (0, i.jsxs)("div", {
-                            //   //   children: [
-                            //   //     (0, i.jsx)("p", {
-                            //   //       className: "mb-0 text-500 fs-8",
-                            //   //       children: "Have Any Questions?",
-                            //   //     }),
-                            //   //     (0, i.jsx)("p", {
-                            //   //       className: "mb-0 text-900 fw-bold",
-                            //   //       children: "+01 567 890 68",
-                            //   //     }),
-                            //   //   ],
-                            //   // }),
                             // ],
                           }),
                           // (0, i.jsx)("a", {
