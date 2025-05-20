@@ -32,7 +32,7 @@
                       children: (0, i.jsxs)("div", {
                         className: "text-start",
                         children: [
-                          (0, i.jsx)("h3", { children: "Technical Support" }),
+                          (0, i.jsx)("h3", { children: "Building LLM" }),
                           (0, i.jsxs)("div", {
                             className: "d-flex",
                             children: [
@@ -61,7 +61,7 @@
                               }),
                               (0, i.jsx)("p", {
                                 className: "text-primary mb-0",
-                                children: "Technical Support",
+                                children: "Building LLM",
                               }),
                             ],
                           }),
@@ -107,22 +107,22 @@
                           children: [
                             (0, i.jsx)("img", {
                               className: "rounded-3",
-                              src: "/assets/imgs/services-details-2/DOTNET-Application/img-1.png",
+                              src: "/assets/imgs/services-details-2/BuildingLLM/img-1.jpg",
                               alt: "Codm",
                             }),
                             (0, i.jsx)("h4", {
                               className: "my-3",
-                              children: "Build Fast, Scalable, and Engaging User Interfaces with React",
+                              children: "Empowering AI with Advanced Language Understanding",
                             }),
                             (0, i.jsxs)("p", {
                               className: "mb-0",
                               children: [
-                                "At Codm,we deliver high-performance React applications that combine speed, scalability, and a seamless user experience. React.js, developed and maintained by Facebook, is the go-to JavaScript library for building interactive and dynamic front-end applications — and we use it to craft everything from MVPs to enterprise-grade solutions.",
+                                "In the rapidly evolving field of artificial intelligence, Large Language Models (LLMs) have emerged as transformative tools capable of understanding and generating human-like text. Building an effective LLM involves meticulous data collection, preprocessing, and model training to ensure accuracy, relevance, and efficiency.",
                                 (0, i.jsx)("span", {
                                   className: "text-900 fw-bold",
-                                  children: "Our innovative business",
+                                  children: "Codm's LLM",
                                 }),
-                                " services are designed to help you navigate the complexities of the modern marketplace, leveraging cutting-edge technology and forward-thinking strategies to transform your operations and achieve your goals. We implement intelligent automation tools tailored to your specific needs.",
+                                " model is designed to harness the power of LLMs, enabling organizations to leverage advanced language understanding for a wide range of applications, from chatbots and virtual assistants to content generation and sentiment analysis.",
                               ],
                             }),
                             (0, i.jsxs)("div", {
@@ -141,7 +141,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "Custom .NET Application Development",
+                                          children: " Define Clear Objectives",
                                         }),
                                       ],
                                     }),
@@ -155,7 +155,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "Web Application Development",
+                                          children: "Curate Diverse and High-Quality Datasets",
                                         }),
                                       ],
                                     }),
@@ -176,7 +176,7 @@
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
                                           children:
-                                            "Enterprise Solutions",
+                                            "Implement Robust Data Preprocessing",
                                         }),
                                       ],
                                     }),
@@ -191,7 +191,7 @@
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
                                           children:
-                                            ".NET Migration & Modernization",
+                                            "Design an Appropriate Model Architecture",
                                         }),
                                       ],
                                     }),
@@ -211,7 +211,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "API & Microservices Development",
+                                          children: "Train the Model with Adequate Resources",
                                         }),
                                       ],
                                     }),
@@ -225,7 +225,7 @@
                                         (0, i.jsx)("span", {
                                           className:
                                             "ms-2 text-900 fw-medium fs-6",
-                                          children: "Cloud-Based .NET Development",
+                                          children: "Evaluate and Fine-Tune the Model",
                                         }),
                                       ],
                                     }),
@@ -235,12 +235,12 @@
                             }),
                             (0, i.jsx)("h5", {
                               className: "pt-4 border-top mb-3 mt-5",
-                              children: "What is .NET Application?",
+                              children: "What is a Large Language Model (LLM)?",
                             }),
                             (0, i.jsx)("p", {
                               className: "mb-4",
                               children:
-                                "A .NET application is a software program developed using Microsoft's .NET framework or its modern, cross-platform successor, .NET Core / .NET 5+. It can be a web, desktop, mobile, cloud, or API-based application, written primarily in languages like C#, VB.NET, or F#.",
+                                "A Large Language Model is a deep learning algorithm trained on vast textual datasets to perform various natural language processing tasks. These tasks include text generation, translation, summarization, and question-answering. LLMs leverage transformer architectures to capture contextual relationships within language, enabling them to produce coherent and contextually appropriate responses.",
                             }),
                             (0, i.jsxs)("div", {
                               className: "row",
@@ -267,11 +267,11 @@
                                           children: [
                                             (0, i.jsx)("h6", {
                                               children:
-                                                "Web Applications",
+                                                "Data Collection",
                                             }),
                                             (0, i.jsxs)("p", {
                                               children: [
-                                                "Built using ASP.NET or ASP.NET Core – run on browsers ",
+                                                "Gathering vast and diverse textual data is foundational ",
                                               ],
                                             }),
                                           ],
@@ -297,11 +297,11 @@
                                           children: [
                                             (0, i.jsx)("h6", {
                                               children:
-                                                "Desktop Applications",
+                                                "Data Preprocessing",
                                             }),
                                             (0, i.jsxs)("p", {
                                               children: [
-                                                "Built using WPF, WinForms, or UWP – installed and run on Windows machines. ",
+                                                "Ensuring data quality and consistency. ",
                                               ],
                                             }),
                                           ],
@@ -326,11 +326,11 @@
                                           className: "ps-5",
                                           children: [
                                             (0, i.jsx)("h6", {
-                                              children: "Mobile Applications",
+                                              children: "Model Architecture Design",
                                             }),
                                             (0, i.jsxs)("p", {
                                               children: [
-                                                "Developed using Xamarin or .NET MAUI – run on Android and iOS with a single codebase.",
+                                                "Selecting an appropriate architecture, typically transformers, which utilize self-attention mechanisms to process entire sequences in parallel.",
                                               ],
                                             }),
                                           ],
@@ -351,71 +351,66 @@
                             }),
                             (0, i.jsx)("h4", {
                               className: "mt-3 pt-3 border-top mb-3",
-                              children: "Sustainability and CSR",
-                            }),
-                            (0, i.jsx)("p", {
-                              className: "mb-3",
-                              children:
-                                "Embrace the future of business with Infinia's innovative services. Let us help you transform your organization and achieve unprecedented success. Contact us today to learn more about how we can support your journey towards innovation and excellence.",
+                              children: "Challenges in Building LLMs",
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Ideation and Concept Development: ",
+                                "Data Quality: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Foster a culture of innovation within your organization. We facilitate ideation sessions and help you develop viable concepts that can be turned into profitable ventures.",
+                                    "Ensuring the dataset is free from biases and inaccuracies.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "RD Support: ",
+                                "Computational Resources: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Accelerate your research and development efforts with our expert support. We provide the resources and expertise needed to bring your innovative ideas to life.",
+                                    "Training large models requires significant processing power and memory.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Intellectual Property Management: ",
+                                "Ethical Considerations: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Protect your innovations with our comprehensive IP management services. From patent filing to trademark registration, we safeguard your intellectual assets.",
+                                    "Addressing concerns related to data privacy and the potential misuse of generated content.",
                                 }),
                               ],
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
                               children: [
-                                "Market Analysis and Insights: ",
+                                "Maintenance: ",
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Stay ahead of the competition with in-depth market analysis. We provide you with actionable insights that help you identify new opportunities and make informed strategic decisions.",
+                                    "Regularly updating the model to reflect current language usage and information.",
                                 }),
                               ],
                             }),
-                            (0, i.jsxs)("p", {
-                              className: "fw-bold text-900",
-                              children: [
-                                "Business Model Innovation: ",
-                                (0, i.jsx)("span", {
-                                  className: "fw-medium text-600",
-                                  children:
-                                    "Reinvent your business model to meet the demands of today's market. Our experts help you create a flexible, scalable model that drives",
-                                }),
-                              ],
-                            }),
+                            // (0, i.jsxs)("p", {
+                            //   className: "fw-bold text-900",
+                            //   children: [
+                            //     "Business Model Innovation: ",
+                            //     (0, i.jsx)("span", {
+                            //       className: "fw-medium text-600",
+                            //       children:
+                            //         "Reinvent your business model to meet the demands of today's market. Our experts help you create a flexible, scalable model that drives",
+                            //     }),
+                            //   ],
+                            // }),
                             (0, i.jsx)("h5", {
                               className: "pt-3 border-top mb-3 mt-5",
-                              children: "Questions about service",
+                              children: "Frequently Asked Questions (FAQs) on Building Large Language Models",
                             }),
                             (0, i.jsxs)("div", {
                               className: "accordion",
@@ -443,7 +438,7 @@
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
                                             children:
-                                              "Digital product engineering",
+                                              "How do LLMs work?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -477,7 +472,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "LLMs utilize transformer architectures, which employ self-attention mechanisms to process and understand the context within text sequences. During training, they learn patterns and relationships in language, enabling them to generate coherent and contextually relevant responses.",
                                       }),
                                     }),
                                   ],
@@ -504,7 +499,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "Crafting SaaS development",
+                                            children: "What is fine-tuning in the context of LLMs?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -538,7 +533,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "Fine-tuning refers to the process of taking a pre-trained LLM and further training it on a specific dataset or for a particular task. This allows the model to adapt to specialized applications, improving its performance in targeted areas.",
                                       }),
                                     }),
                                   ],
@@ -565,7 +560,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "AI app development",
+                                            children: "How do LLMs handle multiple tasks like text generation and sentiment analysis?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -599,7 +594,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "LLMs are versatile due to their training on diverse datasets. They can perform multiple tasks by leveraging their learned knowledge. Through fine-tuning, they can be adapted to perform specific tasks more effectively.",
                                       }),
                                     }),
                                   ],
@@ -626,7 +621,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "E-commerce development",
+                                            children: "What is “in-context learning” in LLMs?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -660,7 +655,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "In-context learning refers to an LLM's ability to learn and perform specific tasks based solely on the input text provided during inference, without additional fine-tuning. This allows the model to adapt to new tasks or instructions on the fly.",
                                       }),
                                     }),
                                   ],
@@ -687,7 +682,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "Web Development Services",
+                                            children: "Can LLMs generate code in programming languages?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -721,7 +716,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.",
+                                          "Yes, LLMs can generate code in various programming languages. They assist developers by providing code snippets, debugging help, and translating code, thanks to their training on diverse datasets that include programming code.",
                                       }),
                                     }),
                                   ],
@@ -834,9 +829,9 @@
                               ],
                             }),
                             (0, i.jsxs)(n.default, {
-                              href: "#",
+                              href: "/Technical-Support.html",
                               className:
-                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center active",
+                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                               children: [
                                 "Technical Support",
                                 (0, i.jsx)("svg", {
@@ -853,76 +848,46 @@
                                 }),
                               ],
                             }),
-                            // (0, i.jsxs)("div", {
-                            //   className:
-                            //     "bg-neutral-100 px-5 pb-5 mt-7 rounded-4 border",
-                            //   children: [
-                            //     (0, i.jsx)("h6", {
-                            //       className: "mb-4 mt-3",
-                            //       children: "Service Brochure",
-                            //     }),
-                            //     (0, i.jsxs)(n.default, {
-                            //       href: "#",
-                            //       className:
-                            //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                            //       children: [
-                            //         (0, i.jsx)("img", {
-                            //           src: "/assets/imgs/services-details/icon-1.svg",
-                            //           alt: "Codm",
-                            //         }),
-                            //         (0, i.jsx)("p", {
-                            //           className: "text-900 fs-7 mb-0 ms-3",
-                            //           children: "PDF. Download (25 Mb)",
-                            //         }),
-                            //       ],
-                            //     }),
-                            //     (0, i.jsxs)(n.default, {
-                            //       href: "#",
-                            //       className:
-                            //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                            //       children: [
-                            //         (0, i.jsx)("img", {
-                            //           src: "/assets/imgs/services-details/icon-2.svg",
-                            //           alt: "Codm",
-                            //         }),
-                            //         (0, i.jsx)("p", {
-                            //           className: "text-900 fs-7 mb-0 ms-3",
-                            //           children: "DOC. Download (28 Mb)",
-                            //         }),
-                            //       ],
-                            //     }),
-                            //     (0, i.jsxs)(n.default, {
-                            //       href: "#",
-                            //       className:
-                            //         "bg-white rounded-3 p-3 border d-flex align-items-center mb-3",
-                            //       children: [
-                            //         (0, i.jsx)("img", {
-                            //           src: "/assets/imgs/services-details/icon-3.svg",
-                            //           alt: "Codm",
-                            //         }),
-                            //         (0, i.jsx)("p", {
-                            //           className: "text-900 fs-7 mb-0 ms-3",
-                            //           children: "Open on Google Driver",
-                            //         }),
-                            //       ],
-                            //     }),
-                            //     (0, i.jsxs)(n.default, {
-                            //       href: "#",
-                            //       className:
-                            //         "bg-white rounded-3 p-3 border d-flex align-items-center",
-                            //       children: [
-                            //         (0, i.jsx)("img", {
-                            //           src: "/assets/imgs/services-details/icon-4.svg",
-                            //           alt: "Codm",
-                            //         }),
-                            //         (0, i.jsx)("p", {
-                            //           className: "text-900 fs-7 mb-0 ms-3",
-                            //           children: "Open on Google Driver",
-                            //         }),
-                            //       ],
-                            //     }),
-                            //   ],
-                            // }),
+                            (0, i.jsxs)(n.default, {
+                              href: "#",
+                              className:
+                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center active",
+                              children: [
+                                "Building LLM",
+                                (0, i.jsx)("svg", {
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  width: 24,
+                                  height: 24,
+                                  viewBox: "0 0 24 24",
+                                  fill: "none",
+                                  children: (0, i.jsx)("path", {
+                                    className: "fill-neutral-100",
+                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                                    fill: "#f3f4f6",
+                                  }),
+                                }),
+                              ],
+                            }),
+                            (0, i.jsxs)(n.default, {
+                              href: "/Python.html",
+                              className:
+                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                              children: [
+                                "Python Application",
+                                (0, i.jsx)("svg", {
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  width: 24,
+                                  height: 24,
+                                  viewBox: "0 0 24 24",
+                                  fill: "none",
+                                  children: (0, i.jsx)("path", {
+                                    className: "fill-neutral-100",
+                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                                    fill: "#f3f4f6",
+                                  }),
+                                }),
+                              ],
+                            }),
                             (0, i.jsxs)("div", {
                               className:
                                 "bg-primary rounded-4 mt-7 position-relative",
@@ -937,11 +902,11 @@
                                         (0, i.jsx)("br", {}),
                                         "Ultimate Experience ",
                                         (0, i.jsx)("br", {}),
-                                        "in Salesforce CRM",
+                                        "in Building LLM",
                                       ],
                                     }),
                                     (0, i.jsxs)(n.default, {
-                                      href: "/page-contact-1",
+                                      href: "#",
                                       className:
                                         "d-flex align-items-center mt-8 mb-9",
                                       children: [
@@ -958,7 +923,7 @@
                                             }),
                                             (0, i.jsx)("h5", {
                                               className: "text-white d-block",
-                                              children: "(+44) 07436934216",
+                                              children: "(+44) 0121 818 6924",
                                             }),
                                           ],
                                         }),

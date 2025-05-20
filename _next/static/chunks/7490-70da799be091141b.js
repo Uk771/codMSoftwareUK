@@ -117,7 +117,7 @@
                                     }),
                                   }),
                                   (0, i.jsx)(d.default, {
-                                    href: "https://www.linkedin.com/",
+                                    href: "https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(typeof window !== 'undefined' ? window.location.href : '')}",
                                     className:
                                       " text-white border border-light border-opacity-10 icon-shape icon-md",
                                     children: (0, i.jsx)("i", {
