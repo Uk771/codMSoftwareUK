@@ -112,7 +112,7 @@
                             }),
                             (0, i.jsx)("h4", {
                               className: "my-3",
-                              children: "Python Application Development Services",
+                              children: "Python Application Development",
                             }),
                             (0, i.jsxs)("p", {
                               className: "mb-0",
