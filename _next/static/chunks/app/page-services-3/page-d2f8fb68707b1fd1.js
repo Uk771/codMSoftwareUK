@@ -102,536 +102,536 @@
                   }),
                 ],
               }),
-              (0, a.jsx)("section", {
-                children: (0, a.jsx)("div", {
-                  className:
-                    "container-fluid position-relative section-padding",
-                  children: (0, a.jsxs)("div", {
-                    className: "container",
-                    children: [
-                      (0, a.jsxs)("div", {
-                        className: "row",
-                        children: [
-                          // (0, a.jsx)("div", {
-                          //   className: "col-lg-6",
-                          //   children: (0, a.jsxs)("h5", {
-                          //     className: "fw-regular ds-5",
-                          //     children: [
-                          //       "High",
-                          //       (0, a.jsxs)("span", {
-                          //         className: "fw-bold",
-                          //         children: [
-                          //           "Performance ",
-                          //           (0, a.jsx)("br", {}),
-                          //           " Services For ",
-                          //         ],
-                          //       }),
-                          //       " All Industries.",
-                          //     ],
-                          //   }),
-                          // }),
-                          (0, a.jsxs)("div", {
-                            className: "row align-items-center",
-                            children: [
-                              (0, a.jsx)("div", {
-                                className: "col-lg-6 text-lg-start text-center",
-                                children: (0, a.jsxs)("div", {
-                                  className:
-                                    "position-relative z-1 d-inline-block mb-lg-0 mb-8",
-                                  children: [
-                                    (0, a.jsx)("img", {
-                                      className:
-                                        "rounded-4 position-relative z-1",
-                                      src: "/assets/imgs/cta-7/ContactUs.png",
-                                      alt: "Codm",
-                                    }),
-                                    (0, a.jsxs)("div", {
-                                      className:
-                                        "alltuchtopdown position-absolute top-50 start-50 ms-md-10 mt-md-10 backdrop-filter bg-primary rounded-4 px-6 py-4 text-center z-1",
-                                      children: [
-                                        (0, a.jsxs)("span", {
-                                          className:
-                                            "h2 count fw-black mb-0 lh-1 text-white text-nowrap",
-                                          children: [
-                                            "+",
-                                            (0, a.jsx)("span", {
-                                              className: "odometer",
-                                            }),
-                                            (0, a.jsx)(r.ZP, {
-                                              end: 28,
-                                              enableScrollSpy: !0,
-                                            }),
-                                          ],
-                                        }),
-                                        (0, a.jsx)("p", {
-                                          className:
-                                            "text-white text-nowrap border-bottom border-opacity-50 border-white pb-3 mb-3",
-                                          children: "Projects Completed",
-                                        }),
-                                        (0, a.jsxs)("span", {
-                                          className:
-                                            "h2 count fw-black my-0 lh-1 text-white text-nowrap",
-                                          children: [
-                                            "+",
-                                            (0, a.jsx)("span", {
-                                              className: "odometer",
-                                            }),
-                                            (0, a.jsx)(r.ZP, {
-                                              end: 7,
-                                              enableScrollSpy: !0,
-                                            }),
-                                          ],
-                                        }),
-                                        (0, a.jsx)("p", {
-                                          className:
-                                            "text-white text-nowrap mb-0",
-                                          children: "Happy Clients",
-                                        }),
-                                      ],
-                                    }),
-                                  ],
-                                }),
-                              }),
-                              (0, a.jsxs)("div", {
-                                className: "col-lg-6 mt-lg-0 mt-5",
-                                children: [
-                                  (0, a.jsx)("nav", {
-                                    children: (0, a.jsxs)("div", {
-                                      className:
-                                        "nav nav-tabs bg-neutral-100 justify-content-evenly border-bottom-0 mb-5",
-                                      id: "nav-tab",
-                                      role: "tablist",
-                                      children: [
-                                        (0, a.jsxs)("button", {
-                                          className: "".concat(
-                                            1 == e
-                                              ? "nav-link active"
-                                              : "nav-link",
-                                            " position-relative"
-                                          ),
-                                          "data-bs-toggle": "tab",
-                                          type: "button",
-                                          onClick: () => i(1),
-                                          role: "tab",
-                                          children: [
-                                            "Our History",
-                                            (0, a.jsx)("span", {
-                                              className: "underline bg-primary",
-                                            }),
-                                          ],
-                                        }),
-                                        (0, a.jsxs)("button", {
-                                          className: "".concat(
-                                            2 == e
-                                              ? "nav-link active"
-                                              : "nav-link",
-                                            " position-relative"
-                                          ),
-                                          "data-bs-toggle": "tab",
-                                          type: "button",
-                                          onClick: () => i(2),
-                                          role: "tab",
-                                          children: [
-                                            "Our Mission",
-                                            (0, a.jsx)("span", {
-                                              className: "underline bg-primary",
-                                            }),
-                                          ],
-                                        }),
-                                        (0, a.jsxs)("button", {
-                                          className: "".concat(
-                                            3 == e
-                                              ? "nav-link active"
-                                              : "nav-link",
-                                            " position-relative"
-                                          ),
-                                          "data-bs-toggle": "tab",
-                                          type: "button",
-                                          onClick: () => i(3),
-                                          role: "tab",
-                                          children: [
-                                            "Our Vision",
-                                            (0, a.jsx)("span", {
-                                              className: "underline bg-primary",
-                                            }),
-                                          ],
-                                        }),
-                                      ],
-                                    }),
-                                  }),
-                                  (0, a.jsxs)("div", {
-                                    className: "tab-content",
-                                    id: "nav-tabContent",
-                                    children: [
-                                      (0, a.jsxs)("div", {
-                                        className: "".concat(
-                                          1 == e
-                                            ? "tab-pane fade show active"
-                                            : "tab-pane fade"
-                                        ),
-                                        role: "tabpanel",
-                                        children: [
-                                          (0, a.jsxs)("p", {
-                                            className: "text-900 mb-3",
-                                            children: [
-                                              "",
-                                              (0, a.jsx)("span", {
-                                                className: "fw-black",
-                                                children: "",
-                                              }),
-                                              "Founded with a vision to innovate and empower, CODM Software has grown into a global leader in IT solutions. What began as a small team of passionate developers has transformed into an international technology powerhouse, serving clients across the world.",
-                                            ],
-                                          }),
-                                          (0, a.jsxs)("div", {
-                                            className: "row",
-                                            children: [
-                                              (0, a.jsxs)("div", {
-                                                className:
-                                                  "col-12 col-md-6 mb-3 mb-md-0",
-                                                children: [
-                                                  (0, a.jsx)("p", {
-                                                    className: "text-900",
-                                                    children:
-                                                      "From our early days of custom software development to pioneering solutions in cloud computing, Salesforce, web and mobile applications, we have consistently delivered cutting-edge technologies tailored to the unique needs of businesses",
-                                                  }),
-                                                  (0, a.jsxs)("ul", {
-                                                    className:
-                                                      "list-unstyled phase-items mb-0",
-                                                    children: [
-                                                      (0, a.jsxs)("li", {
-                                                        className:
-                                                          "d-flex align-items-center mt-3",
-                                                        children: [
-                                                          (0, a.jsx)("img", {
-                                                            src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "Codm",
-                                                          }),
-                                                          (0, a.jsx)("p", {
-                                                            className:
-                                                              "ms-2 mb-0 text-900 fs-6",
-                                                            children:
-                                                              "Best For IT Consulting",
-                                                          }),
-                                                        ],
-                                                      }),
-                                                      (0, a.jsxs)("li", {
-                                                        className:
-                                                          "d-flex align-items-center mt-3",
-                                                        children: [
-                                                          (0, a.jsx)("img", {
-                                                            src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "Codm",
-                                                          }),
-                                                          (0, a.jsx)("p", {
-                                                            className:
-                                                              "ms-2 mb-0 text-900 fs-6",
-                                                            children:
-                                                              "Tailored Solutions",
-                                                          }),
-                                                        ],
-                                                      }),
-                                                      (0, a.jsxs)("li", {
-                                                        className:
-                                                          "d-flex align-items-center mt-3",
-                                                        children: [
-                                                          (0, a.jsx)("img", {
-                                                            src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "Codm",
-                                                          }),
-                                                          (0, a.jsx)("p", {
-                                                            className:
-                                                              "ms-2 mb-0 text-900 fs-6",
-                                                            children:
-                                                              "Save Money  Time",
-                                                          }),
-                                                        ],
-                                                      }),
-                                                      (0, a.jsxs)("li", {
-                                                        className:
-                                                          "d-flex align-items-center mt-3",
-                                                        children: [
-                                                          (0, a.jsx)("img", {
-                                                            src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "Codm",
-                                                          }),
-                                                          (0, a.jsx)("p", {
-                                                            className:
-                                                              "ms-2 mb-0 text-900 fs-6",
-                                                            children:
-                                                              "Expert Team",
-                                                          }),
-                                                        ],
-                                                      }),
-                                                    ],
-                                                  }),
-                                                ],
-                                              }),
-                                              (0, a.jsxs)("div", {
-                                                className:
-                                                  "col-12 col-md-6 position-relative text-center",
-                                                children: [
-                                                  (0, a.jsx)("img", {
-                                                    className: "rounded-3",
-                                                    src: "/assets/imgs/cta-7/Contactus-2.png",
-                                                    alt: "",
-                                                  }),
-                                                  (0, a.jsxs)(n.default, {
-                                                    href: "#",
-                                                    className:
-                                                      "position-md-absolute d-block translate-middle-md  w-50 start-0 ms-md-0 ms-10 mt-3 mt-md-0 p-3 rounded-3 bg-linear-1",
-                                                    children: [
-                                                      (0, a.jsx)("span", {
-                                                        className:
-                                                          "rounded-circle",
-                                                        children: (0, a.jsx)(
-                                                          "img",
-                                                          {
-                                                            className:
-                                                              "rounded-circle border border-5 border-primary-light",
-                                                            src: " assets/imgs/cta-2/avatar-1.png",
-                                                            alt: "Codm",
-                                                          }
-                                                        ),
-                                                      }),
-                                                      (0, a.jsxs)("h6", {
-                                                        className: "mt-1",
-                                                        children: [
-                                                          "Anjali ",
-                                                          (0, a.jsx)("span", {
-                                                            className:
-                                                              "text-500 fs-6",
-                                                            children: ", CEO",
-                                                          }),
-                                                        ],
-                                                      }),
-                                                    ],
-                                                  }),
-                                                  (0, a.jsx)("div", {
-                                                    className:
-                                                      "position-md-absolute bottom-0 start-50 mt-3 mt-md-0 translate-middle-md-x",
-                                                    children: (0, a.jsx)(
-                                                      "img",
-                                                      {
-                                                        src: "/assets/imgs/cta-7/name-admin.svg",
-                                                        alt: "",
-                                                      }
-                                                    ),
-                                                  }),
-                                                ],
-                                              }),
-                                            ],
-                                          }),
-                                        ],
-                                      }),
-                                      (0, a.jsxs)("div", {
-                                        className: "".concat(
-                                          2 == e
-                                            ? "tab-pane fade show active"
-                                            : "tab-pane fade"
-                                        ),
-                                        role: "tabpanel",
-                                        children: [
-                                          (0, a.jsx)("p", {
-                                            className: "text-900 mb-4",
-                                            children:
-                                              "At CODM Software, our mission is to empower businesses worldwide with innovative, reliable, and scalable IT solutions. We strive to bridge the gap between technology and business goals by delivering custom software, cloud services, and digital products that drive real results.",
-                                          }),
-                                          (0, a.jsxs)("div", {
-                                            className: "row",
-                                            children: [
-                                              (0, a.jsxs)("div", {
-                                                className: "col-12 col-md-6",
-                                                children: [
-                                                  (0, a.jsx)("p", {
-                                                    className: "text-900",
-                                                    children:
-                                                      "We are committed to excellence, customer satisfaction, and continuous innovation—enabling our clients to stay ahead in a rapidly evolving digital world.",
-                                                  }),
-                                                  (0, a.jsx)("p", {
-                                                    children:
-                                                      "We believe that the right technology can transform challenges into opportunities. By blending creativity, technical expertise, and a deep understanding of industry needs, we create solutions that are not only effective but also sustainable and adaptable to future growth.",
-                                                  }),
-                                                  (0, a.jsx)("p", {
-                                                    children:
-                                                      "As a global IT partner, we take pride in our collaborative approach, working closely with clients to understand their goals and deliver personalized digital experiences.",
-                                                  }),
-                                                ],
-                                              }),
-                                              (0, a.jsx)("div", {
-                                                className:
-                                                  "col position-relative text-center",
-                                                children: (0, a.jsx)("img", {
-                                                  src: "/assets/imgs/cta-7/img-22.png",
-                                                  alt: "",
-                                                }),
-                                              }),
-                                            ],
-                                          }),
-                                        ],
-                                      }),
-                                      (0, a.jsxs)("div", {
-                                        className: "".concat(
-                                          3 == e
-                                            ? "tab-pane fade show active"
-                                            : "tab-pane fade"
-                                        ),
-                                        role: "tabpanel",
-                                        children: [
-                                          (0, a.jsx)("p", {
-                                            className: "text-900 mb-4",
-                                            children:
-                                              "At CODM Software , our vision is to be a global leader in driving digital transformation through innovative and reliable technology solutions. We aim to redefine how businesses operate by delivering smart, scalable, and future-proof IT services that unlock new possibilities. ",
-                                          }),
-                                          (0, a.jsxs)("div", {
-                                            className: "row",
-                                            children: [
-                                              (0, a.jsxs)("div", {
-                                                className: "col-12 col-md-6",
-                                                children: [
-                                                  (0, a.jsx)("p", {
-                                                    className: "text-900",
-                                                    children:
-                                                      "We envision a connected world where technology empowers every organization—regardless of size or location—to achieve more, adapt faster, and grow sustainably. Through continuous innovation, a people-first approach, and unwavering integrity, we aspire to shape a smarter, more efficient digital future for all.",
-                                                  }),
-                                                  (0, a.jsxs)("ul", {
-                                                    className:
-                                                      "list-unstyled phase-items mb-0",
-                                                    children: [
-                                                      (0, a.jsxs)("li", {
-                                                        className:
-                                                          "d-flex align-items-center mt-3",
-                                                        children: [
-                                                          (0, a.jsx)("img", {
-                                                            src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "Codm",
-                                                          }),
-                                                          (0, a.jsx)("p", {
-                                                            className:
-                                                              "ms-2 mb-0 text-900 fs-6",
-                                                            children:
-                                                              "Empower Businesses",
-                                                          }),
-                                                        ],
-                                                      }),
-                                                      (0, a.jsxs)("li", {
-                                                        className:
-                                                          "d-flex align-items-center mt-3",
-                                                        children: [
-                                                          (0, a.jsx)("img", {
-                                                            src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "Codm",
-                                                          }),
-                                                          (0, a.jsx)("p", {
-                                                            className:
-                                                              "ms-2 mb-0 text-900 fs-6",
-                                                            children:
-                                                              "Commitment to Excellence",
-                                                          }),
-                                                        ],
-                                                      }),
-                                                      (0, a.jsxs)("li", {
-                                                        className:
-                                                          "d-flex align-items-center mt-3",
-                                                        children: [
-                                                          (0, a.jsx)("img", {
-                                                            src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "Codm",
-                                                          }),
-                                                          (0, a.jsx)("p", {
-                                                            className:
-                                                              "ms-2 mb-0 text-900 fs-6",
-                                                            children:
-                                                              "Continuous Evolution",
-                                                          }),
-                                                        ],
-                                                      }),
-                                                      (0, a.jsxs)("li", {
-                                                        className:
-                                                          "d-flex align-items-center mt-3",
-                                                        children: [
-                                                          (0, a.jsx)("img", {
-                                                            src: "/assets/imgs/cta-2/check.svg",
-                                                            alt: "Codm",
-                                                          }),
-                                                          (0, a.jsx)("p", {
-                                                            className:
-                                                              "ms-2 mb-0 text-900 fs-6",
-                                                            children:
-                                                              "Client-Centric Solutions",
-                                                          }),
-                                                        ],
-                                                      }),
-                                                    ],
-                                                  }),
-                                                ],
-                                              }),
-                                              (0, a.jsx)("div", {
-                                                className:
-                                                  "col position-relative text-center mt-3",
-                                                children: (0, a.jsx)("img", {
-                                                  className: "rounded-3",
-                                                  src: "/assets/imgs/cta-7/img-23.png",
-                                                  alt: "",
-                                                }),
-                                              }),
-                                            ],
-                                          }),
-                                        ],
-                                      }),
-                                    ],
-                                  }),
-                                  (0, a.jsxs)("div", {
-                                    className: "border-top pt-6 mt-md-8 mt-6",
-                                    children: [
-                                      (0, a.jsxs)(n.default, {
-                                        href: "#",
-                                        className:
-                                          "fw-bold btn btn-gradient d-inline-flex align-items-center hover-up",
-                                        children: [
-                                          (0, a.jsx)("span", {
-                                            className: "me-10",
-                                            children: "Get a free POC for your project",
-                                          }),
-                                          (0, a.jsx)("svg", {
-                                            xmlns: "http://www.w3.org/2000/svg",
-                                            width: 24,
-                                            height: 14,
-                                            viewBox: "0 0 24 14",
-                                            fill: "none",
-                                            children: (0, a.jsx)("path", {
-                                              className: "fill-white",
-                                              d: "M17.4177 0.417969L16.3487 1.48705L21.1059 6.24429H0V7.75621H21.1059L16.3487 12.5134L17.4177 13.5825L24 7.0002L17.4177 0.417969Z",
-                                              fill: "white",
-                                            }),
-                                          }),
-                                        ],
-                                      }),
-                                      (0, a.jsx)("p", {
-                                        className: "fs-7 text-500 mt-3",
-                                        children:
-                                          "",
-                                      }),
-                                    ],
-                                  }),
-                                ],
-                              }),
-                            ],
-                          }),
-                        ],
-                      }),
-                      (0, a.jsx)
-                    //   ("div", {
-                    //     className:
-                    //       "position-absolute top-0 end-0 z-1 flickering p-10 m-10 d-none d-lg-block",
-                    //     children: (0, a.jsx)("img", {
-                    //       src: "/assets/imgs/cta-7/star-1.svg",
-                    //       alt: "Codm",
-                    //     }),
-                    //   }),
-                    ],
-                  }),
-                }),
-              }),
+              // (0, a.jsx)("section", {
+              //   children: (0, a.jsx)("div", {
+              //     className:
+              //       "container-fluid position-relative section-padding",
+              //     children: (0, a.jsxs)("div", {
+              //       className: "container",
+              //       children: [
+              //         (0, a.jsxs)("div", {
+              //           className: "row",
+              //           children: [
+              //             // (0, a.jsx)("div", {
+              //             //   className: "col-lg-6",
+              //             //   children: (0, a.jsxs)("h5", {
+              //             //     className: "fw-regular ds-5",
+              //             //     children: [
+              //             //       "High",
+              //             //       (0, a.jsxs)("span", {
+              //             //         className: "fw-bold",
+              //             //         children: [
+              //             //           "Performance ",
+              //             //           (0, a.jsx)("br", {}),
+              //             //           " Services For ",
+              //             //         ],
+              //             //       }),
+              //             //       " All Industries.",
+              //             //     ],
+              //             //   }),
+              //             // }),
+              //             (0, a.jsxs)("div", {
+              //               className: "row align-items-center",
+              //               children: [
+              //                 (0, a.jsx)("div", {
+              //                   className: "col-lg-6 text-lg-start text-center",
+              //                   children: (0, a.jsxs)("div", {
+              //                     className:
+              //                       "position-relative z-1 d-inline-block mb-lg-0 mb-8",
+              //                     children: [
+              //                       (0, a.jsx)("img", {
+              //                         className:
+              //                           "rounded-4 position-relative z-1",
+              //                         src: "/assets/imgs/cta-7/ContactUs.png",
+              //                         alt: "Codm",
+              //                       }),
+              //                       (0, a.jsxs)("div", {
+              //                         className:
+              //                           "alltuchtopdown position-absolute top-50 start-50 ms-md-10 mt-md-10 backdrop-filter bg-primary rounded-4 px-6 py-4 text-center z-1",
+              //                         children: [
+              //                           (0, a.jsxs)("span", {
+              //                             className:
+              //                               "h2 count fw-black mb-0 lh-1 text-white text-nowrap",
+              //                             children: [
+              //                               "+",
+              //                               (0, a.jsx)("span", {
+              //                                 className: "odometer",
+              //                               }),
+              //                               (0, a.jsx)(r.ZP, {
+              //                                 end: 28,
+              //                                 enableScrollSpy: !0,
+              //                               }),
+              //                             ],
+              //                           }),
+              //                           (0, a.jsx)("p", {
+              //                             className:
+              //                               "text-white text-nowrap border-bottom border-opacity-50 border-white pb-3 mb-3",
+              //                             children: "Projects Completed",
+              //                           }),
+              //                           (0, a.jsxs)("span", {
+              //                             className:
+              //                               "h2 count fw-black my-0 lh-1 text-white text-nowrap",
+              //                             children: [
+              //                               "+",
+              //                               (0, a.jsx)("span", {
+              //                                 className: "odometer",
+              //                               }),
+              //                               (0, a.jsx)(r.ZP, {
+              //                                 end: 7,
+              //                                 enableScrollSpy: !0,
+              //                               }),
+              //                             ],
+              //                           }),
+              //                           (0, a.jsx)("p", {
+              //                             className:
+              //                               "text-white text-nowrap mb-0",
+              //                             children: "Happy Clients",
+              //                           }),
+              //                         ],
+              //                       }),
+              //                     ],
+              //                   }),
+              //                 }),
+              //                 (0, a.jsxs)("div", {
+              //                   className: "col-lg-6 mt-lg-0 mt-5",
+              //                   children: [
+              //                     (0, a.jsx)("nav", {
+              //                       children: (0, a.jsxs)("div", {
+              //                         className:
+              //                           "nav nav-tabs bg-neutral-100 justify-content-evenly border-bottom-0 mb-5",
+              //                         id: "nav-tab",
+              //                         role: "tablist",
+              //                         children: [
+              //                           (0, a.jsxs)("button", {
+              //                             className: "".concat(
+              //                               1 == e
+              //                                 ? "nav-link active"
+              //                                 : "nav-link",
+              //                               " position-relative"
+              //                             ),
+              //                             "data-bs-toggle": "tab",
+              //                             type: "button",
+              //                             onClick: () => i(1),
+              //                             role: "tab",
+              //                             children: [
+              //                               "Our History",
+              //                               (0, a.jsx)("span", {
+              //                                 className: "underline bg-primary",
+              //                               }),
+              //                             ],
+              //                           }),
+              //                           (0, a.jsxs)("button", {
+              //                             className: "".concat(
+              //                               2 == e
+              //                                 ? "nav-link active"
+              //                                 : "nav-link",
+              //                               " position-relative"
+              //                             ),
+              //                             "data-bs-toggle": "tab",
+              //                             type: "button",
+              //                             onClick: () => i(2),
+              //                             role: "tab",
+              //                             children: [
+              //                               "Our Mission",
+              //                               (0, a.jsx)("span", {
+              //                                 className: "underline bg-primary",
+              //                               }),
+              //                             ],
+              //                           }),
+              //                           (0, a.jsxs)("button", {
+              //                             className: "".concat(
+              //                               3 == e
+              //                                 ? "nav-link active"
+              //                                 : "nav-link",
+              //                               " position-relative"
+              //                             ),
+              //                             "data-bs-toggle": "tab",
+              //                             type: "button",
+              //                             onClick: () => i(3),
+              //                             role: "tab",
+              //                             children: [
+              //                               "Our Vision",
+              //                               (0, a.jsx)("span", {
+              //                                 className: "underline bg-primary",
+              //                               }),
+              //                             ],
+              //                           }),
+              //                         ],
+              //                       }),
+              //                     }),
+              //                     (0, a.jsxs)("div", {
+              //                       className: "tab-content",
+              //                       id: "nav-tabContent",
+              //                       children: [
+              //                         (0, a.jsxs)("div", {
+              //                           className: "".concat(
+              //                             1 == e
+              //                               ? "tab-pane fade show active"
+              //                               : "tab-pane fade"
+              //                           ),
+              //                           role: "tabpanel",
+              //                           children: [
+              //                             (0, a.jsxs)("p", {
+              //                               className: "text-900 mb-3",
+              //                               children: [
+              //                                 "",
+              //                                 (0, a.jsx)("span", {
+              //                                   className: "fw-black",
+              //                                   children: "",
+              //                                 }),
+              //                                 "Founded with a vision to innovate and empower, CODM Software has grown into a global leader in IT solutions. What began as a small team of passionate developers has transformed into an international technology powerhouse, serving clients across the world.",
+              //                               ],
+              //                             }),
+              //                             (0, a.jsxs)("div", {
+              //                               className: "row",
+              //                               children: [
+              //                                 (0, a.jsxs)("div", {
+              //                                   className:
+              //                                     "col-12 col-md-6 mb-3 mb-md-0",
+              //                                   children: [
+              //                                     (0, a.jsx)("p", {
+              //                                       className: "text-900",
+              //                                       children:
+              //                                         "From our early days of custom software development to pioneering solutions in cloud computing, Salesforce, web and mobile applications, we have consistently delivered cutting-edge technologies tailored to the unique needs of businesses",
+              //                                     }),
+              //                                     (0, a.jsxs)("ul", {
+              //                                       className:
+              //                                         "list-unstyled phase-items mb-0",
+              //                                       children: [
+              //                                         (0, a.jsxs)("li", {
+              //                                           className:
+              //                                             "d-flex align-items-center mt-3",
+              //                                           children: [
+              //                                             (0, a.jsx)("img", {
+              //                                               src: "/assets/imgs/cta-2/check.svg",
+              //                                               alt: "Codm",
+              //                                             }),
+              //                                             (0, a.jsx)("p", {
+              //                                               className:
+              //                                                 "ms-2 mb-0 text-900 fs-6",
+              //                                               children:
+              //                                                 "Best For IT Consulting",
+              //                                             }),
+              //                                           ],
+              //                                         }),
+              //                                         (0, a.jsxs)("li", {
+              //                                           className:
+              //                                             "d-flex align-items-center mt-3",
+              //                                           children: [
+              //                                             (0, a.jsx)("img", {
+              //                                               src: "/assets/imgs/cta-2/check.svg",
+              //                                               alt: "Codm",
+              //                                             }),
+              //                                             (0, a.jsx)("p", {
+              //                                               className:
+              //                                                 "ms-2 mb-0 text-900 fs-6",
+              //                                               children:
+              //                                                 "Tailored Solutions",
+              //                                             }),
+              //                                           ],
+              //                                         }),
+              //                                         (0, a.jsxs)("li", {
+              //                                           className:
+              //                                             "d-flex align-items-center mt-3",
+              //                                           children: [
+              //                                             (0, a.jsx)("img", {
+              //                                               src: "/assets/imgs/cta-2/check.svg",
+              //                                               alt: "Codm",
+              //                                             }),
+              //                                             (0, a.jsx)("p", {
+              //                                               className:
+              //                                                 "ms-2 mb-0 text-900 fs-6",
+              //                                               children:
+              //                                                 "Save Money  Time",
+              //                                             }),
+              //                                           ],
+              //                                         }),
+              //                                         (0, a.jsxs)("li", {
+              //                                           className:
+              //                                             "d-flex align-items-center mt-3",
+              //                                           children: [
+              //                                             (0, a.jsx)("img", {
+              //                                               src: "/assets/imgs/cta-2/check.svg",
+              //                                               alt: "Codm",
+              //                                             }),
+              //                                             (0, a.jsx)("p", {
+              //                                               className:
+              //                                                 "ms-2 mb-0 text-900 fs-6",
+              //                                               children:
+              //                                                 "Expert Team",
+              //                                             }),
+              //                                           ],
+              //                                         }),
+              //                                       ],
+              //                                     }),
+              //                                   ],
+              //                                 }),
+              //                                 (0, a.jsxs)("div", {
+              //                                   className:
+              //                                     "col-12 col-md-6 position-relative text-center",
+              //                                   children: [
+              //                                     (0, a.jsx)("img", {
+              //                                       className: "rounded-3",
+              //                                       src: "/assets/imgs/cta-7/Contactus-2.png",
+              //                                       alt: "",
+              //                                     }),
+              //                                     (0, a.jsxs)(n.default, {
+              //                                       href: "#",
+              //                                       className:
+              //                                         "position-md-absolute d-block translate-middle-md  w-50 start-0 ms-md-0 ms-10 mt-3 mt-md-0 p-3 rounded-3 bg-linear-1",
+              //                                       children: [
+              //                                         (0, a.jsx)("span", {
+              //                                           className:
+              //                                             "rounded-circle",
+              //                                           children: (0, a.jsx)(
+              //                                             "img",
+              //                                             {
+              //                                               className:
+              //                                                 "rounded-circle border border-5 border-primary-light",
+              //                                               src: " assets/imgs/cta-2/avatar-1.png",
+              //                                               alt: "Codm",
+              //                                             }
+              //                                           ),
+              //                                         }),
+              //                                         (0, a.jsxs)("h6", {
+              //                                           className: "mt-1",
+              //                                           children: [
+              //                                             "Anjali ",
+              //                                             (0, a.jsx)("span", {
+              //                                               className:
+              //                                                 "text-500 fs-6",
+              //                                               children: ", CEO",
+              //                                             }),
+              //                                           ],
+              //                                         }),
+              //                                       ],
+              //                                     }),
+              //                                     (0, a.jsx)("div", {
+              //                                       className:
+              //                                         "position-md-absolute bottom-0 start-50 mt-3 mt-md-0 translate-middle-md-x",
+              //                                       children: (0, a.jsx)(
+              //                                         "img",
+              //                                         {
+              //                                           src: "/assets/imgs/cta-7/name-admin.svg",
+              //                                           alt: "",
+              //                                         }
+              //                                       ),
+              //                                     }),
+              //                                   ],
+              //                                 }),
+              //                               ],
+              //                             }),
+              //                           ],
+              //                         }),
+              //                         (0, a.jsxs)("div", {
+              //                           className: "".concat(
+              //                             2 == e
+              //                               ? "tab-pane fade show active"
+              //                               : "tab-pane fade"
+              //                           ),
+              //                           role: "tabpanel",
+              //                           children: [
+              //                             (0, a.jsx)("p", {
+              //                               className: "text-900 mb-4",
+              //                               children:
+              //                                 "At CODM Software, our mission is to empower businesses worldwide with innovative, reliable, and scalable IT solutions. We strive to bridge the gap between technology and business goals by delivering custom software, cloud services, and digital products that drive real results.",
+              //                             }),
+              //                             (0, a.jsxs)("div", {
+              //                               className: "row",
+              //                               children: [
+              //                                 (0, a.jsxs)("div", {
+              //                                   className: "col-12 col-md-6",
+              //                                   children: [
+              //                                     (0, a.jsx)("p", {
+              //                                       className: "text-900",
+              //                                       children:
+              //                                         "We are committed to excellence, customer satisfaction, and continuous innovation—enabling our clients to stay ahead in a rapidly evolving digital world.",
+              //                                     }),
+              //                                     (0, a.jsx)("p", {
+              //                                       children:
+              //                                         "We believe that the right technology can transform challenges into opportunities. By blending creativity, technical expertise, and a deep understanding of industry needs, we create solutions that are not only effective but also sustainable and adaptable to future growth.",
+              //                                     }),
+              //                                     (0, a.jsx)("p", {
+              //                                       children:
+              //                                         "As a global IT partner, we take pride in our collaborative approach, working closely with clients to understand their goals and deliver personalized digital experiences.",
+              //                                     }),
+              //                                   ],
+              //                                 }),
+              //                                 (0, a.jsx)("div", {
+              //                                   className:
+              //                                     "col position-relative text-center",
+              //                                   children: (0, a.jsx)("img", {
+              //                                     src: "/assets/imgs/cta-7/img-22.png",
+              //                                     alt: "",
+              //                                   }),
+              //                                 }),
+              //                               ],
+              //                             }),
+              //                           ],
+              //                         }),
+              //                         (0, a.jsxs)("div", {
+              //                           className: "".concat(
+              //                             3 == e
+              //                               ? "tab-pane fade show active"
+              //                               : "tab-pane fade"
+              //                           ),
+              //                           role: "tabpanel",
+              //                           children: [
+              //                             (0, a.jsx)("p", {
+              //                               className: "text-900 mb-4",
+              //                               children:
+              //                                 "At CODM Software , our vision is to be a global leader in driving digital transformation through innovative and reliable technology solutions. We aim to redefine how businesses operate by delivering smart, scalable, and future-proof IT services that unlock new possibilities. ",
+              //                             }),
+              //                             (0, a.jsxs)("div", {
+              //                               className: "row",
+              //                               children: [
+              //                                 (0, a.jsxs)("div", {
+              //                                   className: "col-12 col-md-6",
+              //                                   children: [
+              //                                     (0, a.jsx)("p", {
+              //                                       className: "text-900",
+              //                                       children:
+              //                                         "We envision a connected world where technology empowers every organization—regardless of size or location—to achieve more, adapt faster, and grow sustainably. Through continuous innovation, a people-first approach, and unwavering integrity, we aspire to shape a smarter, more efficient digital future for all.",
+              //                                     }),
+              //                                     (0, a.jsxs)("ul", {
+              //                                       className:
+              //                                         "list-unstyled phase-items mb-0",
+              //                                       children: [
+              //                                         (0, a.jsxs)("li", {
+              //                                           className:
+              //                                             "d-flex align-items-center mt-3",
+              //                                           children: [
+              //                                             (0, a.jsx)("img", {
+              //                                               src: "/assets/imgs/cta-2/check.svg",
+              //                                               alt: "Codm",
+              //                                             }),
+              //                                             (0, a.jsx)("p", {
+              //                                               className:
+              //                                                 "ms-2 mb-0 text-900 fs-6",
+              //                                               children:
+              //                                                 "Empower Businesses",
+              //                                             }),
+              //                                           ],
+              //                                         }),
+              //                                         (0, a.jsxs)("li", {
+              //                                           className:
+              //                                             "d-flex align-items-center mt-3",
+              //                                           children: [
+              //                                             (0, a.jsx)("img", {
+              //                                               src: "/assets/imgs/cta-2/check.svg",
+              //                                               alt: "Codm",
+              //                                             }),
+              //                                             (0, a.jsx)("p", {
+              //                                               className:
+              //                                                 "ms-2 mb-0 text-900 fs-6",
+              //                                               children:
+              //                                                 "Commitment to Excellence",
+              //                                             }),
+              //                                           ],
+              //                                         }),
+              //                                         (0, a.jsxs)("li", {
+              //                                           className:
+              //                                             "d-flex align-items-center mt-3",
+              //                                           children: [
+              //                                             (0, a.jsx)("img", {
+              //                                               src: "/assets/imgs/cta-2/check.svg",
+              //                                               alt: "Codm",
+              //                                             }),
+              //                                             (0, a.jsx)("p", {
+              //                                               className:
+              //                                                 "ms-2 mb-0 text-900 fs-6",
+              //                                               children:
+              //                                                 "Continuous Evolution",
+              //                                             }),
+              //                                           ],
+              //                                         }),
+              //                                         (0, a.jsxs)("li", {
+              //                                           className:
+              //                                             "d-flex align-items-center mt-3",
+              //                                           children: [
+              //                                             (0, a.jsx)("img", {
+              //                                               src: "/assets/imgs/cta-2/check.svg",
+              //                                               alt: "Codm",
+              //                                             }),
+              //                                             (0, a.jsx)("p", {
+              //                                               className:
+              //                                                 "ms-2 mb-0 text-900 fs-6",
+              //                                               children:
+              //                                                 "Client-Centric Solutions",
+              //                                             }),
+              //                                           ],
+              //                                         }),
+              //                                       ],
+              //                                     }),
+              //                                   ],
+              //                                 }),
+              //                                 (0, a.jsx)("div", {
+              //                                   className:
+              //                                     "col position-relative text-center mt-3",
+              //                                   children: (0, a.jsx)("img", {
+              //                                     className: "rounded-3",
+              //                                     src: "/assets/imgs/cta-7/img-23.png",
+              //                                     alt: "",
+              //                                   }),
+              //                                 }),
+              //                               ],
+              //                             }),
+              //                           ],
+              //                         }),
+              //                       ],
+              //                     }),
+              //                     (0, a.jsxs)("div", {
+              //                       className: "border-top pt-6 mt-md-8 mt-6",
+              //                       children: [
+              //                         (0, a.jsxs)(n.default, {
+              //                           href: "#",
+              //                           className:
+              //                             "fw-bold btn btn-gradient d-inline-flex align-items-center hover-up",
+              //                           children: [
+              //                             (0, a.jsx)("span", {
+              //                               className: "me-10",
+              //                               children: "Get a free POC for your project",
+              //                             }),
+              //                             (0, a.jsx)("svg", {
+              //                               xmlns: "http://www.w3.org/2000/svg",
+              //                               width: 24,
+              //                               height: 14,
+              //                               viewBox: "0 0 24 14",
+              //                               fill: "none",
+              //                               children: (0, a.jsx)("path", {
+              //                                 className: "fill-white",
+              //                                 d: "M17.4177 0.417969L16.3487 1.48705L21.1059 6.24429H0V7.75621H21.1059L16.3487 12.5134L17.4177 13.5825L24 7.0002L17.4177 0.417969Z",
+              //                                 fill: "white",
+              //                               }),
+              //                             }),
+              //                           ],
+              //                         }),
+              //                         (0, a.jsx)("p", {
+              //                           className: "fs-7 text-500 mt-3",
+              //                           children:
+              //                             "",
+              //                         }),
+              //                       ],
+              //                     }),
+              //                   ],
+              //                 }),
+              //               ],
+              //             }),
+              //           ],
+              //         }),
+              //         (0, a.jsx)
+              //       //   ("div", {
+              //       //     className:
+              //       //       "position-absolute top-0 end-0 z-1 flickering p-10 m-10 d-none d-lg-block",
+              //       //     children: (0, a.jsx)("img", {
+              //       //       src: "/assets/imgs/cta-7/star-1.svg",
+              //       //       alt: "Codm",
+              //       //     }),
+              //       //   }),
+              //       ],
+              //     }),
+              //   }),
+              // }),
               (0, a.jsxs)("section", {
                 className:
                   "section-services-4 position-relative fix section-padding",
@@ -1675,10 +1675,9 @@
                                       className: "odometer",
                                     }),
                                     (0, a.jsx)(r.ZP, {
-                                      end: 24,
+                                      end: 20,
                                       enableScrollSpy: !0,
                                     }),
-                                    (0, a.jsx)("span", { children: "k" }),
                                   ],
                                 }),
                                 (0, a.jsx)("p", {
@@ -1712,7 +1711,7 @@
                                       className: "odometer",
                                     }),
                                     (0, a.jsx)(r.ZP, {
-                                      end: 1024,
+                                      end: 20,
                                       enableScrollSpy: !0,
                                     }),
                                   ],
@@ -1748,7 +1747,7 @@
                                       className: "odometer",
                                     }),
                                     (0, a.jsx)(r.ZP, {
-                                      end: 865,
+                                      end: 20,
                                       enableScrollSpy: !0,
                                     }),
                                   ],
@@ -1784,10 +1783,10 @@
                                       className: "odometer",
                                     }),
                                     (0, a.jsx)(r.ZP, {
-                                      end: 168,
+                                      end: 20,
                                       enableScrollSpy: !0,
                                     }),
-                                    (0, a.jsx)("span", { children: "k" }),
+                                    // (0, a.jsx)("span", { children: "k" }),
                                   ],
                                 }),
                                 (0, a.jsx)("p", {
