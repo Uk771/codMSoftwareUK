@@ -1502,7 +1502,7 @@
 
                             // Comment Form
                             (0, i.jsx)("form", {
-                              action: "https://formsubmit.co/YOUR_EMAIL_HERE", // Replace with your email
+                              action: "https://formsubmit.co/info@codmsoftware.co.uk",
                               method: "post",
                               children: (0, i.jsxs)("div", {
                                 className: "row g-4",
@@ -1516,12 +1516,12 @@
                                         (0, i.jsx)("label", {
                                           className: "form-label",
                                           htmlFor: "name",
-                                          children: "Your name *"
                                         }),
                                         (0, i.jsx)("input", {
                                           type: "text",
                                           className: "form-control",
                                           id: "name",
+                                          placeholder: "Enter your name",
                                           name: "name",
                                           required: true
                                         })
@@ -1538,7 +1538,6 @@
                                         (0, i.jsx)("label", {
                                           className: "form-label",
                                           htmlFor: "email",
-                                          children: "Email *"
                                         }),
                                         (0, i.jsx)("input", {
                                           type: "email",
@@ -1561,7 +1560,6 @@
                                         (0, i.jsx)("label", {
                                           className: "form-label",
                                           htmlFor: "website",
-                                          children: "Website"
                                         }),
                                         (0, i.jsx)("input", {
                                           type: "url",
@@ -1583,12 +1581,12 @@
                                         (0, i.jsx)("label", {
                                           className: "form-label",
                                           htmlFor: "comment",
-                                          children: "Describe Your Project in Short"
                                         }),
                                         (0, i.jsx)("textarea", {
                                           className: "form-control",
                                           id: "comment",
                                           name: "comment",
+                                          placeholder: "Describe Your Project in Short",
                                           rows: "4",
                                           required: true
                                         })
