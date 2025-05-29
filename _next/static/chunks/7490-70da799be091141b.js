@@ -2626,6 +2626,37 @@
                     }),
                   ],
                 }),
+                (i.jsxs)("li", {
+  className: "nav-item dropdown",
+  children: [
+    (0, i.jsxs)(d.default, {
+      className: "nav-link fw-bold d-flex align-items-center",
+      href: "#",
+      role: "button",
+      "data-bs-toggle": "dropdown",
+      "aria-expanded": "false",
+      children: [
+        "Blogs",
+        (0, i.jsx)("span", {
+          className: "dropdown-toggle",
+          style: { fontSize: "0.75rem", fontweight: "none" },
+        }),
+      ],
+    }),
+    (0, i.jsxs)("ul", {
+      className: "dropdown-menu",
+      children: [
+        (0, i.jsx)("li", {
+          children: (0, i.jsx)(d.default, {
+            className: "dropdown-item",
+            href: "/CPQtoRCA.html",
+            children: "Salesforce CPQ to Revenue Cloud",
+          }),
+        }),
+      ],
+    }),
+  ],
+}),
                 (0, i.jsx)("li", {
                   className: "nav-item",
                   children: (0, i.jsx)(d.default, {
