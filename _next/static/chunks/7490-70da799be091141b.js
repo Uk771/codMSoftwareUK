@@ -1643,7 +1643,7 @@
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/SalesforceCRM.html",
+                                        href: "/Python.html",
                                         children: "Python Application",
                                       }),
                                     }),
@@ -1657,6 +1657,40 @@
                                       children: (0, i.jsx)(d.default, {
                                         href: "/Technical-Support.html",
                                         children: "Technical Support",
+                                      }),
+                                    }),
+                                  ],
+                                }),
+                              ],
+                            }),
+                             (0, i.jsxs)("li", {
+                              className: "has-children ".concat(
+                                3 === l ? "active" : ""
+                              ),
+                              children: [
+                                (0, i.jsx)("span", {
+                                  className: "menu-expand",
+                                  onClick: () => n(3),
+                                  children: (0, i.jsx)("i", {
+                                    className: "arrow-small-down",
+                                  }),
+                                }),
+                                (0, i.jsx)(d.default, {
+                                  href: "#",
+                                  children: "Blogs",
+                                }),
+                                (0, i.jsxs)("ul", {
+                                  className: "sub-menu",
+                                  style: {
+                                    display: "".concat(
+                                      3 == l ? "block" : "none"
+                                    ),
+                                  },
+                                  children: [
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
+                                        href: "/CPQtoRCA.html",
+                                        children: "Salesforce CPQ to RCA",
                                       }),
                                     }),
                                   ],
