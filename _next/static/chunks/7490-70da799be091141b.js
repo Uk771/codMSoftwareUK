@@ -1623,6 +1623,42 @@
                                         children: "Salesforce CRM",
                                       }),
                                     }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
+                                        href: "/API-Integration.html",
+                                        children: "Api Integration",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
+                                        href: "/BuildingLLM.html",
+                                        children: "Building LLM",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
+                                        href: "/DotNetApplication.html",
+                                        children: ".Net Application",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
+                                        href: "/SalesforceCRM.html",
+                                        children: "Python Application",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
+                                        href: "/React-Application.html",
+                                        children: "React Application",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
+                                        href: "/Technical-Support.html",
+                                        children: "Technical Support",
+                                      }),
+                                    }),
                                   ],
                                 }),
                               ],
@@ -2254,19 +2290,19 @@
                         }),
                       ],
                     }),
-                    (0, i.jsxs)("div", {
-                      className: "contact-list mb-30",
-                      children: [
-                        (0, i.jsx)("h4", { children: "Office Address" }),
-                        (0, i.jsxs)("p", {
-                          children: [
-                            "123/A, Miranda City Likaoli ",
-                            (0, i.jsx)("br", {}),
-                            "Prikano, Dope",
-                          ],
-                        }),
-                      ],
-                    }),
+                    // (0, i.jsxs)("div", {
+                    //   className: "contact-list mb-30",
+                    //   children: [
+                    //     (0, i.jsx)("h4", { children: "Office Address" }),
+                    //     (0, i.jsxs)("p", {
+                    //       children: [
+                    //         "123/A, Miranda City Likaoli ",
+                    //         (0, i.jsx)("br", {}),
+                    //         "Prikano, Dope",
+                    //       ],
+                    //     }),
+                    //   ],
+                    // }),
                     (0, i.jsxs)("div", {
                       className: "contact-list mb-30",
                       children: [
@@ -2278,18 +2314,18 @@
                       className: "contact-list mb-30",
                       children: [
                         (0, i.jsx)("h4", { children: "Business Emails" }),
-                        (0, i.jsx)("p", {
-                          children: (0, i.jsx)(d.default, {
-                            href: "/mailto:contact@alithemes.com",
-                            children: "contact@alithemes.com",
-                          }),
-                        }),
-                        (0, i.jsx)("p", {
-                          children: (0, i.jsx)(d.default, {
-                            href: "/mailto:sale@alithemes.com ",
-                            children: "sale@alithemes.com ",
-                          }),
-                        }),
+                        // (0, i.jsx)("p", {
+                        //   children: (0, i.jsx)(d.default, {
+                        //     href: "/mailto:contact@alithemes.com",
+                        //     children: "contact@alithemes.com",
+                        //   }),
+                        // }),
+                        // (0, i.jsx)("p", {
+                        //   children: (0, i.jsx)(d.default, {
+                        //     href: "/mailto:sale@alithemes.com ",
+                        //     children: "sale@alithemes.com ",
+                        //   }),
+                        // }),
                       ],
                     }),
                     (0, i.jsxs)("div", {

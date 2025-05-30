@@ -321,36 +321,35 @@
                             ],
                           }),
                           (0, i.jsxs)("div", {
-  className: "blog-share my-4",
-  children: [
-    (0, i.jsx)("h6", { children: "Share this post:" }),
-    (0, i.jsxs)("div", {
-      className: "d-flex align-items-center gap-3",
-      children: [
-        (0, i.jsx)("a", {
-          className: "btn btn-outline-primary btn-sm",
-          href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}`,
-          target: "_blank",
-          rel: "noopener noreferrer",
-          children: "💼 LinkedIn"
-        }),
-        (0, i.jsx)("a", {
-          className: "btn btn-outline-info btn-sm",
-          href: `https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("Check out this post!")}`,
-          target: "_blank",
-          rel: "noopener noreferrer",
-          children: "🐦 Twitter"
-        }),
-        (0, i.jsx)("a", {
-          className: "btn btn-outline-secondary btn-sm",
-          href: `mailto:?subject=${encodeURIComponent("Check out this post")}&body=${encodeURIComponent("I thought you might like this article: " + window.location.href)}`,
-          children: "✉️ Email"
-        }),
-      ],
-    }),
-  ],
-}),
-
+                            className: "blog-share my-4",
+                            children: [
+                              (0, i.jsx)("h6", { children: "Share this post:" }),
+                              (0, i.jsxs)("div", {
+                                className: "d-flex align-items-center gap-3",
+                                children: [
+                                  (0, i.jsx)("a", {
+                                    className: "btn btn-outline-primary btn-sm",
+                                    href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}`,
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    children: "💼 LinkedIn"
+                                  }),
+                                  (0, i.jsx)("a", {
+                                    className: "btn btn-outline-info btn-sm",
+                                    href: `https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("Check out this post!")}`,
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    children: "🐦 Twitter"
+                                  }),
+                                  (0, i.jsx)("a", {
+                                    className: "btn btn-outline-secondary btn-sm",
+                                    href: `mailto:?subject=${encodeURIComponent("Check out this post")}&body=${encodeURIComponent("I thought you might like this article: " + window.location.href)}`,
+                                    children: "✉️ Email"
+                                  }),
+                                ],
+                              }),
+                            ],
+                          }),
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
                             children: "Sticking with Salesforce CPQ or Moving to Revenue Cloud Advanced?",
