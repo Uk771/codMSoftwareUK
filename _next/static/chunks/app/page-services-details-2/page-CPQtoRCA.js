@@ -329,7 +329,7 @@
                                 children: [
                                   (0, i.jsx)("a", {
                                     className: "btn btn-outline-primary btn-sm",
-                                    href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}`,
+                                    href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("I thought you might like this Blog!")}`,
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     children: "💼 LinkedIn"
