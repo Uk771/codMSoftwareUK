@@ -28,7 +28,7 @@
                   className: "section-page-header py-10 fix position-relative",
                   children: [
                     (0, i.jsx)("div", {
-                      className: "container position-relative z-1",
+                      className: "container position-relative z-1 mt-5",
                       children: (0, i.jsxs)("div", {
                         className: "text-start",
                         children: [
@@ -854,106 +854,106 @@
                                 }),
                               ],
                             }),
-                            (0, i.jsxs)(n.default, {
-                              href: "/API-Integration.html",
-                              className:
-                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
-                              children: [
-                                "API Integration",
-                                (0, i.jsx)("svg", {
-                                  xmlns: "http://www.w3.org/2000/svg",
-                                  width: 24,
-                                  height: 24,
-                                  viewBox: "0 0 24 24",
-                                  fill: "none",
-                                  children: (0, i.jsx)("path", {
-                                    className: "fill-neutral-100",
-                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
-                                    fill: "#f3f4f6",
-                                  }),
-                                }),
-                              ],
-                            }),
-                            (0, i.jsxs)(n.default, {
-                              href: "/D.I-D.M.html",
-                              className:
-                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
-                              children: [
-                                "Data Integration/ Migration",
-                                (0, i.jsx)("svg", {
-                                  xmlns: "http://www.w3.org/2000/svg",
-                                  width: 24,
-                                  height: 24,
-                                  viewBox: "0 0 24 24",
-                                  fill: "none",
-                                  children: (0, i.jsx)("path", {
-                                    className: "fill-neutral-100",
-                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
-                                    fill: "#f3f4f6",
-                                  }),
-                                }),
-                              ],
-                            }),
-                            (0, i.jsxs)(n.default, {
-                              href: "#",
-                              className:
-                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
-                              children: [
-                                "Technical Support",
-                                (0, i.jsx)("svg", {
-                                  xmlns: "http://www.w3.org/2000/svg",
-                                  width: 24,
-                                  height: 24,
-                                  viewBox: "0 0 24 24",
-                                  fill: "none",
-                                  children: (0, i.jsx)("path", {
-                                    className: "fill-neutral-100",
-                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
-                                    fill: "#f3f4f6",
-                                  }),
-                                }),
-                              ],
-                            }),
-                            (0, i.jsxs)(n.default, {
-                              href: "/BuildingLLM.html",
-                              className:
-                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
-                              children: [
-                                "Building LLM",
-                                (0, i.jsx)("svg", {
-                                  xmlns: "http://www.w3.org/2000/svg",
-                                  width: 24,
-                                  height: 24,
-                                  viewBox: "0 0 24 24",
-                                  fill: "none",
-                                  children: (0, i.jsx)("path", {
-                                    className: "fill-neutral-100",
-                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
-                                    fill: "#f3f4f6",
-                                  }),
-                                }),
-                              ],
-                            }),
-                            (0, i.jsxs)(n.default, {
-                              href: "/Python.html",
-                              className:
-                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center ",
-                              children: [
-                                "Python Application",
-                                (0, i.jsx)("svg", {
-                                  xmlns: "http://www.w3.org/2000/svg",
-                                  width: 24,
-                                  height: 24,
-                                  viewBox: "0 0 24 24",
-                                  fill: "none",
-                                  children: (0, i.jsx)("path", {
-                                    className: "fill-neutral-100",
-                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
-                                    fill: "#f3f4f6",
-                                  }),
-                                }),
-                              ],
-                            }),
+                            // (0, i.jsxs)(n.default, {
+                            //   href: "/API-Integration.html",
+                            //   className:
+                            //     "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                            //   children: [
+                            //     "API Integration",
+                            //     (0, i.jsx)("svg", {
+                            //       xmlns: "http://www.w3.org/2000/svg",
+                            //       width: 24,
+                            //       height: 24,
+                            //       viewBox: "0 0 24 24",
+                            //       fill: "none",
+                            //       children: (0, i.jsx)("path", {
+                            //         className: "fill-neutral-100",
+                            //         d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                            //         fill: "#f3f4f6",
+                            //       }),
+                            //     }),
+                            //   ],
+                            // }),
+                            // (0, i.jsxs)(n.default, {
+                            //   href: "/D.I-D.M.html",
+                            //   className:
+                            //     "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                            //   children: [
+                            //     "Data Integration/ Migration",
+                            //     (0, i.jsx)("svg", {
+                            //       xmlns: "http://www.w3.org/2000/svg",
+                            //       width: 24,
+                            //       height: 24,
+                            //       viewBox: "0 0 24 24",
+                            //       fill: "none",
+                            //       children: (0, i.jsx)("path", {
+                            //         className: "fill-neutral-100",
+                            //         d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                            //         fill: "#f3f4f6",
+                            //       }),
+                            //     }),
+                            //   ],
+                            // }),
+                            // (0, i.jsxs)(n.default, {
+                            //   href: "#",
+                            //   className:
+                            //     "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                            //   children: [
+                            //     "Technical Support",
+                            //     (0, i.jsx)("svg", {
+                            //       xmlns: "http://www.w3.org/2000/svg",
+                            //       width: 24,
+                            //       height: 24,
+                            //       viewBox: "0 0 24 24",
+                            //       fill: "none",
+                            //       children: (0, i.jsx)("path", {
+                            //         className: "fill-neutral-100",
+                            //         d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                            //         fill: "#f3f4f6",
+                            //       }),
+                            //     }),
+                            //   ],
+                            // }),
+                            // (0, i.jsxs)(n.default, {
+                            //   href: "/BuildingLLM.html",
+                            //   className:
+                            //     "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                            //   children: [
+                            //     "Building LLM",
+                            //     (0, i.jsx)("svg", {
+                            //       xmlns: "http://www.w3.org/2000/svg",
+                            //       width: 24,
+                            //       height: 24,
+                            //       viewBox: "0 0 24 24",
+                            //       fill: "none",
+                            //       children: (0, i.jsx)("path", {
+                            //         className: "fill-neutral-100",
+                            //         d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                            //         fill: "#f3f4f6",
+                            //       }),
+                            //     }),
+                            //   ],
+                            // }),
+                            // (0, i.jsxs)(n.default, {
+                            //   href: "/Python.html",
+                            //   className:
+                            //     "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center ",
+                            //   children: [
+                            //     "Python Application",
+                            //     (0, i.jsx)("svg", {
+                            //       xmlns: "http://www.w3.org/2000/svg",
+                            //       width: 24,
+                            //       height: 24,
+                            //       viewBox: "0 0 24 24",
+                            //       fill: "none",
+                            //       children: (0, i.jsx)("path", {
+                            //         className: "fill-neutral-100",
+                            //         d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                            //         fill: "#f3f4f6",
+                            //       }),
+                            //     }),
+                            //   ],
+                            // }),
                             (0, i.jsxs)("div", {
                               className:
                                 "bg-primary rounded-4 mt-7 position-relative",

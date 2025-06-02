@@ -986,11 +986,11 @@
                                           htmlFor: "website",
                                         }),
                                         (0, i.jsx)("input", {
-                                          type: "url",
+                                          type: "text",
                                           className: "form-control",
                                           id: "website",
                                           name: "website",
-                                          placeholder: "https://"
+                                          placeholder: "https://yourwebsite.com"
                                         })
                                       ]
                                     })
