@@ -107,7 +107,7 @@
                           children: [
                             (0, i.jsx)("img", {
                               className: "rounded-3",
-                              src: "/assets/imgs/services-details-2/BuildingLLM/img-1.jpg",
+                              src: "/assets/imgs/services-details-2/datacloud/img-1.webp",
                               alt: "Codm",
                             }),
                             (0, i.jsx)("h4", {
@@ -343,7 +343,7 @@
                                   className: "col-lg-5 mt-lg-0 mt-5",
                                   children: (0, i.jsx)("img", {
                                     className: "rounded-3",
-                                    src: "/assets/imgs/services-details/img-2.png",
+                                    src: "/assets/imgs/services-details-2/datacloud/img-2.png",
                                     alt: "Codm",
                                   }),
                                 }),
@@ -560,7 +560,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "How do LLMs handle multiple tasks like text generation and sentiment analysis?",
+                                            children: "What type of data can Salesforce Data Cloud handle ?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -594,7 +594,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "LLMs are versatile due to their training on diverse datasets. They can perform multiple tasks by leveraging their learned knowledge. Through fine-tuning, they can be adapted to perform specific tasks more effectively.",
+                                          "It supports both structured and unstructured data including CRM, transactional data, behavioral signals, third-party data, IoT data, and more. It ingests this data from internal systems, external platforms, cloud providers, and on-premise databases.",
                                       }),
                                     }),
                                   ],
@@ -621,7 +621,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "What is “in-context learning” in LLMs?",
+                                            children: "How does Data Cloud ensure data privacy and compliance?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -655,7 +655,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "In-context learning refers to an LLM's ability to learn and perform specific tasks based solely on the input text provided during inference, without additional fine-tuning. This allows the model to adapt to new tasks or instructions on the fly.",
+                                          "Salesforce Data Cloud adheres to global privacy standards including GDPR, CCPA, HIPAA, and others. It offers tools for data governance, auditability, encryption, and consent management to ensure compliance and customer trust.",
                                       }),
                                     }),
                                   ],
@@ -682,7 +682,7 @@
                                           }),
                                           (0, i.jsx)("h6", {
                                             className: "m-0",
-                                            children: "Can LLMs generate code in programming languages?",
+                                            children: "Can Salesforce Data Cloud be integrated with existing systems ?",
                                           }),
                                           (0, i.jsx)("span", {
                                             className: "ms-auto arrow me-2",
@@ -716,7 +716,7 @@
                                         className:
                                           "px-0 card-body fs-6 text-600 mb-0",
                                         children:
-                                          "Yes, LLMs can generate code in various programming languages. They assist developers by providing code snippets, debugging help, and translating code, thanks to their training on diverse datasets that include programming code.",
+                                          "Yes, Data Cloud integrates seamlessly with Salesforce CRM, Marketing Cloud, Commerce Cloud, Service Cloud, and external systems through APIs and connectors. It allows easy synchronization of data and workflows across platforms.",
                                       }),
                                     }),
                                   ],
@@ -729,11 +729,11 @@
                           className: "col-lg-4 sidebar",
                           children: [
                             (0, i.jsxs)(n.default, {
-                              href: "/SalesforceCRM.html",
+                              href: "/SalesforceMarketingCloudServices.html",
                               className:
                                 "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                               children: [
-                                "Salesforce CRM",
+                                "Marketing Cloud",
                                 (0, i.jsx)("svg", {
                                   xmlns: "http://www.w3.org/2000/svg",
                                   width: 24,
@@ -749,11 +749,11 @@
                               ],
                             }),
                             (0, i.jsxs)(n.default, {
-                              href: "/DotNetApplication.html",
+                              href: "/EducationCloud.html",
                               className:
                                 "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                               children: [
-                                ".NET Application",
+                                "Higher Education Cloud",
                                 (0, i.jsx)("svg", {
                                   xmlns: "http://www.w3.org/2000/svg",
                                   width: 24,
@@ -769,11 +769,11 @@
                               ],
                             }),
                             (0, i.jsxs)(n.default, {
-                              href: "/React-Application.html",
+                              href: "/FinancialServiceCloud.html",
                               className:
                                 "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center ",
                               children: [
-                                "React Application",
+                                "Financial Service Cloud",
                                 (0, i.jsx)("svg", {
                                   xmlns: "http://www.w3.org/2000/svg",
                                   width: 24,
@@ -791,89 +791,9 @@
                             (0, i.jsxs)(n.default, {
                               href: "/API-Integration.html",
                               className:
-                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
-                              children: [
-                                "API Integration",
-                                (0, i.jsx)("svg", {
-                                  xmlns: "http://www.w3.org/2000/svg",
-                                  width: 24,
-                                  height: 24,
-                                  viewBox: "0 0 24 24",
-                                  fill: "none",
-                                  children: (0, i.jsx)("path", {
-                                    className: "fill-neutral-100",
-                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
-                                    fill: "#f3f4f6",
-                                  }),
-                                }),
-                              ],
-                            }),
-                            (0, i.jsxs)(n.default, {
-                              href: "/D.I-D.M.html",
-                              className:
-                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
-                              children: [
-                                "Data Integration/ Migration",
-                                (0, i.jsx)("svg", {
-                                  xmlns: "http://www.w3.org/2000/svg",
-                                  width: 24,
-                                  height: 24,
-                                  viewBox: "0 0 24 24",
-                                  fill: "none",
-                                  children: (0, i.jsx)("path", {
-                                    className: "fill-neutral-100",
-                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
-                                    fill: "#f3f4f6",
-                                  }),
-                                }),
-                              ],
-                            }),
-                            (0, i.jsxs)(n.default, {
-                              href: "/Technical-Support.html",
-                              className:
-                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
-                              children: [
-                                "Technical Support",
-                                (0, i.jsx)("svg", {
-                                  xmlns: "http://www.w3.org/2000/svg",
-                                  width: 24,
-                                  height: 24,
-                                  viewBox: "0 0 24 24",
-                                  fill: "none",
-                                  children: (0, i.jsx)("path", {
-                                    className: "fill-neutral-100",
-                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
-                                    fill: "#f3f4f6",
-                                  }),
-                                }),
-                              ],
-                            }),
-                            (0, i.jsxs)(n.default, {
-                              href: "#",
-                              className:
                                 "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center active",
                               children: [
-                                "Building LLM",
-                                (0, i.jsx)("svg", {
-                                  xmlns: "http://www.w3.org/2000/svg",
-                                  width: 24,
-                                  height: 24,
-                                  viewBox: "0 0 24 24",
-                                  fill: "none",
-                                  children: (0, i.jsx)("path", {
-                                    className: "fill-neutral-100",
-                                    d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
-                                    fill: "#f3f4f6",
-                                  }),
-                                }),
-                              ],
-                            }),
-                            (0, i.jsxs)(n.default, {
-                              href: "/Python.html",
-                              className:
-                                "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
-                              children: [
-                                "Python Application",
+                                "Data Cloud + A.I Integration",
                                 (0, i.jsx)("svg", {
                                   xmlns: "http://www.w3.org/2000/svg",
                                   width: 24,
@@ -902,7 +822,7 @@
                                         (0, i.jsx)("br", {}),
                                         "Ultimate Experience ",
                                         (0, i.jsx)("br", {}),
-                                        "in Building LLM",
+                                        "in Data Cloud",
                                       ],
                                     }),
                                     (0, i.jsxs)(n.default, {
@@ -967,43 +887,9 @@
                                 (0, i.jsx)("div", {
                                   className: "zoom-img rounded-4 fix",
                                   children: (0, i.jsx)("img", {
-                                    src: "/assets/imgs/services-details-2/img-2.png",
+                                    src: "/assets/imgs/services-details-2/datacloud/img-3.png",
                                     alt: "Codm",
                                   }),
-                                }),
-                                (0, i.jsxs)("div", {
-                                  className:
-                                    "position-absolute bottom-0 start-50 translate-middle-x mb-8 backdrop-filter rounded-4 px-7 py-4 text-center z-1",
-                                  children: [
-                                    (0, i.jsxs)("p", {
-                                      className: "pt-2 text-900 text-nowrap",
-                                      children: [
-                                        "Loved by over 4k ",
-                                        (0, i.jsx)("br", {}),
-                                        "happy clients",
-                                      ],
-                                    }),
-                                    (0, i.jsxs)("div", {
-                                      className:
-                                        "d-flex align-items-center justify-content-center py-4",
-                                      children: [
-                                        (0, i.jsx)("img", {
-                                          src: "/assets/imgs/features-3/avatar-1.png",
-                                          alt: "Codm",
-                                        }),
-                                        (0, i.jsx)("img", {
-                                          className: "avt-hero z-1",
-                                          src: "/assets/imgs/features-3/avatar-2.png",
-                                          alt: "Codm",
-                                        }),
-                                        (0, i.jsx)("img", {
-                                          className: "avt-hero z-0",
-                                          src: " assets/imgs/features-3/avatar-3.png",
-                                          alt: "Codm",
-                                        }),
-                                      ],
-                                    }),
-                                  ],
                                 }),
                               ],
                             }),
@@ -1013,439 +899,6 @@
                     }),
                   }),
                 }),
-                // (0, i.jsx)("section", {
-                //   className:
-                //     "section-contact-2 position-relative section-padding bg-5",
-                //   children: (0, i.jsxs)("div", {
-                //     className: "container position-relative z-1",
-                //     children: [
-                //       (0, i.jsxs)("div", {
-                //         className: "text-center",
-                //         children: [
-                //           (0, i.jsxs)("h5", {
-                //             className: "ds-5 mt-3 mb-3",
-                //             children: [
-                //               "Thinking about a project? ",
-                //               (0, i.jsx)("br", {
-                //                 className: "d-md-block d-none",
-                //               }),
-                //               "Get in touch with us.",
-                //             ],
-                //           }),
-                //           (0, i.jsxs)("span", {
-                //             className: "fs-5 fw-medium",
-                //             children: [
-                //               "Connect with Us Today through the Details Below or Fill ",
-                //               (0, i.jsx)("br", {
-                //                 className: "d-md-block d-none",
-                //               }),
-                //               "Out the Form for a Prompt Response",
-                //             ],
-                //           }),
-                //         ],
-                //       }),
-                //       (0, i.jsx)("div", {
-                //         className: "row mt-8",
-                //         children: (0, i.jsx)("div", {
-                //           className: "col-lg-10 mx-lg-auto",
-                //           children: (0, i.jsxs)("div", {
-                //             className: "row",
-                //             children: [
-                //               (0, i.jsxs)("div", {
-                //                 className: "col-lg-6 ps-lg-0 pb-5 pb-lg-0",
-                //                 children: [
-                //                   (0, i.jsx)("h4", {
-                //                     children: "Leave a message",
-                //                   }),
-                //                   (0, i.jsx)
-                //                   ("form", {
-                //                     action: "https://formsubmit.co/info@codmsoftware.co.uk",
-                //                     method: "POST",
-                //                     children: (0, i.jsxs)("div", {
-                //                       className: "row mt-5",
-                //                       children: [
-                //                         (0, i.jsx)("div", {
-                //                           className: "col-md-6",
-                //                           children: (0, i.jsxs)("div", {
-                //                             className:
-                //                               "input-group rounded-1 d-flex align-items-center",
-                //                             children: [
-                //                               (0, i.jsx)("div", {
-                //                                 className:
-                //                                   "icon-input border border-end-0 rounded-2 rounded-end-0 ps-3",
-                //                                 children: (0, i.jsxs)("svg", {
-                //                                   xmlns:
-                //                                     "http://www.w3.org/2000/svg",
-                //                                   width: 24,
-                //                                   height: 24,
-                //                                   viewBox: "0 0 24 24",
-                //                                   fill: "none",
-                //                                   children: [
-                //                                     (0, i.jsx)("path", {
-                //                                       className: "stroke-dark",
-                //                                       d: "M12 11.25C13.7949 11.25 15.25 9.79493 15.25 8C15.25 6.20507 13.7949 4.75 12 4.75C10.2051 4.75 8.75 6.20507 8.75 8C8.75 9.79493 10.2051 11.25 12 11.25Z",
-                //                                       stroke: "black",
-                //                                       strokeWidth: "1.5",
-                //                                       strokeLinecap: "round",
-                //                                       strokeLinejoin: "round",
-                //                                     }),
-                //                                     (0, i.jsx)("path", {
-                //                                       className: "stroke-dark",
-                //                                       d: "M6.84723 19.25H17.1522C18.2941 19.25 19.1737 18.2681 18.6405 17.2584C17.856 15.7731 16.0677 14 11.9997 14C7.93174 14 6.1434 15.7731 5.35897 17.2584C4.8257 18.2681 5.70531 19.25 6.84723 19.25Z",
-                //                                       stroke: "black",
-                //                                       strokeWidth: "1.5",
-                //                                       strokeLinecap: "round",
-                //                                       strokeLinejoin: "round",
-                //                                     }),
-                //                                   ],
-                //                                 }),
-                //                               }),
-                //                               (0, i.jsx)("input", {
-                //                                 type: "text",
-                //                                 className:
-                //                                   "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                //                                 name: "name",
-                //                                 placeholder: "Your name *",
-                //                                 "aria-label": "username",
-                //                               }),
-                //                             ],
-                //                           }),
-                //                         }),
-                //                         (0, i.jsx)("div", {
-                //                           className: "col-md-6",
-                //                           children: (0, i.jsxs)("div", {
-                //                             className:
-                //                               "input-group rounded-1 d-flex align-items-center mt-4 mt-md-0",
-                //                             children: [
-                //                               (0, i.jsx)("div", {
-                //                                 className:
-                //                                   "icon-input border border-end-0 rounded-2 rounded-end-0 ps-3",
-                //                                 children: (0, i.jsx)("svg", {
-                //                                   xmlns:
-                //                                     "http://www.w3.org/2000/svg",
-                //                                   width: 24,
-                //                                   height: 24,
-                //                                   viewBox: "0 0 24 24",
-                //                                   fill: "none",
-                //                                   children: (0, i.jsx)("path", {
-                //                                     className: "stroke-dark",
-                //                                     d: "M8.89286 4.75H6.06818C5.34017 4.75 4.75 5.34017 4.75 6.06818C4.75 13.3483 10.6517 19.25 17.9318 19.25C18.6598 19.25 19.25 18.6598 19.25 17.9318V15.1071L16.1429 13.0357L14.5317 14.6468C14.2519 14.9267 13.8337 15.0137 13.4821 14.8321C12.8858 14.524 11.9181 13.9452 10.9643 13.0357C9.98768 12.1045 9.41548 11.1011 9.12829 10.494C8.96734 10.1537 9.06052 9.76091 9.32669 9.49474L10.9643 7.85714L8.89286 4.75Z",
-                //                                     stroke: "black",
-                //                                     strokeWidth: "1.5",
-                //                                     strokeLinecap: "round",
-                //                                     strokeLinejoin: "round",
-                //                                   }),
-                //                                 }),
-                //                               }),
-                //                               (0, i.jsx)("input", {
-                //                                 type: "text",
-                //                                 className:
-                //                                   "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                //                                 name: "email",
-                //                                 placeholder: "info@",
-                //                                 "aria-label": "email",
-                //                               }),
-                //                             ],
-                //                           }),
-                //                         }),
-                //                         (0, i.jsx)("div", {
-                //                           className: "col-md-6",
-                //                           children: (0, i.jsxs)("div", {
-                //                             className:
-                //                               "input-group rounded-1 d-flex align-items-center mt-4",
-                //                             children: [
-                //                               (0, i.jsx)("div", {
-                //                                 className:
-                //                                   "icon-input border border-end-0 rounded-2 rounded-end-0 ps-3",
-                //                                 children: (0, i.jsxs)("svg", {
-                //                                   xmlns:
-                //                                     "http://www.w3.org/2000/svg",
-                //                                   width: 24,
-                //                                   height: 24,
-                //                                   viewBox: "0 0 24 24",
-                //                                   fill: "none",
-                //                                   children: [
-                //                                     (0, i.jsx)("path", {
-                //                                       className: "stroke-dark",
-                //                                       d: "M4.75 7.75C4.75 6.64543 5.64543 5.75 6.75 5.75H17.25C18.3546 5.75 19.25 6.64543 19.25 7.75V16.25C19.25 17.3546 18.3546 18.25 17.25 18.25H6.75C5.64543 18.25 4.75 17.3546 4.75 16.25V7.75Z",
-                //                                       stroke: "black",
-                //                                       strokeWidth: "1.5",
-                //                                       strokeLinecap: "round",
-                //                                       strokeLinejoin: "round",
-                //                                     }),
-                //                                     (0, i.jsx)("path", {
-                //                                       className: "stroke-dark",
-                //                                       d: "M5.5 6.5L12 12.25L18.5 6.5",
-                //                                       stroke: "black",
-                //                                       strokeWidth: "1.5",
-                //                                       strokeLinecap: "round",
-                //                                       strokeLinejoin: "round",
-                //                                     }),
-                //                                   ],
-                //                                 }),
-                //                               }),
-                //                               (0, i.jsx)("input", {
-                //                                 type: "text",
-                //                                 className:
-                //                                   "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                //                                 name: "Phone",
-                //                                 placeholder: "Phone",
-                //                                 "aria-label": "phone",
-                //                               }),
-                //                             ],
-                //                           }),
-                //                         }),
-                //                         (0, i.jsx)("div", {
-                //                           className: "col-md-6",
-                //                           children: (0, i.jsxs)("div", {
-                //                             className:
-                //                               "input-group rounded-1 d-flex align-items-center mt-4",
-                //                             children: [
-                //                               (0, i.jsx)("div", {
-                //                                 className:
-                //                                   "icon-input border border-end-0 rounded-2 rounded-end-0 ps-3",
-                //                                 children: (0, i.jsxs)("svg", {
-                //                                   xmlns:
-                //                                     "http://www.w3.org/2000/svg",
-                //                                   width: 24,
-                //                                   height: 24,
-                //                                   viewBox: "0 0 24 24",
-                //                                   fill: "none",
-                //                                   children: [
-                //                                     (0, i.jsx)("path", {
-                //                                       className: "stroke-dark",
-                //                                       d: "M6.75 19.25H17.25C18.3546 19.25 19.25 18.3546 19.25 17.25V9.75001L12 4.75L4.75 9.75001V17.25C4.75 18.3546 5.64544 19.25 6.75 19.25Z",
-                //                                       stroke: "black",
-                //                                       strokeWidth: "1.5",
-                //                                       strokeLinecap: "round",
-                //                                       strokeLinejoin: "round",
-                //                                     }),
-                //                                     (0, i.jsx)("path", {
-                //                                       className: "stroke-dark",
-                //                                       d: "M9.75 15.749C9.75 14.6444 10.6455 13.749 11.75 13.749H12.25C13.3546 13.749 14.25 14.6444 14.25 15.749V19.249H9.75V15.749Z",
-                //                                       stroke: "black",
-                //                                       strokeWidth: "1.5",
-                //                                       strokeLinecap: "round",
-                //                                       strokeLinejoin: "round",
-                //                                     }),
-                //                                   ],
-                //                                 }),
-                //                               }),
-                //                               (0, i.jsx)("input", {
-                //                                 type: "text",
-                //                                 className:
-                //                                   "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                //                                 name: "Subject",
-                //                                 placeholder: "Subject",
-                //                                 "aria-label": "subject",
-                //                               }),
-                //                             ],
-                //                           }),
-                //                         }),
-                //                         (0, i.jsx)("div", {
-                //                           className: "col-12",
-                //                           children: (0, i.jsxs)("div", {
-                //                             className:
-                //                               "input-group rounded-1 d-flex mt-4",
-                //                             children: [
-                //                               (0, i.jsx)("div", {
-                //                                 className:
-                //                                   "icon-input pt-2 ps-3 align-items-start border border-end-0 rounded-1 rounded-end-0",
-                //                                 children: (0, i.jsxs)("svg", {
-                //                                   xmlns:
-                //                                     "http://www.w3.org/2000/svg",
-                //                                   width: 18,
-                //                                   height: 18,
-                //                                   viewBox: "0 0 18 18",
-                //                                   fill: "none",
-                //                                   children: [
-                //                                     (0, i.jsx)("path", {
-                //                                       className: "stroke-dark",
-                //                                       d: "M5.5 2.14844H3C1.89543 2.14844 1 3.04387 1 4.14844V14.6484C1 15.753 1.89543 16.6484 3 16.6484H13.5C14.6046 16.6484 15.5 15.753 15.5 14.6484V12.1484",
-                //                                       stroke: "black",
-                //                                       strokeWidth: "1.5",
-                //                                       strokeLinecap: "round",
-                //                                       strokeLinejoin: "round",
-                //                                     }),
-                //                                     (0, i.jsx)("path", {
-                //                                       className: "stroke-dark",
-                //                                       d: "M17.3285 1.20344L16.4448 0.319749C16.0185 -0.106583 15.3248 -0.106583 14.8984 0.319749L7.82915 7.38907C7.76373 7.45449 7.71914 7.53782 7.70096 7.62854L7.2591 9.83772C7.22839 9.99137 7.27647 10.1502 7.38729 10.261C7.47605 10.3498 7.59561 10.3983 7.71864 10.3983C7.74923 10.3983 7.77997 10.3953 7.81053 10.3892L10.0197 9.94732C10.1104 9.92917 10.1938 9.88455 10.2592 9.81913L17.3285 2.74984C17.3285 2.74984 17.3286 2.74984 17.3286 2.74981C17.7549 2.32351 17.7549 1.6298 17.3285 1.20344ZM9.69678 9.05607L8.31606 9.33225L8.59224 7.95153L14.3461 2.19754L15.4507 3.30214L9.69678 9.05607ZM16.6658 2.0871L16.1135 2.6394L15.0089 1.53479L15.5612 0.982524C15.6221 0.921601 15.7212 0.92157 15.7821 0.982493L16.6658 1.86618C16.7267 1.92707 16.7267 2.0262 16.6658 2.0871Z",
-                //                                       fill: "black",
-                //                                     }),
-                //                                   ],
-                //                                 }),
-                //                               }),
-                //                               (0, i.jsx)("textarea", {
-                //                                 className:
-                //                                   "form-control border border-start-0 ms-0 rounded-start-0 rounded-1 pb-10",
-                //                                 name: "Description",
-                //                                 placeholder:
-                //                                   "Describe Your Project in Short",
-                //                                 "aria-label": "With textarea",
-                //                               }),
-                //                             ],
-                //                           }),
-                //                         }),
-                //                         (0, i.jsx)("div", {
-                //                           className: "col-12",
-                //                           children: (0, i.jsxs)("button", {
-                //                             type: "submit",
-                //                             className:
-                //                               "btn btn-primary hover-up mt-4",
-                //                             children: [
-                //                               "Send Message",
-                //                               (0, i.jsx)("svg", {
-                //                                 className: "ms-2",
-                //                                 xmlns:
-                //                                   "http://www.w3.org/2000/svg",
-                //                                 width: 24,
-                //                                 height: 24,
-                //                                 viewBox: "0 0 24 24",
-                //                                 fill: "none",
-                //                                 children: (0, i.jsx)("path", {
-                //                                   className: "stroke-white",
-                //                                   d: "M21.1059 12.2562H0.5V11.7443H21.1059H22.313L21.4594 10.8907L17.0558 6.48705L17.4177 6.12508L23.2929 12.0002L17.4177 17.8754L17.0558 17.5134L21.4594 13.1098L22.313 12.2562H21.1059Z",
-                //                                   fill: "black",
-                //                                   stroke: "white",
-                //                                 }),
-                //                               }),
-                //                             ],
-                //                           }),
-                //                         }),
-                //                       ],
-                //                     }),
-                //                   }),
-                //                 ],
-                //               }),
-                //               (0, i.jsx)("div", {
-                //                 className: "col-lg-6",
-                //                 children: (0, i.jsxs)("div", {
-                //                   className: "ps-lg-6",
-                //                   children: [
-                //                     (0, i.jsx)("h6", {
-                //                       children: "Chat with us",
-                //                     }),
-                //                     (0, i.jsx)("p", {
-                //                       className: "text-500",
-                //                       children:
-                //                         "The support team is always available 24/7",
-                //                     }),
-                //                     (0, i.jsxs)("div", {
-                //                       className: "d-flex mb-2",
-                //                       children: [
-                //                         (0, i.jsx)("img", {
-                //                           src: "/assets/imgs/contact-2/icon-1.svg",
-                //                           alt: "Codm",
-                //                         }),
-                //                         (0, i.jsx)(n.default, {
-                //                           className:
-                //                             "ms-2 text-decoration-underline text-900 fs-7",
-                //                           href: "#",
-                //                           children: "Chat via Whatsapp",
-                //                         }),
-                //                       ],
-                //                     }),
-                //                     // (0, i.jsxs)("div", {
-                //                     //   className: "d-flex mb-2",
-                //                     //   children: [
-                //                     //     (0, i.jsx)("img", {
-                //                     //       src: "/assets/imgs/contact-2/icon-2.svg",
-                //                     //       alt: "Codm",
-                //                     //     }),
-                //                     //     (0, i.jsx)(n.default, {
-                //                     //       className:
-                //                     //         "ms-2 text-decoration-underline text-900 fs-7",
-                //                     //       href: "#",
-                //                     //       children: "Chat via Viber",
-                //                     //     }),
-                //                     //   ],
-                //                     // }),
-                //                     // (0, i.jsxs)("div", {
-                //                     //   className: "d-flex mb-2 mb-5",
-                //                     //   children: [
-                //                     //     (0, i.jsx)("img", {
-                //                     //       src: "/assets/imgs/contact-2/icon-3.svg",
-                //                     //       alt: "Codm",
-                //                     //     }),
-                //                     //     (0, i.jsx)(n.default, {
-                //                     //       className:
-                //                     //         "ms-2 text-decoration-underline text-900 fs-7",
-                //                     //       href: "#",
-                //                     //       children: "Chat via Messager",
-                //                     //     }),
-                //                     //   ],
-                //                     // }),
-                //                     (0, i.jsx)("h6", {
-                //                       children: "Send us an email",
-                //                     }),
-                //                     (0, i.jsx)("p", {
-                //                       className: "text-500",
-                //                       children:
-                //                         "Our team will respond promptly to your inquiries",
-                //                     }),
-                //                     (0, i.jsxs)("div", {
-                //                       className: "d-flex mb-2",
-                //                       children: [
-                //                         (0, i.jsx)("img", {
-                //                           src: "/assets/imgs/contact-2/icon-4.svg",
-                //                           alt: "Codm",
-                //                         }),
-                //                         (0, i.jsx)(n.default, {
-                //                           className:
-                //                             "ms-2 text-decoration-underline text-900 fs-7",
-                //                           href: "#",
-                //                           children: "support@codmsoftware.co.uk",
-                //                         }),
-                //                       ],
-                //                     }),
-                //                     (0, i.jsxs)("div", {
-                //                       className: "d-flex mb-2 mb-5",
-                //                       children: [
-                //                         (0, i.jsx)("img", {
-                //                           src: "/assets/imgs/contact-2/icon-4.svg",
-                //                           alt: "Codm",
-                //                         }),
-                //                         (0, i.jsx)(n.default, {
-                //                           className:
-                //                             "ms-2 text-decoration-underline text-900 fs-7",
-                //                           href: "#",
-                //                           children: "sales@codmsoftware.co.uk",
-                //                         }),
-                //                       ],
-                //                     }),
-                //                     (0, i.jsx)("h6", {
-                //                       children: "For more inquiry",
-                //                     }),
-                //                     (0, i.jsx)("p", {
-                //                       className: "text-500",
-                //                       children:
-                //                         "Reach out for immediate assistance",
-                //                     }),
-                //                     (0, i.jsxs)("div", {
-                //                       className: "d-flex mb-2",
-                //                       children: [
-                //                         (0, i.jsx)("img", {
-                //                           src: "/assets/imgs/contact-2/icon-5.svg",
-                //                           alt: "Codm",
-                //                         }),
-                //                         (0, i.jsx)(n.default, {
-                //                           className:
-                //                             "ms-2 text-decoration-underline text-900 fs-7",
-                //                           href: "#",
-                //                           children: "(+44)07436934216",
-                //                         }),
-                //                       ],
-                //                     }),
-                //                   ],
-                //                 }),
-                //               }),
-                //             ],
-                //           }),
-                //         }),
-                //       }),
-                //     ],
-                //   }),
-                // }),
                 (0, i.jsx)("section", {
                   className:
                     "section-contact-2 position-relative section-padding bg-5",
