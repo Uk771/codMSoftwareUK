@@ -1655,6 +1655,36 @@
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
+                                        href: "/D.I-D.M.html",
+                                        children: "Data Integration / Migration",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
+                                        href: "/EducationCloud.html",
+                                        children: "Higher Education",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
+                                        href: "/FinancialServiceCloud.html",
+                                        children: "Financial Service Cloud",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
+                                        href: "/DataCloud.html",
+                                        children: "Data Cloud + A.I",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
+                                        href: "/SalesforceMarketingCloudServices.html",
+                                        children: "Salesforce Marketing Cloud",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
                                         href: "/Technical-Support.html",
                                         children: "Technical Support",
                                       }),
