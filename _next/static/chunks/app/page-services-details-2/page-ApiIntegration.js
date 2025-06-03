@@ -28,7 +28,7 @@
                   className: "section-page-header py-10 fix position-relative",
                   children: [
                     (0, i.jsx)("div", {
-                      className: "container position-relative z-1",
+                      className: "container position-relative z-1 mt-5",
                       children: (0, i.jsxs)("div", {
                         className: "text-start",
                         children: [
