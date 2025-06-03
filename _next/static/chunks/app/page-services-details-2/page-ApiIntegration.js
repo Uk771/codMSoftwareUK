@@ -338,7 +338,7 @@
                                   className: "col-lg-5 mt-lg-0 mt-5",
                                   children: (0, i.jsx)("img", {
                                     className: "rounded-3",
-                                    src: "/assets/imgs/services-details-2/Api/img-3.svg",
+                                    src: "/assets/imgs/services-details-2/Api/IMG-3.svg",
                                     alt: "Codm",
                                   }),
                                 }),

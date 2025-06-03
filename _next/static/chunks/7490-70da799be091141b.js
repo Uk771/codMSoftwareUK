@@ -1719,7 +1719,7 @@
                                   children: [
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/CPQtoRCA.html",
+                                        href: "/revenueCloud.html",
                                         children: "Salesforce CPQ to RCA",
                                       }),
                                     }),
