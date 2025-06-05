@@ -384,6 +384,12 @@
                               " It’s important to include an error handling and recovery strategy as part of the overall solution. Error handling—When an error occurs (exceptions or error codes are returned to the caller), the caller manages error handling. For example, an error message displayed on the end user’s page or logged to a table requiring further action.Recovery—Changes aren’t committed to Salesforce until the caller receives a successful response. For example, the order status isn’t updated in the database until a response that indicates success is received. If necessary, the caller can retry the operation",
                             ],
                           }),
+                          (0, i.jsx)("img", {
+                            className: "rounded-3 mb-3",
+                            style: { width: "600px" , height: "310px" },
+                            src: "/assets/imgs/services-details-2/Integration Framework/img-6.jpg",
+                            alt: "Codm",
+                          }),
                            (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
                             children: "Request & Reply/ Request & Response Pattern",
