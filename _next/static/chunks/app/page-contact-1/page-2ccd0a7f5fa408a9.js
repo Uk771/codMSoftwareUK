@@ -239,6 +239,7 @@
                             }),
                             (0, n.jsxs)("p", {
                               className: "text-500",
+                              style: { display: "grid"},
                               // children: [
                               //   "Contact the sales department about cooperation projects ",
                               //   (0, n.jsx)("br", {}),
@@ -256,7 +257,6 @@
                                   }),
                                   "Spaces - Birmingham, The Mailbox Level 1, The Mailbox, 3 Wharfside Street Spaces, Birmingham B1 1RD, UK"
                                 ]}),
-                                (0, n.jsx)("br", {}),
                                 (0, n.jsx)("br", {}),
                                 (0, n.jsx)("span", { children: [
                                   (0, n.jsx)("img", {
@@ -289,7 +289,8 @@
                             }),
                             (0, n.jsx)("h6", { children: "Global Branch" }),
                             (0, n.jsxs)("p", {
-                              className: "text-500",
+                              className: "text-500 ",
+                              style: { display: "grid"},
                               children: [
                                 "Contact us to open our branches globally. ",
                                 (0, n.jsx)("br", {}),
@@ -302,7 +303,6 @@
                                   }),
                                   "India : SaaS A.I. Pvt Ltd Ihdp Business Park Plot, Sector 127, Noida Uttar Pradesh 201304"
                                 ]}),
-                                (0, n.jsx)("br", {}),
                                 (0, n.jsx)("br", {}),
                                 (0, n.jsx)("span", { children: [
                                   (0, n.jsx)("img", {

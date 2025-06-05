@@ -1719,6 +1719,12 @@
                                   children: [
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
+                                        href: "/integrationframework.html",
+                                        children: "Integration Framework",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
                                         href: "/revenueCloud.html",
                                         children: "Salesforce CPQ to RCA",
                                       }),
@@ -2746,6 +2752,13 @@
                     (0, i.jsxs)("ul", {
                       className: "dropdown-menu",
                       children: [
+                        (0, i.jsx)("li", {
+                          children: (0, i.jsx)(d.default, {
+                            className: "dropdown-item",
+                            href: "/integrationframework.html",
+                            children: "Integration Framework",
+                          }),
+                        }),
                         (0, i.jsx)("li", {
                           children: (0, i.jsx)(d.default, {
                             className: "dropdown-item",
