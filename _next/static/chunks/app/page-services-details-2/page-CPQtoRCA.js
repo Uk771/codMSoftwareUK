@@ -794,13 +794,34 @@
                           }),
                         ],
                       }),
+                      
                       (0, i.jsxs)("div", {
                         className: "col-lg-4 sidebar",
                         children: [
                           (0, i.jsxs)(n.default, {
-                            href: "/revenueCloud.html",
+                            href: "/integrationframework.html",
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
+                            children: [
+                              "Integration Framework",
+                              (0, i.jsx)("svg", {
+                                xmlns: "http://www.w3.org/2000/svg",
+                                width: 24,
+                                height: 24,
+                                viewBox: "0 0 24 24",
+                                fill: "none",
+                                children: (0, i.jsx)("path", {
+                                  className: "fill-neutral-100",
+                                  d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                                  fill: "#f3f4f6",
+                                }),
+                              }),
+                            ],
+                          }),
+                          (0, i.jsxs)(n.default, {
+                            href: "/revenueCloud.html",
+                            className:
+                              "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center active",
                             children: [
                               "Revenue Cloud Advanced",
                               (0, i.jsx)("svg", {
@@ -886,6 +907,72 @@
                                 className: "position-absolute top-0 end-0",
                                 src: "/assets/imgs/services-details/bg-line-3.png",
                                 alt: "Codm",
+                              }),
+                            ],
+                          }),
+                          (0, i.jsxs)("div", {
+                            className: "developer-info mt-4 border-top pt-3",
+                            children: [
+                              (0, i.jsx)("p", {
+                                className: "mb-1 text-muted",
+                                children: "Written by:",
+                              }),
+                              (0, i.jsxs)("div", {
+                                className: "d-flex align-items-center",
+                                children: [
+                                  (0, i.jsx)("img", {
+                                    src: "/assets/imgs/services-details-2/Revenue-Cloud/sumit-tiwari.png",
+                                    alt: "Sumit Tiwari",
+                                    className: "rounded-circle me-3",
+                                  }),
+                                ],
+                              }),
+                              (0, i.jsxs)("p", {
+                                className: "mb-0 fw-semibold",
+                                children: [
+                                  "Sumit Tiwari – Senior Developer",
+                                  (0, i.jsx)("br", {}),
+                                  (0, i.jsx)("a", {
+                                    href: "https://https://www.linkedin.com/in/sumittiwari802/",
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    className: "text-primary text-decoration-underline",
+                                    children: "View LinkedIn Profile",
+                                  }),
+                                ],
+                              }),
+                            ],
+                          }),
+                          (0, i.jsxs)("div", {
+                            className: "blog-share my-4",
+                            children: [
+                              (0, i.jsx)("h6", { children: "Share this post:" }),
+                              (0, i.jsxs)("div", {
+                                className: "d-flex",
+                                children: [
+                                  (0, i.jsx)("a", {
+                                    className: "btn btn-outline-primary btn-sm",
+                                    href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("I thought you might like this Blog!")}`,
+                                    style: { width: "10px", padding: "0px 14px" },
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    children: "💼"
+                                  }),
+                                  (0, i.jsx)("a", {
+                                    className: "btn btn-outline-info btn-sm",
+                                    href: `https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("Check out this post!")}`,
+                                    style: { width: "10px", padding: "0px 14px " },
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    children: "🐦"
+                                  }),
+                                  (0, i.jsx)("a", {
+                                    className: "btn btn-outline-primary btn-sm",
+                                    style: { width: "10px",padding: "0px 7px" },
+                                    href: `mailto:?subject=${encodeURIComponent("Check out this post")}&body=${encodeURIComponent("I thought you might like this article: " + window.location.href)}`,
+                                    children: "✉️"
+                                  }),
+                                ],
                               }),
                             ],
                           }),

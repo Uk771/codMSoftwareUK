@@ -320,36 +320,37 @@
                               // }),
                             ],
                           }),
-                          (0, i.jsxs)("div", {
-                            className: "blog-share my-4",
-                            children: [
-                              (0, i.jsx)("h6", { children: "Share this post:" }),
-                              (0, i.jsxs)("div", {
-                                className: "d-flex align-items-center gap-3",
-                                children: [
-                                  (0, i.jsx)("a", {
-                                    className: "btn btn-outline-primary btn-sm",
-                                    href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("I thought you might like this Blog!")}`,
-                                    target: "_blank",
-                                    rel: "noopener noreferrer",
-                                    children: "💼 LinkedIn"
-                                  }),
-                                  (0, i.jsx)("a", {
-                                    className: "btn btn-outline-info btn-sm",
-                                    href: `https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("Check out this post!")}`,
-                                    target: "_blank",
-                                    rel: "noopener noreferrer",
-                                    children: "🐦 Twitter"
-                                  }),
-                                  (0, i.jsx)("a", {
-                                    className: "btn btn-outline-secondary btn-sm",
-                                    href: `mailto:?subject=${encodeURIComponent("Check out this post")}&body=${encodeURIComponent("I thought you might like this article: " + window.location.href)}`,
-                                    children: "✉️ Email"
-                                  }),
-                                ],
-                              }),
-                            ],
-                          }),
+                          // (0, i.jsxs)("div", {
+                          //   className: "blog-share my-4",
+                          //   children: [
+                          //     (0, i.jsx)("h6", { children: "Share this post:" }),
+                          //     (0, i.jsxs)("div", {
+                          //       className: "d-flex align-items-center gap-3",
+                          //       children: [
+                          //         (0, i.jsx)("a", {
+                          //           className: "btn btn-outline-primary btn-sm",
+                          //           href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("I thought you might like this Blog!")}`,
+                          //           target: "_blank",
+                          //           rel: "noopener noreferrer",
+                          //           children: "💼 LinkedIn"
+                          //         }),
+                          //         (0, i.jsx)("a", {
+                          //           className: "btn btn-outline-info btn-sm",
+                          //           href: `https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("Check out this post!")}`,
+                          //           target: "_blank",
+                          //           rel: "noopener noreferrer",
+                          //           children: "🐦 Twitter"
+                          //         }),
+                          //         (0, i.jsx)("a", {
+                          //           className: "btn btn-outline-secondary btn-sm",
+                          //           href: `mailto:?subject=${encodeURIComponent("Check out this post")}&body=${encodeURIComponent("I thought you might like this article: " + window.location.href)}`,
+                          //           children: "✉️ Email"
+                          //         }),
+                          //       ],
+                          //     }),
+                          //   ],
+                          // }),
+                          
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
                             children: "Why Integration is needed?",
@@ -923,6 +924,75 @@
                               }),
                             ],
                           }),
+                          
+                          (0, i.jsxs)("div", {
+                            className: "developer-info mt-4 border-top pt-3",
+                            children: [
+                              (0, i.jsx)("p", {
+                                className: "mb-1 text-muted",
+                                children: "Written by:",
+                              }),
+                              (0, i.jsxs)("div", {
+                                className: "d-flex align-items-center",
+                                children: [
+                                  (0, i.jsx)("img", {
+                                    src: "/assets/imgs/services-details-2/Integration Framework/yamini image.png",
+                                    alt: "Yamini Sharma",
+                                    // width: "50",
+                                    // height: "50",
+                                    className: "rounded-circle me-3",
+                                  }),
+                                ],
+                              }),
+                              (0, i.jsxs)("p", {
+                                className: "mb-0 fw-semibold",
+                                children: [
+                                  "Yamini Sharma – Senior Developer",
+                                  (0, i.jsx)("br", {}),
+                                  (0, i.jsx)("a", {
+                                    href: "https://www.linkedin.com/in/yamini-sharma-b33102221/",
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    className: "text-primary text-decoration-underline",
+                                    children: "View LinkedIn Profile",
+                                  }),
+                                ],
+                              }),
+                            ],
+                          }),
+                          (0, i.jsxs)("div", {
+                            className: "blog-share my-4",
+                            children: [
+                              (0, i.jsx)("h6", { children: "Share this post:" }),
+                              (0, i.jsxs)("div", {
+                                className: "d-flex",
+                                children: [
+                                  (0, i.jsx)("a", {
+                                    className: "btn btn-outline-primary btn-sm",
+                                    href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("I thought you might like this Blog!")}`,
+                                    style: { width: "10px", padding: "0px 14px" },
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    children: "💼"
+                                  }),
+                                  (0, i.jsx)("a", {
+                                    className: "btn btn-outline-info btn-sm",
+                                    href: `https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("Check out this post!")}`,
+                                    style: { width: "10px", padding: "0px 14px " },
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    children: "🐦"
+                                  }),
+                                  (0, i.jsx)("a", {
+                                    className: "btn btn-outline-primary btn-sm",
+                                    style: { width: "10px",padding: "0px 7px" },
+                                    href: `mailto:?subject=${encodeURIComponent("Check out this post")}&body=${encodeURIComponent("I thought you might like this article: " + window.location.href)}`,
+                                    children: "✉️"
+                                  }),
+                                ],
+                              }),
+                            ],
+                          }),
                           (0, i.jsxs)("div", {
                             className:
                               "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
@@ -953,6 +1023,10 @@
                         (0, i.jsxs)("div", {
                           className: "col-lg-8",
                           children: [
+                            (0, i.jsx)("h2", {
+                              className: "mb-4 text-center",
+                              children: "Share Your Thoughts on Our Integration Framework",
+                            }),
                             (0, i.jsx)("h4", {
                               className: "mb-5",
                               children: "Leave a comment"
@@ -1051,7 +1125,6 @@
                                       ]
                                     })
                                   }),
-
                                   // Submit Button
                                   (0, i.jsx)("div", {
                                     className: "col-12 text-end",
