@@ -928,10 +928,6 @@
                           (0, i.jsxs)("div", {
                             className: "developer-info mt-4 border-top pt-3",
                             children: [
-                              (0, i.jsx)("p", {
-                                className: "mb-1 text-muted",
-                                children: "Written by:",
-                              }),
                               (0, i.jsxs)("div", {
                                 className: "d-flex align-items-center",
                                 children: [
@@ -941,6 +937,10 @@
                                     className: "rounded-circle me-3",
                                   }),
                                 ],
+                              }),
+                              (0, i.jsx)("p", {
+                                className: "mb-1 text-muted",
+                                children: "Written by:",
                               }),
                               (0, i.jsxs)("p", {
                                 className: "mb-0 fw-semibold",
