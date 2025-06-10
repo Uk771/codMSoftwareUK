@@ -235,7 +235,7 @@
                           }),
                           (0, i.jsx)("h5", {
                             className: "pt-4 border-top mb-3 mt-5",
-                            children: "What is the new Salesforce Revenue Cloud (RCA)?",
+                            children: "What's new in Salesforce Revenue Cloud (RCA)?",
                           }),
                           (0, i.jsx)("p", {
                             className: "mb-4",
@@ -329,7 +329,7 @@
                           "But if you’re looking for more flexibility, scalability, and advanced features, Revenue Cloud Advanced (RCA) is the way to go. It’s built for the future, ready to handle complex sales processes, and integrates seamlessly with AI tools like Agentforce. Plus, it’s designed to adapt to your business as it grows.",
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
-                            children: "Why RCA Over CPQ?",
+                            children: "Why RCA over CPQ?",
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-bold text-900",
@@ -807,6 +807,25 @@
                                 }),
                               }),
                             ],
+                          }),
+                          (0, i.jsxs)("div", {
+                            className: "p-3",
+                            children: [
+                              (0, i.jsxs)("div", {
+                                className: "ratio ratio-16x9 overflow-hidden",
+                                children: [
+                                  (0, i.jsx)("iframe", {
+                                    src: "https://www.youtube.com/embed/SlhESAKF1Tk?si=W9eC_u97KZxcYUqw",
+                                    title: "YouTube video player",
+                                    frameBorder: "0",
+                                    height: "315",
+                                    width: "560",
+                                    allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+                                    allowFullScreen: true
+                                  })
+                                ]
+                              }),
+                            ]
                           }),
                           (0, i.jsxs)("div", {
                             className:
