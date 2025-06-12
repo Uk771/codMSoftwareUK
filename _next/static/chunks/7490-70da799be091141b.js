@@ -1658,6 +1658,12 @@
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
+                                        href: "/industriescloud.html",
+                                        children: "Industries Cloud",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
                                         href: "/SalesforceMarketingCloudServices.html",
                                         children: "Salesforce Marketing Cloud",
                                       }),
@@ -2543,14 +2549,14 @@
                                                   children: "Financial Service",
                                                 }),
                                               }),
-                                              // (0, i.jsx)("li", {
-                                              //   className: "py-1",
-                                              //   children: (0, i.jsx)(d.default, {
-                                              //     className: "dropdown-item position-relative z-1 p-1",
-                                              //     href: "#",
-                                              //     children: "Customer Service",
-                                              //   }),
-                                              // }),
+                                              (0, i.jsx)("li", {
+                                                className: "py-1",
+                                                children: (0, i.jsx)(d.default, {
+                                                  className: "dropdown-item position-relative z-1 p-1",
+                                                  href: "/industriescloud.html",
+                                                  children: "Industries Cloud",
+                                                }),
+                                              }),
                                               (0, i.jsx)("li", {
                                                 className: "py-1",
                                                 children: (0, i.jsx)(d.default, {
