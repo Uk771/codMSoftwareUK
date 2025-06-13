@@ -1040,6 +1040,67 @@
                 }),
               }),
               (0, i.jsx)("section", {
+                className: "section-integration-framework position-relative py-4",
+                children: (0, i.jsxs)("div", {
+                  className: "container",
+                  children: [
+                    (0, i.jsxs)("div", {
+                      className: "d-flex justify-content-between align-items-center mb-3",
+                      children: [
+                        (0, i.jsx)("h4", {
+                          className: "fw-bold text-900 mb-0",
+                          children: "Integration Framework",
+                        }),
+                        (0, i.jsx)("button", {
+                          className: "btn btn-outline-secondary btn-sm",
+                          onClick: () => {
+                            const code = document.getElementById("integration-code").innerText;
+                            navigator.clipboard.writeText(code);
+                            alert("Code copied to clipboard!");
+                          },
+                          children: (0, i.jsx)("svg", {
+                            xmlns: "http://www.w3.org/2000/svg",
+                            width: "16",
+                            height: "16",
+                            fill: "currentColor",
+                            className: "bi bi-clipboard",
+                            viewBox: "0 0 16 16",
+                            children: (0, i.jsx)("path", {
+                              d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
+                            }),
+                          }),
+                        }),
+                      ],
+                    }),
+                    (0, i.jsx)("pre", {
+                      id: "integration-code",
+                      className: "bg-light p-3 rounded border overflow-auto",
+                      style: { fontSize: "0.9rem", whiteSpace: "pre-wrap" },
+                      children: `// Integration Framework code below
+                      export const integrationFramework = {
+                        name: "Salesforce Integration",
+                        endpoints: [
+                          {
+                            type: "REST",
+                            url: "/services/apexrest/AccountService",
+                            method: "GET",
+                          },
+                          {
+                            type: "SOAP",
+                            wsdl: "/wsdl/enterprise.wsdl",
+                          },
+                        ],
+                        auth: {
+                          type: "OAuth2.0",
+                          flow: "JWT Bearer",
+                        },
+                      };`,
+                    }),
+                  ],
+                }),
+              }),
+
+              (0, i.jsx)("section", {
                 className: "section-comments position-relative section-padding",
                 children: (0, i.jsxs)("div", {
                   className: "container position-relative z-1",
@@ -1280,7 +1341,7 @@
                         (0, i.jsx)("div", {
                           className: "col-12 col-md-6 mt-3 mt-md-0",
                           children: (0, i.jsxs)("a", {
-                            href: "#",
+                            href: "/blog",
                             className: "ms-md-5 fw-bold text-primary",
                             children: [
                               "See all articles",
@@ -1305,67 +1366,130 @@
                     (0, i.jsxs)("div", {
                       className: "row",
                       children: [
-                        [1, 2, 3].map((index, iIdx) =>
-                          (0, i.jsx)("div", {
-                            className: "col-lg-4 text-start",
-                            children: (0, i.jsxs)("div", {
-                              className: `card border-0 rounded-3 mt-8 position-relative d-inline-flex`,
-                              "data-aos": "fade-zoom-in",
-                              "data-aos-delay": 100 * (iIdx + 1),
-                              children: [
-                                (0, i.jsx)("img", {
-                                  className: "rounded-3",
-                                  src: `/assets/imgs/blog-1/card-img-${index}.png`,
-                                  alt: "Codm"
-                                }),
-                                (0, i.jsxs)("div", {
-                                  className: "card-body p-0 bg-white",
-                                  children: [
-                                    (0, i.jsxs)("a", {
-                                      href: "/integrationframework.html",
-                                      className: "bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3",
-                                      children: (0, i.jsx)("span", {
-                                        className: "tag-spacing fs-7 fw-bold text-linear-2 text-uppercase",
-                                        children: index === 1 ? "Business" : index === 2 ? "Technology" : "Security"
-                                      })
-                                    }),
-                                    (0, i.jsx)("h6", {
-                                      className: "my-3",
-                                      children:
-                                        index === 1
-                                          ? "The Future of SaaS: Emerging Trends to Watch"
-                                          : index === 2
-                                            ? "Choosing the Right SaaS Solution for Your Business"
-                                            : "The Importance of Data Security in Your SaaS Projects"
-                                    }),
-                                    (0, i.jsx)("p", {
-                                      children:
-                                        index === 1
-                                          ? "As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption..."
-                                          : index === 2
-                                            ? "Selecting the right SaaS solution can be a daunting task with so many options available. This guide breaks down the key..."
-                                            : "Data security is a top priority for businesses adopting SaaS solutions. With increasing cyber threats, it's essential to understand..."
+                        (0, i.jsx)("div", {
+                          className: "col-lg-4 text-start",
+                          children: (0, i.jsxs)("div", {
+                            className: "card border-0 rounded-3 mt-8 position-relative d-inline-flex",
+                            "data-aos": "fade-zoom-in",
+                            "data-aos-delay": 100,
+                            children: [
+                              (0, i.jsx)("img", {
+                                className: "rounded-3",
+                                src: "/assets/imgs/blogs/integrationframework.png",
+                                alt: "Integration Framework"
+                              }),
+                              (0, i.jsxs)("div", {
+                                className: "card-body p-0 bg-white",
+                                children: [
+                                  (0, i.jsx)("a", {
+                                    href: "/integrationframework.html",
+                                    className: "bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3",
+                                    children: (0, i.jsx)("span", {
+                                      className: "tag-spacing fs-7 fw-bold text-linear-2 text-uppercase",
+                                      children: "Integration"
                                     })
-                                  ]
-                                }),
-                                (0, i.jsx)("a", {
-                                  href:
-                                    index === 1
-                                      ? "/integrationframework.html"
-                                      : index === 2
-                                        ? "/revenueCloud.html"
-                                        : "#",
-                                  className: "position-absolute bottom-0 start-0 end-0 top-0 z-0"
-                                }),
-                              ],
-                            }),
-                          }, `card-${index}`)
-                        ),
-                      ],
+                                  }),
+                                  (0, i.jsx)("h6", {
+                                    className: "my-3",
+                                    children: "Building a Scalable Integration Framework in Salesforce"
+                                  }),
+                                  (0, i.jsx)("p", {
+                                    children: "Learn how to design reusable, scalable integration patterns in Salesforce using REST, Apex, and external services."
+                                  })
+                                ]
+                              }),
+                              (0, i.jsx)("a", {
+                                href: "/integrationframework.html",
+                                className: "position-absolute bottom-0 start-0 end-0 top-0 z-0"
+                              }),
+                            ]
+                          })
+                        }),
+                        (0, i.jsx)("div", {
+                          className: "col-lg-4 text-start",
+                          children: (0, i.jsxs)("div", {
+                            className: "card border-0 rounded-3 mt-8 position-relative d-inline-flex",
+                            "data-aos": "fade-zoom-in",
+                            "data-aos-delay": 200,
+                            children: [
+                              (0, i.jsx)("img", {
+                                className: "rounded-3",
+                                src: "/assets/imgs/blogs/triggerframework.png",
+                                alt: "Trigger Framework"
+                              }),
+                              (0, i.jsxs)("div", {
+                                className: "card-body p-0 bg-white",
+                                children: [
+                                  (0, i.jsx)("a", {
+                                    href: "/triggerframework.html",
+                                    className: "bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3",
+                                    children: (0, i.jsx)("span", {
+                                      className: "tag-spacing fs-7 fw-bold text-linear-2 text-uppercase",
+                                      children: "Architecture"
+                                    })
+                                  }),
+                                  (0, i.jsx)("h6", {
+                                    className: "my-3",
+                                    children: "Mastering the Trigger Framework in Salesforce"
+                                  }),
+                                  (0, i.jsx)("p", {
+                                    children: "A deep dive into building a trigger framework to ensure scalability, maintainability, and best practices in Apex development."
+                                  })
+                                ]
+                              }),
+                              (0, i.jsx)("a", {
+                                href: "/triggerframework.html",
+                                className: "position-absolute bottom-0 start-0 end-0 top-0 z-0"
+                              }),
+                            ]
+                          })
+                        }),
+                        (0, i.jsx)("div", {
+                          className: "col-lg-4 text-start",
+                          children: (0, i.jsxs)("div", {
+                            className: "card border-0 rounded-3 mt-8 position-relative d-inline-flex",
+                            "data-aos": "fade-zoom-in",
+                            "data-aos-delay": 300,
+                            children: [
+                              (0, i.jsx)("img", {
+                                className: "rounded-3",
+                                src: "/assets/imgs/blogs/revenuecloud.png",
+                                alt: "CPQ to Revenue Cloud"
+                              }),
+                              (0, i.jsxs)("div", {
+                                className: "card-body p-0 bg-white",
+                                children: [
+                                  (0, i.jsx)("a", {
+                                    href: "/revenuecloud.html",
+                                    className: "bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3",
+                                    children: (0, i.jsx)("span", {
+                                      className: "tag-spacing fs-7 fw-bold text-linear-2 text-uppercase",
+                                      children: "Revenue Ops"
+                                    })
+                                  }),
+                                  (0, i.jsx)("h6", {
+                                    className: "my-3",
+                                    children: "From Salesforce CPQ to Revenue Cloud – The Journey"
+                                  }),
+                                  (0, i.jsx)("p", {
+                                    children: "Explore how Salesforce CPQ connects seamlessly with Revenue Cloud to enable full-cycle revenue operations and automation."
+                                  })
+                                ]
+                              }),
+                              (0, i.jsx)("a", {
+                                href: "/revenuecloud.html",
+                                className: "position-absolute bottom-0 start-0 end-0 top-0 z-0"
+                              }),
+                            ]
+                          })
+                        })
+                      ]
                     }),
-                  ],
-                }),
+                  ]
+                })
               }),
+
+              
             ],
           }),
         });
