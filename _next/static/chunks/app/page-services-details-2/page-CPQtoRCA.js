@@ -1150,132 +1150,193 @@
                   ]
                 })
               }),
-              (0, i.jsx)("section", {
-  className: "section-blog-1 @@padding mb-3",
-  children: (0, i.jsxs)("div", {
-    className: "container",
-    children: [
-      (0, i.jsxs)("div", {
-        className: "row align-items-end",
-        children: [
-          (0, i.jsxs)("div", {
-            className: "col-12 col-md-6 me-auto",
-            children: [
-              (0, i.jsxs)("div", {
-                className: "d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2",
-                "data-aos": "zoom-in",
-                "data-aos-delay": 100,
-                children: [
-                  (0, i.jsx)("img", { src: "/assets/imgs/features-1/dots.png", alt: "Codm" }),
-                  (0, i.jsx)("span", {
-                    className: "tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase",
-                    children: "From Blog"
-                  })
-                ]
-              }),
-              (0, i.jsx)("h3", {
-                className: "ds-3 mt-3 mb-3",
-                "data-aos": "fade-zoom-in",
-                "data-aos-delay": 100,
-                children: "Our Latest Articles"
-              }),
-              (0, i.jsx)("span", {
-                className: "fs-5 fw-medium",
-                "data-aos": "fade-zoom-in",
-                "data-aos-delay": 200,
-                children: "Explore the insights and trends shaping our industry"
-              })
-            ]
-          }),
-          (0, i.jsx)("div", {
-            className: "col-12 col-md-6 mt-3 mt-md-0",
-            children: (0, i.jsxs)("a", {
-              href: "/integrationframework.html",
-              className: "ms-md-5 fw-bold text-primary",
-              children: [
-                "See all articles",
-                (0, i.jsx)("svg", {
-                  className: "ms-2",
-                  xmlns: "http://www.w3.org/2000/svg",
-                  width: 24,
-                  height: 14,
-                  viewBox: "0 0 24 14",
-                  fill: "none",
-                  children: (0, i.jsx)("path", {
-                    className: "fill-dark",
-                    d: "M17.4177 0.417969L16.3487 1.48705L21.1059 6.24429H0V7.75621H21.1059L16.3487 12.5134L17.4177 13.5825L24 7.0002L17.4177 0.417969Z",
-                    fill: "black"
-                  })
-                })
-              ]
-            })
-          })
-        ]
-      }),
-      (0, i.jsxs)("div", {
-        className: "row",
-        children: [
-          [1, 2, 3].map((index, iIdx) =>
-            (0, i.jsx)("div", {
-              className: "col-lg-4 text-start",
-              children: (0, i.jsxs)("div", {
-                className: `card border-0 rounded-3 mt-8 position-relative d-inline-flex`,
-                "data-aos": "fade-zoom-in",
-                "data-aos-delay": 100 * (iIdx + 1),
-                children: [
-                  (0, i.jsx)("img", {
-                    className: "rounded-3",
-                    src: `/assets/imgs/blog-1/card-img-${index}.png`,
-                    alt: "Codm"
-                  }),
-                  (0, i.jsxs)("div", {
-                    className: "card-body p-0 bg-white",
-                    children: [
-                      (0, i.jsxs)("a", {
-                        href: "/integrationframework.html",
-                        className: "bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3",
-                        children: (0, i.jsx)("span", {
-                          className: "tag-spacing fs-7 fw-bold text-linear-2 text-uppercase",
-                          children: index === 1 ? "Business" : index === 2 ? "Technology" : "Security"
+(0, i.jsx)("section", {
+                className: "section-blog-1 @@padding mb-3",
+                children: (0, i.jsxs)("div", {
+                  className: "container",
+                  children: [
+                    (0, i.jsxs)("div", {
+                      className: "row align-items-end",
+                      children: [
+                        (0, i.jsxs)("div", {
+                          className: "col-12 col-md-6 me-auto",
+                          children: [
+                            (0, i.jsxs)("div", {
+                              className: "d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2",
+                              "data-aos": "zoom-in",
+                              "data-aos-delay": 100,
+                              children: [
+                                (0, i.jsx)("img", { src: "/assets/imgs/features-1/dots.png", alt: "Codm" }),
+                                (0, i.jsx)("span", {
+                                  className: "tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase",
+                                  children: "From Blog"
+                                })
+                              ]
+                            }),
+                            (0, i.jsx)("h3", {
+                              className: "ds-3 mt-3 mb-3",
+                              "data-aos": "fade-zoom-in",
+                              "data-aos-delay": 100,
+                              children: "Our Latest Articles"
+                            }),
+                            (0, i.jsx)("span", {
+                              className: "fs-5 fw-medium",
+                              "data-aos": "fade-zoom-in",
+                              "data-aos-delay": 200,
+                              children: "Explore the insights and trends shaping our industry"
+                            })
+                          ]
+                        }),
+                        (0, i.jsx)("div", {
+                          className: "col-12 col-md-6 mt-3 mt-md-0",
+                          children: (0, i.jsxs)("a", {
+                            href: "/blog",
+                            className: "ms-md-5 fw-bold text-primary",
+                            children: [
+                              "See all articles",
+                              (0, i.jsx)("svg", {
+                                className: "ms-2",
+                                xmlns: "http://www.w3.org/2000/svg",
+                                width: 24,
+                                height: 14,
+                                viewBox: "0 0 24 14",
+                                fill: "none",
+                                children: (0, i.jsx)("path", {
+                                  className: "fill-dark",
+                                  d: "M17.4177 0.417969L16.3487 1.48705L21.1059 6.24429H0V7.75621H21.1059L16.3487 12.5134L17.4177 13.5825L24 7.0002L17.4177 0.417969Z",
+                                  fill: "black"
+                                })
+                              })
+                            ]
+                          })
                         })
-                      }),
-                      (0, i.jsx)("h6", {
-                        className: "my-3",
-                        children:
-                          index === 1
-                            ? "Integration Framework: The Future of SaaS Solutions"
-                            : index === 2
-                            ? "Top 5 SaaS Trends to Watch in 2024"
-                            : "The Importance of Data Security in Your SaaS Projects"
-                      }),
-                      (0, i.jsx)("p", {
-                        children:
-                          index === 1
-                            ? "As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption..."
-                            : index === 2
-                            ? "Selecting the right SaaS solution can be a daunting task with so many options available. This guide breaks down the key..."
-                            : "Data security is a top priority for businesses adopting SaaS solutions. With increasing cyber threats, it's essential to understand..."
-                      })
-                    ]
-                  }),
-                  (0, i.jsx)("a", {
-                  href:
-                    index === 1
-                      ? "/integrationframework.html"
-                      : index === 2
-                      ? "/revenueCloud.html"
-                      : "#",
-                  className: "position-absolute bottom-0 start-0 end-0 top-0 z-0"
-                }),
-                ],
+                      ]
+                    }),
+                    (0, i.jsxs)("div", {
+                      className: "row",
+                      children: [
+                        (0, i.jsx)("div", {
+                          className: "col-lg-4 text-start",
+                          children: (0, i.jsxs)("div", {
+                            className: "card border-0 rounded-3 mt-8 position-relative d-inline-flex",
+                            "data-aos": "fade-zoom-in",
+                            "data-aos-delay": 100,
+                            children: [
+                              (0, i.jsx)("img", {
+                                className: "rounded-3",
+                                src: "/assets/imgs/blogs/integrationframework.png",
+                                alt: "Integration Framework"
+                              }),
+                              (0, i.jsxs)("div", {
+                                className: "card-body p-0 bg-white",
+                                children: [
+                                  (0, i.jsx)("a", {
+                                    href: "/integrationframework.html",
+                                    className: "bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3",
+                                    children: (0, i.jsx)("span", {
+                                      className: "tag-spacing fs-7 fw-bold text-linear-2 text-uppercase",
+                                      children: "Integration"
+                                    })
+                                  }),
+                                  (0, i.jsx)("h6", {
+                                    className: "my-3",
+                                    children: "Building a Scalable Integration Framework in Salesforce"
+                                  }),
+                                  (0, i.jsx)("p", {
+                                    children: "Learn how to design reusable, scalable integration patterns in Salesforce using REST, Apex, and external services."
+                                  })
+                                ]
+                              }),
+                              (0, i.jsx)("a", {
+                                href: "/integrationframework.html",
+                                className: "position-absolute bottom-0 start-0 end-0 top-0 z-0"
+                              }),
+                            ]
+                          })
+                        }),
+                        (0, i.jsx)("div", {
+                          className: "col-lg-4 text-start",
+                          children: (0, i.jsxs)("div", {
+                            className: "card border-0 rounded-3 mt-8 position-relative d-inline-flex",
+                            "data-aos": "fade-zoom-in",
+                            "data-aos-delay": 200,
+                            children: [
+                              (0, i.jsx)("img", {
+                                className: "rounded-3",
+                                src: "/assets/imgs/blogs/triggerframework.png",
+                                alt: "Trigger Framework"
+                              }),
+                              (0, i.jsxs)("div", {
+                                className: "card-body p-0 bg-white",
+                                children: [
+                                  (0, i.jsx)("a", {
+                                    href: "/triggerframework.html",
+                                    className: "bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3",
+                                    children: (0, i.jsx)("span", {
+                                      className: "tag-spacing fs-7 fw-bold text-linear-2 text-uppercase",
+                                      children: "Architecture"
+                                    })
+                                  }),
+                                  (0, i.jsx)("h6", {
+                                    className: "my-3",
+                                    children: "Mastering the Trigger Framework in Salesforce"
+                                  }),
+                                  (0, i.jsx)("p", {
+                                    children: "A deep dive into building a trigger framework to ensure scalability, maintainability, and best practices in Apex development."
+                                  })
+                                ]
+                              }),
+                              (0, i.jsx)("a", {
+                                href: "/triggerframework.html",
+                                className: "position-absolute bottom-0 start-0 end-0 top-0 z-0"
+                              }),
+                            ]
+                          })
+                        }),
+                        (0, i.jsx)("div", {
+                          className: "col-lg-4 text-start",
+                          children: (0, i.jsxs)("div", {
+                            className: "card border-0 rounded-3 mt-8 position-relative d-inline-flex",
+                            "data-aos": "fade-zoom-in",
+                            "data-aos-delay": 300,
+                            children: [
+                              (0, i.jsx)("img", {
+                                className: "rounded-3",
+                                src: "/assets/imgs/blogs/revenuecloud.png",
+                                alt: "CPQ to Revenue Cloud"
+                              }),
+                              (0, i.jsxs)("div", {
+                                className: "card-body p-0 bg-white",
+                                children: [
+                                  (0, i.jsx)("a", {
+                                    href: "/revenuecloud.html",
+                                    className: "bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3",
+                                    children: (0, i.jsx)("span", {
+                                      className: "tag-spacing fs-7 fw-bold text-linear-2 text-uppercase",
+                                      children: "Revenue Ops"
+                                    })
+                                  }),
+                                  (0, i.jsx)("h6", {
+                                    className: "my-3",
+                                    children: "From Salesforce CPQ to Revenue Cloud – The Journey"
+                                  }),
+                                  (0, i.jsx)("p", {
+                                    children: "Explore how Salesforce CPQ connects seamlessly with Revenue Cloud to enable full-cycle revenue operations and automation."
+                                  })
+                                ]
+                              }),
+                              (0, i.jsx)("a", {
+                                href: "/revenuecloud.html",
+                                className: "position-absolute bottom-0 start-0 end-0 top-0 z-0"
+                              }),
+                            ]
+                          })
+                        })
+                      ]
+                    }),
+                  ]
+                })
               }),
-            }, `card-${index}`)
-          ),
-        ],
-      }),
-    ],
-  }),
-}),
             ],
           }),
         });
