@@ -4,19 +4,24 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://codmsoftware.co.uk/</loc>
-  <lastmod>2025-06-23T14:46:45+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://codmsoftware.co.uk/index.html</loc>
-  <lastmod>2025-06-23T14:46:45+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+ <url><loc>https://codmsoftware.co.uk/index.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/AboutUs.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/contact.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/Services.html</loc></url>
+  <!-- Services -->
+  <url><loc>https://codmsoftware.co.uk/EducationCloud.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/FinancialServiceCloud.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/industriescloud.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/DataCloud.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/SalesforceMarketingCloudServices.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/API-Integration.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/D.I-D.M.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/SalesforceCRM.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/BuildingLLM.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/DotNetApplication.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/React-Application.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/Python.html</loc></url>
+  <url><loc>https://codmsoftware.co.uk/Technical-Support.html</loc></url>
 
 
 </urlset>
