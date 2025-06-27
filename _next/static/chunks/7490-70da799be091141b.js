@@ -1634,7 +1634,7 @@
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/D.I-D.M.html",
+                                        href: "/dataintegration.html",
                                         children: "Data Integration / Migration",
                                       }),
                                     }),
@@ -2604,7 +2604,7 @@
                                                 className: "py-1",
                                                 children: (0, i.jsx)(d.default, {
                                                   className: "dropdown-item position-relative z-1 p-1",
-                                                  href: "/D.I-D.M.html",
+                                                  href: "/dataintegration.html",
                                                   children: "Data Integration",
                                                 }),
                                               }),
@@ -2612,7 +2612,7 @@
                                                 className: "py-1",
                                                 children: (0, i.jsx)(d.default, {
                                                   className: "dropdown-item position-relative z-1 p-1",
-                                                  href: "/D.I-D.M.html",
+                                                  href: "/dataintegration.html",
                                                   children: "Data Migration",
                                                 }),
                                               }),

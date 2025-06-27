@@ -842,7 +842,7 @@
                             ],
                           }),
                           (0, i.jsxs)(n.default, {
-                            href: "/D.I-D.M.html",
+                            href: "/dataintegration.html",
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                             children: [
