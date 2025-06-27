@@ -245,19 +245,19 @@
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/Services.html",
+                                          href: "/softwareservices.html",
                                           children: "Salesforce CRM",
                                         }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/Services.html",
+                                          href: "/softwareservices.html",
                                           children: ".NET Application",
                                         }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/Services.html",
+                                          href: "/softwareservices.html",
                                           children: "React Application",
                                         }),
                                         // (0, i.jsx)(d.default, {
@@ -269,25 +269,25 @@
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/Services.html",
+                                          href: "/softwareservices.html",
                                           children: "API Integration",
                                         }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/Services.html",
+                                          href: "/softwareservices.html",
                                           children: "Data Integration",
                                         }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/Services.html",
+                                          href: "/softwareservices.html",
                                           children: "Data Migration",
                                         }),
                                         (0, i.jsx)(d.default, {
                                           className:
                                             "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/Services.html",
+                                          href: "/softwareservices.html",
                                           children: "Technical Support",
                                         }),
                                       ],
@@ -886,19 +886,19 @@
                                       (0, i.jsx)(d.default, {
                                         className:
                                           "hover-effect text-white mb-2 fw-medium fs-6",
-                                        href: "/Services.html",
+                                        href: "/softwareservices.html",
                                         children: "Salesforce CRM",
                                       }),
                                       (0, i.jsx)(d.default, {
                                         className:
                                           "hover-effect text-white mb-2 fw-medium fs-6",
-                                        href: "/Services.html",
+                                        href: "/softwareservices.html",
                                         children: ".NET Application",
                                       }),
                                       (0, i.jsx)(d.default, {
                                         className:
                                           "hover-effect text-white mb-2 fw-medium fs-6",
-                                        href: "/Services.html",
+                                        href: "/softwareservices.html",
                                         children: "API Integration",
                                       }),
                                       // (0, i.jsx)(d.default, {
@@ -910,13 +910,13 @@
                                       (0, i.jsx)(d.default, {
                                         className:
                                           "hover-effect text-white mb-2 fw-medium fs-6",
-                                        href: "/Services.html",
+                                        href: "/softwareservices.html",
                                         children: "Data Integration / Migration",
                                       }),
                                       (0, i.jsx)(d.default, {
                                         className:
                                           "hover-effect text-white mb-2 fw-medium fs-6",
-                                        href: "/Services.html",
+                                        href: "/softwareservices.html",
                                         children: "Technical Support",
                                       }),
                                     ],
@@ -1585,7 +1585,7 @@
                                   }),
                                 }),
                                 (0, i.jsx)(d.default, {
-                                  href: "/Services.html",
+                                  href: "/softwareservices.html",
                                   children: "Services",
                                 }),
                                 (0, i.jsxs)("ul", {
@@ -1664,7 +1664,7 @@
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/SalesforceMarketingCloudServices.html",
+                                        href: "/SalesforceMarketingCloudsoftwareservices.html",
                                         children: "Salesforce Marketing Cloud",
                                       }),
                                     }),
@@ -2569,7 +2569,7 @@
                                                 className: "py-1",
                                                 children: (0, i.jsx)(d.default, {
                                                   className: "dropdown-item position-relative z-1 p-1",
-                                                  href: "/SalesforceMarketingCloudServices.html",
+                                                  href: "/SalesforceMarketingCloudsoftwareservices.html",
                                                   children: "Marketing Cloud",
                                                 }),
                                               }),
