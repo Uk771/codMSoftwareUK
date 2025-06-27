@@ -57,7 +57,7 @@
                               className: "text-primary fst-italic",
                               "data-aos": "fade-zoom-in",
                               "data-aos-delay": 400,
-                              children: "Join us.",
+                              children: "",
                             }),
                           ],
                         }),
@@ -93,57 +93,77 @@
                               alt: "Codm",
                             }),
                           }),
+                          // (0, a.jsxs)("div", {
+                          //   className:
+                          //     "pe-md-3 pb-3 pb-md-0 position-relative z-1",
+                          //   "data-aos": "fade-zoom-in",
+                          //   "data-aos-delay": 300,
+                          //   children: [
+                          //     (0, a.jsx)("img", {
+                          //       className:
+                          //         "rounded-3 border border-3 border-white",
+                          //       src: "/assets/imgs/features-1/img-3.png",
+                          //       alt: "Codm",
+                          //     }),
+                          //     (0, a.jsxs)(l.default, {
+                          //       href: "#",
+                          //       onClick: () => e(!0),
+                          //       scroll: !1,
+                          //       className:
+                          //         "d-inline-flex align-items-center rounded-4 text-nowrap backdrop-filter px-3 py-2 popup-video hover-up position-absolute bottom-0 mb-4 start-50 translate-middle-x",
+                          //       children: [
+                          //         (0, a.jsx)("span", {
+                          //           className:
+                          //             "backdrop-filter me-2 icon-shape icon-md rounded-circle",
+                          //           children: (0, a.jsx)("svg", {
+                          //             xmlns: "http://www.w3.org/2000/svg",
+                          //             width: 16,
+                          //             height: 16,
+                          //             viewBox: "0 0 16 16",
+                          //             fill: "none",
+                          //             children: (0, a.jsx)("path", {
+                          //               d: "M5.0978 3.31244L12.0958 6.80342C13.077 7.29449 13.0767 8.69249 12.0954 9.18316L5.09734 12.6927C4.21074 13.136 3.16687 12.4925 3.16687 11.5027L3.16687 4.50219C3.16687 3.51217 4.2112 2.86872 5.0978 3.31244Z",
+                          //               stroke: "#111827",
+                          //               strokeWidth: "1.5",
+                          //               strokeLinecap: "round",
+                          //               strokeLinejoin: "round",
+                          //             }),
+                          //           }),
+                          //         }),
+                          //         (0, a.jsx)("span", {
+                          //           className: "fw-bold fs-7 text-900",
+                          //           children: "How It Work ?",
+                          //         }),
+                          //       ],
+                          //     }),
+                          //     (0, a.jsx)(t.Z, {
+                          //       channel: "youtube",
+                          //       isOpen: s,
+                          //       videoId: "gXFATcwrO-U",
+                          //       onClose: () => e(!1),
+                          //     }),
+                          //   ],
+                          // }),
                           (0, a.jsxs)("div", {
-                            className:
-                              "pe-md-3 pb-3 pb-md-0 position-relative z-1",
-                            "data-aos": "fade-zoom-in",
-                            "data-aos-delay": 300,
-                            children: [
-                              (0, a.jsx)("img", {
-                                className:
-                                  "rounded-3 border border-3 border-white",
-                                src: "/assets/imgs/features-1/img-3.png",
-                                alt: "Codm",
-                              }),
-                              (0, a.jsxs)(l.default, {
-                                href: "#",
-                                onClick: () => e(!0),
-                                scroll: !1,
-                                className:
-                                  "d-inline-flex align-items-center rounded-4 text-nowrap backdrop-filter px-3 py-2 popup-video hover-up position-absolute bottom-0 mb-4 start-50 translate-middle-x",
-                                children: [
-                                  (0, a.jsx)("span", {
-                                    className:
-                                      "backdrop-filter me-2 icon-shape icon-md rounded-circle",
-                                    children: (0, a.jsx)("svg", {
-                                      xmlns: "http://www.w3.org/2000/svg",
-                                      width: 16,
-                                      height: 16,
-                                      viewBox: "0 0 16 16",
-                                      fill: "none",
-                                      children: (0, a.jsx)("path", {
-                                        d: "M5.0978 3.31244L12.0958 6.80342C13.077 7.29449 13.0767 8.69249 12.0954 9.18316L5.09734 12.6927C4.21074 13.136 3.16687 12.4925 3.16687 11.5027L3.16687 4.50219C3.16687 3.51217 4.2112 2.86872 5.0978 3.31244Z",
-                                        stroke: "#111827",
-                                        strokeWidth: "1.5",
-                                        strokeLinecap: "round",
-                                        strokeLinejoin: "round",
-                                      }),
-                                    }),
-                                  }),
-                                  (0, a.jsx)("span", {
-                                    className: "fw-bold fs-7 text-900",
-                                    children: "How It Work ?",
-                                  }),
-                                ],
-                              }),
-                              (0, a.jsx)(t.Z, {
-                                channel: "youtube",
-                                isOpen: s,
-                                videoId: "gXFATcwrO-U",
-                                onClose: () => e(!1),
-                              }),
-                            ],
-                          }),
+  className: "pe-md-3 pb-3 pb-md-0 position-relative z-1",
+  "data-aos": "fade-zoom-in",
+  "data-aos-delay": 300,
+  children: [
+    (0, a.jsx)("iframe", {
+      width: "560",
+      height: "215",
+      src: "https://www.youtube.com/embed/SlhESAKF1Tk?si=JauOCasltRDH_xDP",
+      title: "YouTube video player",
+      frameBorder: "0",
+      allow:
+        "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+      referrerPolicy: "strict-origin-when-cross-origin",
+      allowFullScreen: true,
+      className: "rounded-3 border border-3 border-white w-100", // Optional styling
+    }),
+  ],
+}),
+
                           (0, a.jsx)("img", {
                             className:
                               "position-absolute top-50 start-0 translate-middle-y z-0",

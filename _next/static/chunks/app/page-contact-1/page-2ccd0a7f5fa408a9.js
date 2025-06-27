@@ -204,8 +204,6 @@
                             (0, n.jsxs)("p", {
                               className: "text-500",
                               children: [
-                                "Call us to speak to a member of our team. ",
-                                (0, n.jsx)("br", {}),
                                 "UK: (+44) 0121 818 6924 ",
                                 (0, n.jsx)("br", {}),
                                 "UK: (+44) 07436934216 ",
@@ -246,8 +244,6 @@
                               //   "(+44) 0121 818 6924",
                               // ],
                               children: [
-                                "Contact the sales department about cooperation projects.",
-                                (0, n.jsx)("br", {}),
                                 (0, n.jsx)("br", {}),
                                 (0, n.jsx)("span", { children: [
                                   (0, n.jsx)("img", {
@@ -292,8 +288,6 @@
                               className: "text-500 ",
                               style: { display: "grid"},
                               children: [
-                                "Contact us to open our branches globally. ",
-                                (0, n.jsx)("br", {}),
                                 (0, n.jsx)("br", {}),
                                 (0, n.jsx)("span", { children: [
                                   (0, n.jsx)("img", {
@@ -301,7 +295,7 @@
                                     alt: "India Flag",
                                     style: { width: "28px", height: "20px", marginRight: "6px" }
                                   }),
-                                  "India : SaaS A.I. Pvt Ltd Ihdp Business Park Plot, Sector 127, Noida Uttar Pradesh 201304"
+                                  "India : SaaS AI Ihdp Business Park Plot, Sector 127, Noida Uttar Pradesh 201304"
                                 ]}),
                                 (0, n.jsx)("br", {}),
                                 (0, n.jsx)("span", { children: [
