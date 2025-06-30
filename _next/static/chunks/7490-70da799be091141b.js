@@ -1710,6 +1710,12 @@
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
+                                        href: "/triggerframework.html",
+                                        children: "Trigger Framework",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
                                         href: "/revenueCloud.html",
                                         children: "Salesforce CPQ to RCA",
                                       }),
@@ -2742,6 +2748,13 @@
                             className: "dropdown-item",
                             href: "/integrationframework.html",
                             children: "Integration Framework",
+                          }),
+                        }),
+                        (0, i.jsx)("li", {
+                          children: (0, i.jsx)(d.default, {
+                            className: "dropdown-item",
+                            href: "/triggerframework.html",
+                            children: "Trigger Framework",
                           }),
                         }),
                         (0, i.jsx)("li", {

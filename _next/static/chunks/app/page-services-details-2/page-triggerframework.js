@@ -32,7 +32,7 @@
                     children: (0, i.jsxs)("div", {
                       className: "text-start",
                       children: [
-                        (0, i.jsx)("h3", { children: "Salesforce Revenue Cloud (Previously CPQ)" }),
+                        (0, i.jsx)("h3", { children: "Trigger Framework" }),
                         (0, i.jsxs)("div", {
                           className: "d-flex",
                           children: [
@@ -61,7 +61,7 @@
                             }),
                             (0, i.jsx)("p", {
                               className: "text-primary mb-0",
-                              children: "Revenue Cloud Advanced",
+                              children: "Trigger Framework",
                             }),
                           ],
                         }),
@@ -107,22 +107,23 @@
                         children: [
                           (0, i.jsx)("img", {
                             className: "rounded-3",
-                            src: "/assets/imgs/services-details-2/Revenue-Cloud/img-1.png",
+                            src: "/assets/imgs/services-details-2/triggerframework/img-1.png",
                             alt: "Codm",
+                            style: { width: "500px", height: "350px" },
                           }),
                           (0, i.jsx)("h4", {
                             className: "my-3",
-                            children: "Salesforce CPQ to Revenue Cloud Advanced (RCA)",
+                            children: "What is Trigger Framework?",
                           }),
                           (0, i.jsxs)("p", {
                             className: "mb-0",
                             children: [
-                              "There is a strong buzz in the Trailblazer community right now – Is CPQ dying? What’s the future of CPQ now that Salesforce has launched Revenue Cloud Advanced (RCA)? Well, Salesforce CPQ is entering the ‘End of Sale’ (EOS) phase. Now, to clarify—EOS doesn’t mean End-of-Life. It means Salesforce will no longer sell CPQ to new customers. At least, no official announcement regarding retirement has been made yet.",
+                              "A trigger framework is a structured way to organize and manage Apex triggers, especially when your project grows and involves multiple objects or complex business logic.",
                               (0, i.jsx)("span", {
                                 className: "text-900 fw-bold",
-                                children: "Revenue Cloud Advanced (RCA)",
+                                children: "Trigger Framework",
                               }),
-                              " This shift didn’t come out of the blue. The suspicion in the Salesforce ecosystem and partner community was growing strong as many had already picked up on the signs—no major updates in 4 years, and a clear focus on newer products like Revenue Cloud Advanced (RCA) – the writing was on the wall Migrating from Salesforce CPQ to Salesforce Revenue Cloud (Revenue Cloud Advanced/RCA) requires a strategic, phased approach to minimize disruption and maximize long-term value. Below is a detailed breakdown of each step, synthesized from multiple sources.",
+                              " helps you avoid common pitfalls like recursion, bulk processing issues, and code duplication. It provides a consistent approach to writing triggers that are efficient, maintainable, and scalable.",
                             ],
                           }),
                           (0, i.jsxs)("div", {
@@ -141,7 +142,7 @@
                                       (0, i.jsx)("span", {
                                         className:
                                           "ms-2 text-900 fw-medium fs-6",
-                                        children: " Document Customizations",
+                                        children: " Single Trigger Per Object ",
                                       }),
                                     ],
                                   }),
@@ -155,7 +156,7 @@
                                       (0, i.jsx)("span", {
                                         className:
                                           "ms-2 text-900 fw-medium fs-6",
-                                        children: "Evaluate Data Health",
+                                        children: "Code Reusability",
                                       }),
                                     ],
                                   }),
@@ -176,7 +177,7 @@
                                         className:
                                           "ms-2 text-900 fw-medium fs-6",
                                         children:
-                                          "Map Future Requirements to RCA Features",
+                                          "Ease of Maintenance",
                                       }),
                                     ],
                                   }),
@@ -191,7 +192,7 @@
                                         className:
                                           "ms-2 text-900 fw-medium fs-6",
                                         children:
-                                          "Reconfigure Data Models",
+                                          "Better Testing",
                                       }),
                                     ],
                                   }),
@@ -211,7 +212,7 @@
                                       (0, i.jsx)("span", {
                                         className:
                                           "ms-2 text-900 fw-medium fs-6",
-                                        children: "Redesign Pricing Logic",
+                                        children: " Avoid Recursion",
                                       }),
                                     ],
                                   }),
@@ -225,7 +226,7 @@
                                       (0, i.jsx)("span", {
                                         className:
                                           "ms-2 text-900 fw-medium fs-6",
-                                        children: "Simplify Workflows",
+                                        children: "Consistent Design Pattern",
                                       }),
                                     ],
                                   }),
@@ -235,12 +236,12 @@
                           }),
                           (0, i.jsx)("h5", {
                             className: "pt-4 border-top mb-3 mt-5",
-                            children: "What's new in Salesforce Revenue Cloud (RCA)?",
+                            children: "Benefits of a Trigger Framework ",
                           }),
                           (0, i.jsx)("p", {
                             className: "mb-4",
                             children:
-                              "Fully built on the core Salesforce platform, Revenue Cloud Advanced (RCA) is Salesforce’s new and improved way to handle everything from quoting to payments, all in one place.What makes RCA different? For starters, it’s more flexible and modern. It doesn’t use the old-school managed package setup. With API-first approach, Revenue Cloud Advanced is more scalable and can handle a wide range of revenue models—whether you’re selling one-time products, offering subscriptions, or charging based on usage. Everything runs from a single system that’s easier to integrate with other tools and is ready to work alongside AI-powered agents like Agentforce across the entire sales process.",
+                              "A trigger framework provides a structured approach to writing Apex triggers, ensuring that they are efficient, maintainable, and scalable. It helps avoid common pitfalls like recursion, bulk processing issues, and code duplication. By using a trigger framework, you can achieve better code organization, reusability, and easier testing.",
                           }),
                           (0, i.jsxs)("div", {
                             className: "row",
@@ -267,11 +268,11 @@
                                         children: [
                                           (0, i.jsx)("h6", {
                                             children:
-                                              "Built Natively on Salesforce",
+                                              "Single Trigger Per Object",
                                           }),
                                           (0, i.jsxs)("p", {
                                             children: [
-                                              "RCA is fully native to the Salesforce platform, meaning it works seamlessly within the Salesforce ecosystem. This native architecture enables it to handle high transaction volumes, large and complex quotes and orders, and extensive rule-based configurations — all with better speed and performance",
+                                              "Prevents duplicate logic and execution order issues.",
                                             ],
                                           }),
                                         ],
@@ -297,11 +298,11 @@
                                         children: [
                                           (0, i.jsx)("h6", {
                                             children:
-                                              "AI-Ready for Smarter Selling",
+                                              "Avoid Recursion",
                                           }),
                                           (0, i.jsxs)("p", {
                                             children: [
-                                              "RCA is designed with an API-first mindset, making it modular and easy to integrate with other complex systems and business processes. This flexibility ensures RCA fits into your existing tech stack without heavy lifting, allowing smooth data flow and consistent user experiences. ",
+                                              "Prevents infinite loops and ensures efficient processing.",
                                             ],
                                           }),
                                         ],
@@ -310,490 +311,744 @@
                                   }),
                                 ],
                               }),
-                              (0, i.jsx)("div", {
-                                className: "col-lg-5 mt-lg-0 mt-5",
-                                children: (0, i.jsx)("img", {
-                                  className: "rounded-3",
-                                  src: "/assets/imgs/services-details-2/Revenue-Cloud/img-3.jpg",
-                                  alt: "Codm",
-                                }),
-                              }),
+                              // (0, i.jsx)("div", {
+                              //   className: "col-lg-5 mt-lg-0 mt-5",
+                              //   children: (0, i.jsx)("img", {
+                              //     className: "rounded-3",
+                              //     src: "/assets/imgs/services-details-2/Integration Framework/img-3.jpg",
+                              //     alt: "Codm",
+                              //   }),
+                              // }),
                             ],
                           }),
-                          (0, i.jsx)("h4", {
-                            className: "mt-3 pt-3 border-top mb-3",
-                            children: "Sticking with Salesforce CPQ or Moving to Revenue Cloud Advanced?",
-                          }),
-                          "Salesforce CPQ isn’t going anywhere just yet. It’s still a solid tool, especially for small to mid-sized businesses with straightforward sales processes. If you’ve got a simple B2B sales flow and don’t often need to make changes after the deal is signed, CPQ may still do the job just fine.",
-                          (0, i.jsx)("br", {}),
-                          "But if you’re looking for more flexibility, scalability, and advanced features, Revenue Cloud Advanced (RCA) is the way to go. It’s built for the future, ready to handle complex sales processes, and integrates seamlessly with AI tools like Agentforce. Plus, it’s designed to adapt to your business as it grows.",
-                          (0, i.jsx)("h4", {
-                            className: "mt-3 pt-3 border-top mb-3",
-                            children: "Why RCA over CPQ?",
-                          }),
-                          (0, i.jsxs)("p", {
-                            className: "fw-bold text-900",
-                            children: [
-                              "End-to-End Automation: ",
-                              (0, i.jsx)("span", {
-                                className: "fw-medium text-600",
-                                children:
-                                  "RCA connects quoting, contracting, billing, and compliance in one seamless flow.",
-                              }),
-                            ],
-                          }),
-                          (0, i.jsxs)("p", {
-                            className: "fw-bold text-900",
-                            children: [
-                              "AI-Driven Efficiency: ",
-                              (0, i.jsx)("span", {
-                                className: "fw-medium text-600",
-                                children:
-                                  "Predictive analytics and automation tools accelerate deal cycles and reduce errors.",
-                              }),
-                            ],
-                          }),
-                          (0, i.jsxs)("p", {
-                            className: "fw-bold text-900",
-                            children: [
-                              "Built for Scale: ",
-                              (0, i.jsx)("span", {
-                                className: "fw-medium text-600",
-                                children:
-                                  "Supports complex pricing models, subscriptions, and usage-based billing natively.",
-                              }),
-                            ],
-                          }),
-                          (0, i.jsxs)("p", {
-                            className: "fw-bold text-900",
-                            children: [
-                              "Connected Experience: ",
-                              (0, i.jsx)("span", {
-                                className: "fw-medium text-600",
-                                children:
-                                  "Natively integrates with Salesforce CRM, Slack, and MuleSoft for real-time collaboration.",
-                              }),
-                            ],
-                          }),
-                          // (0, i.jsxs)("p", {
-                          //   className: "fw-bold text-900",
+                          // (0, i.jsxs)("div", {
+                          //   className: "blog-share my-4",
                           //   children: [
-                          //     "Business Model Innovation: ",
-                          //     (0, i.jsx)("span", {
-                          //       className: "fw-medium text-600",
-                          //       children:
-                          //         "Reinvent your business model to meet the demands of today's market. Our experts help you create a flexible, scalable model that drives",
+                          //     (0, i.jsx)("h6", { children: "Share this post:" }),
+                          //     (0, i.jsxs)("div", {
+                          //       className: "d-flex align-items-center gap-3",
+                          //       children: [
+                          //         (0, i.jsx)("a", {
+                          //           className: "btn btn-outline-primary btn-sm",
+                          //           href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("I thought you might like this Blog!")}`,
+                          //           target: "_blank",
+                          //           rel: "noopener noreferrer",
+                          //           children: "💼 LinkedIn"
+                          //         }),
+                          //         (0, i.jsx)("a", {
+                          //           className: "btn btn-outline-info btn-sm",
+                          //           href: `https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("Check out this post!")}`,
+                          //           target: "_blank",
+                          //           rel: "noopener noreferrer",
+                          //           children: "🐦 Twitter"
+                          //         }),
+                          //         (0, i.jsx)("a", {
+                          //           className: "btn btn-outline-secondary btn-sm",
+                          //           href: `mailto:?subject=${encodeURIComponent("Check out this post")}&body=${encodeURIComponent("I thought you might like this article: " + window.location.href)}`,
+                          //           children: "✉️ Email"
+                          //         }),
+                          //       ],
                           //     }),
                           //   ],
                           // }),
-                          (0, i.jsx)("h5", {
-                            className: "pt-3 border-top mb-3 mt-5",
-                            children: "Frequently Asked Questions (FAQs)",
+
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "What is abstract class? ",
                           }),
-                          (0, i.jsxs)("div", {
-                            className: "accordion",
+                          "An abstract class is a class that cannot be instantiated directly. It can contain both implemented methods and abstract methods (methods without a body).",
+                          (0, i.jsx)("br", {}),
+                          "Abstract classes are used to define a common interface for a group of related classes, allowing them to share code while still enforcing that certain methods must be implemented by subclasses.",
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "When to Use",
+                          }),
+
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
                             children: [
-                              (0, i.jsxs)("div", {
-                                className:
-                                  "px-0 card p-3 border-0 border-bottom bg-transparent rounded-0",
-                                children: [
-                                  (0, i.jsx)("div", {
-                                    className:
-                                      "px-0 card-header border-0 bg-gradient-1",
-                                    children: (0, i.jsxs)("a", {
-                                      className: "".concat(
-                                        e,
-                                        ' == 1 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center'
-                                      ),
-                                      onClick: () => a(1),
-                                      "data-bs-toggle": "collapse",
-                                      children: [
-                                        (0, i.jsx)("span", {
-                                          className:
-                                            "icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white",
-                                          children: "1",
-                                        }),
-                                        (0, i.jsx)("h6", {
-                                          className: "m-0",
-                                          children:
-                                            "Can we say CPQ is dying?",
-                                        }),
-                                        (0, i.jsx)("span", {
-                                          className: "ms-auto arrow me-2",
-                                          children: (0, i.jsx)("svg", {
-                                            xmlns: "http://www.w3.org/2000/svg",
-                                            width: 13,
-                                            height: 8,
-                                            viewBox: "0 0 13 8",
-                                            fill: "none",
-                                            children: (0, i.jsx)("path", {
-                                              className: "stroke-dark",
-                                              d: "M11.5 1L6.25 6.5L1 1",
-                                              stroke: "#111827",
-                                              strokeWidth: "1.5",
-                                              strokeLinecap: "round",
-                                              strokeLinejoin: "round",
-                                            }),
-                                          }),
-                                        }),
-                                      ],
+                              "We use it when we want to provide shared code to multiple related classes and also enforce that child classes must complete certain logic",
+                            ],
+                          }),
+                          //   (0, i.jsx)("img", {
+                          //     className: "rounded-3 mb-3",
+                          //     style: { width: "600px", height: "310px" },
+                          //     src: "/assets/imgs/services-details-2/Integration Framework/img-5.jpg",
+                          //     alt: "Codm",
+                          //   }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "What is interface?",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              " An interface in Apex is a blueprint that only contains method signatures. Classes that implement the interface must define all the methods declared in the interface. Interfaces allow for polymorphism, enabling different classes to be treated as instances of the same type.",
+                            ],
+                          }),
+                          // (0, i.jsx)("img", {
+                          //   className: "rounded-3 mb-3",
+                          //   style: { width: "600px", height: "310px" },
+                          //   src: "/assets/imgs/services-details-2/Integration Framework/img-6.jpg",
+                          //   alt: "Codm",
+                          // }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "When to Use",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "We use interfaces when we want to define a contract that multiple classes can implement, allowing for flexible and interchangeable code design.",
+                            ],
+                          }),
+                          //   (0, i.jsx)("img", {
+                          //     className: "rounded-3 mb-3",
+                          //     style: { width: "600px", height: "310px" },
+                          //     src: "/assets/imgs/services-details-2/Integration Framework/img-4.jpg",
+                          //     alt: "Codm",
+                          //   }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "#1 Trigger Handler Pattern (Basic Handler Class)",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "One trigger per object, with a single handler class that contains all the logic for that trigger. This pattern is simple and works well for small projects or when you have only a few triggers to manage.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Trigger delegates logic to a separate handler class. The handler class contains methods for each trigger event (before insert, after update, etc.).",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Advantages Very simple and easy to understand. Keeps trigger logic organized in one place.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Keeps trigger code clean and focused on a single object. Easy to maintain and extend as the project grows.",
+                            ],
+                          }),
+                          (0, i.jsx)("section", {
+                            className: "section-integration-framework position-relative py-4",
+                            children: (0, i.jsxs)("div", {
+                              className: "container",
+                              children: [
+                                (0, i.jsxs)("div", {
+                                  className: "d-flex justify-content-between align-items-center mb-3",
+                                  children: [
+                                    (0, i.jsx)("h4", {
+                                      className: "fw-bold text-900 mb-0",
+                                      children: "Trigger Framework",
                                     }),
-                                  }),
-                                  (0, i.jsx)("div", {
-                                    id: "collapseOne",
-                                    className:
-                                      1 == e
-                                        ? "accordion-collapse collapse show"
-                                        : "accordion-collapse collapse",
-                                    "data-bs-parent": ".accordion",
-                                    children: (0, i.jsx)("p", {
-                                      className:
-                                        "px-0 card-body fs-6 text-600 mb-0",
-                                      children:
-                                        "Not immediately. While Salesforce CPQ is entering its End of Sale phase, existing customers can still use and renew it with full support. However, RCA is the future direction, offering a more scalable, flexible, and native alternative.",
+                                    (0, i.jsx)("button", {
+                                      className: "btn btn-outline-secondary btn-sm",
+                                      onClick: () => {
+                                        const code = document.getElementById("integration-code").innerText;
+                                        navigator.clipboard.writeText(code);
+                                        alert("Code copied to clipboard!");
+                                      },
+                                      children: (0, i.jsx)("svg", {
+                                        xmlns: "http://www.w3.org/2000/svg",
+                                        width: "16",
+                                        height: "16",
+                                        fill: "currentColor",
+                                        className: "bi bi-clipboard",
+                                        viewBox: "0 0 16 16",
+                                        children: (0, i.jsx)("path", {
+                                          d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
+                                        }),
+                                      }),
                                     }),
-                                  }),
-                                ],
-                              }),
-                              (0, i.jsxs)("div", {
-                                className:
-                                  "px-0 card p-3 border-0 border-bottom bg-transparent rounded-0",
-                                children: [
-                                  (0, i.jsx)("div", {
-                                    className:
-                                      "px-0 card-header border-0 bg-gradient-1",
-                                    children: (0, i.jsxs)("a", {
-                                      className: "".concat(
-                                        e,
-                                        ' == 2 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center'
-                                      ),
-                                      onClick: () => a(2),
-                                      "data-bs-toggle": "collapse",
-                                      children: [
-                                        (0, i.jsx)("span", {
-                                          className:
-                                            "icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white",
-                                          children: "2",
-                                        }),
-                                        (0, i.jsx)("h6", {
-                                          className: "m-0",
-                                          children: "How is RCA different from Salesforce CPQ?",
-                                        }),
-                                        (0, i.jsx)("span", {
-                                          className: "ms-auto arrow me-2",
-                                          children: (0, i.jsx)("svg", {
-                                            xmlns: "http://www.w3.org/2000/svg",
-                                            width: 13,
-                                            height: 8,
-                                            viewBox: "0 0 13 8",
-                                            fill: "none",
-                                            children: (0, i.jsx)("path", {
-                                              className: "stroke-dark",
-                                              d: "M11.5 1L6.25 6.5L1 1",
-                                              stroke: "#111827",
-                                              strokeWidth: "1.5",
-                                              strokeLinecap: "round",
-                                              strokeLinejoin: "round",
-                                            }),
-                                          }),
-                                        }),
-                                      ],
+                                  ],
+                                }),
+                                (0, i.jsx)("pre", {
+                                  id: "Trigger-code",
+                                  className: "bg-light p-3 rounded border overflow-auto",
+                                  style: { fontSize: "0.9rem", whiteSpace: "pre-wrap" },
+                                  children: `// Trigger Framework code below
+                          trigger TriggerHandlerPattern on Contact (before insert, before Update) {
+                            TriggerHandlerPattern_Handler handler = new TriggerHandlerPattern_Handler();
+                                            
+                            if (Trigger.isBefore) {
+                                if (Trigger.isInsert) {
+                                    handler.beforeInsert(Trigger.new);
+                                }
+                                if (Trigger.isUpdate) {
+                                    handler.beforeUpdate(Trigger.new, Trigger.oldMap);
+                                }
+                            }
+                        }`,
+                                }),
+                              ],
+                            }),
+                          }),
+                          (0, i.jsx)("section", {
+                            className: "section-integration-framework position-relative py-4",
+                            children: (0, i.jsxs)("div", {
+                              className: "container",
+                              children: [
+                                (0, i.jsxs)("div", {
+                                  className: "d-flex justify-content-between align-items-center mb-3",
+                                  children: [
+                                    (0, i.jsx)("h4", {
+                                      className: "fw-bold text-900 mb-0",
+                                      children: "Trigger Handler Pattern",
                                     }),
-                                  }),
-                                  (0, i.jsx)("div", {
-                                    id: "collapseTwo",
-                                    className:
-                                      2 == e
-                                        ? "accordion-collapse collapse show"
-                                        : "accordion-collapse collapse",
-                                    "data-bs-parent": ".accordion",
-                                    children: (0, i.jsx)("p", {
-                                      className:
-                                        "px-0 card-body fs-6 text-600 mb-0",
-                                      children:
-                                        "While CPQ focused mainly on configuring products, pricing, and generating quotes, RCA goes further. It integrates with contract lifecycle management, billing systems, compliance tools, and analytics — providing a full quote-to-cash solution.",
+                                    (0, i.jsx)("button", {
+                                      className: "btn btn-outline-secondary btn-sm",
+                                      onClick: () => {
+                                        const code = document.getElementById("integration-code").innerText;
+                                        navigator.clipboard.writeText(code);
+                                        alert("Code copied to clipboard!");
+                                      },
+                                      children: (0, i.jsx)("svg", {
+                                        xmlns: "http://www.w3.org/2000/svg",
+                                        width: "16",
+                                        height: "16",
+                                        fill: "currentColor",
+                                        className: "bi bi-clipboard",
+                                        viewBox: "0 0 16 16",
+                                        children: (0, i.jsx)("path", {
+                                          d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
+                                        }),
+                                      }),
                                     }),
-                                  }),
-                                ],
-                              }),
-                              (0, i.jsxs)("div", {
-                                className:
-                                  "px-0 card p-3 border-0 border-bottom bg-transparent rounded-0",
-                                children: [
-                                  (0, i.jsx)("div", {
-                                    className:
-                                      "px-0 card-header border-0 bg-gradient-1",
-                                    children: (0, i.jsxs)("a", {
-                                      className: "".concat(
-                                        e,
-                                        ' == 3 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center'
-                                      ),
-                                      onClick: () => a(3),
-                                      "data-bs-toggle": "collapse",
-                                      children: [
-                                        (0, i.jsx)("span", {
-                                          className:
-                                            "icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white",
-                                          children: "3",
-                                        }),
-                                        (0, i.jsx)("h6", {
-                                          className: "m-0",
-                                          children: "Do I need to switch to RCA if I’m already using CPQ?",
-                                        }),
-                                        (0, i.jsx)("span", {
-                                          className: "ms-auto arrow me-2",
-                                          children: (0, i.jsx)("svg", {
-                                            xmlns: "http://www.w3.org/2000/svg",
-                                            width: 13,
-                                            height: 8,
-                                            viewBox: "0 0 13 8",
-                                            fill: "none",
-                                            children: (0, i.jsx)("path", {
-                                              className: "stroke-dark",
-                                              d: "M11.5 1L6.25 6.5L1 1",
-                                              stroke: "#111827",
-                                              strokeWidth: "1.5",
-                                              strokeLinecap: "round",
-                                              strokeLinejoin: "round",
-                                            }),
-                                          }),
-                                        }),
-                                      ],
+                                  ],
+                                }),
+                                (0, i.jsx)("pre", {
+                                  id: "Trigger-code",
+                                  className: "bg-light p-3 rounded border overflow-auto",
+                                  style: { fontSize: "0.9rem", whiteSpace: "pre-wrap" },
+                                  children: `// TriggerHandlerPattern_Handler code below
+                         public class TriggerHandlerPattern_Handler {
+    public void beforeInsert(List<Contact> newContacts) {
+        for (Contact con : newContacts) {
+            if (String.isBlank(con.Description)) {
+                con.Description = 'Default description set by handler';
+            }
+        }
+    }
+    public void beforeUpdate(List<Contact> newContacts, Map<Id, Contact> oldMap) {
+        for (Contact con : newContacts) {
+            Contact oldCon = oldMap.get(con.Id);
+            
+            if (con.Email != oldCon.Email) {
+                con.Description = 'Email changed from ' + oldCon.Email + ' to ' + con.Email;
+            }
+        }
+    }
+}`,
+                                }),
+                              ],
+                            }),
+                          }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "#2 Trigger Framework using a Virtual Class (Advanced Handler Class)",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Abstract base class defines method signatures for trigger events (before insert, after update, etc.). Concrete subclasses implement these methods with specific logic.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Child handler classes implement the logic for specific objects or trigger events. This allows for better organization and separation of concerns.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Advantages Very simple and easy to understand. Keeps trigger logic organized in one place.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Clean, reusable structure that can be extended for different objects or trigger events.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Common behavior can be shared in the base class while allowing subclasses to implement specific logic.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Easy to override only what you need without affecting other logic.",
+                            ],
+                          }),
+                          (0, i.jsx)("section", {
+                            className: "section-integration-framework position-relative py-4",
+                            children: (0, i.jsxs)("div", {
+                              className: "container",
+                              children: [
+                                (0, i.jsxs)("div", {
+                                  className: "d-flex justify-content-between align-items-center mb-3",
+                                  children: [
+                                    (0, i.jsx)("h4", {
+                                      className: "fw-bold text-900 mb-0",
+                                      children: "Trigger Framework using a Virtual Class",
                                     }),
-                                  }),
-                                  (0, i.jsx)("div", {
-                                    id: "collapseThree",
-                                    className:
-                                      3 == e
-                                        ? "accordion-collapse collapse show"
-                                        : "accordion-collapse collapse",
-                                    "data-bs-parent": ".accordion",
-                                    children: (0, i.jsx)("p", {
-                                      className:
-                                        "px-0 card-body fs-6 text-600 mb-0",
-                                      children:
-                                        "Not immediately. Salesforce will continue supporting CPQ users, but RCA is the future of the platform. Businesses should start planning for the transition to take advantage of new features and automation capabilities.",
+                                    (0, i.jsx)("button", {
+                                      className: "btn btn-outline-secondary btn-sm",
+                                      onClick: () => {
+                                        const code = document.getElementById("integration-code").innerText;
+                                        navigator.clipboard.writeText(code);
+                                        alert("Code copied to clipboard!");
+                                      },
+                                      children: (0, i.jsx)("svg", {
+                                        xmlns: "http://www.w3.org/2000/svg",
+                                        width: "16",
+                                        height: "16",
+                                        fill: "currentColor",
+                                        className: "bi bi-clipboard",
+                                        viewBox: "0 0 16 16",
+                                        children: (0, i.jsx)("path", {
+                                          d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
+                                        }),
+                                      }),
                                     }),
-                                  }),
-                                ],
-                              }),
-                              (0, i.jsxs)("div", {
-                                className:
-                                  "px-0 card p-3 border-0 border-bottom bg-transparent rounded-0",
-                                children: [
-                                  (0, i.jsx)("div", {
-                                    className:
-                                      "px-0 card-header border-0 bg-gradient-1",
-                                    children: (0, i.jsxs)("a", {
-                                      className: "".concat(
-                                        e,
-                                        ' == 4 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center'
-                                      ),
-                                      onClick: () => a(4),
-                                      "data-bs-toggle": "collapse",
-                                      children: [
-                                        (0, i.jsx)("span", {
-                                          className:
-                                            "icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white",
-                                          children: "4",
-                                        }),
-                                        (0, i.jsx)("h6", {
-                                          className: "m-0",
-                                          children: "What types of businesses can benefit from RCA?",
-                                        }),
-                                        (0, i.jsx)("span", {
-                                          className: "ms-auto arrow me-2",
-                                          children: (0, i.jsx)("svg", {
-                                            xmlns: "http://www.w3.org/2000/svg",
-                                            width: 13,
-                                            height: 8,
-                                            viewBox: "0 0 13 8",
-                                            fill: "none",
-                                            children: (0, i.jsx)("path", {
-                                              className: "stroke-dark",
-                                              d: "M11.5 1L6.25 6.5L1 1",
-                                              stroke: "#111827",
-                                              strokeWidth: "1.5",
-                                              strokeLinecap: "round",
-                                              strokeLinejoin: "round",
-                                            }),
-                                          }),
-                                        }),
-                                      ],
+                                  ],
+                                }),
+                                (0, i.jsx)("pre", {
+                                  id: "Trigger-code",
+                                  className: "bg-light p-3 rounded border overflow-auto",
+                                  style: { fontSize: "0.9rem", whiteSpace: "pre-wrap" },
+                                  children: `// Trigger Framework with virtual class code below
+    trigger FrameWorkUsingVirtualTrigger on Account (before insert, before update, before delete,
+    after insert, after update, after delete) {
+    TriggerHandlerVirtual handler = new TriggerHandlerVirtual();
+
+    if (Trigger.isBefore) {
+        if (Trigger.isInsert) handler.beforeInsert(Trigger.new);
+        if (Trigger.isUpdate) handler.beforeUpdate(Trigger.oldMap, Trigger.newMap);
+        if (Trigger.isDelete) handler.beforeDelete(Trigger.oldMap);
+    }
+
+    if (Trigger.isAfter) {
+        if (Trigger.isInsert) handler.afterInsert(Trigger.new);
+        if (Trigger.isUpdate) handler.afterUpdate(Trigger.oldMap, Trigger.newMap);
+        if (Trigger.isDelete) handler.afterDelete(Trigger.oldMap);
+    }
+}`,
+                                }),
+                              ],
+                            }),
+                          }),
+                          (0, i.jsx)("section", {
+                            className: "section-integration-framework position-relative py-4",
+                            children: (0, i.jsxs)("div", {
+                              className: "container",
+                              children: [
+                                (0, i.jsxs)("div", {
+                                  className: "d-flex justify-content-between align-items-center mb-3",
+                                  children: [
+                                    (0, i.jsx)("h4", {
+                                      className: "fw-bold text-900 mb-0",
+                                      children: "Trigger Handler Virtual Class",
                                     }),
-                                  }),
-                                  (0, i.jsx)("div", {
-                                    id: "collapsefour",
-                                    className:
-                                      4 == e
-                                        ? "accordion-collapse collapse show"
-                                        : "accordion-collapse collapse",
-                                    "data-bs-parent": ".accordion",
-                                    children: (0, i.jsx)("p", {
-                                      className:
-                                        "px-0 card-body fs-6 text-600 mb-0",
-                                      children:
-                                        "RCA is ideal for any business with complex pricing, recurring revenue models, or multi-step sales cycles — including SaaS companies, manufacturing, telecom, and professional services.",
+                                    (0, i.jsx)("button", {
+                                      className: "btn btn-outline-secondary btn-sm",
+                                      onClick: () => {
+                                        const code = document.getElementById("integration-code").innerText;
+                                        navigator.clipboard.writeText(code);
+                                        alert("Code copied to clipboard!");
+                                      },
+                                      children: (0, i.jsx)("svg", {
+                                        xmlns: "http://www.w3.org/2000/svg",
+                                        width: "16",
+                                        height: "16",
+                                        fill: "currentColor",
+                                        className: "bi bi-clipboard",
+                                        viewBox: "0 0 16 16",
+                                        children: (0, i.jsx)("path", {
+                                          d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
+                                        }),
+                                      }),
                                     }),
-                                  }),
-                                ],
-                              }),
-                              (0, i.jsxs)("div", {
-                                className:
-                                  "px-0 card p-3 border-0 border-bottom bg-transparent rounded-0",
-                                children: [
-                                  (0, i.jsx)("div", {
-                                    className:
-                                      "px-0 card-header border-0 bg-gradient-1",
-                                    children: (0, i.jsxs)("a", {
-                                      className: "".concat(
-                                        e,
-                                        ' == 5 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center'
-                                      ),
-                                      onClick: () => a(5),
-                                      "data-bs-toggle": "collapse",
-                                      children: [
-                                        (0, i.jsx)("span", {
-                                          className:
-                                            "icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white",
-                                          children: "5",
-                                        }),
-                                        (0, i.jsx)("h6", {
-                                          className: "m-0",
-                                          children: " How does RCA support compliance and revenue recognition?",
-                                        }),
-                                        (0, i.jsx)("span", {
-                                          className: "ms-auto arrow me-2",
-                                          children: (0, i.jsx)("svg", {
-                                            xmlns: "http://www.w3.org/2000/svg",
-                                            width: 13,
-                                            height: 8,
-                                            viewBox: "0 0 13 8",
-                                            fill: "none",
-                                            children: (0, i.jsx)("path", {
-                                              className: "stroke-dark",
-                                              d: "M11.5 1L6.25 6.5L1 1",
-                                              stroke: "#111827",
-                                              strokeWidth: "1.5",
-                                              strokeLinecap: "round",
-                                              strokeLinejoin: "round",
-                                            }),
-                                          }),
-                                        }),
-                                      ],
+                                  ],
+                                }),
+                                (0, i.jsx)("pre", {
+                                  id: "Trigger-code",
+                                  className: "bg-light p-3 rounded border overflow-auto",
+                                  style: { fontSize: "0.9rem", whiteSpace: "pre-wrap" },
+                                  children: `// Trigger Handler virtual class code below
+ public virtual class TriggerHandlerVirtual {
+    public virtual void beforeInsert(List<SObject> newList) {}
+    public virtual void beforeUpdate(Map<Id, SObject> oldMap, Map<Id, SObject> newMap) {}
+    public virtual void beforeDelete(Map<Id, SObject> oldMap) {}
+    public virtual void afterInsert(List<SObject> newList) {}
+    public virtual void afterUpdate(Map<Id, SObject> oldMap, Map<Id, SObject> newMap) {}
+    public virtual void afterDelete(Map<Id, SObject> oldMap) {}
+}`,
+                                }),
+                              ],
+                            }),
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              " Virtual keyword in front of the apex class or methods means they can be inherited and overridden by the child class.",
+                            ],
+                          }),
+                          (0, i.jsx)("section", {
+                            className: "section-integration-framework position-relative py-4",
+                            children: (0, i.jsxs)("div", {
+                              className: "container",
+                              children: [
+                                (0, i.jsxs)("div", {
+                                  className: "d-flex justify-content-between align-items-center mb-3",
+                                  children: [
+                                    (0, i.jsx)("h4", {
+                                      className: "fw-bold text-900 mb-0",
+                                      children: "Trigger Helper",
                                     }),
-                                  }),
-                                  (0, i.jsx)("div", {
-                                    id: "collapsefive",
-                                    className:
-                                      5 == e
-                                        ? "accordion-collapse collapse show"
-                                        : "accordion-collapse collapse",
-                                    "data-bs-parent": ".accordion",
-                                    children: (0, i.jsx)("p", {
-                                      className:
-                                        "px-0 card-body fs-6 text-600 mb-0",
-                                      children:
-                                        "RCA includes built-in tools to help you stay compliant with accounting standards like ASC 606 and IFRS 15. It automates revenue allocation, recognition schedules, and audit-ready reporting.",
-                                    }),
-                                  }),
-                                ],
-                              }),
-                              (0, i.jsxs)("div", {
-                                className:
-                                  "px-0 card p-3 border-0 border-bottom bg-transparent rounded-0",
-                                children: [
-                                  (0, i.jsx)("div", {
-                                    className:
-                                      "px-0 card-header border-0 bg-gradient-1",
-                                    children: (0, i.jsxs)("a", {
-                                      className: "".concat(
-                                        e,
-                                        ' == 5 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center'
-                                      ),
-                                      onClick: () => a(6),
-                                      "data-bs-toggle": "collapse",
-                                      children: [
-                                        (0, i.jsx)("span", {
-                                          className:
-                                            "icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white",
-                                          children: "6",
+                                    (0, i.jsx)("button", {
+                                      className: "btn btn-outline-secondary btn-sm",
+                                      onClick: () => {
+                                        const code = document.getElementById("integration-code").innerText;
+                                        navigator.clipboard.writeText(code);
+                                        alert("Code copied to clipboard!");
+                                      },
+                                      children: (0, i.jsx)("svg", {
+                                        xmlns: "http://www.w3.org/2000/svg",
+                                        width: "16",
+                                        height: "16",
+                                        fill: "currentColor",
+                                        className: "bi bi-clipboard",
+                                        viewBox: "0 0 16 16",
+                                        children: (0, i.jsx)("path", {
+                                          d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
                                         }),
-                                        (0, i.jsx)("h6", {
-                                          className: "m-0",
-                                          children: " How does RCA support compliance and revenue recognition?",
-                                        }),
-                                        (0, i.jsx)("span", {
-                                          className: "ms-auto arrow me-2",
-                                          children: (0, i.jsx)("svg", {
-                                            xmlns: "http://www.w3.org/2000/svg",
-                                            width: 13,
-                                            height: 8,
-                                            viewBox: "0 0 13 8",
-                                            fill: "none",
-                                            children: (0, i.jsx)("path", {
-                                              className: "stroke-dark",
-                                              d: "M11.5 1L6.25 6.5L1 1",
-                                              stroke: "#111827",
-                                              strokeWidth: "1.5",
-                                              strokeLinecap: "round",
-                                              strokeLinejoin: "round",
-                                            }),
-                                          }),
-                                        }),
-                                      ],
+                                      }),
                                     }),
-                                  }),
-                                  (0, i.jsx)("div", {
-                                    id: "collapsesix",
-                                    className:
-                                      6 == e
-                                        ? "accordion-collapse collapse show"
-                                        : "accordion-collapse collapse",
-                                    "data-bs-parent": ".accordion",
-                                    children: (0, i.jsx)("p", {
-                                      className:
-                                        "px-0 card-body fs-6 text-600 mb-0",
-                                      children:
-                                        "RCA includes built-in tools to help you stay compliant with accounting standards like ASC 606 and IFRS 15. It automates revenue allocation, recognition schedules, and audit-ready reporting.",
+                                  ],
+                                }),
+                                (0, i.jsx)("pre", {
+                                  id: "Trigger-code",
+                                  className: "bg-light p-3 rounded border overflow-auto",
+                                  style: { fontSize: "0.9rem", whiteSpace: "pre-wrap" },
+                                  children: `// Trigger Helper class code below
+ public class TriggerHandlerVirtualClass extends TriggerHandlerVirtual {
+    public override void beforeInsert(List<SObject> newList) {
+        List<Account> accList = (List<Account>) newList;
+        for (Account acc : accList) {
+            acc.Name = acc.Name + ' (Validated)';
+        }
+    }
+    
+    public override void beforeUpdate(Map<Id, SObject> oldMap, Map<Id, SObject> newMap) {
+        Map<Id, Account> oldAccMap = (Map<Id, Account>) oldMap;
+        Map<Id, Account> newAccMap = (Map<Id, Account>) newMap;
+        
+        for (Id accId : newAccMap.keySet()) {
+            Account oldAcc = oldAccMap.get(accId);
+            Account newAcc = newAccMap.get(accId);
+            
+            if (oldAcc.Name != newAcc.Name) {
+                System.debug('Account Name changed: ' + oldAcc.Name + ' -> ' + newAcc.Name);
+            }
+        }
+    }
+    
+    public override void afterInsert(List<SObject> newList) {
+        List<Account> accList = (List<Account>) newList;
+        System.debug('Inserted accounts: ' + accList);
+    }
+    
+    public override void afterDelete(Map<Id, SObject> oldMap) {
+        List<Account> deletedAccounts = new List<Account>();
+        for (SObject obj : oldMap.values()) {
+            deletedAccounts.add((Account) obj);
+        }
+        System.debug('Deleted accounts: ' + deletedAccounts);
+    }
+}`,
+                                }),
+                              ],
+                            }),
+                          }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "#3 Trigger Framework using an Interface",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Interface defines required methods for trigger events (before insert, after update, etc.). Classes that implement the interface must provide logic for these methods.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "All handlers must implement the interface. This allows for flexible and interchangeable code design.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Enforces structure strictly by requiring all classes to implement the interface methods.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "All methods must be implemented — avoids missing logic in subclasses.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Promotes consistency across all object triggers.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Easy to override only what you need without affecting other logic.",
+                            ],
+                          }),
+                          (0, i.jsx)("section", {
+                            className: "section-integration-framework position-relative py-4",
+                            children: (0, i.jsxs)("div", {
+                              className: "container",
+                              children: [
+                                (0, i.jsxs)("div", {
+                                  className: "d-flex justify-content-between align-items-center mb-3",
+                                  children: [
+                                    (0, i.jsx)("h4", {
+                                      className: "fw-bold text-900 mb-0",
+                                      children: "Interface FrameWork Handler Trigger ",
                                     }),
-                                  }),
-                                ],
-                              }),
+                                    (0, i.jsx)("button", {
+                                      className: "btn btn-outline-secondary btn-sm",
+                                      onClick: () => {
+                                        const code = document.getElementById("integration-code").innerText;
+                                        navigator.clipboard.writeText(code);
+                                        alert("Code copied to clipboard!");
+                                      },
+                                      children: (0, i.jsx)("svg", {
+                                        xmlns: "http://www.w3.org/2000/svg",
+                                        width: "16",
+                                        height: "16",
+                                        fill: "currentColor",
+                                        className: "bi bi-clipboard",
+                                        viewBox: "0 0 16 16",
+                                        children: (0, i.jsx)("path", {
+                                          d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
+                                        }),
+                                      }),
+                                    }),
+                                  ],
+                                }),
+                                (0, i.jsx)("pre", {
+                                  id: "Trigger-code",
+                                  className: "bg-light p-3 rounded border overflow-auto",
+                                  style: { fontSize: "0.9rem", whiteSpace: "pre-wrap" },
+                                  children: `// Interface Framework Handler Trigger code below
+ trigger InterfaceFrameworkHandlerTrigger on Contact (
+    before insert, before update, before delete,
+    after insert, after update, after delete) {
+    InterfaceTriggerFrameWork handler = new TriggerframeWorkHandler();
+
+    if (Trigger.isBefore) {
+        if (Trigger.isInsert) handler.beforeInsert(Trigger.new);
+        if (Trigger.isUpdate) handler.beforeUpdate(Trigger.oldMap, Trigger.newMap);
+        if (Trigger.isDelete) handler.beforeDelete(Trigger.oldMap);
+    }
+
+    if (Trigger.isAfter) {
+        if (Trigger.isInsert) handler.afterInsert(Trigger.new);
+        if (Trigger.isUpdate) handler.afterUpdate(Trigger.oldMap, Trigger.newMap);
+        if (Trigger.isDelete) handler.afterDelete(Trigger.oldMap);
+    }
+}`,
+                                }),
+                              ],
+                            }),
+                          }),
+                          (0, i.jsx)("section", {
+                            className: "section-integration-framework position-relative py-4",
+                            children: (0, i.jsxs)("div", {
+                              className: "container",
+                              children: [
+                                (0, i.jsxs)("div", {
+                                  className: "d-flex justify-content-between align-items-center mb-3",
+                                  children: [
+                                    (0, i.jsx)("h4", {
+                                      className: "fw-bold text-900 mb-0",
+                                      children: "Interface Trigger Framework",
+                                    }),
+                                    (0, i.jsx)("button", {
+                                      className: "btn btn-outline-secondary btn-sm",
+                                      onClick: () => {
+                                        const code = document.getElementById("integration-code").innerText;
+                                        navigator.clipboard.writeText(code);
+                                        alert("Code copied to clipboard!");
+                                      },
+                                      children: (0, i.jsx)("svg", {
+                                        xmlns: "http://www.w3.org/2000/svg",
+                                        width: "16",
+                                        height: "16",
+                                        fill: "currentColor",
+                                        className: "bi bi-clipboard",
+                                        viewBox: "0 0 16 16",
+                                        children: (0, i.jsx)("path", {
+                                          d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
+                                        }),
+                                      }),
+                                    }),
+                                  ],
+                                }),
+                                (0, i.jsx)("pre", {
+                                  id: "Trigger-code",
+                                  className: "bg-light p-3 rounded border overflow-auto",
+                                  style: { fontSize: "0.9rem", whiteSpace: "pre-wrap" },
+                                  children: `// Interface Trigger FrameWork code below
+ public Interface InterfaceTriggerFrameWork  {
+    void beforeInsert(List<SObject> newList);
+    void beforeUpdate(Map<Id, SObject> oldMap, Map<Id, SObject> newMap);
+    void beforeDelete(Map<Id, SObject> oldMap);
+    void afterInsert(List<SObject> newList);
+    void afterUpdate(Map<Id, SObject> oldMap, Map<Id, SObject> newMap);
+    void afterDelete(Map<Id, SObject> oldMap);
+    
+}`,
+                                }),
+                              ],
+                            }),
+                          }),
+                          (0, i.jsx)("section", {
+                            className: "section-integration-framework position-relative py-4",
+                            children: (0, i.jsxs)("div", {
+                              className: "container",
+                              children: [
+                                (0, i.jsxs)("div", {
+                                  className: "d-flex justify-content-between align-items-center mb-3",
+                                  children: [
+                                    (0, i.jsx)("h4", {
+                                      className: "fw-bold text-900 mb-0",
+                                      children: "Trigger frameWork Handler ",
+                                    }),
+                                    (0, i.jsx)("button", {
+                                      className: "btn btn-outline-secondary btn-sm",
+                                      onClick: () => {
+                                        const code = document.getElementById("integration-code").innerText;
+                                        navigator.clipboard.writeText(code);
+                                        alert("Code copied to clipboard!");
+                                      },
+                                      children: (0, i.jsx)("svg", {
+                                        xmlns: "http://www.w3.org/2000/svg",
+                                        width: "16",
+                                        height: "16",
+                                        fill: "currentColor",
+                                        className: "bi bi-clipboard",
+                                        viewBox: "0 0 16 16",
+                                        children: (0, i.jsx)("path", {
+                                          d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
+                                        }),
+                                      }),
+                                    }),
+                                  ],
+                                }),
+                                (0, i.jsx)("pre", {
+                                  id: "Trigger-code",
+                                  className: "bg-light p-3 rounded border overflow-auto",
+                                  style: { fontSize: "0.9rem", whiteSpace: "pre-wrap" },
+                                  children: `//Trigger  Framework Handler  code below
+ public class TriggerframeWorkHandler implements InterfaceTriggerFrameWork {
+
+    public void beforeInsert(List<SObject> newList) {
+        List<Contact> contacts = (List<Contact>) newList;
+        for (Contact c : contacts) {
+            c.LastName = c.LastName + ' - Validated';
+        }
+    }
+
+    public void beforeUpdate(Map<Id, SObject> oldMap, Map<Id, SObject> newMap) {
+        System.debug('Contact beforeUpdate logic');
+    }
+
+    public void beforeDelete(Map<Id, SObject> oldMap) {
+        System.debug('Contact beforeDelete logic');
+    }
+
+    public void afterInsert(List<SObject> newList) {
+        System.debug('Contact afterInsert logic');
+    }
+
+    public void afterUpdate(Map<Id, SObject> oldMap, Map<Id, SObject> newMap) {
+        System.debug('Contact afterUpdate logic');
+    }
+
+    public void afterDelete(Map<Id, SObject> oldMap) {
+        System.debug('Contact afterDelete logic');
+    }
+}`,
+                                }),
+                              ],
+                            }),
+                          }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "#4 Architecture Framework to Handle Triggers (Robust Framework) ",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Event dispatcher class handles trigger events and delegates to appropriate handlers based on the event type (before insert, after update, etc.).",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Centralized control of trigger context and recursion control.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Trigger Dispatcher class manages the execution flow of trigger events.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Event Handler Classes implement specific logic for each trigger event.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "Utility Classes (like recursion prevention) provide additional functionality to the framework.",
                             ],
                           }),
                         ],
                       }),
-                      
+
+
                       (0, i.jsxs)("div", {
                         className: "col-lg-4 sidebar",
                         children: [
                           (0, i.jsxs)(n.default, {
-                            href: "/integrationframework.html",
+                            href: "/revenueCloud.html",
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                             children: [
-                              "Integration Framework",
-                              (0, i.jsx)("svg", {
-                                xmlns: "http://www.w3.org/2000/svg",
-                                width: 24,
-                                height: 24,
-                                viewBox: "0 0 24 24",
-                                fill: "none",
-                                children: (0, i.jsx)("path", {
-                                  className: "fill-neutral-100",
-                                  d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
-                                  fill: "#f3f4f6",
-                                }),
-                              }),
-                            ],
-                          }),
-                          (0, i.jsxs)(n.default, {
-                            href: "/integrationframework.html",
-                            className:
-                              "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
-                            children: [
-                              "Integration Framework",
+                              "Revenue Cloud Advanced",
                               (0, i.jsx)("svg", {
                                 xmlns: "http://www.w3.org/2000/svg",
                                 width: 24,
@@ -828,6 +1083,26 @@
                               }),
                             ],
                           }),
+                          (0, i.jsxs)(n.default, {
+                            href: "/integrationframework.html",
+                            className:
+                              "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center ",
+                            children: [
+                              "Integration Framework",
+                              (0, i.jsx)("svg", {
+                                xmlns: "http://www.w3.org/2000/svg",
+                                width: 24,
+                                height: 24,
+                                viewBox: "0 0 24 24",
+                                fill: "none",
+                                children: (0, i.jsx)("path", {
+                                  className: "fill-neutral-100",
+                                  d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                                  fill: "#f3f4f6",
+                                }),
+                              }),
+                            ],
+                          }),
                           (0, i.jsxs)("div", {
                             className: "p-3",
                             children: [
@@ -835,7 +1110,7 @@
                                 className: "ratio ratio-16x9 overflow-hidden",
                                 children: [
                                   (0, i.jsx)("iframe", {
-                                    src: "https://www.youtube.com/embed/EdoR5GwY4D4?si=4Wafp-rxtG6yyG4A",
+                                    src: "https://www.youtube.com/embed/U5ZOA9EY3Kg?si=nrqD9K1hzc6I9TjU",
                                     title: "YouTube video player",
                                     frameBorder: "0",
                                     height: "315",
@@ -861,7 +1136,7 @@
                                       (0, i.jsx)("br", {}),
                                       "Ultimate Experience ",
                                       (0, i.jsx)("br", {}),
-                                      "in Revenue Cloud",
+                                      "in Trigger Framework",
                                     ],
                                   }),
                                   (0, i.jsxs)(n.default, {
@@ -889,13 +1164,14 @@
                                     ],
                                   }),
                                   (0, i.jsxs)(n.default, {
-                                    href: "#",
+                                    href: "contact.html",
                                     className:
                                       "fw-bold btn text-start bg-white fs-6 d-flex align-items-center justify-content-between text-primary hover-up w-100",
                                     children: [
                                       (0, i.jsx)("span", {
                                         style: { font: "11px" },
                                         children: "Get a free POC for your project ",
+                                        href:"contact.html",
                                       }),
                                       (0, i.jsx)("svg", {
                                         xmlns: "http://www.w3.org/2000/svg",
@@ -919,16 +1195,16 @@
                               }),
                             ],
                           }),
+
                           (0, i.jsxs)("div", {
                             className: "developer-info mt-4 border-top pt-3",
                             children: [
-                              
                               (0, i.jsxs)("div", {
                                 className: "d-flex align-items-center",
                                 children: [
                                   (0, i.jsx)("img", {
-                                    src: "/assets/imgs/services-details-2/Revenue-Cloud/sumit-tiwari.png",
-                                    alt: "Sumit Tiwari",
+                                    src: "/assets/imgs/services-details-2/triggerframework/chanderkant.png",
+                                    alt: "Chanderkant Sharma",
                                     className: "rounded-circle me-3",
                                   }),
                                 ],
@@ -940,10 +1216,10 @@
                               (0, i.jsxs)("p", {
                                 className: "mb-0 fw-semibold",
                                 children: [
-                                  "Sumit Tiwari – Senior Developer",
+                                  "Chander Kant – Senior Salesforce Developer",
                                   (0, i.jsx)("br", {}),
                                   (0, i.jsx)("a", {
-                                    href: "https://https://www.linkedin.com/in/sumittiwari802/",
+                                    href: "https://www.linkedin.com/in/chander-kant-9aa727222/",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     className: "text-primary text-decoration-underline",
@@ -966,7 +1242,6 @@
                                     style: { width: "10px", padding: "0px 14px" },
                                     target: "_blank",
                                     rel: "noopener noreferrer",
-                                    title: "Share on LinkedIn",
                                     children: (0, i.jsx)("svg", {
                                       xmlns: "http://www.w3.org/2000/svg",
                                       width: "16",
@@ -1023,7 +1298,7 @@
                               (0, i.jsx)("div", {
                                 className: "zoom-img rounded-4 fix",
                                 children: (0, i.jsx)("img", {
-                                  src: "/assets/imgs/services-details-2/Revenue-Cloud/img-2.png",
+                                  src: "/assets/imgs/services-details-2/triggerframework/img-2.png",
                                   alt: "Codm",
                                 }),
                               }),
@@ -1046,6 +1321,10 @@
                         (0, i.jsxs)("div", {
                           className: "col-lg-8",
                           children: [
+                            (0, i.jsx)("h2", {
+                              className: "mb-4 text-center",
+                              children: "Share Your Thoughts on Our Trigger Framework",
+                            }),
                             (0, i.jsx)("h4", {
                               className: "mb-5",
                               children: "Leave a comment"
@@ -1144,7 +1423,6 @@
                                       ]
                                     })
                                   }),
-
                                   // Submit Button
                                   (0, i.jsx)("div", {
                                     className: "col-12 text-end",
@@ -1170,7 +1448,7 @@
                   ]
                 })
               }),
-(0, i.jsx)("section", {
+              (0, i.jsx)("section", {
                 className: "section-blog-1 @@padding mb-3",
                 children: (0, i.jsxs)("div", {
                   className: "container",
@@ -1357,6 +1635,8 @@
                   ]
                 })
               }),
+
+
             ],
           }),
         });
