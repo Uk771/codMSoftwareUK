@@ -32,7 +32,7 @@
                     children: (0, i.jsxs)("div", {
                       className: "text-start",
                       children: [
-                        (0, i.jsx)("h3", { children: "Trigger Framework" }),
+                        (0, i.jsx)("h3", { children: "Salesforce Trigger Framework" }),
                         (0, i.jsxs)("div", {
                           className: "d-flex",
                           children: [
@@ -61,7 +61,7 @@
                             }),
                             (0, i.jsx)("p", {
                               className: "text-primary mb-0",
-                              children: "Trigger Framework",
+                              children: "Salesforce Trigger Framework",
                             }),
                           ],
                         }),
@@ -113,7 +113,7 @@
                           }),
                           (0, i.jsx)("h4", {
                             className: "my-3",
-                            children: "What is Trigger Framework?",
+                            children: "What is Salesforce Trigger Framework?",
                           }),
                           (0, i.jsxs)("p", {
                             className: "mb-0",
@@ -121,7 +121,7 @@
                               "A trigger framework is a structured way to organize and manage Apex triggers, especially when your project grows and involves multiple objects or complex business logic.",
                               (0, i.jsx)("span", {
                                 className: "text-900 fw-bold",
-                                children: "Trigger Framework",
+                                children: " Salesforce Trigger Framework",
                               }),
                               " helps you avoid common pitfalls like recursion, bulk processing issues, and code duplication. It provides a consistent approach to writing triggers that are efficient, maintainable, and scalable.",
                             ],
@@ -236,7 +236,7 @@
                           }),
                           (0, i.jsx)("h5", {
                             className: "pt-4 border-top mb-3 mt-5",
-                            children: "Benefits of a Trigger Framework ",
+                            children: "Benefits of Salesforce Trigger Framework ",
                           }),
                           (0, i.jsx)("p", {
                             className: "mb-4",
@@ -311,57 +311,18 @@
                                   }),
                                 ],
                               }),
-                              // (0, i.jsx)("div", {
-                              //   className: "col-lg-5 mt-lg-0 mt-5",
-                              //   children: (0, i.jsx)("img", {
-                              //     className: "rounded-3",
-                              //     src: "/assets/imgs/services-details-2/Integration Framework/img-3.jpg",
-                              //     alt: "Codm",
-                              //   }),
-                              // }),
                             ],
                           }),
-                          // (0, i.jsxs)("div", {
-                          //   className: "blog-share my-4",
-                          //   children: [
-                          //     (0, i.jsx)("h6", { children: "Share this post:" }),
-                          //     (0, i.jsxs)("div", {
-                          //       className: "d-flex align-items-center gap-3",
-                          //       children: [
-                          //         (0, i.jsx)("a", {
-                          //           className: "btn btn-outline-primary btn-sm",
-                          //           href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("I thought you might like this Blog!")}`,
-                          //           target: "_blank",
-                          //           rel: "noopener noreferrer",
-                          //           children: "💼 LinkedIn"
-                          //         }),
-                          //         (0, i.jsx)("a", {
-                          //           className: "btn btn-outline-info btn-sm",
-                          //           href: `https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent("Check out this post!")}`,
-                          //           target: "_blank",
-                          //           rel: "noopener noreferrer",
-                          //           children: "🐦 Twitter"
-                          //         }),
-                          //         (0, i.jsx)("a", {
-                          //           className: "btn btn-outline-secondary btn-sm",
-                          //           href: `mailto:?subject=${encodeURIComponent("Check out this post")}&body=${encodeURIComponent("I thought you might like this article: " + window.location.href)}`,
-                          //           children: "✉️ Email"
-                          //         }),
-                          //       ],
-                          //     }),
-                          //   ],
-                          // }),
-
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
-                            children: "What is abstract class? ",
+                            children: "What is an abstract class in salesforce trigger framework ? ",
                           }),
                           "An abstract class is a class that cannot be instantiated directly. It can contain both implemented methods and abstract methods (methods without a body).",
                           (0, i.jsx)("br", {}),
                           "Abstract classes are used to define a common interface for a group of related classes, allowing them to share code while still enforcing that certain methods must be implemented by subclasses.",
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
-                            children: "When to Use",
+                            children: "When to Use an Abstract Class in trigger framework?",
                           }),
 
                           (0, i.jsxs)("p", {
@@ -370,15 +331,9 @@
                               "We use it when we want to provide shared code to multiple related classes and also enforce that child classes must complete certain logic",
                             ],
                           }),
-                          //   (0, i.jsx)("img", {
-                          //     className: "rounded-3 mb-3",
-                          //     style: { width: "600px", height: "310px" },
-                          //     src: "/assets/imgs/services-details-2/Integration Framework/img-5.jpg",
-                          //     alt: "Codm",
-                          //   }),
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
-                            children: "What is interface?",
+                            children: "What is an interface?",
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
@@ -394,7 +349,7 @@
                           // }),
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
-                            children: "When to Use",
+                            children: "When to Use an Interface in trigger framework?",
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
@@ -402,15 +357,13 @@
                               "We use interfaces when we want to define a contract that multiple classes can implement, allowing for flexible and interchangeable code design.",
                             ],
                           }),
-                          //   (0, i.jsx)("img", {
-                          //     className: "rounded-3 mb-3",
-                          //     style: { width: "600px", height: "310px" },
-                          //     src: "/assets/imgs/services-details-2/Integration Framework/img-4.jpg",
-                          //     alt: "Codm",
-                          //   }),
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
-                            children: "#1 Trigger Handler Pattern (Basic Handler Class)",
+                            children: "Types of Salesforce Trigger Framework",
+                          }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "#1 Salesforce Trigger Handler Pattern (Basic Handler Class)",
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
@@ -436,61 +389,142 @@
                               "Keeps trigger code clean and focused on a single object. Easy to maintain and extend as the project grows.",
                             ],
                           }),
-                          (0, i.jsx)("section", {
-                            className: "section-integration-framework position-relative py-4",
-                            children: (0, i.jsxs)("div", {
-                              className: "container",
-                              children: [
-                                (0, i.jsxs)("div", {
-                                  className: "d-flex justify-content-between align-items-center mb-3",
-                                  children: [
-                                    (0, i.jsx)("h4", {
-                                      className: "fw-bold text-900 mb-0",
-                                      children: "Trigger Framework",
-                                    }),
-                                    (0, i.jsx)("button", {
-                                      className: "btn btn-outline-secondary btn-sm",
-                                      onClick: () => {
-                                        const code = document.getElementById("integration-code").innerText;
-                                        navigator.clipboard.writeText(code);
-                                        alert("Code copied to clipboard!");
-                                      },
-                                      children: (0, i.jsx)("svg", {
-                                        xmlns: "http://www.w3.org/2000/svg",
-                                        width: "16",
-                                        height: "16",
-                                        fill: "currentColor",
-                                        className: "bi bi-clipboard",
-                                        viewBox: "0 0 16 16",
-                                        children: (0, i.jsx)("path", {
-                                          d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
-                                        }),
-                                      }),
-                                    }),
-                                  ],
-                                }),
-                                (0, i.jsx)("pre", {
-                                  id: "Trigger-code",
-                                  className: "bg-light p-3 rounded border overflow-auto",
-                                  style: { fontSize: "0.9rem", whiteSpace: "pre-wrap" },
-                                  children: `// Trigger Framework code below
-                          trigger TriggerHandlerPattern on Contact (before insert, before Update) {
-                            TriggerHandlerPattern_Handler handler = new TriggerHandlerPattern_Handler();
+                        //   (0, i.jsx)("section", {
+                        //     className: "section-integration-framework position-relative py-4",
+                        //     children: (0, i.jsxs)("div", {
+                        //       className: "container",
+                        //       children: [
+                        //         (0, i.jsxs)("div", {
+                        //           className: "d-flex justify-content-between align-items-center mb-3",
+                        //           children: [
+                        //             (0, i.jsx)("h4", {
+                        //               className: "fw-bold text-900 mb-0",
+                        //               children: "Trigger Framework",
+                        //             }),
+                        //             (0, i.jsx)("button", {
+                        //               className: "btn btn-outline-secondary btn-sm",
+                        //               // onClick: () => {
+                        //               //   const code = document.getElementById("Trigger-code").innerText;
+                        //               //   navigator.clipboard.writeText(code);
+                        //               //   alert("Code copied to clipboard!");
+                        //               // },
+                        //               onClick: () => {
+                        //                 const codeElement = document.getElementById("Trigger-code");
+                        //                 if (codeElement) {
+                        //                   const code = codeElement.innerText;
+                        //                   navigator.clipboard.writeText(code).then(() => {
+                        //                     alert("Code copied to clipboard!");
+                        //                   }).catch(err => {
+                        //                     console.error("Failed to copy text: ", err);
+                        //                     alert("Failed to copy code.");
+                        //                   });
+                        //                 } else {
+                        //                   alert("Code element not found!");
+                        //                 }
+                        //               },
+                        //               children: (0, i.jsx)("svg", {
+                        //                 xmlns: "http://www.w3.org/2000/svg",
+                        //                 width: "16",
+                        //                 height: "16",
+                        //                 fill: "currentColor",
+                        //                 className: "bi bi-clipboard",
+                        //                 viewBox: "0 0 16 16",
+                        //                 children: (0, i.jsx)("path", {
+                        //                   d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
+                        //                 }),
+                        //               }),
+                        //             }),
+                        //           ],
+                        //         }),
+                        //         (0, i.jsx)("pre", {
+                        //           id: "Trigger-code",
+                        //           className: "bg-light p-3 rounded border overflow-auto",
+                        //           style: { fontSize: "0.9rem", whiteSpace: "pre-wrap" },
+                        //           children: `// Trigger Framework code below
+                        //   trigger TriggerHandlerPattern on Contact (before insert, before Update) {
+                        //     TriggerHandlerPattern_Handler handler = new TriggerHandlerPattern_Handler();
                                             
-                            if (Trigger.isBefore) {
-                                if (Trigger.isInsert) {
-                                    handler.beforeInsert(Trigger.new);
-                                }
-                                if (Trigger.isUpdate) {
-                                    handler.beforeUpdate(Trigger.new, Trigger.oldMap);
-                                }
-                            }
-                        }`,
-                                }),
-                              ],
-                            }),
-                          }),
-                          (0, i.jsx)("section", {
+                        //     if (Trigger.isBefore) {
+                        //         if (Trigger.isInsert) {
+                        //             handler.beforeInsert(Trigger.new);
+                        //         }
+                        //         if (Trigger.isUpdate) {
+                        //             handler.beforeUpdate(Trigger.new, Trigger.oldMap);
+                        //         }
+                        //     }
+                        // }`,
+                        //         }),
+                        //       ],
+                        //     }),
+                        //   }),
+                        (0, i.jsx)("section", {
+  className: "section-integration-framework position-relative py-4",
+  children: (0, i.jsxs)("div", {
+    className: "container",
+    children: [
+      (0, i.jsxs)("div", {
+        className: "d-flex justify-content-between align-items-center mb-3",
+        children: [
+          (0, i.jsx)("h4", {
+            className: "fw-bold text-900 mb-0",
+            children: "Trigger Framework",
+          }),
+          (0, i.jsx)("button", {
+            className: "btn btn-outline-secondary btn-sm",
+            onClick: () => {
+              const codeElement = document.getElementById("Trigger-code");
+              if (codeElement) {
+                const code = codeElement.innerText.trim();
+                navigator.clipboard.writeText(code).then(() => {
+                  alert("Code copied to clipboard!");
+                }).catch(err => {
+                  console.error("Clipboard error:", err);
+                  alert("Failed to copy code.");
+                });
+              } else {
+                alert("Code element not found!");
+              }
+            },
+            children: (0, i.jsx)("svg", {
+              xmlns: "http://www.w3.org/2000/svg",
+              width: "16",
+              height: "16",
+              fill: "currentColor",
+              className: "bi bi-clipboard",
+              viewBox: "0 0 16 16",
+              children: (0, i.jsx)("path", {
+                d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
+              }),
+            }),
+          }),
+        ],
+      }),
+      (0, i.jsx)("pre", {
+        id: "Trigger-code",
+        className: "bg-light p-3 rounded border overflow-auto",
+        style: {
+          fontSize: "0.9rem",
+          whiteSpace: "pre-wrap"
+        },
+        children: `// Trigger Framework code below
+trigger TriggerHandlerPattern on Contact (before insert, before update) {
+  TriggerHandlerPattern_Handler handler = new TriggerHandlerPattern_Handler();
+
+  if (Trigger.isBefore) {
+    if (Trigger.isInsert) {
+      handler.beforeInsert(Trigger.new);
+    }
+    if (Trigger.isUpdate) {
+      handler.beforeUpdate(Trigger.new, Trigger.oldMap);
+    }
+  }
+}`
+      }),
+    ],
+  }),
+}),
+  
+                        (0, i.jsx)("section", {
                             className: "section-integration-framework position-relative py-4",
                             children: (0, i.jsxs)("div", {
                               className: "container",
@@ -504,10 +538,24 @@
                                     }),
                                     (0, i.jsx)("button", {
                                       className: "btn btn-outline-secondary btn-sm",
+                                      // onClick: () => {
+                                      //   const code = document.getElementById("integration-code").innerText;
+                                      //   navigator.clipboard.writeText(code);
+                                      //   alert("Code copied to clipboard!");
+                                      // },
                                       onClick: () => {
-                                        const code = document.getElementById("integration-code").innerText;
-                                        navigator.clipboard.writeText(code);
-                                        alert("Code copied to clipboard!");
+                                        const codeElement = document.getElementById("Trigger-code");
+                                        if (codeElement) {
+                                          const code = codeElement.innerText.trim();
+                                          navigator.clipboard.writeText(code).then(() => {
+                                            alert("Code copied to clipboard!");
+                                          }).catch(err => {
+                                            console.error("Clipboard error:", err);
+                                            alert("Failed to copy code.");
+                                          });
+                                        } else {
+                                          alert("Code element not found!");
+                                        }
                                       },
                                       children: (0, i.jsx)("svg", {
                                         xmlns: "http://www.w3.org/2000/svg",
@@ -552,7 +600,7 @@
                           }),
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
-                            children: "#2 Trigger Framework using a Virtual Class (Advanced Handler Class)",
+                            children: "#2  Salesforce Trigger Framework using a Virtual Class (Advanced Handler Class)",
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
@@ -604,10 +652,24 @@
                                     }),
                                     (0, i.jsx)("button", {
                                       className: "btn btn-outline-secondary btn-sm",
+                                      // onClick: () => {
+                                      //   const code = document.getElementById("integration-code").innerText;
+                                      //   navigator.clipboard.writeText(code);
+                                      //   alert("Code copied to clipboard!");
+                                      // },
                                       onClick: () => {
-                                        const code = document.getElementById("integration-code").innerText;
-                                        navigator.clipboard.writeText(code);
-                                        alert("Code copied to clipboard!");
+                                        const codeElement = document.getElementById("Trigger-code");
+                                        if (codeElement) {
+                                          const code = codeElement.innerText.trim();
+                                          navigator.clipboard.writeText(code).then(() => {
+                                            alert("Code copied to clipboard!");
+                                          }).catch(err => {
+                                            console.error("Clipboard error:", err);
+                                            alert("Failed to copy code.");
+                                          });
+                                        } else {
+                                          alert("Code element not found!");
+                                        }
                                       },
                                       children: (0, i.jsx)("svg", {
                                         xmlns: "http://www.w3.org/2000/svg",
@@ -662,10 +724,24 @@
                                     }),
                                     (0, i.jsx)("button", {
                                       className: "btn btn-outline-secondary btn-sm",
+                                      // onClick: () => {
+                                      //   const code = document.getElementById("integration-code").innerText;
+                                      //   navigator.clipboard.writeText(code);
+                                      //   alert("Code copied to clipboard!");
+                                      // },
                                       onClick: () => {
-                                        const code = document.getElementById("integration-code").innerText;
-                                        navigator.clipboard.writeText(code);
-                                        alert("Code copied to clipboard!");
+                                        const codeElement = document.getElementById("Trigger-code");
+                                        if (codeElement) {
+                                          const code = codeElement.innerText.trim();
+                                          navigator.clipboard.writeText(code).then(() => {
+                                            alert("Code copied to clipboard!");
+                                          }).catch(err => {
+                                            console.error("Clipboard error:", err);
+                                            alert("Failed to copy code.");
+                                          });
+                                        } else {
+                                          alert("Code element not found!");
+                                        }
                                       },
                                       children: (0, i.jsx)("svg", {
                                         xmlns: "http://www.w3.org/2000/svg",
@@ -718,10 +794,24 @@
                                     }),
                                     (0, i.jsx)("button", {
                                       className: "btn btn-outline-secondary btn-sm",
+                                      // onClick: () => {
+                                      //   const code = document.getElementById("integration-code").innerText;
+                                      //   navigator.clipboard.writeText(code);
+                                      //   alert("Code copied to clipboard!");
+                                      // },
                                       onClick: () => {
-                                        const code = document.getElementById("integration-code").innerText;
-                                        navigator.clipboard.writeText(code);
-                                        alert("Code copied to clipboard!");
+                                        const codeElement = document.getElementById("Trigger-code");
+                                        if (codeElement) {
+                                          const code = codeElement.innerText.trim();
+                                          navigator.clipboard.writeText(code).then(() => {
+                                            alert("Code copied to clipboard!");
+                                          }).catch(err => {
+                                            console.error("Clipboard error:", err);
+                                            alert("Failed to copy code.");
+                                          });
+                                        } else {
+                                          alert("Code element not found!");
+                                        }
                                       },
                                       children: (0, i.jsx)("svg", {
                                         xmlns: "http://www.w3.org/2000/svg",
@@ -783,7 +873,7 @@
                           }),
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
-                            children: "#3 Trigger Framework using an Interface",
+                            children: "#3 Salesforce Trigger Framework using an Interface",
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
@@ -835,10 +925,24 @@
                                     }),
                                     (0, i.jsx)("button", {
                                       className: "btn btn-outline-secondary btn-sm",
+                                      // onClick: () => {
+                                      //   const code = document.getElementById("integration-code").innerText;
+                                      //   navigator.clipboard.writeText(code);
+                                      //   alert("Code copied to clipboard!");
+                                      // },
                                       onClick: () => {
-                                        const code = document.getElementById("integration-code").innerText;
-                                        navigator.clipboard.writeText(code);
-                                        alert("Code copied to clipboard!");
+                                        const codeElement = document.getElementById("Trigger-code");
+                                        if (codeElement) {
+                                          const code = codeElement.innerText.trim();
+                                          navigator.clipboard.writeText(code).then(() => {
+                                            alert("Code copied to clipboard!");
+                                          }).catch(err => {
+                                            console.error("Clipboard error:", err);
+                                            alert("Failed to copy code.");
+                                          });
+                                        } else {
+                                          alert("Code element not found!");
+                                        }
                                       },
                                       children: (0, i.jsx)("svg", {
                                         xmlns: "http://www.w3.org/2000/svg",
@@ -894,10 +998,24 @@
                                     }),
                                     (0, i.jsx)("button", {
                                       className: "btn btn-outline-secondary btn-sm",
+                                      // onClick: () => {
+                                      //   const code = document.getElementById("integration-code").innerText;
+                                      //   navigator.clipboard.writeText(code);
+                                      //   alert("Code copied to clipboard!");
+                                      // },
                                       onClick: () => {
-                                        const code = document.getElementById("integration-code").innerText;
-                                        navigator.clipboard.writeText(code);
-                                        alert("Code copied to clipboard!");
+                                        const codeElement = document.getElementById("Trigger-code");
+                                        if (codeElement) {
+                                          const code = codeElement.innerText.trim();
+                                          navigator.clipboard.writeText(code).then(() => {
+                                            alert("Code copied to clipboard!");
+                                          }).catch(err => {
+                                            console.error("Clipboard error:", err);
+                                            alert("Failed to copy code.");
+                                          });
+                                        } else {
+                                          alert("Code element not found!");
+                                        }
                                       },
                                       children: (0, i.jsx)("svg", {
                                         xmlns: "http://www.w3.org/2000/svg",
@@ -945,10 +1063,24 @@
                                     }),
                                     (0, i.jsx)("button", {
                                       className: "btn btn-outline-secondary btn-sm",
+                                      // onClick: () => {
+                                      //   const code = document.getElementById("integration-code").innerText;
+                                      //   navigator.clipboard.writeText(code);
+                                      //   alert("Code copied to clipboard!");
+                                      // },
                                       onClick: () => {
-                                        const code = document.getElementById("integration-code").innerText;
-                                        navigator.clipboard.writeText(code);
-                                        alert("Code copied to clipboard!");
+                                        const codeElement = document.getElementById("Trigger-code");
+                                        if (codeElement) {
+                                          const code = codeElement.innerText.trim();
+                                          navigator.clipboard.writeText(code).then(() => {
+                                            alert("Code copied to clipboard!");
+                                          }).catch(err => {
+                                            console.error("Clipboard error:", err);
+                                            alert("Failed to copy code.");
+                                          });
+                                        } else {
+                                          alert("Code element not found!");
+                                        }
                                       },
                                       children: (0, i.jsx)("svg", {
                                         xmlns: "http://www.w3.org/2000/svg",
@@ -1004,7 +1136,7 @@
                           }),
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
-                            children: "#4 Architecture Framework to Handle Triggers (Robust Framework) ",
+                            children: "#4 Salesforce Architecture Framework to Handle Triggers (Robust Framework) ",
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
@@ -1068,7 +1200,7 @@
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center active",
                             children: [
-                              "Trigger Framework",
+                              "Salesforce Trigger Framework",
                               (0, i.jsx)("svg", {
                                 xmlns: "http://www.w3.org/2000/svg",
                                 width: 24,
@@ -1136,7 +1268,7 @@
                                       (0, i.jsx)("br", {}),
                                       "Ultimate Experience ",
                                       (0, i.jsx)("br", {}),
-                                      "in Trigger Framework",
+                                      "in Salesforce Trigger Framework",
                                     ],
                                   }),
                                   (0, i.jsxs)(n.default, {
