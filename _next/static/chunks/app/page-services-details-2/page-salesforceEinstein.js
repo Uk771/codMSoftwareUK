@@ -340,27 +340,27 @@
                             className: "fw-medium text-600",
                             children: [
                               (0, i.jsxs)("strong", {
-                                children: ["Einstein GPT for Support & Sales:"],
+                                children: ["Predictive Sales Forecasting​:"],
                               }),
-                              " Generate case summaries, suggest responses, automate email workflows, and enable voice‑activated support.",
+                              " Einstein analyses historical sales data and market trends to predict future demand – for instance , flagging an upcoming surge in  drug demand during flu season, allowing production to ramp up in time.",
                             ],
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
                             children: [
                               (0, i.jsxs)("strong", {
-                                children: ["Predictive Lead Scoring:"],
+                                children: ["Optimized Field Force Execution"],
                               }),
-                              " Use intelligent decision logic for complex quote and order approvals. Automatically prioritize leads based on likelihood to convert using Einstein Prediction Builder.",
+                              "  Instead of manually planning visits , representatives get smart suggestions based on past engagement – for instance , it might suggest a doctor who's shown interest but hasn’t prescribed yet.",
                             ],
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
                             children: [
                               (0, i.jsxs)("strong", {
-                                children: ["Automated Approval Chains:"],
+                                children: ["Real-Time Sales Intelligence Dashboards​:"],
                               }),
-                              " Use intelligent decision logic for complex quote and order approvals.",
+                              " Sales leaders can access live dashboards showing performance , product trends and representative activity-for instance , if one region sees a sudden drop in orders , they get notified instantly and can act much before the revenue gets impacted.",
                             ],
                           }),
                           (0, i.jsxs)("p", {
@@ -370,6 +370,68 @@
                                 children: ["Dynamic Content Generation:"],
                               }),
                               " Generate marketing emails, chatbot responses, or sales summaries with AI‑powered prompts.",
+                            ],
+                          }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "AI-Powered Marketing",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Personalized Campaign Messaging:"],
+                              }),
+                              "  Einstein helps pharma marketers connect more meaningfully by personalizing outreach , for instance – a cardiologist instead of getting generic blasts gets follow up emails focused on hypertension trials  making it more relevant .",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Einstein Engagement Scoring​:"],
+                              }),
+                              "   This helps in identifying which HCPs are most likely to engage with your campaigns ,for instance –if Dr Singh frequently opens emails and check on product updates einstein will flag.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Intelligent Channel Optimization:"],
+                              }),
+                              " Intelligent Channel Optimization uses AI to determine the best channels for each HCP, for instance – if Dr William prefers WhatsApp over email, Einstein will suggest sending updates via WhatsApp.",
+                            ],
+                          }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "AI-Powered Healthcare ",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Adverse Event Intelligence:"],
+                              }),
+                              "  This will spot and act on safety concerns early for instance- if several patients report dizziness, Einstein flag the pattern immediately allowing team to investigate before it escalates.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Clinical Trial Optimization​:"],
+                              }),
+                              "   Einstein identifies the most promising trial sites and predict participant engagement before problem arise.​",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Patient Adherence Prediction​:"],
+                              }),
+                              " This assist patients to stick to treatment plans for instance- einstein detects that a patient with hypertension is likely to stop refilling after 60 days , it triggers personalized SMS reminder.​",
                             ],
                           }),
                           (0, i.jsx)("h4", {
