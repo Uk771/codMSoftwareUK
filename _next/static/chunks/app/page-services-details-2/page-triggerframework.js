@@ -389,124 +389,124 @@
                               "Keeps trigger code clean and focused on a single object. Easy to maintain and extend as the project grows.",
                             ],
                           }),
-                        //   (0, i.jsx)("section", {
-                        //     className: "section-integration-framework position-relative py-4",
-                        //     children: (0, i.jsxs)("div", {
-                        //       className: "container",
-                        //       children: [
-                        //         (0, i.jsxs)("div", {
-                        //           className: "d-flex justify-content-between align-items-center mb-3",
-                        //           children: [
-                        //             (0, i.jsx)("h4", {
-                        //               className: "fw-bold text-900 mb-0",
-                        //               children: "Trigger Framework",
-                        //             }),
-                        //             (0, i.jsx)("button", {
-                        //               className: "btn btn-outline-secondary btn-sm",
-                        //               // onClick: () => {
-                        //               //   const code = document.getElementById("Trigger-code").innerText;
-                        //               //   navigator.clipboard.writeText(code);
-                        //               //   alert("Code copied to clipboard!");
-                        //               // },
-                        //               onClick: () => {
-                        //                 const codeElement = document.getElementById("Trigger-code");
-                        //                 if (codeElement) {
-                        //                   const code = codeElement.innerText;
-                        //                   navigator.clipboard.writeText(code).then(() => {
-                        //                     alert("Code copied to clipboard!");
-                        //                   }).catch(err => {
-                        //                     console.error("Failed to copy text: ", err);
-                        //                     alert("Failed to copy code.");
-                        //                   });
-                        //                 } else {
-                        //                   alert("Code element not found!");
-                        //                 }
-                        //               },
-                        //               children: (0, i.jsx)("svg", {
-                        //                 xmlns: "http://www.w3.org/2000/svg",
-                        //                 width: "16",
-                        //                 height: "16",
-                        //                 fill: "currentColor",
-                        //                 className: "bi bi-clipboard",
-                        //                 viewBox: "0 0 16 16",
-                        //                 children: (0, i.jsx)("path", {
-                        //                   d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
-                        //                 }),
-                        //               }),
-                        //             }),
-                        //           ],
-                        //         }),
-                        //         (0, i.jsx)("pre", {
-                        //           id: "Trigger-code",
-                        //           className: "bg-light p-3 rounded border overflow-auto",
-                        //           style: { fontSize: "0.9rem", whiteSpace: "pre-wrap" },
-                        //           children: `// Trigger Framework code below
-                        //   trigger TriggerHandlerPattern on Contact (before insert, before Update) {
-                        //     TriggerHandlerPattern_Handler handler = new TriggerHandlerPattern_Handler();
-                                            
-                        //     if (Trigger.isBefore) {
-                        //         if (Trigger.isInsert) {
-                        //             handler.beforeInsert(Trigger.new);
-                        //         }
-                        //         if (Trigger.isUpdate) {
-                        //             handler.beforeUpdate(Trigger.new, Trigger.oldMap);
-                        //         }
-                        //     }
-                        // }`,
-                        //         }),
-                        //       ],
-                        //     }),
-                        //   }),
-                        (0, i.jsx)("section", {
-  className: "section-integration-framework position-relative py-4",
-  children: (0, i.jsxs)("div", {
-    className: "container",
-    children: [
-      (0, i.jsxs)("div", {
-        className: "d-flex justify-content-between align-items-center mb-3",
-        children: [
-          (0, i.jsx)("h4", {
-            className: "fw-bold text-900 mb-0",
-            children: "Trigger Framework",
-          }),
-          (0, i.jsx)("button", {
-            className: "btn btn-outline-secondary btn-sm",
-            onClick: () => {
-              const codeElement = document.getElementById("Trigger-code");
-              if (codeElement) {
-                const code = codeElement.innerText.trim();
-                navigator.clipboard.writeText(code).then(() => {
-                  alert("Code copied to clipboard!");
-                }).catch(err => {
-                  console.error("Clipboard error:", err);
-                  alert("Failed to copy code.");
-                });
-              } else {
-                alert("Code element not found!");
-              }
-            },
-            children: (0, i.jsx)("svg", {
-              xmlns: "http://www.w3.org/2000/svg",
-              width: "16",
-              height: "16",
-              fill: "currentColor",
-              className: "bi bi-clipboard",
-              viewBox: "0 0 16 16",
-              children: (0, i.jsx)("path", {
-                d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
-              }),
-            }),
-          }),
-        ],
-      }),
-      (0, i.jsx)("pre", {
-        id: "Trigger-code",
-        className: "bg-light p-3 rounded border overflow-auto",
-        style: {
-          fontSize: "0.9rem",
-          whiteSpace: "pre-wrap"
-        },
-        children: `// Trigger Framework code below
+                          //   (0, i.jsx)("section", {
+                          //     className: "section-integration-framework position-relative py-4",
+                          //     children: (0, i.jsxs)("div", {
+                          //       className: "container",
+                          //       children: [
+                          //         (0, i.jsxs)("div", {
+                          //           className: "d-flex justify-content-between align-items-center mb-3",
+                          //           children: [
+                          //             (0, i.jsx)("h4", {
+                          //               className: "fw-bold text-900 mb-0",
+                          //               children: "Trigger Framework",
+                          //             }),
+                          //             (0, i.jsx)("button", {
+                          //               className: "btn btn-outline-secondary btn-sm",
+                          //               // onClick: () => {
+                          //               //   const code = document.getElementById("Trigger-code").innerText;
+                          //               //   navigator.clipboard.writeText(code);
+                          //               //   alert("Code copied to clipboard!");
+                          //               // },
+                          //               onClick: () => {
+                          //                 const codeElement = document.getElementById("Trigger-code");
+                          //                 if (codeElement) {
+                          //                   const code = codeElement.innerText;
+                          //                   navigator.clipboard.writeText(code).then(() => {
+                          //                     alert("Code copied to clipboard!");
+                          //                   }).catch(err => {
+                          //                     console.error("Failed to copy text: ", err);
+                          //                     alert("Failed to copy code.");
+                          //                   });
+                          //                 } else {
+                          //                   alert("Code element not found!");
+                          //                 }
+                          //               },
+                          //               children: (0, i.jsx)("svg", {
+                          //                 xmlns: "http://www.w3.org/2000/svg",
+                          //                 width: "16",
+                          //                 height: "16",
+                          //                 fill: "currentColor",
+                          //                 className: "bi bi-clipboard",
+                          //                 viewBox: "0 0 16 16",
+                          //                 children: (0, i.jsx)("path", {
+                          //                   d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
+                          //                 }),
+                          //               }),
+                          //             }),
+                          //           ],
+                          //         }),
+                          //         (0, i.jsx)("pre", {
+                          //           id: "Trigger-code",
+                          //           className: "bg-light p-3 rounded border overflow-auto",
+                          //           style: { fontSize: "0.9rem", whiteSpace: "pre-wrap" },
+                          //           children: `// Trigger Framework code below
+                          //   trigger TriggerHandlerPattern on Contact (before insert, before Update) {
+                          //     TriggerHandlerPattern_Handler handler = new TriggerHandlerPattern_Handler();
+
+                          //     if (Trigger.isBefore) {
+                          //         if (Trigger.isInsert) {
+                          //             handler.beforeInsert(Trigger.new);
+                          //         }
+                          //         if (Trigger.isUpdate) {
+                          //             handler.beforeUpdate(Trigger.new, Trigger.oldMap);
+                          //         }
+                          //     }
+                          // }`,
+                          //         }),
+                          //       ],
+                          //     }),
+                          //   }),
+                          (0, i.jsx)("section", {
+                            className: "section-integration-framework position-relative py-4",
+                            children: (0, i.jsxs)("div", {
+                              className: "container",
+                              children: [
+                                (0, i.jsxs)("div", {
+                                  className: "d-flex justify-content-between align-items-center mb-3",
+                                  children: [
+                                    (0, i.jsx)("h4", {
+                                      className: "fw-bold text-900 mb-0",
+                                      children: "Trigger Framework",
+                                    }),
+                                    (0, i.jsx)("button", {
+                                      className: "btn btn-outline-secondary btn-sm",
+                                      onClick: () => {
+                                        const codeElement = document.getElementById("Trigger-code");
+                                        if (codeElement) {
+                                          const code = codeElement.innerText.trim();
+                                          navigator.clipboard.writeText(code).then(() => {
+                                            alert("Code copied to clipboard!");
+                                          }).catch(err => {
+                                            console.error("Clipboard error:", err);
+                                            alert("Failed to copy code.");
+                                          });
+                                        } else {
+                                          alert("Code element not found!");
+                                        }
+                                      },
+                                      children: (0, i.jsx)("svg", {
+                                        xmlns: "http://www.w3.org/2000/svg",
+                                        width: "16",
+                                        height: "16",
+                                        fill: "currentColor",
+                                        className: "bi bi-clipboard",
+                                        viewBox: "0 0 16 16",
+                                        children: (0, i.jsx)("path", {
+                                          d: "M10 1.5v1a.5.5 0 0 0 .5.5H12a.5.5 0 0 1 .5.5V14a.5.5 0 0 1-.5.5H4A.5.5 0 0 1 3.5 14V4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 0 .5-.5v-1A.5.5 0 0 1 6 1h4a.5.5 0 0 1 .5.5zm-1 .5H7v1h2V2z"
+                                        }),
+                                      }),
+                                    }),
+                                  ],
+                                }),
+                                (0, i.jsx)("pre", {
+                                  id: "Trigger-code",
+                                  className: "bg-light p-3 rounded border overflow-auto",
+                                  style: {
+                                    fontSize: "0.9rem",
+                                    whiteSpace: "pre-wrap"
+                                  },
+                                  children: `// Trigger Framework code below
 trigger TriggerHandlerPattern on Contact (before insert, before update) {
   TriggerHandlerPattern_Handler handler = new TriggerHandlerPattern_Handler();
 
@@ -519,12 +519,12 @@ trigger TriggerHandlerPattern on Contact (before insert, before update) {
     }
   }
 }`
-      }),
-    ],
-  }),
-}),
-  
-                        (0, i.jsx)("section", {
+                                }),
+                              ],
+                            }),
+                          }),
+
+                          (0, i.jsx)("section", {
                             className: "section-integration-framework position-relative py-4",
                             children: (0, i.jsxs)("div", {
                               className: "container",
@@ -1216,6 +1216,26 @@ trigger TriggerHandlerPattern on Contact (before insert, before update) {
                             ],
                           }),
                           (0, i.jsxs)(n.default, {
+                            href: "/einstein.html",
+                            className:
+                              "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center ",
+                            children: [
+                              "Salesforce Einstein AI + Synergy",
+                              (0, i.jsx)("svg", {
+                                xmlns: "http://www.w3.org/2000/svg",
+                                width: 24,
+                                height: 24,
+                                viewBox: "0 0 24 24",
+                                fill: "none",
+                                children: (0, i.jsx)("path", {
+                                  className: "fill-neutral-100",
+                                  d: "M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z",
+                                  fill: "#f3f4f6",
+                                }),
+                              }),
+                            ],
+                          }),
+                          (0, i.jsxs)(n.default, {
                             href: "/integrationframework.html",
                             className:
                               "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center ",
@@ -1303,7 +1323,7 @@ trigger TriggerHandlerPattern on Contact (before insert, before update) {
                                       (0, i.jsx)("span", {
                                         style: { font: "11px" },
                                         children: "Get a free POC for your project ",
-                                        href:"contact.html",
+                                        href: "contact.html",
                                       }),
                                       (0, i.jsx)("svg", {
                                         xmlns: "http://www.w3.org/2000/svg",

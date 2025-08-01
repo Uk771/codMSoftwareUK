@@ -1716,10 +1716,17 @@
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
+                                        href: "/einstein.html",
+                                        children: "Salesforce AI + Synergy",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
                                         href: "/revenueCloud.html",
                                         children: "Salesforce CPQ to RCA",
                                       }),
                                     }),
+                                    
                                   ],
                                 }),
                               ],
@@ -2760,10 +2767,18 @@
                         (0, i.jsx)("li", {
                           children: (0, i.jsx)(d.default, {
                             className: "dropdown-item",
+                            href: "/einstein.html",
+                            children: "Salesforce AI + Synergy",
+                          }),
+                        }),
+                        (0, i.jsx)("li", {
+                          children: (0, i.jsx)(d.default, {
+                            className: "dropdown-item",
                             href: "/revenueCloud.html",
                             children: "Salesforce CPQ to Revenue Cloud",
                           }),
                         }),
+                        
                       ],
                     }),
                   ],
