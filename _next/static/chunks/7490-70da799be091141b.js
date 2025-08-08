@@ -1716,6 +1716,12 @@
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
+                                        href: "/AI-Powered_Dashboard.html",
+                                        children: "Pharmaceutical Dashboard",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
                                         href: "/einstein.html",
                                         children: "Salesforce AI + Synergy",
                                       }),
@@ -2762,6 +2768,13 @@
                             className: "dropdown-item",
                             href: "/triggerframework.html",
                             children: "Trigger Framework",
+                          }),
+                        }),
+                        (0, i.jsx)("li", {
+                          children: (0, i.jsx)(d.default, {
+                            className: "dropdown-item",
+                            href: "/AI-Powered_Dashboard.html",
+                            children: "Pharmaceutical Dashboard",
                           }),
                         }),
                         (0, i.jsx)("li", {
