@@ -33,7 +33,7 @@
                       className: "text-start",
                       children: [
                         (0, i.jsx)("h3", {
-                          children: "AI-Powered Dashboard",
+                          children: "Salesforce AI-Powered Dashboard",
                         }),
                         (0, i.jsxs)("div", {
                           className: "d-flex",
@@ -63,7 +63,7 @@
                             }),
                             (0, i.jsx)("p", {
                               className: "text-primary mb-0",
-                              children: "AI-Powered Dashboard",
+                              children: "Salesforce AI-Powered Dashboard",
                             }),
                           ],
                         }),
@@ -107,11 +107,14 @@
                       (0, i.jsxs)("div", {
                         className: "col-lg-8 ps-lg-4 mt-lg-0 mt-8 content",
                         children: [
-                          (0, i.jsx)("img", {
+                          (0, i.jsx)("video", {
                             className: "rounded-3",
-                            src: "/assets/imgs/services-details-2/EinsteinAI/img-1.png",
-                            alt: "Codm",
-                            // style: { width: "500px", height: "350px" },
+                            src: "/assets/imgs/services-details-2/PharmaDashboard/PharmaDemo.mp4", // path to your video
+                            controls: true, 
+                            autoPlay: false, 
+                            loop: false,   
+                            muted: false,
+                            style: { width: "812px", height: "auto" },
                           }),
                           (0, i.jsx)("h4", {
                             className: "my-3",
@@ -333,44 +336,167 @@
                           }),
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
-                            children: "The Results",
+                            children: "Overview of the Solution",
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
                             children: [
-                              (0, i.jsxs)("strong", {
-                                children: ["70% reduction:"],
-                              }),
-                              " from reduced data entry and in time spent on monthly reporting and compliance checks.",
+                              "We developed a next-generation Pharmaceutical Admin Dashboard in Salesforce, leveraging Lightning Web Components (LWC), Apex, advanced admin configurations, and AI-driven intelligence. Designed to streamline operations and reduce manual effort, the dashboard automates critical tasks like report generation, inventory monitoring, compliance tracking, and sales/service performance analysis.",
                             ],
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
                             children: [
                               (0, i.jsxs)("strong", {
-                                children: ["20% cost savings"],
+                                children: [
+                                  "The solution is tailored for both Sales and Service teams—each with its own specialized dashboard view—offering:",
+                                ],
                               }),
-                              "  from optimized inventory management and reduced manual errors.",
                             ],
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
                             children: [
                               (0, i.jsxs)("strong", {
-                                children: ["Faster decision-making:"],
+                                children: ["AI-enabled insights"],
                               }),
-                              " with real-time, AI-backed insights that allow teams to focus on strategy rather than data gathering.",
+                              " for smarter decision-making and predictive analytics.",
+                            ],
+                          }),
+                          (0, i.jsxs)("img", {
+                            className: "img-fluid my-4",
+                            src: "/assets/imgs/services-details-2/PharmaDashboard/img-1.png",
+                            alt: "AI-Powered Dashboard",
+                            style: { width: "100%", height: "auto" },
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Forecasting tools"],
+                              }),
+                              " to predict sales trends and stock requirements.",
+                            ],
+                          }),
+                          (0, i.jsxs)("img", {
+                            className: "img-fluid my-4",
+                            src: "/assets/imgs/services-details-2/PharmaDashboard/img-2.png",
+                            alt: "AI-Powered Forecasting",
+                            style: { width: "100%", height: "auto" },
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Automated reporting"],
+                              }),
+                              " to reduce manual data entry and compliance checks.",
+                            ],
+                          }),
+                          (0, i.jsxs)("img", {
+                            className: "img-fluid my-4",
+                            src: "/assets/imgs/services-details-2/PharmaDashboard/img-3.png",
+                            alt: "Automated Reporting",
+                            style: { width: "100%", height: "auto" },
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Dynamic dashboards"],
+                              }),
+                              " that adapt to user roles, providing relevant data at a glance.",
                             ],
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
                             children: [
                               (0, i.jsxs)("strong", {
-                                children: ["Dynamic Content Generation:"],
+                                children: ["Smart inventory management"],
                               }),
-                              "  Generate marketing emails, chatbot responses, or sales summaries with AI‑powered prompts.",
+                              " wwith predictive alerts for low stock or overstock situations.",
                             ],
                           }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["User-friendly LWC interface"],
+                              }),
+                              " optimized for speed, clarity, and responsiveness.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "By integrating Salesforce AI with custom Apex logic and real-time data visualization, this dashboard empowers pharmaceutical businesses to work proactively instead of reactively, ensuring agility, compliance, and growth.",
+                            ],
+                          }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "Why Choose Codm Software for Your AI-Powered Pharmaceutical Dashboard?",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Salesforce Expertise:"],
+                              }),
+                              "  Over years of experience in LWC, Apex, and Salesforce Admin development, delivering tailored, high-performance solutions.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Industry-Focused Approach:"],
+                              }),
+                              "  We understand the unique challenges of the pharmaceutical industry—from compliance to forecasting—and design dashboards that address them head-on.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["AI-Driven Innovation:"],
+                              }),
+                              "  Seamless integration of Salesforce AI for predictive analytics, smart inventory alerts, and actionable insights.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["End-to-End Development:"],
+                              }),
+                              "  From design and development to deployment and training, we handle every step for a smooth implementation.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Proven Results:"],
+                              }),
+                              " Our dashboards cut reporting time by up to 70% and reduce operational costs by up to 20% through automation and intelligent recommendations.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["User-Centric Design:"],
+                              }),
+                              " Intuitive, responsive interfaces built with LWC for both sales and service teams, ensuring ease of adoption and maximum productivity.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "With Codm Software, you’re not just getting a dashboard—you’re getting a strategic partner dedicated to optimizing your operations and driving measurable growth.",
+                            ],
+                          }),
+
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
                             children: "AI-Powered Healthcare ",
@@ -556,7 +682,7 @@
                                 className: "ratio ratio-16x9 overflow-hidden",
                                 children: [
                                   (0, i.jsx)("iframe", {
-                                    src: "https://www.youtube.com/embed/2-LkbM-V4m8?si=1XABiMO4hE7Y7Opq",
+                                    src: "https://www.youtube.com/embed/buQ48j8Zr94?si=mEIkJQ8cAf9Xfqnd",
                                     title: "YouTube video player",
                                     frameBorder: "0",
                                     height: "315",
@@ -772,7 +898,7 @@
                               (0, i.jsx)("div", {
                                 className: "zoom-img rounded-4 fix",
                                 children: (0, i.jsx)("img", {
-                                  src: "/assets/imgs/services-details-2/EinsteinAI/img-2.webp",
+                                  src: "/assets/imgs/services-details-2/PharmaDashboard/img-4.png",
                                   alt: "Codm",
                                 }),
                               }),
