@@ -119,7 +119,7 @@
                           (0, i.jsx)("h4", {
                             className: "my-3",
                             children:
-                              "Revolutionizing Pharmaceutical Operations with Our AI-Powered Dashboard",
+                              "Revolutionizing Pharmaceutical Operations with Our AI-Powered Salesforce Dashboard For one of our client",
                           }),
                           (0, i.jsxs)("p", {
                             className: "mb-0",
@@ -127,7 +127,7 @@
                               "In today’s fast-paced pharmaceutical industry, data moves faster than decisions. Managing vast inventories, ensuring strict compliance, monitoring sales performance, and predicting demand are challenges that require more than just a basic reporting tool — they demand intelligence.",
                               (0, i.jsx)("span", {
                                 className: "text-900 fw-bold",
-                                children: " Salesforce Einstein AI",
+                                children: " Salesforce Einstein AI + LLM ",
                               }),
                               " is the solution that transforms your Salesforce CRM into a powerful AI-driven dashboard, enabling you to make data-driven decisions with unprecedented speed and accuracy.",
                             ],
@@ -212,7 +212,7 @@
                                       (0, i.jsx)("span", {
                                         className:
                                           "ms-2 text-900 fw-medium fs-6",
-                                        children: "Natural Language Insights",
+                                        children: "Automated Reporting & Analytics",
                                       }),
                                     ],
                                   }),
@@ -412,9 +412,39 @@
                             className: "fw-medium text-600",
                             children: [
                               (0, i.jsxs)("strong", {
+                                children: ["Lead Scoring"],
+                              }),
+                              " to prioritize high-value prospects based on historical data and AI predictions.",
+                            ],
+                          }),
+                          (0, i.jsxs)("img", {
+                            className: "img-fluid my-4",
+                            src: "/assets/imgs/services-details-2/PharmaDashboard/img-5.png",
+                            alt: "Lead Scoring",
+                            style: { width: "100%", height: "auto" },
+                          }),
+                           (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Performance summary "],
+                              }),
+                              " for both sales and service teams, highlighting key metrics and KPIs.",
+                            ],
+                          }),
+                          (0, i.jsxs)("img", {
+                            className: "img-fluid my-4",
+                            src: "/assets/imgs/services-details-2/PharmaDashboard/img-6.png",
+                            alt: "Lead Scoring",
+                            style: { width: "100%", height: "auto" },
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
                                 children: ["Smart inventory management"],
                               }),
-                              " wwith predictive alerts for low stock or overstock situations.",
+                              " with predictive alerts for low stock or overstock situations.",
                             ],
                           }),
                           (0, i.jsxs)("p", {
@@ -432,71 +462,6 @@
                               "By integrating Salesforce AI with custom Apex logic and real-time data visualization, this dashboard empowers pharmaceutical businesses to work proactively instead of reactively, ensuring agility, compliance, and growth.",
                             ],
                           }),
-                          (0, i.jsx)("h4", {
-                            className: "mt-3 pt-3 border-top mb-3",
-                            children: "Why Choose Codm Software for Your AI-Powered Pharmaceutical Dashboard?",
-                          }),
-                          (0, i.jsxs)("p", {
-                            className: "fw-medium text-600",
-                            children: [
-                              (0, i.jsxs)("strong", {
-                                children: ["Salesforce Expertise:"],
-                              }),
-                              "  Over years of experience in LWC, Apex, and Salesforce Admin development, delivering tailored, high-performance solutions.",
-                            ],
-                          }),
-                          (0, i.jsxs)("p", {
-                            className: "fw-medium text-600",
-                            children: [
-                              (0, i.jsxs)("strong", {
-                                children: ["Industry-Focused Approach:"],
-                              }),
-                              "  We understand the unique challenges of the pharmaceutical industry—from compliance to forecasting—and design dashboards that address them head-on.",
-                            ],
-                          }),
-                          (0, i.jsxs)("p", {
-                            className: "fw-medium text-600",
-                            children: [
-                              (0, i.jsxs)("strong", {
-                                children: ["AI-Driven Innovation:"],
-                              }),
-                              "  Seamless integration of Salesforce AI for predictive analytics, smart inventory alerts, and actionable insights.",
-                            ],
-                          }),
-                          (0, i.jsxs)("p", {
-                            className: "fw-medium text-600",
-                            children: [
-                              (0, i.jsxs)("strong", {
-                                children: ["End-to-End Development:"],
-                              }),
-                              "  From design and development to deployment and training, we handle every step for a smooth implementation.",
-                            ],
-                          }),
-                          (0, i.jsxs)("p", {
-                            className: "fw-medium text-600",
-                            children: [
-                              (0, i.jsxs)("strong", {
-                                children: ["Proven Results:"],
-                              }),
-                              " Our dashboards cut reporting time by up to 70% and reduce operational costs by up to 20% through automation and intelligent recommendations.",
-                            ],
-                          }),
-                          (0, i.jsxs)("p", {
-                            className: "fw-medium text-600",
-                            children: [
-                              (0, i.jsxs)("strong", {
-                                children: ["User-Centric Design:"],
-                              }),
-                              " Intuitive, responsive interfaces built with LWC for both sales and service teams, ensuring ease of adoption and maximum productivity.",
-                            ],
-                          }),
-                          (0, i.jsxs)("p", {
-                            className: "fw-medium text-600",
-                            children: [
-                              "With Codm Software, you’re not just getting a dashboard—you’re getting a strategic partner dedicated to optimizing your operations and driving measurable growth.",
-                            ],
-                          }),
-
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
                             children: "AI-Powered Healthcare ",
@@ -567,6 +532,139 @@
                                 children: ["Data Foundations:"],
                               }),
                               "Salesforce CDP/Data Cloud, customer 360, governance frameworks",
+                            ],
+                          }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: " Conclusion ",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "The implementation of our AI-powered Pharmaceutical Admin Dashboard transformed our client’s day-to-day operations. By combining Salesforce LWC, Apex, Admin configurations, and AI-driven insights, we eliminated manual bottlenecks, improved data accuracy, and empowered teams with actionable intelligence.",
+                            ],
+                          }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: " Key Benefits to the Client  : ",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Time Savings :"],
+                              }),
+                              " Automated reporting and AI insights reduced monthly reporting effort by up to 70%.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Improved Accuracy :"],
+                              }),
+                              " Real-time inventory and compliance monitoring significantly minimized human errors.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Proactive Decision-Making :"],
+                              }),
+                              " AI forecasting enabled the client to anticipate stock requirements, sales trends, and service demands.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Enhanced Productivity :"],
+                              }),
+                              " Operational costs were reduced by up to 20% through automation and intelligent recommendations.",
+                            ],
+                          }),
+                           (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Operational Cost Reduction :"],
+                              }),
+                              " Smarter inventory management and optimized workflows led to cost savings of over 20%.",
+                            ],
+                          }),
+                          (0, i.jsx)("h6", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: " Outcome of the Project ",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "The client now operates with a centralized, intelligent, and scalable dashboard that delivers real-time visibility, ensures compliance, and drives growth. Their teams are empowered to make faster, data-backed decisions, positioning them for long-term success in the competitive pharmaceutical industry."
+                            ],
+                          }),
+                          (0, i.jsx)("h4", {
+                            className: "mt-3 pt-3 border-top mb-3",
+                            children: "Why Choose Codm Software for Your AI-Powered Pharmaceutical Dashboard?",
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Salesforce Expertise:"],
+                              }),
+                              "  Over years of experience in LWC, Apex, and Salesforce Admin development, delivering tailored, high-performance solutions.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Industry-Focused Approach:"],
+                              }),
+                              "  We understand the unique challenges of the pharmaceutical industry—from compliance to forecasting—and design dashboards that address them head-on.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["AI-Driven Innovation:"],
+                              }),
+                              "  Seamless integration of Salesforce AI for predictive analytics, smart inventory alerts, and actionable insights.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["End-to-End Development:"],
+                              }),
+                              "  From design and development to deployment and training, we handle every step for a smooth implementation.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["Proven Results:"],
+                              }),
+                              " Our dashboards cut reporting time by up to 70% and reduce operational costs by up to 20% through automation and intelligent recommendations.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              (0, i.jsxs)("strong", {
+                                children: ["User-Centric Design:"],
+                              }),
+                              " Intuitive, responsive interfaces built with LWC for both sales and service teams, ensuring ease of adoption and maximum productivity.",
+                            ],
+                          }),
+                          (0, i.jsxs)("p", {
+                            className: "fw-medium text-600",
+                            children: [
+                              "With Codm Software, you’re not just getting a dashboard—you’re getting a strategic partner dedicated to optimizing your operations and driving measurable growth.",
                             ],
                           }),
                         ],
