@@ -127,7 +127,7 @@
                               "In today’s fast-paced pharmaceutical industry, data moves faster than decisions. Managing vast inventories, ensuring strict compliance, monitoring sales performance, and predicting demand are challenges that require more than just a basic reporting tool — they demand intelligence.",
                               (0, i.jsx)("span", {
                                 className: "text-900 fw-bold",
-                                children: " Salesforce Einstein AI + LLM ",
+                                children: " Salesforce Einstein AI & LLM Model ",
                               }),
                               " is the solution that transforms your Salesforce CRM into a powerful AI-driven dashboard, enabling you to make data-driven decisions with unprecedented speed and accuracy.",
                             ],
@@ -142,7 +142,7 @@
                               "We designed and developed a custom pharmaceutical dashboard fully integrated with AI capabilities to handle real-time data, predictive analytics, and automation. The solution empowers decision-makers to move from reactive problem-solving to proactive strategy building.",
                               (0, i.jsx)("span", {
                                 className: "text-900 fw-bold",
-                                children: "Make intelligent predictions",
+                                children: " Make intelligent predictions ",
                               }),
                               " about inventory needs, sales trends, and compliance requirements, ensuring your operations are always one step ahead.",
                             ],
@@ -502,7 +502,7 @@
                             className: "fw-medium text-600",
                             children: [
                               (0, i.jsxs)("strong", {
-                                children: ["Salesforce Einstein:"],
+                                children: ["Salesforce Einstein : "],
                               }),
                               " GPT, Language, Vision, Discovery, Prediction Builder",
                             ],
@@ -511,25 +511,16 @@
                             className: "fw-medium text-600",
                             children: [
                               (0, i.jsxs)("strong", {
-                                children: ["External AI Platforms:"],
+                                children: ["Integration Tools : "],
                               }),
-                              " OpenAI, Google Vertex AI, Azure AI, custom ML.",
+                              "APIs, LWC, Apex, Salesforce Flow",
                             ],
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
                             children: [
                               (0, i.jsxs)("strong", {
-                                children: ["Integration Tools:"],
-                              }),
-                              "OmniStudio (formerly Vlocity), APIs, LWC, Apex, Salesforce Flow",
-                            ],
-                          }),
-                          (0, i.jsxs)("p", {
-                            className: "fw-medium text-600",
-                            children: [
-                              (0, i.jsxs)("strong", {
-                                children: ["Data Foundations:"],
+                                children: ["Data Foundations : "],
                               }),
                               "Salesforce CDP/Data Cloud, customer 360, governance frameworks",
                             ],
