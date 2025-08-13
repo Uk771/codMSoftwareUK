@@ -114,7 +114,7 @@
                             autoPlay: false, 
                             loop: false,   
                             muted: false,
-                            style: { width: "812px", height: "auto" },
+                            style: { width: "100%", height: "auto" },
                           }),
                           (0, i.jsx)("h4", {
                             className: "my-3",
