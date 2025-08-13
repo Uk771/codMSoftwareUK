@@ -502,27 +502,27 @@
                             className: "fw-medium text-600",
                             children: [
                               (0, i.jsxs)("strong", {
-                                children: ["Salesforce Einstein : "],
+                                children: [" AI & Analytics : "],
                               }),
-                              " GPT, Language, Vision, Discovery, Prediction Builder",
+                              " Custom LLM models, Salesforce Einstein GPT, Prediction Builder, Natural Language Processing (NLP), AI-powered insights ",
                             ],
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
                             children: [
                               (0, i.jsxs)("strong", {
-                                children: ["Integration Tools : "],
+                                children: [" Integration & Development : "],
                               }),
-                              "APIs, LWC, Apex, Salesforce Flow",
+                              " Lightning Web Components (LWC), Apex, Salesforce Flow, APIs, External Service Integrations ",
                             ],
                           }),
                           (0, i.jsxs)("p", {
                             className: "fw-medium text-600",
                             children: [
                               (0, i.jsxs)("strong", {
-                                children: ["Data Foundations : "],
+                                children: ["Data & Platform Foundations :"],
                               }),
-                              "Salesforce CDP/Data Cloud, customer 360, governance frameworks",
+                              "Salesforce Data Cloud (CDP), Customer 360, Governance Frameworks, Data Modeling, Real-time Dashboards",
                             ],
                           }),
                           (0, i.jsx)("h4", {
