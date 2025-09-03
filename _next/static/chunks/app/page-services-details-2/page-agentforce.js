@@ -681,7 +681,7 @@
                                                                 className: "ratio ratio-16x9 overflow-hidden",
                                                                 children: [
                                                                     (0, i.jsx)("iframe", {
-                                                                        src: "https://www.youtube.com/embed/2-LkbM-V4m8?si=1XABiMO4hE7Y7Opq",
+                                                                        src: "https://www.youtube.com/embed/irdNqlytsLc?si=BqYgSwnmHZGrjxG1",
                                                                         title: "YouTube video player",
                                                                         frameBorder: "0",
                                                                         height: "315",
