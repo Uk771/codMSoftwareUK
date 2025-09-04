@@ -210,7 +210,7 @@
                                 (0, n.jsx)("br", {}),
                                 "USA : (+1) 201 623 3132 ",
                                 (0, n.jsx)("br", {}),
-                                "India : (+91) 9871717425",
+                                "India : (+91) 9717116432",
                               ],
                             }),
                           ],
@@ -295,7 +295,7 @@
                                     alt: "India Flag",
                                     style: { width: "28px", height: "20px", marginRight: "6px" }
                                   }),
-                                  "India : SaaS AI Ihdp Business Park Plot, Sector 127, Noida Uttar Pradesh 201304"
+                                  "India : SaaS AI Ihdp Business Park Plot, Street Number 7, Sector 127, Noida Uttar Pradesh 201304"
                                 ]}),
                                 (0, n.jsx)("br", {}),
                                 (0, n.jsx)("span", { children: [
