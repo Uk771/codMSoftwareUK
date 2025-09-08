@@ -115,7 +115,7 @@
                                                     }),
                                                     (0, i.jsx)("h4", {
                                                         className: "my-3",
-                                                        children: "Agentforce Implementation for Sales Teams: Real-World Use Cases",
+                                                        children: "Agentforce at Work: Streamlining Sales Every Step of the Way",
                                                     }),
                                                     (0, i.jsxs)("p", {
                                                         className: "mb-0",
@@ -128,25 +128,9 @@
                                                             "  This article explores real-world Agentforce use cases for sales teams, based on business requirements and user stories, to show how AI can simplify quoting, improve accuracy, and enhance productivity.",
                                                         ],
                                                     }),
-                                                    (0, i.jsx)("h4", {
-                                                        className: "my-3",
-                                                        children:
-                                                            "What is Agentforce?",
-                                                    }),
-                                                    (0, i.jsxs)("p", {
-                                                        className: "mb-0",
-                                                        children: [
-                                                            "Agentforce is Salesforce’s AI-powered service and sales agent solution designed to enhance customer and employee experiences. It brings together Einstein AI, automation, and CRM data to create smart assistants that help sales reps close deals faster.",
-                                                            (0, i.jsx)("span", {
-                                                                className: "text-900 fw-bold",
-                                                                children: " Agentforce AI, automation, and CRM data to create smart assistants that help sales reps close deals faster. ",
-                                                            }),
-                                                            "  By leveraging natural language processing (NLP) and machine learning (ML), Agentforce can understand user requests, automate routine tasks, and provide intelligent recommendations. This allows sales teams to focus on high-value activities like building relationships and strategizing, while Agentforce handles the administrative workload.",
-                                                        ],
-                                                    }),
                                                     (0, i.jsx)("h5", {
                                                         className: "pt-4 border-top mb-3 mt-5",
-                                                        children: "Why Implement Agentforce for Your Sales Team?",
+                                                        children: "Why Sales Teams Should Consider Agentforce",
                                                     }),
                                                     (0, i.jsx)("p", {
                                                         className: "mb-4",
@@ -453,141 +437,31 @@
                                                                     }),
                                                                 ],
                                                             }),
-                                                        ],
-                                                    }),
-
-                                                    (0, i.jsx)("h4", {
-                                                        className: "mt-3 pt-3 border-top mb-3",
-                                                        children: "Salesforce Einstein vs Agentforce"
-                                                    }),
-                                                    (0, i.jsx)("p", {
-                                                        className: "fw-medium text-600",
-                                                        children: "Explore the distinct features and strengths of Salesforce Einstein and Agentforce in modern CRM workflows."
-                                                    }),
-                                                    (0, i.jsxs)("table", {
-                                                        className: "table table-bordered text-start table-sm table-striped mt-4",
-                                                        children: [
-                                                            (0, i.jsx)("thead", {
-                                                                className: "table-light",
-                                                                children: (0, i.jsxs)("tr", {
-                                                                    children: [
-                                                                        (0, i.jsx)("th", { children: "Feature" }),
-                                                                        (0, i.jsx)("th", { children: "Salesforce Einstein" }),
-                                                                        (0, i.jsx)("th", { children: "Agentforce" }),
-                                                                    ],
-                                                                }),
-                                                            }),
-                                                            (0, i.jsxs)("tbody", {
+                                                            (0, i.jsxs)("div", {
+                                                                className: "mb-5",
                                                                 children: [
-                                                                    (0, i.jsxs)("tr", {
+                                                                    (0, i.jsx)("h5", { children: "Outcome of the Implementation:" }),
+                                                                    (0, i.jsx)("p", { children: "User Prompt: “As a sales rep, I want the agent to properly update rich text fields in quotes, so that I can overcome the current limitations.”" }),
+                                                                    (0, i.jsx)("strong", { children: "How Agentforce Helps:" }),
+                                                                    (0, i.jsxs)("ul", {
                                                                         children: [
-                                                                            (0, i.jsx)("td", { children: "Type" }),
-                                                                            (0, i.jsx)("td", { children: "Native Salesforce AI layer" }),
-                                                                            (0, i.jsx)("td", { children: "Salesforce-native intelligent assistant framework (powered by Einstein + GPT)" }),
+                                                                            (0, i.jsx)("li", { children: "Updates rich text fields with formatting (bold, italics, bullets, links)." }),
+                                                                            (0, i.jsx)("li", { children: "Validates field length limits." }),
+                                                                            (0, i.jsx)("li", { children: "Confirms updates before saving." }),
+                                                                            (0, i.jsx)("li", { children: "Ensures formatting consistency across devices and views." }),
                                                                         ],
                                                                     }),
-                                                                    (0, i.jsxs)("tr", {
-                                                                        children: [
-                                                                            (0, i.jsx)("td", { children: "Core Function" }),
-                                                                            (0, i.jsx)("td", { children: "Predictive analytics, NLP, computer vision, automation" }),
-                                                                            (0, i.jsx)("td", { children: "Human-like assistant for conversations, task execution, summarization, and follow-up" }),
-                                                                        ],
-                                                                    }),
-                                                                    (0, i.jsxs)("tr", {
-                                                                        children: [
-                                                                            (0, i.jsx)("td", { children: "Powered By" }),
-                                                                            (0, i.jsx)("td", { children: "Salesforce AI + ML models + user data" }),
-                                                                            (0, i.jsx)("td", { children: "Einstein GPT + external LLMs (OpenAI, Anthropic, etc.)" }),
-                                                                        ],
-                                                                    }),
-                                                                    (0, i.jsxs)("tr", {
-                                                                        children: [
-                                                                            (0, i.jsx)("td", { children: "Focus" }),
-                                                                            (0, i.jsx)("td", { children: "Decision support & prediction" }),
-                                                                            (0, i.jsx)("td", { children: "Agentic workflows & human-like interaction" }),
-                                                                        ],
-                                                                    }),
-                                                                    (0, i.jsxs)("tr", {
-                                                                        children: [
-                                                                            (0, i.jsx)("td", { children: "Interface" }),
-                                                                            (0, i.jsx)("td", { children: "Built into Salesforce apps (Sales, Service, Marketing, etc.)" }),
-                                                                            (0, i.jsx)("td", { children: "Chat-based + action-based assistant inside Salesforce console" }),
-                                                                        ],
+                                                                    (0, i.jsx)("p", { children: "Benefit: Quotes become more professional and client-ready, without formatting errors." }),
+                                                                     (0, i.jsx)("img", {
+                                                                        className: "rounded-3",
+                                                                        src: "/assets/imgs/services-details-2/agentforce/img-5.png",
+                                                                        alt: "Codm",
+                                                                        style: { width: "auto", height: "350px" },
                                                                     }),
                                                                 ],
                                                             }),
                                                         ],
                                                     }),
-                                                    (0, i.jsx)("h4", {
-                                                        className: "mt-3 pt-3 border-top mb-3",
-                                                        children: " Use Case Comparison: Einstein vs Agentforce",
-                                                    }),
-                                                    (0, i.jsx)("div", {
-                                                        className: "table-responsive",
-                                                        children: (0, i.jsxs)("table", {
-                                                            className: "table table-bordered table-striped text-start",
-                                                            children: [
-                                                                (0, i.jsx)("thead", {
-                                                                    children: (0, i.jsxs)("tr", {
-                                                                        children: [
-                                                                            (0, i.jsx)("th", { children: "Use Case Area" }),
-                                                                            (0, i.jsx)("th", { children: "Salesforce Einstein" }),
-                                                                            (0, i.jsx)("th", { children: "Agentforce" }),
-                                                                        ],
-                                                                    }),
-                                                                }),
-                                                                (0, i.jsx)("tbody", {
-                                                                    children: [
-                                                                        ["Sales Forecasting",
-                                                                            "Predicts future revenue and deal closures using historical CRM data",
-                                                                            "Supports sales reps by summarizing calls, auto-logging deals, and suggesting follow-ups"
-                                                                        ],
-                                                                        ["Lead & Opportunity Scoring",
-                                                                            "Ranks leads and opps by win likelihood using Einstein Prediction Builder",
-                                                                            "Provides agents with real-time nudges or actions to contact high-priority leads"
-                                                                        ],
-                                                                        ["Customer Support Automation",
-                                                                            "Classifies and routes cases, suggests replies, powers Einstein Bots",
-                                                                            "Responds to customers directly with AI-written emails or case resolutions, learns from previous agent behavior"
-                                                                        ],
-                                                                        ["Marketing Personalization",
-                                                                            "Powers journey orchestration and content personalization in Marketing Cloud",
-                                                                            "Drafts personalized marketing emails, SMS, or follow-ups based on customer segment behavior"
-                                                                        ],
-                                                                        ["Service Agent Productivity",
-                                                                            "Suggests next best actions in real time, recommends KB articles",
-                                                                            "Summarizes past customer interactions, surfaces recommended actions, logs case notes autonomously"
-                                                                        ],
-                                                                        ["Email Content Generation",
-                                                                            "Uses Einstein GPT to suggest email copy or subject lines",
-                                                                            "Writes and schedules the email, tags the customer intent, and suggests next best offer"
-                                                                        ],
-                                                                        ["Field Service Optimization",
-                                                                            "Predicts part failures, job duration, and routes field agents efficiently",
-                                                                            "Summarizes on-site visit outcomes, initiates work orders, or books follow-ups automatically"
-                                                                        ],
-                                                                        ["Reporting & Insights",
-                                                                            "Creates AI-driven dashboards, trend reports, and recommendations",
-                                                                            "Enables voice-based or typed prompts like 'Show me accounts with highest churn risk this quarter'"
-                                                                        ],
-                                                                        ["Experience Cloud Personalization",
-                                                                            "Suggests articles, products, or layouts based on visitor persona or segment",
-                                                                            "Acts as a concierge agent guiding users through site content or actions via conversation"
-                                                                        ],
-                                                                    ].map(([area, einstein, agentforce], index) =>
-                                                                        (0, i.jsxs)("tr", {
-                                                                            children: [
-                                                                                (0, i.jsx)("td", { children: area }),
-                                                                                (0, i.jsx)("td", { children: einstein }),
-                                                                                (0, i.jsx)("td", { children: agentforce }),
-                                                                            ],
-                                                                        }, index)
-                                                                    ),
-                                                                }),
-                                                            ],
-                                                        }),
-                                                    }),
-
                                                 ],
                                             }),
 
