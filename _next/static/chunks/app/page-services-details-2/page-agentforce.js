@@ -130,12 +130,12 @@
                                                     }),
                                                     (0, i.jsx)("h5", {
                                                         className: "pt-4 border-top mb-3 mt-5",
-                                                        children: "Why Sales Teams Should Consider Agentforce",
+                                                        children: "Getting Started with Agentforce in Salesforce ",
                                                     }),
                                                     (0, i.jsx)("p", {
                                                         className: "mb-4",
                                                         children:
-                                                            "The benefits of Agentforce implementation go beyond just automation. Here’s why your sales team should consider adopting it:",
+                                                            "Customer expectations are higher than ever. They want instant answers, personalized help, and seamless service experiences. That’s where Agentforce, powered by Einstein Generative AI, comes in. With Agentforce, you can build AI-driven agents inside Salesforce that not only answer questions but also take action—like checking orders, creating cases, or recommending next steps.",
                                                     }),
                                                     (0, i.jsxs)("div", {
                                                         className: "row",
@@ -153,23 +153,21 @@
                                                                                     className: "icon",
                                                                                     children: (0, i.jsx)("img", {
                                                                                         src: "/assets/imgs/services-details/icon-1.svg",
-                                                                                        alt: "Lead Management",
+                                                                                        alt: "Step 1: Enable Einstein Generative AI in Salesforce",
                                                                                     }),
                                                                                 }),
                                                                             }),
                                                                             (0, i.jsxs)("div", {
                                                                                 className: "ps-5",
                                                                                 children: [
-                                                                                    (0, i.jsx)("h6", { children: "Improved Lead Management" }),
+                                                                                    (0, i.jsx)("h6", { children: "Step 1: Enable Einstein Generative AI in Salesforce" }),
                                                                                     (0, i.jsx)("p", {
-                                                                                        children: "AI helps prioritize high-value leads based on conversion probability."
+                                                                                        children: "Agentforce runs on Einstein’s generative AI capabilities. From Setup, search for Einstein Setup and toggle on Einstein Generative AI. "
                                                                                     }),
                                                                                 ],
                                                                             }),
                                                                         ],
                                                                     }),
-
-                                                                    // 2. Faster Sales Cycles
                                                                     (0, i.jsxs)("div", {
                                                                         className: "d-flex pt-3",
                                                                         children: [
@@ -179,23 +177,21 @@
                                                                                     className: "icon",
                                                                                     children: (0, i.jsx)("img", {
                                                                                         src: "/assets/imgs/services-details/icon-2.svg",
-                                                                                        alt: "Sales Cycle",
+                                                                                        alt: "Step 2: Enable Agentforce ",
                                                                                     }),
                                                                                 }),
                                                                             }),
                                                                             (0, i.jsxs)("div", {
                                                                                 className: "ps-5",
                                                                                 children: [
-                                                                                    (0, i.jsx)("h6", { children: "Faster Sales Cycles" }),
+                                                                                    (0, i.jsx)("h6", { children: "Step 2: Enable Agentforce" }),
                                                                                     (0, i.jsx)("p", {
-                                                                                        children: "Automations and guided workflows reduce manual work."
+                                                                                        children: "Still in Setup, search for Agentforce Agents and flip the switch to enable Agentforce. This unlocks the tools you’ll use to design and manage your AI-powered agents."
                                                                                     }),
                                                                                 ],
                                                                             }),
                                                                         ],
                                                                     }),
-
-                                                                    // 3. Personalized Customer Engagement
                                                                     (0, i.jsxs)("div", {
                                                                         className: "d-flex pt-3",
                                                                         children: [
@@ -205,23 +201,21 @@
                                                                                     className: "icon",
                                                                                     children: (0, i.jsx)("img", {
                                                                                         src: "/assets/imgs/services-details/icon-3.svg",
-                                                                                        alt: "Customer Engagement",
+                                                                                        alt: "Step 3: Go to Agentforce Agents to Create Your First Agent",
                                                                                     }),
                                                                                 }),
                                                                             }),
                                                                             (0, i.jsxs)("div", {
                                                                                 className: "ps-5",
                                                                                 children: [
-                                                                                    (0, i.jsx)("h6", { children: "Personalized Customer Engagement" }),
+                                                                                    (0, i.jsx)("h6", { children: "Step 3: Go to Agentforce Agents to Create Your First Agent" }),
                                                                                     (0, i.jsx)("p", {
-                                                                                        children: "Reps can deliver tailored solutions using data-driven insights."
+                                                                                        children: "In the Setup menu, search for Agentforce Agents. This is your central hub for creating new agents and managing existing ones. "
                                                                                     }),
                                                                                 ],
                                                                             }),
                                                                         ],
                                                                     }),
-
-                                                                    // 4. Better Collaboration
                                                                     (0, i.jsxs)("div", {
                                                                         className: "d-flex pt-3",
                                                                         children: [
@@ -238,16 +232,38 @@
                                                                             (0, i.jsxs)("div", {
                                                                                 className: "ps-5",
                                                                                 children: [
-                                                                                    (0, i.jsx)("h6", { children: "Better Collaboration" }),
+                                                                                    (0, i.jsx)("h6", { children: "Step 4: Create a New Agent " }),
                                                                                     (0, i.jsx)("p", {
-                                                                                        children: "Sales, service, and marketing can work on the same platform seamlessly."
+                                                                                        children: "Click + New Agent. You’ll be prompted to select a starting template."
                                                                                     }),
                                                                                 ],
                                                                             }),
                                                                         ],
                                                                     }),
-
-                                                                    // 5. Scalability
+                                                                    (0, i.jsxs)("div", {
+                                                                        className: "d-flex pt-3",
+                                                                        children: [
+                                                                            (0, i.jsx)("div", {
+                                                                                className: "bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3",
+                                                                                children: (0, i.jsx)("div", {
+                                                                                    className: "icon",
+                                                                                    children: (0, i.jsx)("img", {
+                                                                                        src: "/assets/imgs/services-details/icon-4.svg",
+                                                                                        alt: "Collaboration",
+                                                                                    }),
+                                                                                }),
+                                                                            }),
+                                                                            (0, i.jsxs)("div", {
+                                                                                className: "ps-5",
+                                                                                children: [
+                                                                                    (0, i.jsx)("h6", { children: "Step 5: Choose a Template " }),
+                                                                                    (0, i.jsx)("p", {
+                                                                                        children: "Salesforce provides out-of-the-box templates like the Agentforce Service Agent. Templates give you a solid foundation, so you can focus on tailoring the agent to your business needs rather than starting from scratch. "
+                                                                                    }),
+                                                                                ],
+                                                                            }),
+                                                                        ],
+                                                                    }),
                                                                     (0, i.jsxs)("div", {
                                                                         className: "d-flex pt-3",
                                                                         children: [
@@ -264,9 +280,113 @@
                                                                             (0, i.jsxs)("div", {
                                                                                 className: "ps-5",
                                                                                 children: [
-                                                                                    (0, i.jsx)("h6", { children: "Scalability" }),
+                                                                                    (0, i.jsx)("h6", { children: "Step 6: Open the Agent Builder " }),
                                                                                     (0, i.jsx)("p", {
-                                                                                        children: "Whether you’re a small startup or an enterprise, Agentforce grows with your business needs."
+                                                                                        children: "Once the agent is created, click into the Agent Builder. Think of it as your design studio—this is where you configure how the agent listens, understands, and responds."
+                                                                                    }),
+                                                                                ],
+                                                                            }),
+                                                                        ],
+                                                                    }),
+                                                                    (0, i.jsxs)("div", {
+                                                                        className: "d-flex pt-3",
+                                                                        children: [
+                                                                            (0, i.jsx)("div", {
+                                                                                className: "bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3",
+                                                                                children: (0, i.jsx)("div", {
+                                                                                    className: "icon",
+                                                                                    children: (0, i.jsx)("img", {
+                                                                                        src: "/assets/imgs/services-details/icon-5.svg",
+                                                                                        alt: "Scalability",
+                                                                                    }),
+                                                                                }),
+                                                                            }),
+                                                                            (0, i.jsxs)("div", {
+                                                                                className: "ps-5",
+                                                                                children: [
+                                                                                    (0, i.jsx)("h6", { children: "Step 7: Define Topics " }),
+                                                                                    (0, i.jsx)("p", {
+                                                                                        children: "Topics represent the kinds of requests your customers might have, like Order Status, Billing Questions, or Returns. Defining clear topics helps guide conversations and keeps your agent organized."
+                                                                                    }),
+                                                                                ],
+                                                                            }),
+                                                                        ],
+                                                                    }),
+                                                                    (0, i.jsxs)("div", {
+                                                                        className: "d-flex pt-3",
+                                                                        children: [
+                                                                            (0, i.jsx)("div", {
+                                                                                className: "bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3",
+                                                                                children: (0, i.jsx)("div", {
+                                                                                    className: "icon",
+                                                                                    children: (0, i.jsx)("img", {
+                                                                                        src: "/assets/imgs/services-details/icon-5.svg",
+                                                                                        alt: "Scalability",
+                                                                                    }),
+                                                                                }),
+                                                                            }),
+                                                                            (0, i.jsxs)("div", {
+                                                                                className: "ps-5",
+                                                                                children: [
+                                                                                    (0, i.jsx)("h6", { children: "Step 8: Add Actions to Topics " }),
+                                                                                    (0, i.jsx)("p", {
+                                                                                        children: "Topics represent the kinds of requests your customers might have, like Order Status, Billing Questions, or Returns. Defining clear topics helps guide conversations and keeps your agent organized."
+                                                                                    }),
+                                                                                    (0, i.jsxs)("ul", {
+                                                                                        children: [
+                                                                                            (0, i.jsx)("li", { children: "Order Status → Run a flow to look up the latest shipping info." }),
+                                                                                            (0, i.jsx)("li", { children: "Returns → Trigger a case creation flow." }),
+                                                                                            (0, i.jsx)("li", { children: "Recommendations → Call a prompt template that generates personalized suggestions." }),
+                                                                                        ],
+                                                                                    }),
+                                                                                ],
+                                                                            }),
+                                                                            
+                                                                        ],
+                                                                    }),
+                                                                    (0, i.jsxs)("div", {
+                                                                        className: "d-flex pt-3",
+                                                                        children: [
+                                                                            (0, i.jsx)("div", {
+                                                                                className: "bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3",
+                                                                                children: (0, i.jsx)("div", {
+                                                                                    className: "icon",
+                                                                                    children: (0, i.jsx)("img", {
+                                                                                        src: "/assets/imgs/services-details/icon-5.svg",
+                                                                                        alt: "Scalability",
+                                                                                    }),
+                                                                                }),
+                                                                            }),
+                                                                            (0, i.jsxs)("div", {
+                                                                                className: "ps-5",
+                                                                                children: [
+                                                                                    (0, i.jsx)("h6", { children: "Step 9: Ground Your Agent in Data (Optional but Powerful)" }),
+                                                                                    (0, i.jsx)("p", {
+                                                                                        children: "Out of the box, your agent is smart—but it gets smarter when you connect it to data libraries. Grounding gives your agent direct access to your content, policies, or product documentation so it can provide accurate, on-brand answers."
+                                                                                    }),
+                                                                                ],
+                                                                            }),
+                                                                        ],
+                                                                    }),
+                                                                    (0, i.jsxs)("div", {
+                                                                        className: "d-flex pt-3",
+                                                                        children: [
+                                                                            (0, i.jsx)("div", {
+                                                                                className: "bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3",
+                                                                                children: (0, i.jsx)("div", {
+                                                                                    className: "icon",
+                                                                                    children: (0, i.jsx)("img", {
+                                                                                        src: "/assets/imgs/services-details/icon-5.svg",
+                                                                                        alt: "Scalability",
+                                                                                    }),
+                                                                                }),
+                                                                            }),
+                                                                            (0, i.jsxs)("div", {
+                                                                                className: "ps-5",
+                                                                                children: [
+                                                                                    (0, i.jsx)("h6", { children: "Step 10: Manage Versions  " }),
+                                                                                    (0, i.jsx)("p", {
+                                                                                        children: "As your agent evolves, you’ll want to track changes. Agentforce makes it easy to manage multiple versions so you can test new improvements, roll out updates safely, and continuously refine the customer experience. "
                                                                                     }),
                                                                                 ],
                                                                             }),
@@ -441,23 +561,7 @@
                                                                 className: "mb-5",
                                                                 children: [
                                                                     (0, i.jsx)("h5", { children: "Outcome of the Implementation:" }),
-                                                                    (0, i.jsx)("p", { children: "User Prompt: “As a sales rep, I want the agent to properly update rich text fields in quotes, so that I can overcome the current limitations.”" }),
-                                                                    (0, i.jsx)("strong", { children: "How Agentforce Helps:" }),
-                                                                    (0, i.jsxs)("ul", {
-                                                                        children: [
-                                                                            (0, i.jsx)("li", { children: "Updates rich text fields with formatting (bold, italics, bullets, links)." }),
-                                                                            (0, i.jsx)("li", { children: "Validates field length limits." }),
-                                                                            (0, i.jsx)("li", { children: "Confirms updates before saving." }),
-                                                                            (0, i.jsx)("li", { children: "Ensures formatting consistency across devices and views." }),
-                                                                        ],
-                                                                    }),
-                                                                    (0, i.jsx)("p", { children: "Benefit: Quotes become more professional and client-ready, without formatting errors." }),
-                                                                     (0, i.jsx)("img", {
-                                                                        className: "rounded-3",
-                                                                        src: "/assets/imgs/services-details-2/agentforce/img-5.png",
-                                                                        alt: "Codm",
-                                                                        style: { width: "auto", height: "350px" },
-                                                                    }),
+                                                                    (0, i.jsx)("p", { children: "By combining Einstein Generative AI with Salesforce data and actions, you now have the power to deliver instant, personalized support at scale. Whether it’s automating FAQs, streamlining workflows, or managing complex customer interactions, Agentforce transforms the way businesses connect with their customers and empower their teams.This is more than just automation—it’s the next step in intelligent customer engagement. And today, you’ve unlocked it." }),
                                                                 ],
                                                             }),
                                                         ],
