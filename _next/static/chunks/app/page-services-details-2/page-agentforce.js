@@ -126,7 +126,7 @@
                                   (0, i.jsx)("h4", {
                                     className: "my-3",
                                     children:
-                                      "Agentforce at Work: Streamlining Sales Every Step of the Way",
+                                      "Agentforce at Work : Streamlining Sales Process Every Step of the Way",
                                   }),
                                   (0, i.jsxs)("p", {
                                     className: "mb-0",
