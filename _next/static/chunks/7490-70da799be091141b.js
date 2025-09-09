@@ -1722,7 +1722,7 @@
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/agentForce.html",
+                                        href: "/salesforceagentforce.html",
                                         children: "Agentforce Implementation",
                                       }),
                                     }),
@@ -2786,7 +2786,7 @@
                         (0, i.jsx)("li", {
                           children: (0, i.jsx)(d.default, {
                             className: "dropdown-item",
-                            href: "/agentForce.html",
+                            href: "/salesforceagentforce.html",
                             children: "Agentforce Implementation",
                           }),
                         }),

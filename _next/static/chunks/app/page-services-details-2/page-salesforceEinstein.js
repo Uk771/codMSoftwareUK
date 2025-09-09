@@ -721,7 +721,7 @@
                                     ],
                                   }),
                                   (0, i.jsxs)(n.default, {
-                                    href: "/agentForce.html",
+                                    href: "/salesforceagentforce.html",
                                     className:
                                       "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
                                     children: [
