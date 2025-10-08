@@ -295,7 +295,18 @@
                                     alt: "India Flag",
                                     style: { width: "28px", height: "20px", marginRight: "6px" }
                                   }),
-                                  (0, n.jsx)("strong", { children: "SaaS AI Labs" }),
+                                  // (0, n.jsx)("strong", { children: "SaaS AI Labs" }),
+                                   (0, n.jsx)("a", { 
+                                    href: "https://saasailabs.codmsoftware.co.uk", 
+                                    target: "_blank", 
+                                    rel: "noopener noreferrer", 
+                                    style: { 
+                                      fontWeight: "bold", 
+                                      color: "#6a0dad", 
+                                      textDecoration: "none" 
+                                    },
+                                    children: " SaaS AI Labs "
+                                  }),
                                   (0, n.jsx)("br", {}),
                                   "Ihdp Business Park Plot Number 7, Serenia second floor, Sector 127, Noida Uttar Pradesh 201304",
                                 ]}),
@@ -306,7 +317,18 @@
                                     alt: "USA Flag",
                                     style: { width: "28px", height: "20px", marginRight: "6px" }
                                   }),
-                                  (0, n.jsx)("strong", { children: "Talent4World" }),
+                                  // (0, n.jsx)("strong", { children: "Talent4World" }),
+                                   (0, n.jsx)("a", { 
+                                    href: "https://www.talent4world.com/index.html", 
+                                    target: "_blank", 
+                                    rel: "noopener noreferrer", 
+                                    style: { 
+                                      fontWeight: "bold", 
+                                      color: "#6a0dad", 
+                                      textDecoration: "none" 
+                                    },
+                                    children: " Talent4World "
+                                  }),
                                   (0, n.jsx)("br", {}),
                                   "LLC 4501 Nightland Dr Plano, TX 75024 - USA",
                                 ]}),
