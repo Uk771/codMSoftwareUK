@@ -295,7 +295,7 @@
                                     alt: "India Flag",
                                     style: { width: "28px", height: "20px", marginRight: "6px" }
                                   }),
-                                  (0, n.jsx)("strong", { children: "SaaS AI" }),
+                                  (0, n.jsx)("strong", { children: "SaaS AI Labs" }),
                                   (0, n.jsx)("br", {}),
                                   "Ihdp Business Park Plot Number 7, Serenia second floor, Sector 127, Noida Uttar Pradesh 201304",
                                 ]}),
