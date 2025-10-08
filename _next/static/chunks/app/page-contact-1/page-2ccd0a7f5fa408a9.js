@@ -295,9 +295,9 @@
                                     alt: "India Flag",
                                     style: { width: "28px", height: "20px", marginRight: "6px" }
                                   }),
-                                  " SaaS AI "
+                                  " SaaS AI ",
                                   (0, n.jsx)("br", {}),
-                                  "Ihdp Business Park Plot Number 7, Serenia second floor, Sector 127, Noida Uttar Pradesh 201304"
+                                  "Ihdp Business Park Plot Number 7, Serenia second floor, Sector 127, Noida Uttar Pradesh 201304",
                                 ]}),
                                 (0, n.jsx)("br", {}),
                                 (0, n.jsx)("span", { children: [
@@ -306,9 +306,9 @@
                                     alt: "USA Flag",
                                     style: { width: "28px", height: "20px", marginRight: "6px" }
                                   }),
-                                  " Talent4World "
+                                  " Talent4World ",
                                   (0, n.jsx)("br", {}),
-                                  "LLC 4501 Nightland Dr Plano, TX 75024 - USA"
+                                  "LLC 4501 Nightland Dr Plano, TX 75024 - USA",
                                 ]}),
                               ], 
                             }),
