@@ -71,7 +71,7 @@
                       (0, i.jsxs)("div", {
                         className: "row py-90",
                         children: [
-                          (0, i.jsxs)("div", {
+                           (0, i.jsxs)("div", {
                             className: "col-lg-4 pe-10",
                             "data-aos": "fade-zoom-in",
                             "data-aos-delay": 100,
@@ -82,7 +82,23 @@
                                   src: "/assets/imgs/template/image (17).png",
                                   alt: "CodM",
                                 }),
+                                
                               }),
+                              (0, i.jsx)(d.default, {
+                                href: "/",
+                                children: (0, i.jsx)("img", {
+                                  className:"saasaiimglogo",
+                                   src: "/assets/imgs/saasAilogo/saasAilogo.png",
+                                  alt: "CodM",
+                                  style: { cursor: "pointer" },
+                                  
+                                  onClick: function () {
+                                    window.open("https://saasailabs.codmsoftware.co.uk", "_blank", "noopener,noreferrer");
+                                  },
+                                }),
+                                
+                              }),
+                              
                               (0, i.jsx)("p", {
                                 className:
                                   "text-white fw-medium mt-3 mb-6 opacity-50",
@@ -106,7 +122,7 @@
                                       " text-white border border-light border-opacity-10 icon-shape icon-md",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
-                                    title: "Share on LinkedIn",  
+                                    title: "Share on LinkedIn",
                                     children: (0, i.jsx)("i", {
                                       className: "bi bi-linkedin",
                                     }),
@@ -114,7 +130,7 @@
                                 ],
                               }),
                             ],
-                          }),
+                      }),
                           (0, i.jsx)("div", {
                             className: "col-lg-8",
                             children: (0, i.jsxs)("div", {
