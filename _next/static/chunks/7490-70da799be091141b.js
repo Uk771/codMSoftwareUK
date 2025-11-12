@@ -83,6 +83,14 @@
                                   alt: "CodM",
                                 }),
                               }),
+                               (0, i.jsx)(d.default, {
+                                href: "/",
+                                children: (0, i.jsx)("img", {
+                                  width:"100px",
+                                  src: "/assets/imgs/template/saasAiLogo.png",
+                                  alt: "CodM",
+                                }),
+                              }),
                               (0, i.jsx)("p", {
                                 className:
                                   "text-white fw-medium mt-3 mb-6 opacity-50",
