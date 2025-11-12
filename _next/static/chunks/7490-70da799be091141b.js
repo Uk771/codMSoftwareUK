@@ -71,7 +71,7 @@
                       (0, i.jsxs)("div", {
                         className: "row py-90",
                         children: [
-                           (0, i.jsxs)("div", {
+                          (0, i.jsxs)("div", {
                             className: "col-lg-4 pe-10",
                             "data-aos": "fade-zoom-in",
                             "data-aos-delay": 100,
@@ -82,23 +82,7 @@
                                   src: "/assets/imgs/template/image (17).png",
                                   alt: "CodM",
                                 }),
-                                
                               }),
-                              (0, i.jsx)(d.default, {
-                                href: "/",
-                                children: (0, i.jsx)("img", {
-                                  className:"saasaiimglogo",
-                                   src: "/assets/imgs/saasAilogo/saasAilogo.png",
-                                  alt: "CodM",
-                                  style: { cursor: "pointer" },
-                                  
-                                  onClick: function () {
-                                    window.open("https://saasailabs.codmsoftware.co.uk", "_blank", "noopener,noreferrer");
-                                  },
-                                }),
-                                
-                              }),
-                              
                               (0, i.jsx)("p", {
                                 className:
                                   "text-white fw-medium mt-3 mb-6 opacity-50",
@@ -122,7 +106,7 @@
                                       " text-white border border-light border-opacity-10 icon-shape icon-md",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
-                                    title: "Share on LinkedIn",
+                                    title: "Share on LinkedIn",  
                                     children: (0, i.jsx)("i", {
                                       className: "bi bi-linkedin",
                                     }),
@@ -130,7 +114,7 @@
                                 ],
                               }),
                             ],
-                      }),
+                          }),
                           (0, i.jsx)("div", {
                             className: "col-lg-8",
                             children: (0, i.jsxs)("div", {
@@ -1184,7 +1168,7 @@
                                 height: 24,
                                 viewBox: "0 0 24 24",
                                 fill: "none",
-                                children: (0, i.jsx)("path", {
+                                children: (0, i.jsx)("path", { 
                                   d: "M13 16H12V12H11M12 8H12.01M21 12C21 13.1819 20.7672 14.3522 20.3149 15.4442C19.8626 16.5361 19.1997 17.5282 18.364 18.364C17.5282 19.1997 16.5361 19.8626 15.4442 20.3149C14.3522 20.7672 13.1819 21 12 21C10.8181 21 9.64778 20.7672 8.55585 20.3149C7.46392 19.8626 6.47177 19.1997 5.63604 18.364C4.80031 17.5282 4.13738 16.5361 3.68508 15.4442C3.23279 14.3522 3 13.1819 3 12C3 9.61305 3.94821 7.32387 5.63604 5.63604C7.32387 3.94821 9.61305 3 12 3C14.3869 3 16.6761 3.94821 18.364 5.63604C20.0518 7.32387 21 9.61305 21 12Z",
                                   stroke: "white",
                                   strokeWidth: 2,
@@ -1601,7 +1585,7 @@
                                   }),
                                 }),
                                 (0, i.jsx)(d.default, {
-                                  href: "/#",
+                                  href: "/softwareservices.html",
                                   children: "Services",
                                 }),
                                 (0, i.jsxs)("ul", {
@@ -1738,7 +1722,7 @@
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/salesforceagentforce.html",
+                                        href: "/agentForce.html",
                                         children: "Agentforce Implementation",
                                       }),
                                     }),
@@ -1752,6 +1736,12 @@
                                       children: (0, i.jsx)(d.default, {
                                         href: "/revenueCloud.html",
                                         children: "Salesforce CPQ to RCA",
+                                      }),
+                                    }),
+                                    (0, i.jsx)("li", {
+                                      children: (0, i.jsx)(d.default, {
+                                        href: "/revenueCloud.html",
+                                        children: "Financial Services",
                                       }),
                                     }),
                                     
@@ -2541,7 +2531,7 @@
                   children: [
                     (0, i.jsx)(d.default, {
                       className: "nav-link fw-bold d-flex align-items-center",
-                      href: "#",
+                      href: "/Services.html",
                       role: "button",
                       "data-bs-toggle": "dropdown",
                       "aria-expanded": "false",
@@ -2802,7 +2792,7 @@
                         (0, i.jsx)("li", {
                           children: (0, i.jsx)(d.default, {
                             className: "dropdown-item",
-                            href: "/salesforceagentforce.html",
+                            href: "/agentForce.html",
                             children: "Agentforce Implementation",
                           }),
                         }),
@@ -2818,6 +2808,13 @@
                             className: "dropdown-item",
                             href: "/revenueCloud.html",
                             children: "Salesforce CPQ to Revenue Cloud",
+                          }),
+                        }),
+                        (0, i.jsx)("li", {
+                          children: (0, i.jsx)(d.default, {
+                            className: "dropdown-item",
+                            href: "/AgentforceFinancialServices.html",
+                            children: "Agentforce Financial Service Cloud",
                           }),
                         }),
                         
