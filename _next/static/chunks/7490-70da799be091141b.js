@@ -83,12 +83,17 @@
                                   alt: "CodM",
                                 }),
                               }),
-                               (0, i.jsx)(d.default, {
-                                href: "/",
+                               (0, i.jsx)("a", {
+                                href: "https://saasailabs.codmsoftware.co.uk/",
+                                target: "_blank",
+                                rel: "noopener noreferrer",
                                 children: (0, i.jsx)("img", {
-                                  width:"100px",
+                                  width: "100px",
                                   src: "/assets/imgs/template/saasAiLogo.png",
                                   alt: "CodM",
+                                  style: {
+                                    cursor: "pointer",
+                                  },
                                 }),
                               }),
                               (0, i.jsx)("p", {
@@ -2822,7 +2827,7 @@
                           children: (0, i.jsx)(d.default, {
                             className: "dropdown-item",
                             href: "/AgentforceFinancialServices.html",
-                            children: "Agentforce Financial Service Cloud",
+                            children: "Salesforce Financial Service Cloud",
                           }),
                         }),
                         
