@@ -33,7 +33,7 @@
                                             className: "text-start",
                                             children: [
                                                 (0, i.jsx)("h3", {
-                                                    children: "Salesforce Agentforce Financial Service",
+                                                    children: "Salesforce Financial Service cloud",
                                                 }),
                                                 (0, i.jsxs)("div", {
                                                     className: "d-flex",
@@ -63,7 +63,7 @@
                                                         }),
                                                         (0, i.jsx)("p", {
                                                             className: "text-primary mb-0",
-                                                            children: "Agentforce Financial Service",
+                                                            children: "Salesforce Financial Service cloud",
                                                         }),
                                                     ],
                                                 }),
@@ -115,7 +115,7 @@
                                                     }),
                                                     (0, i.jsx)("h4", {
                                                         className: "my-3",
-                                                        children: "What Is Agentforce for Financial Services?",
+                                                        children: "What is Agentforce for Financial Services?",
                                                     }),
                                                     (0, i.jsxs)("p", {
                                                         className: "mb-0",
@@ -558,14 +558,30 @@
                                                                 children: (0, i.jsxs)("span", {
                                                                     children: [
                                                                         (0, i.jsx)("strong", { children: "Enhanced Data Utilization:" }),
-                                                                        " It helps organizations unlock and activate data from various systems to create a unified customer profile, preparing it for AI-driven insights and actions."
+                                                                        "Agentforce breaks down data silos by connecting multiple systems, enabling organizations to create a unified customer profile. This enriched data foundation powers predictive analytics and smarter AI recommendations, turning information into measurable business impact."
+                                                                    ]
+                                                                })
+                                                            }),
+                                                            (0, i.jsx)("li", {
+                                                                children: (0, i.jsxs)("span", {
+                                                                    children: [
+                                                                        (0, i.jsx)("strong", { children: "Predictive Decision-Making:" }),
+                                                                        "By leveraging predictive analytics and machine learning, Agentforce identifies potential customer churn, cross-sell opportunities, and market trends before they occur allowing firms to act strategically and stay ahead of competitors."
+                                                                    ]
+                                                                })
+                                                            }),
+                                                            (0, i.jsx)("li", {
+                                                                children: (0, i.jsxs)("span", {
+                                                                    children: [
+                                                                        (0, i.jsx)("strong", { children: "Regulatory Compliance and Risk Management" }),
+                                                                        "With built-in compliance monitoring and AI-powered anomaly detection, Agentforce helps financial institutions stay aligned with evolving regulations. It minimizes operational risk through automated checks, documentation, and alerts."
                                                                     ]
                                                                 })
                                                             }),
                                                         ],
                                                     }),
 
-                                                        (0, i.jsx)("h4", {
+                                                    (0, i.jsx)("h4", {
                                                             className: "mt-3 pt-3 border-top mb-3",
                                                             children: "Summary"
                                                         }),
