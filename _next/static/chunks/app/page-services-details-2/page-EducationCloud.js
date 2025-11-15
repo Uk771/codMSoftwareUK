@@ -356,7 +356,7 @@
                             (0, i.jsx)("p", {
                               className: "mb-3",
                               children:
-                                "Salesforce Education Cloud redefines how institutions engage with students, faculty, and alumni. By consolidating operations, automating processes, and enhancing communication, it enables institutions to focus on what matters most—student success and long-term impact.",
+                                "Salesforce Education Cloud redefines how institutions engage with students, faculty, and alumni. By consolidating operations, automating processes, and enhancing communication, it enables institutions to focus on what matters most student success and long-term impact.",
                             }),
                             (0, i.jsxs)("p", {
                               className: "fw-bold text-900",
