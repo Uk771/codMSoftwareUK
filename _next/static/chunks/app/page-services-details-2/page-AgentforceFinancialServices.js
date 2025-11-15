@@ -33,7 +33,7 @@
                                             className: "text-start",
                                             children: [
                                                 (0, i.jsx)("h3", {
-                                                    children: "Salesforce Financial Service cloud",
+                                                    children: "Salesforce Financial Service Cloud",
                                                 }),
                                                 (0, i.jsxs)("div", {
                                                     className: "d-flex",
@@ -63,7 +63,7 @@
                                                         }),
                                                         (0, i.jsx)("p", {
                                                             className: "text-primary mb-0",
-                                                            children: "Salesforce Financial Service cloud",
+                                                            children: "Salesforce Financial Service Cloud",
                                                         }),
                                                     ],
                                                 }),
@@ -109,18 +109,18 @@
                                                 children: [
                                                     (0, i.jsx)("img", {
                                                         className: "rounded-3",
-                                                        src: "/assets/imgs/services-details-2/AgentforceFinancialServices/finance-cloud-salesforce.png",
+                                                        src: "/assets/imgs/services-details-2/AgentforceFinancialServices/AgentfinanceService.webp",
                                                         alt: "Codm",
                                                         style: { height: "450px" },
                                                     }),
                                                     (0, i.jsx)("h4", {
                                                         className: "my-3",
-                                                        children: "What is Agentforce for Financial Services?",
+                                                        children: "How are financial services using Agentforce",
                                                     }),
                                                     (0, i.jsxs)("p", {
                                                         className: "mb-0",
                                                         children: [
-                                                            "Agentforce for Financial Services is an AI-driven solution built on the Salesforce platform, purpose-designed for banks, insurers, and wealth managers. Unlike traditional automation tools, it uses agentic AI, autonomous, intelligent agents that can understand financial data in context, make decisions, and collaborate with teams to complete tasks end-to-end.Operating 24/7 and governed by Salesforce’s Einstein Trust Layer, Agentforce ensures that every AI-driven action remains secure, compliant, and auditable also aligning with financial regulations like FINRA, GDPR, and PCI-DSS.",
+                                                            "Agentforce for Financial Services is an AI-driven solution built on the Salesforce platform, purpose-designed for banks, insurers, and wealth managers. Unlike traditional automation tools, it uses agentic AI, autonomous, intelligent agents that can understand financial data in context, make decisions, and collaborate with teams to complete tasks end-to-end.Operating 24/7 and governed by Salesforce’s Einstein Trust Layer, Agentforce ensures that every AI-driven action remains secure, compliant, and auditable also aligning with financial regulations like Financial Industry Regulatory Authority(FINRA), General Data Protection Regulation(GDPR), and Payment Card Industry Data Security Standard(PCI-DSS).",
                                                             // (0, i.jsx)("span", {
                                                             //     className: "text-900 fw-bold",
                                                             //     children: " AI, automation, and CRM data into one intelligent assistant. ",
@@ -333,13 +333,58 @@
                                                                     (0, i.jsx)("h5", { children: "Use Cases & Measurable Impact" }),
                                                                     (0, i.jsx)("p", { children: "Salesforce customers are already realizing tangible gains: " }),
                                                                     // (0, i.jsx)("strong", { children: "How Agentforce Helps:" }),
+                                                                    // (0, i.jsxs)("ul", {
+                                                                    //     children: [
+                                                                    //         (0, i.jsx)("li", { children: "Hero FinCorp shortened loan approvals from 2 days to 30 minutes, reducing handoffs and improving CX." }),
+                                                                    //         (0, i.jsx)("li", { children: "Good360 accelerated disaster recovery routing 3× faster, using AI agents to lower their carbon footprint by 20%. " }),
+                                                                    //         (0, i.jsx)("li", { children: "RBC Wealth Management enhanced advisor productivity with unified data and AI-driven insights, enabling faster, more personalized client engagement." }),
+                                                                    //     ],
+                                                                    // }),
                                                                     (0, i.jsxs)("ul", {
                                                                         children: [
-                                                                            (0, i.jsx)("li", { children: "Hero FinCorp shortened loan approvals from 2 days to 30 minutes, reducing handoffs and improving CX." }),
-                                                                            (0, i.jsx)("li", { children: "Good360 accelerated disaster recovery routing 3× faster, using AI agents to lower their carbon footprint by 20%. " }),
-                                                                            (0, i.jsx)("li", { children: "RBC Wealth Management enhanced advisor productivity with unified data and AI-driven insights, enabling faster, more personalized client engagement." }),
+                                                                            (0, i.jsx)("li", {
+                                                                                children: (0, i.jsxs)("span", {
+                                                                                    children: [
+                                                                                        (0, i.jsxs)("a", {
+                                                                                            href: "https://www.herofincorp.com/",
+                                                                                            target: "_blank",
+                                                                                            children: [(0, i.jsx)("strong", { children: "Hero FinCorp : " })],
+                                                                                        }),
+                                                                                        " shortened loan approvals from 2 days to 30 minutes, reducing handoffs and improving CX."
+                                                                                    ]
+                                                                                })
+                                                                            }),
+
+                                                                            (0, i.jsx)("li", {
+                                                                                children: (0, i.jsxs)("span", {
+                                                                                    children: [
+                                                                                        (0, i.jsxs)("a", {
+                                                                                            href: "https://good360.org/",
+                                                                                            target: "_blank",
+                                                                                            children: [(0, i.jsx)("strong", { children: "Good360 : " })],
+                                                                                        }),
+                                                                                        " accelerated disaster recovery routing 3× faster, using AI agents to lower their carbon footprint by 20%."
+                                                                                    ]
+                                                                                })
+                                                                            }),
+
+                                                                            (0, i.jsx)("li", {
+                                                                                children: (0, i.jsxs)("span", {
+                                                                                    children: [
+                                                                                        (0, i.jsxs)("a", {
+                                                                                            href: "https://www.rbcwealthmanagement.com/en-asia/",
+                                                                                            target: "_blank",
+                                                                                            children: [(0, i.jsx)("strong", { children: "RBC Wealth Management : " })],
+                                                                                        }),
+                                                                                        " enhanced advisor productivity with unified data and AI-driven insights, enabling faster, more personalized client engagement."
+                                                                                    ],
+                                                                                }),
+                                                                            }),
                                                                         ],
                                                                     }),
+
+
+
                                                                     (0, i.jsx)("h5", { children: "Key Benefits" }),
                                                                     (0, i.jsxs)("ul", {
                                                                         children: [
@@ -503,12 +548,32 @@
                                                     }),
 
                                                     // new section 
-                                                    (0, i.jsx)("img", {
-                                                        className: "rounded-3",
-                                                        src: "/assets/imgs/services-details-2/AgentforceFinancialServices/AgentfinanceService.webp",
-                                                        alt: "Codm",
-                                                        style: { width: "auto", height: "350px" ,marginBottom:"4rem"},
+                                                    (0, i.jsxs)("div", {
+                                                        className: "p-3",
+                                                        children: [
+                                                            (0, i.jsxs)("div", {
+                                                                className: "ratio ratio-16x9 overflow-hidden",
+                                                                children: [
+                                                                    (0, i.jsx)("iframe", {
+                                                                        src: "https://www.youtube.com/embed/Is9TB6xSh9U?autoplay=1&mute=1&si=kH_tOitUTznZdC0-",
+                                                                        title: "YouTube video player",
+                                                                        frameBorder: "0",
+                                                                        height: "315",
+                                                                        width: "560",
+                                                                        allow:
+                                                                            "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+                                                                        allowFullScreen: true,
+                                                                    }),
+                                                                ],
+                                                            }),
+                                                        ],
                                                     }),
+                                                    // (0, i.jsx)("img", {
+                                                    //     className: "rounded-3",
+                                                    //     src: "/assets/imgs/services-details-2/AgentforceFinancialServices/AgentfinanceService.webp",
+                                                    //     alt: "Codm",
+                                                    //     style: { width: "auto", height: "350px", marginBottom: "4rem" },
+                                                    // }),
 
                                                     // advantages 
                                                     (0, i.jsx)("h5", { children: "Advantages of Agentforce for Financial Services Cloud" }),
@@ -582,9 +647,9 @@
                                                     }),
 
                                                     (0, i.jsx)("h4", {
-                                                            className: "mt-3 pt-3 border-top mb-3",
-                                                            children: "Summary"
-                                                        }),
+                                                        className: "mt-3 pt-3 border-top mb-3",
+                                                        children: "Summary"
+                                                    }),
                                                     (0, i.jsx)("p", {
                                                         className: "fw-medium text-600",
                                                         children: "Agentforce for Financial Services blends human expertise with AI-driven precision, empowering financial institutions to deliver faster, more secure, and more personalized services. It's not just automation; it's an intelligent digital partnership.At CODM Software Limited, we help financial institutions harness the power of Salesforce's Agentforce to streamline workflows, strengthen compliance, and deliver smarter, more personalized customer experiences through intelligent AI-driven automation."
@@ -804,7 +869,7 @@
                                                         className:
                                                             "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center active",
                                                         children: [
-                                                            "Agentforce Financial Services",
+                                                            "Salesforce Financial Service",
                                                             (0, i.jsx)("svg", {
                                                                 xmlns: "http://www.w3.org/2000/svg",
                                                                 width: 24,
@@ -819,7 +884,7 @@
                                                             }),
                                                         ],
                                                     }),
-                                                      (0, i.jsxs)(n.default, {
+                                                    (0, i.jsxs)(n.default, {
                                                         href: "/agentForce.html",
                                                         className:
                                                             "btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center",
@@ -859,26 +924,26 @@
                                                             }),
                                                         ],
                                                     }),
-                                                    (0, i.jsxs)("div", {
-                                                        className: "p-3",
-                                                        children: [
-                                                            (0, i.jsxs)("div", {
-                                                                className: "ratio ratio-16x9 overflow-hidden",
-                                                                children: [
-                                                                    (0, i.jsx)("iframe", {
-                                                                        src: "https://www.youtube.com/embed/Is9TB6xSh9U?si=kH_tOitUTznZdC0-",
-                                                                        title: "YouTube video player",
-                                                                        frameBorder: "0",
-                                                                        height: "315",
-                                                                        width: "560",
-                                                                        allow:
-                                                                            "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-                                                                        allowFullScreen: true,
-                                                                    }),
-                                                                ],
-                                                            }),
-                                                        ],
-                                                    }),
+                                                    // (0, i.jsxs)("div", {
+                                                    //     className: "p-3",
+                                                    //     children: [
+                                                    //         (0, i.jsxs)("div", {
+                                                    //             className: "ratio ratio-16x9 overflow-hidden",
+                                                    //             children: [
+                                                    //                 (0, i.jsx)("iframe", {
+                                                    //                     src: "https://www.youtube.com/embed/Is9TB6xSh9U?autoplay=1&mute=1&si=kH_tOitUTznZdC0-",
+                                                    //                     title: "YouTube video player",
+                                                    //                     frameBorder: "0",
+                                                    //                     height: "315",
+                                                    //                     width: "560",
+                                                    //                     allow:
+                                                    //                         "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+                                                    //                     allowFullScreen: true,
+                                                    //                 }),
+                                                    //             ],
+                                                    //         }),
+                                                    //     ],
+                                                    // }),
                                                     (0, i.jsxs)("div", {
                                                         className:
                                                             "bg-primary rounded-4 mt-7 position-relative",
@@ -1207,7 +1272,7 @@
                                                         (0, i.jsx)("h2", {
                                                             className: "mb-4 text-center",
                                                             children:
-                                                                "Share Your Thoughts on Our Agentforce Financial Service",
+                                                                "Share Your Thoughts on Our Salesforce Financial Service",
                                                         }),
                                                         (0, i.jsx)("h4", {
                                                             className: "mb-5",

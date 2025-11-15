@@ -81,6 +81,14 @@
                                 children: (0, i.jsx)("img", {
                                   src: "/assets/imgs/template/image (17).png",
                                   alt: "CodM",
+                                   onMouseEnter: (e) => {
+                                    e.currentTarget.style.filter = "drop-shadow(0 0 5px cornflowerblue)";
+                                    e.currentTarget.style.transform = "scale(1.05)";
+                                  },
+                                  onMouseLeave: (e) => {
+                                    e.currentTarget.style.filter = "none";
+                                    e.currentTarget.style.transform = "scale(1)";
+                                  },
                                 }),
                               }),
                                (0, i.jsx)("a", {
@@ -94,13 +102,21 @@
                                   style: {
                                     cursor: "pointer",
                                   },
+                                    onMouseEnter: (e) => {
+                                    e.currentTarget.style.filter = "drop-shadow(0 0 5px cornflowerblue)";
+                                    e.currentTarget.style.transform = "scale(1.05)";
+                                  },
+                                  onMouseLeave: (e) => {
+                                    e.currentTarget.style.filter = "none";
+                                    e.currentTarget.style.transform = "scale(1)";
+                                  },
                                 }),
                               }),
                               (0, i.jsx)("p", {
                                 className:
                                   "text-white fw-medium mt-3 mb-6 opacity-50",
                                 children:
-                                  "Boost your business with our customised CRM solutions. Optimised processes, improved customer relationships and scalable growth – we deliver innovations for your success.",
+                                  "Boost your business with our customised CRM solutions. Optimised processes, improved customer relationships and scalable growth we deliver innovations for your success.",
                               }),
                               (0, i.jsxs)("div", {
                                 className: "d-flex social-icons",
