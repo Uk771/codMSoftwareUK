@@ -111,7 +111,9 @@
                                                         className: "rounded-3",
                                                         src: "/assets/imgs/services-details-2/AgentforceFinancialServices/AgentfinanceService.webp",
                                                         alt: "Codm",
-                                                        style: { height: "450px" },
+                                                        style: {
+                                                            //  height: "450px" 
+                                                            },
                                                     }),
                                                     (0, i.jsx)("h4", {
                                                         className: "my-3",
@@ -555,7 +557,7 @@
                                                                 className: "ratio ratio-16x9 overflow-hidden",
                                                                 children: [
                                                                     (0, i.jsx)("iframe", {
-                                                                        src: "https://www.youtube.com/embed/Is9TB6xSh9U?autoplay=1&mute=1&si=kH_tOitUTznZdC0-",
+                                                                        src: "https://www.youtube.com/embed/Is9TB6xSh9U?autoplay=1&mute=0&enablejsapi=1&si=kH_tOitUTznZdC0-",
                                                                         title: "YouTube video player",
                                                                         frameBorder: "0",
                                                                         height: "315",
