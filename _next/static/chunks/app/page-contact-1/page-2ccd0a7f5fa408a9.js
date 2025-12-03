@@ -251,7 +251,7 @@
                                     alt: "India Flag",
                                     style: { width: "28px", height: "20px", marginRight: "6px" }
                                   }),
-                                  "Spaces - Birmingham, The Mailbox Level 1, The Mailbox, 3 Wharfside Street Spaces, Birmingham B1 1RD, UK"
+                                  "Regus - Edmund house, 12-22 Newhall St, Birmingham B3 3AS,UK"
                                 ]}),
                                 (0, n.jsx)("br", {}),
                                 (0, n.jsx)("span", { children: [
@@ -768,7 +768,7 @@
               (0, n.jsx)("div", {
                 className: "contact-map w-100",
                 children: (0, n.jsx)("iframe", {
-                  src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1768.845478665617!2d-1.908125624587197!3d52.475788839503444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bd5f589ef0d5%3A0xca4de25613579339!2sSpaces%20-%20Birmingham%2C%20The%20Mailbox!5e1!3m2!1sen!2sin!4v1745840770252!5m2!1sen!2sin",
+                  src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1850.887422427645!2d-1.904458524408209!3d52.48125453909874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bc8c5a62541d%3A0x64bf7ffe5e92ee9f!2sRegus%20-%20Birmingham%2C%20Edmund%20House!5e1!3m2!1sen!2sin!4v1764757297933!5m2!1sen!2sin",
                   allowFullScreen: !0,
                   loading: "lazy",
                 }),
