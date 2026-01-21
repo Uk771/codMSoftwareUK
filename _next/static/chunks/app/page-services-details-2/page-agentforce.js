@@ -958,27 +958,27 @@
                                                             }),
                                                         ],
                                                     }),
-                                                    (0, i.jsxs)("div", {
-                                                        className: "p-3",
-                                                        children: [
-                                                            (0, i.jsxs)("div", {
-                                                                className:
-                                                                    "ratio ratio-16x9 overflow-hidden",
-                                                                children: [
-                                                                    (0, i.jsx)("iframe", {
-                                                                        src: "https://www.youtube.com/embed/irdNqlytsLc?si=TLY15vB5JUhuqdDg",
-                                                                        title: "YouTube video player",
-                                                                        frameBorder: "0",
-                                                                        height: "315",
-                                                                        width: "560",
-                                                                        allow:
-                                                                            "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-                                                                        allowFullScreen: true,
-                                                                    }),
-                                                                ],
-                                                            }),
-                                                        ],
-                                                    }),
+                                                    // (0, i.jsxs)("div", {
+                                                    //     className: "p-3",
+                                                    //     children: [
+                                                    //         (0, i.jsxs)("div", {
+                                                    //             className:
+                                                    //                 "ratio ratio-16x9 overflow-hidden",
+                                                    //             children: [
+                                                    //                 (0, i.jsx)("iframe", {
+                                                    //                     src: "https://www.youtube.com/embed/irdNqlytsLc?si=TLY15vB5JUhuqdDg",
+                                                    //                     title: "YouTube video player",
+                                                    //                     frameBorder: "0",
+                                                    //                     height: "315",
+                                                    //                     width: "560",
+                                                    //                     allow:
+                                                    //                         "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+                                                    //                     allowFullScreen: true,
+                                                    //                 }),
+                                                    //             ],
+                                                    //         }),
+                                                    //     ],
+                                                    // }),
                                                     (0, i.jsxs)("div", {
                                                         className:
                                                             "bg-primary rounded-4 mt-7 position-relative",
@@ -1188,32 +1188,32 @@
                                                         className:
                                                             "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
                                                         children: [
-                                                            (0, i.jsxs)("div", {
-                                                                className:
-                                                                    "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
-                                                                children: [
-                                                                    (0, i.jsx)("div", {
-                                                                        className: "zoom-img rounded-4 fix",
-                                                                        children: (0, i.jsx)("img", {
-                                                                            src: "/assets/imgs/services-details-2/EinsteinAI/img-2.webp",
-                                                                            alt: "Codm",
-                                                                        }),
-                                                                    }),
-                                                                ],
-                                                            }),
-                                                            (0, i.jsxs)("div", {
-                                                                className:
-                                                                    "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
-                                                                children: [
-                                                                    (0, i.jsx)("div", {
-                                                                        className: "zoom-img rounded-4 fix",
-                                                                        children: (0, i.jsx)("img", {
-                                                                            src: "/assets/imgs/services-details-2/EinsteinAI/img-4.png",
-                                                                            alt: "Codm",
-                                                                        }),
-                                                                    }),
-                                                                ],
-                                                            }),
+                                                            // (0, i.jsxs)("div", {
+                                                            //     className:
+                                                            //         "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
+                                                            //     children: [
+                                                            //         (0, i.jsx)("div", {
+                                                            //             className: "zoom-img rounded-4 fix",
+                                                            //             children: (0, i.jsx)("img", {
+                                                            //                 src: "/assets/imgs/services-details-2/EinsteinAI/img-2.webp",
+                                                            //                 alt: "Codm",
+                                                            //             }),
+                                                            //         }),
+                                                            //     ],
+                                                            // }),
+                                                            // (0, i.jsxs)("div", {
+                                                            //     className:
+                                                            //         "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
+                                                            //     children: [
+                                                            //         (0, i.jsx)("div", {
+                                                            //             className: "zoom-img rounded-4 fix",
+                                                            //             children: (0, i.jsx)("img", {
+                                                            //                 src: "/assets/imgs/services-details-2/EinsteinAI/img-4.png",
+                                                            //                 alt: "Codm",
+                                                            //             }),
+                                                            //         }),
+                                                            //     ],
+                                                            // }),
                                                         ],
                                                     }),
                                                 ],

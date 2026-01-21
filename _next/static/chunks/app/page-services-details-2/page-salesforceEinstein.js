@@ -107,12 +107,12 @@
                       (0, i.jsxs)("div", {
                         className: "col-lg-8 ps-lg-4 mt-lg-0 mt-8 content",
                         children: [
-                          (0, i.jsx)("img", {
-                            className: "rounded-3",
-                            src: "/assets/imgs/services-details-2/EinsteinAI/img-1.png",
-                            alt: "Codm",
-                            // style: { width: "500px", height: "350px" },
-                          }),
+                          // (0, i.jsx)("img", {
+                          //   className: "rounded-3",
+                          //   src: "/assets/imgs/services-details-2/EinsteinAI/img-1.png",
+                          //   alt: "Codm",
+                          //   // style: { width: "500px", height: "350px" },
+                          // }),
                           (0, i.jsx)("h4", {
                             className: "my-3",
                             children: "Salesforce Einstein + AI Synergy",
@@ -474,12 +474,12 @@
                               " Generate marketing emails, chatbot responses, or sales summaries with AI‑powered prompts.",
                             ],
                           }),
-                          (0, i.jsx)("img", {
-                            className: "rounded-3 ",
-                            src: "/assets/imgs/services-details-2/EinsteinAI/img-3.webp",
-                            alt: "Codm",
-                            style: { width: "610px", height: "350px" },
-                          }),
+                          // (0, i.jsx)("img", {
+                          //   className: "rounded-3 ",
+                          //   src: "/assets/imgs/services-details-2/EinsteinAI/img-3.webp",
+                          //   alt: "Codm",
+                          //   style: { width: "610px", height: "350px" },
+                          // }),
                           (0, i.jsx)("h4", {
                             className: "mt-3 pt-3 border-top mb-3",
                             children: "Salesforce Einstein vs Agentforce"
@@ -786,16 +786,16 @@
                               (0, i.jsxs)("div", {
                                 className: "ratio ratio-16x9 overflow-hidden",
                                 children: [
-                                  (0, i.jsx)("iframe", {
-                                    src: "https://www.youtube.com/embed/2-LkbM-V4m8?si=1XABiMO4hE7Y7Opq",
-                                    title: "YouTube video player",
-                                    frameBorder: "0",
-                                    height: "315",
-                                    width: "560",
-                                    allow:
-                                      "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-                                    allowFullScreen: true,
-                                  }),
+                                  // (0, i.jsx)("iframe", {
+                                  //   src: "https://www.youtube.com/embed/2-LkbM-V4m8?si=1XABiMO4hE7Y7Opq",
+                                  //   title: "YouTube video player",
+                                  //   frameBorder: "0",
+                                  //   height: "315",
+                                  //   width: "560",
+                                  //   allow:
+                                  //     "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+                                  //   allowFullScreen: true,
+                                  // }),
                                 ],
                               }),
                             ],
@@ -996,32 +996,32 @@
                               }),
                             ],
                           }),
-                          (0, i.jsxs)("div", {
-                            className:
-                              "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
-                            children: [
-                              (0, i.jsx)("div", {
-                                className: "zoom-img rounded-4 fix",
-                                children: (0, i.jsx)("img", {
-                                  src: "/assets/imgs/services-details-2/EinsteinAI/img-2.webp",
-                                  alt: "Codm",
-                                }),
-                              }),
-                            ],
-                          }),
-                          (0, i.jsxs)("div", {
-                            className:
-                              "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
-                            children: [
-                              (0, i.jsx)("div", {
-                                className: "zoom-img rounded-4 fix",
-                                children: (0, i.jsx)("img", {
-                                  src: "/assets/imgs/services-details-2/EinsteinAI/img-4.png",
-                                  alt: "Codm",
-                                }),
-                              }),
-                            ],
-                          }),
+                          // (0, i.jsxs)("div", {
+                          //   className:
+                          //     "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
+                          //   children: [
+                          //     (0, i.jsx)("div", {
+                          //       className: "zoom-img rounded-4 fix",
+                          //       children: (0, i.jsx)("img", {
+                          //         src: "/assets/imgs/services-details-2/EinsteinAI/img-2.webp",
+                          //         alt: "Codm",
+                          //       }),
+                          //     }),
+                          //   ],
+                          // }),
+                          // (0, i.jsxs)("div", {
+                          //   className:
+                          //     "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
+                          //   children: [
+                          //     (0, i.jsx)("div", {
+                          //       className: "zoom-img rounded-4 fix",
+                          //       children: (0, i.jsx)("img", {
+                          //         src: "/assets/imgs/services-details-2/EinsteinAI/img-4.png",
+                          //         alt: "Codm",
+                          //       }),
+                          //     }),
+                          //   ],
+                          // }),
                         ],
                       }),
                     ],

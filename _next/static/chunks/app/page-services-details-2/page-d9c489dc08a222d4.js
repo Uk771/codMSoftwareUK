@@ -105,12 +105,12 @@
                       (0, i.jsxs)("div", {
                         className: "col-lg-8 ps-lg-4 mt-lg-0 mt-8 content",
                         children: [
-                          (0, i.jsx)("img", {
-                            className: "rounded-3",
-                            src: "/assets/imgs/services-details-2/Salesforce-Integration-scaled.jpg",
-                            // style: { height: "500px", width: "100%" },
-                            alt: "Codm",
-                          }),
+                          // (0, i.jsx)("img", {
+                          //   className: "rounded-3",
+                          //   src: "/assets/imgs/services-details-2/Salesforce-Integration-scaled.jpg",
+                          //   // style: { height: "500px", width: "100%" },
+                          //   alt: "Codm",
+                          // }),
                           (0, i.jsx)("h4", {
                             className: "my-3",
                             children: "Drive Business Growth with Salesforce CRM",
@@ -118,7 +118,7 @@
                           (0, i.jsxs)("p", {
                             className: "mb-0",
                             children: [
-                              "At Codm, we empower businesses to transform their customer relationships, streamline operations, and boost revenue using Salesforce — the world’s #1 CRM platform. Whether you're a small business or a global enterprise, our Salesforce CRM services are tailored to help you unlock the full potential of your customer data and workflows. ",
+                              "At Codm, we empower businesses to transform their customer relationships, streamline operations, and boost revenue using Salesforce CRM platform. Whether you're a small business or a global enterprise, our Salesforce CRM services are tailored to help you unlock the full potential of your customer data and workflows.",
                               (0, i.jsx)("span", {
                                 className: "text-900 fw-bold",
                                 children: "Our innovative business",

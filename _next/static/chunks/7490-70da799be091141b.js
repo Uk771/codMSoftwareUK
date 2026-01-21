@@ -378,7 +378,7 @@
                           "data-aos": "fade-zoom-in",
                           "data-aos-delay": 200,
                           children:
-                            "Copyright \xa9 2025 CodM. All Rights Reserved",
+                            "Copyright \xa9 2026 CodM. All Rights Reserved",
                         }),
                       }),
                     ],
@@ -684,7 +684,7 @@
                           (0, i.jsx)("p", {
                             className: "text-900 opacity-50 mb-0 fs-7",
                             children:
-                              "Copyright \xa9 2025 CodM. All Rights Reserved",
+                              "Copyright \xa9 2026 CodM. All Rights Reserved",
                           }),
                           (0, i.jsxs)("div", {
                             className: "d-flex",
@@ -1065,7 +1065,7 @@
                           (0, i.jsx)("span", {
                             className: "text-white opacity-50 mb-3 mb-md-0",
                             children:
-                              "Copyright \xa9 2025 CodM. All Rights Reserved",
+                              "Copyright \xa9 2026 CodM. All Rights Reserved",
                           }),
                           (0, i.jsxs)("div", {
                             className: "d-flex",
@@ -1464,7 +1464,7 @@
                         children: (0, i.jsx)("span", {
                           className: "text-white opacity-50",
                           children:
-                            "Copyright \xa9 2025 CodM. All Rights Reserved",
+                            "Copyright \xa9 2026 CodM. All Rights Reserved",
                         }),
                       }),
                     ],
@@ -1751,7 +1751,7 @@
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/agentForce.html",
+                                        href: "salesforceagentforce.html",
                                         children: "Agentforce Implementation",
                                       }),
                                     }),
@@ -2821,7 +2821,7 @@
                         (0, i.jsx)("li", {
                           children: (0, i.jsx)(d.default, {
                             className: "dropdown-item",
-                            href: "/agentForce.html",
+                            href: "/salesforceagentforce.html",
                             children: "Agentforce Implementation",
                           }),
                         }),

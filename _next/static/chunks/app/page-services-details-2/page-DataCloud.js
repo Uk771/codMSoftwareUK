@@ -339,14 +339,14 @@
                                     }),
                                   ],
                                 }),
-                                (0, i.jsx)("div", {
-                                  className: "col-lg-5 mt-lg-0 mt-5",
-                                  children: (0, i.jsx)("img", {
-                                    className: "rounded-3",
-                                    src: "/assets/imgs/services-details-2/datacloud/img-2.png",
-                                    alt: "Codm",
-                                  }),
-                                }),
+                                // (0, i.jsx)("div", {
+                                //   className: "col-lg-5 mt-lg-0 mt-5",
+                                //   children: (0, i.jsx)("img", {
+                                //     className: "rounded-3",
+                                //     src: "/assets/imgs/services-details-2/datacloud/img-2.png",
+                                //     alt: "Codm",
+                                //   }),
+                                // }),
                               ],
                             }),
                             (0, i.jsx)("h4", {
@@ -884,13 +884,13 @@
                               className:
                                 "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
                               children: [
-                                (0, i.jsx)("div", {
-                                  className: "zoom-img rounded-4 fix",
-                                  children: (0, i.jsx)("img", {
-                                    src: "/assets/imgs/services-details-2/datacloud/img-3.png",
-                                    alt: "Codm",
-                                  }),
-                                }),
+                                // (0, i.jsx)("div", {
+                                //   className: "zoom-img rounded-4 fix",
+                                //   children: (0, i.jsx)("img", {
+                                //     src: "/assets/imgs/services-details-2/datacloud/img-3.png",
+                                //     alt: "Codm",
+                                //   }),
+                                // }),
                               ],
                             }),
                           ],

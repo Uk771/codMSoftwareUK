@@ -105,11 +105,11 @@
                       (0, i.jsxs)("div", {
                         className: "col-lg-8 ps-lg-4 mt-lg-0 mt-8 content",
                         children: [
-                          (0, i.jsx)("img", {
-                            className: "rounded-3",
-                            src: "/assets/imgs/services-details-2/Integration Framework/img-2.png",
-                            alt: "Codm",
-                          }),
+                          // (0, i.jsx)("img", {
+                          //   className: "rounded-3",
+                          //   src: "/assets/imgs/services-details-2/Integration Framework/img-2.png",
+                          //   alt: "Codm",
+                          // }),
                           (0, i.jsx)("h4", {
                             className: "my-3",
                             children: "What is Integration Framework?",
@@ -935,20 +935,20 @@
                           (0, i.jsxs)("div", {
                             className: "p-3",
                             children: [
-                              (0, i.jsxs)("div", {
-                                className: "ratio ratio-16x9 overflow-hidden",
-                                children: [
-                                  (0, i.jsx)("iframe", {
-                                    src: "https://www.youtube.com/embed/19aPJtvZC_k?si=2E0OWUMlo4aMW08F",
-                                    title: "YouTube video player",
-                                    frameBorder: "0",
-                                    height: "315",
-                                    width: "560",
-                                    allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-                                    allowFullScreen: true
-                                  })
-                                ]
-                              }),
+                              // (0, i.jsxs)("div", {
+                              //   className: "ratio ratio-16x9 overflow-hidden",
+                              //   children: [
+                              //     (0, i.jsx)("iframe", {
+                              //       src: "https://www.youtube.com/embed/19aPJtvZC_k?si=2E0OWUMlo4aMW08F",
+                              //       title: "YouTube video player",
+                              //       frameBorder: "0",
+                              //       height: "315",
+                              //       width: "560",
+                              //       allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+                              //       allowFullScreen: true
+                              //     })
+                              //   ]
+                              // }),
                             ]
                           }),
                           (0, i.jsxs)("div", {

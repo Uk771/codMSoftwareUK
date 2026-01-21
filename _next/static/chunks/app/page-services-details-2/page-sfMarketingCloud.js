@@ -105,11 +105,11 @@
                         (0, i.jsxs)("div", {
                           className: "col-lg-8 ps-lg-4 mt-lg-0 mt-8 content",
                           children: [
-                            (0, i.jsx)("img", {
-                              className: "rounded-3",
-                              src: "/assets/imgs/services-details-2/MarketingCloud/img-1.png",
-                              alt: "Codm",
-                            }),
+                            // (0, i.jsx)("img", {
+                            //   className: "rounded-3",
+                            //   src: "/assets/imgs/services-details-2/MarketingCloud/img-1.png",
+                            //   alt: "Codm",
+                            // }),
                             (0, i.jsx)("h4", {
                               className: "my-3",
                               children: "Salesforce Marketing Cloud Services",
@@ -240,7 +240,7 @@
                             (0, i.jsx)("p", {
                               className: "mb-4",
                               children:
-                                "Salesforce Marketing Cloud (SFMC) is a leading digital marketing platform that empowers businesses to create highly personalized customer experiences at scale. From email marketing and social media engagement to customer journey management and real-time analytics, Marketing Cloud offers an integrated suite of tools designed to build relationships and increase ROI across every stage of the customer lifecycle. Whether you're a small business or a global enterprise, Marketing Cloud helps you connect with your audience in meaningful ways—on the right channel, at the right time, with the right message",
+                                "Salesforce Marketing Cloud (SFMC) is a leading digital marketing platform that empowers businesses to create highly personalized customer experiences at scale. From email marketing and social media engagement to customer journey management and real-time analytics, Marketing Cloud offers an integrated suite of tools designed to build relationships and increase ROI across every stage of the customer lifecycle. Whether you're a small business or a global enterprise, Marketing Cloud helps you connect with your audience in meaningful ways on the right channel, at the right time, with the right message",
                             }),
                             (0, i.jsxs)("div", {
                               className: "row",
@@ -301,7 +301,7 @@
                                             }),
                                             (0, i.jsxs)("p", {
                                               children: [
-                                                "Engage your customers across email, SMS, social media, and advertising platforms—while maintaining a consistent message and brand voice. ",
+                                                "Engage your customers across email, SMS, social media, and advertising platforms while maintaining a consistent message and brand voice. ",
                                               ],
                                             }),
                                           ],
@@ -339,14 +339,14 @@
                                     }),
                                   ],
                                 }),
-                                (0, i.jsx)("div", {
-                                  className: "col-lg-5 mt-lg-0 mt-5",
-                                  children: (0, i.jsx)("img", {
-                                    className: "rounded-3",
-                                    src: "/assets/imgs/services-details-2/MarketingCloud/img-2.png",
-                                    alt: "Codm",
-                                  }),
-                                }),
+                                // (0, i.jsx)("div", {
+                                //   className: "col-lg-5 mt-lg-0 mt-5",
+                                //   children: (0, i.jsx)("img", {
+                                //     className: "rounded-3",
+                                //     src: "/assets/imgs/services-details-2/MarketingCloud/img-2.png",
+                                //     alt: "Codm",
+                                //   }),
+                                // }),
                               ],
                             }),
                             (0, i.jsx)("h4", {
@@ -376,7 +376,7 @@
                                 (0, i.jsx)("span", {
                                   className: "fw-medium text-600",
                                   children:
-                                    "Engage your customers across email, SMS, social media, and advertising platforms—while maintaining a consistent message and brand voice.",
+                                    "Engage your customers across email, SMS, social media, and advertising platforms while maintaining a consistent message and brand voice.",
                                 }),
                               ],
                             }),
@@ -1030,13 +1030,13 @@
                               className:
                                 "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
                               children: [
-                                (0, i.jsx)("div", {
-                                  className: "zoom-img rounded-4 fix",
-                                  children: (0, i.jsx)("img", {
-                                    src: "/assets/imgs/services-details-2/MarketingCloud/img-3.webp",
-                                    alt: "Codm",
-                                  }),
-                                }),
+                                // (0, i.jsx)("div", {
+                                //   className: "zoom-img rounded-4 fix",
+                                //   children: (0, i.jsx)("img", {
+                                //     src: "/assets/imgs/services-details-2/MarketingCloud/img-3.webp",
+                                //     alt: "Codm",
+                                //   }),
+                                // }),
                               ],
                             }),
                           ],

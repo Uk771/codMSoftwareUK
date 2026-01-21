@@ -107,14 +107,14 @@
                                             (0, i.jsxs)("div", {
                                                 className: "col-lg-8 ps-lg-4 mt-lg-0 mt-8 content",
                                                 children: [
-                                                    (0, i.jsx)("img", {
-                                                        className: "rounded-3",
-                                                        src: "/assets/imgs/services-details-2/AgentforceFinancialServices/AgentfinanceService.webp",
-                                                        alt: "Codm",
-                                                        style: {
-                                                            //  height: "450px" 
-                                                            },
-                                                    }),
+                                                    // (0, i.jsx)("img", {
+                                                    //     className: "rounded-3",
+                                                    //     src: "/assets/imgs/services-details-2/AgentforceFinancialServices/AgentfinanceService.webp",
+                                                    //     alt: "Codm",
+                                                    //     style: {
+                                                    //         //  height: "450px" 
+                                                    //         },
+                                                    // }),
                                                     (0, i.jsx)("h4", {
                                                         className: "my-3",
                                                         children: "How are financial services using Agentforce",
@@ -550,26 +550,26 @@
                                                     }),
 
                                                     // new section 
-                                                    (0, i.jsxs)("div", {
-                                                        className: "p-3",
-                                                        children: [
-                                                            (0, i.jsxs)("div", {
-                                                                className: "ratio ratio-16x9 overflow-hidden",
-                                                                children: [
-                                                                    (0, i.jsx)("iframe", {
-                                                                        src: "https://www.youtube.com/embed/Is9TB6xSh9U?autoplay=1&mute=0&enablejsapi=1&si=kH_tOitUTznZdC0-",
-                                                                        title: "YouTube video player",
-                                                                        frameBorder: "0",
-                                                                        height: "315",
-                                                                        width: "560",
-                                                                        allow:
-                                                                            "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-                                                                        allowFullScreen: true,
-                                                                    }),
-                                                                ],
-                                                            }),
-                                                        ],
-                                                    }),
+                                                    // (0, i.jsxs)("div", {
+                                                    //     className: "p-3",
+                                                    //     children: [
+                                                    //         (0, i.jsxs)("div", {
+                                                    //             className: "ratio ratio-16x9 overflow-hidden",
+                                                    //             children: [
+                                                    //                 (0, i.jsx)("iframe", {
+                                                    //                     src: "https://www.youtube.com/embed/Is9TB6xSh9U?autoplay=1&mute=0&enablejsapi=1&si=kH_tOitUTznZdC0-",
+                                                    //                     title: "YouTube video player",
+                                                    //                     frameBorder: "0",
+                                                    //                     height: "315",
+                                                    //                     width: "560",
+                                                    //                     allow:
+                                                    //                         "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+                                                    //                     allowFullScreen: true,
+                                                    //                 }),
+                                                    //             ],
+                                                    //         }),
+                                                    //     ],
+                                                    // }),
                                                     // (0, i.jsx)("img", {
                                                     //     className: "rounded-3",
                                                     //     src: "/assets/imgs/services-details-2/AgentforceFinancialServices/AgentfinanceService.webp",
@@ -1228,32 +1228,32 @@
                                                     //         }),
                                                     //     ],
                                                     // }),
-                                                    (0, i.jsxs)("div", {
-                                                        className:
-                                                            "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
-                                                        children: [
-                                                            (0, i.jsx)("div", {
-                                                                className: "zoom-img rounded-4 fix",
-                                                                children: (0, i.jsx)("img", {
-                                                                    src: "/assets/imgs/services-details-2/EinsteinAI/img-2.webp",
-                                                                    alt: "Codm",
-                                                                }),
-                                                            }),
-                                                        ],
-                                                    }),
-                                                    (0, i.jsxs)("div", {
-                                                        className:
-                                                            "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
-                                                        children: [
-                                                            (0, i.jsx)("div", {
-                                                                className: "zoom-img rounded-4 fix",
-                                                                children: (0, i.jsx)("img", {
-                                                                    src: "/assets/imgs/services-details-2/AgentforceFinancialServices/featuresofFinacialServicesCloud.png",
-                                                                    alt: "Codm",
-                                                                }),
-                                                            }),
-                                                        ],
-                                                    }),
+                                                    // (0, i.jsxs)("div", {
+                                                    //     className:
+                                                    //         "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
+                                                    //     children: [
+                                                    //         (0, i.jsx)("div", {
+                                                    //             className: "zoom-img rounded-4 fix",
+                                                    //             children: (0, i.jsx)("img", {
+                                                    //                 src: "/assets/imgs/services-details-2/EinsteinAI/img-2.webp",
+                                                    //                 alt: "Codm",
+                                                    //             }),
+                                                    //         }),
+                                                    //     ],
+                                                    // }),
+                                                    // (0, i.jsxs)("div", {
+                                                    //     className:
+                                                    //         "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
+                                                    //     children: [
+                                                    //         (0, i.jsx)("div", {
+                                                    //             className: "zoom-img rounded-4 fix",
+                                                    //             children: (0, i.jsx)("img", {
+                                                    //                 src: "/assets/imgs/services-details-2/AgentforceFinancialServices/featuresofFinacialServicesCloud.png",
+                                                    //                 alt: "Codm",
+                                                    //             }),
+                                                    //         }),
+                                                    //     ],
+                                                    // }),
                                                 ],
                                             }),
                                         ],
