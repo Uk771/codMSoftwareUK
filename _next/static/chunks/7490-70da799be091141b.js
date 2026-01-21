@@ -274,7 +274,7 @@
                               className: "text-white mt-30 d-flex align-items-start gap-2",
                               children: [
                                 (0, i.jsx)("img", {
-                                  src: "http://127.0.0.1:5500/assets/imgs/contact-4/Flag%20of%20UK.png",
+                                  src: "/assets/imgs/contact-4/Flag of UK.png",
                                   alt: "UK",
                                   width: 20,
                                   height: 14,
@@ -288,7 +288,7 @@
                               className: "text-white mt-30 d-flex align-items-start gap-2",
                               children: [
                                 (0, i.jsx)("img", {
-                                  src: "http://127.0.0.1:5500/assets/imgs/contact-4/Flag%20of%20UK.png",
+                                  src: "/assets/imgs/contact-4/Flag of UK.png",
                                   alt: "UK",
                                   width: 20,
                                   height: 14,
