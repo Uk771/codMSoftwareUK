@@ -894,15 +894,15 @@
                               (0, i.jsxs)("div", {
                                 className: "ratio ratio-16x9 overflow-hidden",
                                 children: [
-                                  (0, i.jsx)("iframe", {
-                                    src: "https://www.youtube.com/embed/EdoR5GwY4D4?si=4Wafp-rxtG6yyG4A",
-                                    title: "YouTube video player",
-                                    frameBorder: "0",
-                                    height: "315",
-                                    width: "560",
-                                    allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-                                    allowFullScreen: true
-                                  })
+                                  // (0, i.jsx)("iframe", {
+                                  //   src: "https://www.youtube.com/embed/EdoR5GwY4D4?si=4Wafp-rxtG6yyG4A",
+                                  //   title: "YouTube video player",
+                                  //   frameBorder: "0",
+                                  //   height: "315",
+                                  //   width: "560",
+                                  //   allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+                                  //   allowFullScreen: true
+                                  // })
                                 ]
                               }),
                             ]

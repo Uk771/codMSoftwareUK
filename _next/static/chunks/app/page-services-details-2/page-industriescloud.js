@@ -105,11 +105,11 @@
                                             (0, i.jsxs)("div", {
                                                 className: "col-lg-8 ps-lg-4 mt-lg-0 mt-8 content",
                                                 children: [
-                                                    (0, i.jsx)("img", {
-                                                        className: "rounded-3",
-                                                        src: "/assets/imgs/services-details-2/industries cloud/img-0.png",
-                                                        alt: "Codm",
-                                                    }),
+                                                    // (0, i.jsx)("img", {
+                                                    //     className: "rounded-3",
+                                                    //     src: "/assets/imgs/services-details-2/industries cloud/img-0.png",
+                                                    //     alt: "Codm",
+                                                    // }),
                                                     (0, i.jsx)("h4", {
                                                         className: "my-3",
                                                         children: "Unlock Industry-Specific Success with Salesforce Industries Cloud",
@@ -357,12 +357,12 @@
                                                     "With Industries Cloud, you gain access to OmniStudio, a set of configuration-based tools that lets you design customer experiences, automate logic, and integrate with external systems—all without deep coding.",
                                                     (0, i.jsx)("br", {}),
                                                     "From guided workflows (OmniScripts) to dynamic UI components (FlexCards), OmniStudio allows you to quickly deploy complex business processes specific to your sector.",
-                                                    (0, i.jsx)("img", {
-                                                        className: "rounded-3 mt-3 ",
-                                                        style: { height: "310px" },
-                                                        src: "/assets/imgs/services-details-2/industries cloud/img-2.png",
-                                                        alt: "Codm",
-                                                    }),
+                                                    // (0, i.jsx)("img", {
+                                                    //     className: "rounded-3 mt-3 ",
+                                                    //     style: { height: "310px" },
+                                                    //     src: "/assets/imgs/services-details-2/industries cloud/img-2.png",
+                                                    //     alt: "Codm",
+                                                    // }),
                                                     (0, i.jsx)("h4", {
                                                         className: "mt-3 pt-3 border-top mb-3",
                                                         children: "Industry-Specific Data Models",
@@ -960,19 +960,19 @@
                                                             }),
                                                         ],
                                                     }),
-                                                    (0, i.jsxs)("div", {
-                                                        className:
-                                                            "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
-                                                        children: [
-                                                            (0, i.jsx)("div", {
-                                                                className: "zoom-img rounded-4 fix",
-                                                                children: (0, i.jsx)("img", {
-                                                                    src: "/assets/imgs/services-details-2/industries cloud/img-1.png",
-                                                                    alt: "Codm",
-                                                                }),
-                                                            }),
-                                                        ],
-                                                    }),
+                                                    // (0, i.jsxs)("div", {
+                                                    //     className:
+                                                    //         "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
+                                                    //     children: [
+                                                    //         (0, i.jsx)("div", {
+                                                    //             className: "zoom-img rounded-4 fix",
+                                                    //             children: (0, i.jsx)("img", {
+                                                    //                 src: "/assets/imgs/services-details-2/industries cloud/img-1.png",
+                                                    //                 alt: "Codm",
+                                                    //             }),
+                                                    //         }),
+                                                    //     ],
+                                                    // }),
                                                 ],
                                             }),
                                         ],

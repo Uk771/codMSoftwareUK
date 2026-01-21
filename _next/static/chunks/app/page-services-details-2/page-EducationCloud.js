@@ -105,11 +105,11 @@
                         (0, i.jsxs)("div", {
                           className: "col-lg-8 ps-lg-4 mt-lg-0 mt-8 content",
                           children: [
-                            (0, i.jsx)("img", {
-                              className: "rounded-3",
-                              src: "/assets/imgs/services-details-2/Education-Cloud/img-1.webp",
-                              alt: "Codm",
-                            }),
+                            // (0, i.jsx)("img", {
+                            //   className: "rounded-3",
+                            //   src: "/assets/imgs/services-details-2/Education-Cloud/img-1.webp",
+                            //   alt: "Codm",
+                            // }),
                             (0, i.jsx)("h4", {
                               className: "my-3",
                               children: "Salesforce Education Cloud Services",
@@ -339,14 +339,14 @@
                                     }),
                                   ],
                                 }),
-                                (0, i.jsx)("div", {
-                                  className: "col-lg-5 mt-lg-0 mt-5",
-                                  children: (0, i.jsx)("img", {
-                                    className: "rounded-3",
-                                    src: "/assets/imgs/services-details-2/Education-Cloud/img-2.png",
-                                    alt: "Codm",
-                                  }),
-                                }),
+                                // (0, i.jsx)("div", {
+                                //   className: "col-lg-5 mt-lg-0 mt-5",
+                                //   children: (0, i.jsx)("img", {
+                                //     className: "rounded-3",
+                                //     src: "/assets/imgs/services-details-2/Education-Cloud/img-2.png",
+                                //     alt: "Codm",
+                                //   }),
+                                // }),
                               ],
                             }),
                             (0, i.jsx)("h4", {
@@ -969,13 +969,13 @@
                               className:
                                 "position-relative mb-lg-0 mb-8 d-inline-block fix mt-7",
                               children: [
-                                (0, i.jsx)("div", {
-                                  className: "zoom-img rounded-4 fix",
-                                  children: (0, i.jsx)("img", {
-                                    src: "/assets/imgs/services-details-2/Education-Cloud/img-4.png",
-                                    alt: "Codm",
-                                  }),
-                                }),
+                                // (0, i.jsx)("div", {
+                                //   className: "zoom-img rounded-4 fix",
+                                //   children: (0, i.jsx)("img", {
+                                //     src: "/assets/imgs/services-details-2/Education-Cloud/img-4.png",
+                                //     alt: "Codm",
+                                //   }),
+                                // }),
                               ],
                             }),
                           ],

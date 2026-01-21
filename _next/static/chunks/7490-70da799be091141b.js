@@ -257,114 +257,51 @@
                                     }),
                                   ],
                                 }),
-                                (0, i.jsxs)("div", {
-                                  className: "col-lg-3 col-md-4 col-6",
-                                  "data-aos": "fade-zoom-in",
-                                  "data-aos-delay": 400,
-                                  children: [
-                                    (0, i.jsx)("h3", {
-                                      className:
-                                        "text-white opacity-50 fs-6 fw-black text-uppercase pb-3 pt-5",
-                                      children: "Services",
-                                    }),
-                                    (0, i.jsxs)("div", {
-                                      className:
-                                        "d-flex flex-column align-items-start",
-                                      children: [
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/SalesforceCRM.html",
-                                          children: "Salesforce CRM",
-                                        }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/DotNetApplication.html",
-                                          children: ".NET Application",
-                                        }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/React-Application.html",
-                                          children: "React Application",
-                                        }),
-                                        // (0, i.jsx)(d.default, {
-                                        //   className:
-                                        //     "hover-effect text-white mb-2 fw-medium fs-6",
-                                        //   href: "#",
-                                        //   children: "Gantt chart makers",
-                                        // }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/API-Integration.html",
-                                          children: "API Integration",
-                                        }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/dataintegration.html",
-                                          children: "Data Integration",
-                                        }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/dataintegration.html",
-                                          children: "Data Migration",
-                                        }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/Technical-Support.html",
-                                          children: "Technical Support",
-                                        }),
-                                      ],
-                                    }),
-                                  ],
+                             (0, i.jsxs)("div", {
+                            className: "col-lg-5 col-md-6 col-6",
+                            "data-aos": "fade-zoom-in",
+                            "data-aos-delay": 500,
+                            children: [
+                              (0, i.jsx)("h3", {
+                                className:
+                                  "text-white opacity-50 fs-6 fw-black text-uppercase  pt-5",
+                                children: "Contact",
+                              }),
+                              (0, i.jsxs)("div", {
+                          className: "contact-list mb-30 mt-30",
+                          children: [
+                            (0, i.jsxs)("p", {
+                              className: "text-white mt-30 d-flex align-items-start gap-2",
+                              children: [
+                                (0, i.jsx)("img", {
+                                  src: "http://127.0.0.1:5500/assets/imgs/contact-4/Flag%20of%20UK.png",
+                                  alt: "UK",
+                                  width: 20,
+                                  height: 14,
+                                  className: "mt-3",
                                 }),
-                                (0, i.jsxs)("div", {
-                                  className: "col-lg-3 col-md-4 col-6",
-                                  "data-aos": "fade-zoom-in",
-                                  "data-aos-delay": 500,
-                                  children: [
-                                    (0, i.jsx)("h3", {
-                                      className:
-                                        "text-white opacity-50 fs-6 fw-black text-uppercase pb-3 pt-5",
-                                      children: "Contact",
-                                    }),
-                                    (0, i.jsxs)("div", {
-                                      className:
-                                        "d-flex flex-column align-items-start",
-                                      children: [
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/contact.html",
-                                          children: "Knowledge Base",
-                                        }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/contact.html",
-                                          children: "Documents",
-                                        }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/contact.html",
-                                          children: "System Status",
-                                        }),
-                                        (0, i.jsx)(d.default, {
-                                          className:
-                                            "hover-effect text-white mb-2 fw-medium fs-6",
-                                          href: "/contact.html",
-                                          children: "Security",
-                                        }),
-                                      ],
-                                    }),
-                                  ],
+                                "Regus - Edmund House, 12–22 Newhall St, Birmingham B3 3AS, UK",
+                              ],
+                            }),
+
+                            (0, i.jsxs)("p", {
+                              className: "text-white mt-30 d-flex align-items-start gap-2",
+                              children: [
+                                (0, i.jsx)("img", {
+                                  src: "http://127.0.0.1:5500/assets/imgs/contact-4/Flag%20of%20UK.png",
+                                  alt: "UK",
+                                  width: 20,
+                                  height: 14,
+                                   className: "mt-3",
                                 }),
+                                "71–75 Shelton Street, Covent Garden, London WC2H 9JQ, UK",
+                              ],
+                            }),
+                          ],
+                        })
+
+                            ],
+                              })
                               ],
                             }),
                           }),
@@ -378,7 +315,7 @@
                           "data-aos": "fade-zoom-in",
                           "data-aos-delay": 200,
                           children:
-                            "Copyright \xa9 2025 CodM. All Rights Reserved",
+                            "Copyright \xa9 2026 CodM Software Ltd. All Rights Reserved",
                         }),
                       }),
                     ],
@@ -684,7 +621,7 @@
                           (0, i.jsx)("p", {
                             className: "text-900 opacity-50 mb-0 fs-7",
                             children:
-                              "Copyright \xa9 2025 CodM. All Rights Reserved",
+                              "Copyright \xa9 2026 CodM Software Ltd. All Rights Reserved",
                           }),
                           (0, i.jsxs)("div", {
                             className: "d-flex",
@@ -1065,7 +1002,7 @@
                           (0, i.jsx)("span", {
                             className: "text-white opacity-50 mb-3 mb-md-0",
                             children:
-                              "Copyright \xa9 2025 CodM. All Rights Reserved",
+                              "Copyright \xa9 2026 CodM Software Ltd. All Rights Reserved",
                           }),
                           (0, i.jsxs)("div", {
                             className: "d-flex",
@@ -1464,7 +1401,7 @@
                         children: (0, i.jsx)("span", {
                           className: "text-white opacity-50",
                           children:
-                            "Copyright \xa9 2025 CodM. All Rights Reserved",
+                            "Copyright \xa9 2026 CodM Software Ltd. All Rights Reserved",
                         }),
                       }),
                     ],
@@ -1751,7 +1688,7 @@
                                     }),
                                     (0, i.jsx)("li", {
                                       children: (0, i.jsx)(d.default, {
-                                        href: "/agentForce.html",
+                                        href: "salesforceagentforce.html",
                                         children: "Agentforce Implementation",
                                       }),
                                     }),
@@ -2405,19 +2342,7 @@
                         }),
                       ],
                     }),
-                    // (0, i.jsxs)("div", {
-                    //   className: "contact-list mb-30",
-                    //   children: [
-                    //     (0, i.jsx)("h4", { children: "Office Address" }),
-                    //     (0, i.jsxs)("p", {
-                    //       children: [
-                    //         "123/A, Miranda City Likaoli ",
-                    //         (0, i.jsx)("br", {}),
-                    //         "Prikano, Dope",
-                    //       ],
-                    //     }),
-                    //   ],
-                    // }),
+        
                     (0, i.jsxs)("div", {
                       className: "contact-list mb-30",
                       children: [
@@ -2821,7 +2746,7 @@
                         (0, i.jsx)("li", {
                           children: (0, i.jsx)(d.default, {
                             className: "dropdown-item",
-                            href: "/agentForce.html",
+                            href: "/salesforceagentforce.html",
                             children: "Agentforce Implementation",
                           }),
                         }),

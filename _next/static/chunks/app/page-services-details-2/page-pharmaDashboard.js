@@ -787,21 +787,21 @@
                           (0, i.jsxs)("div", {
                             className: "p-3",
                             children: [
-                              (0, i.jsxs)("div", {
-                                className: "ratio ratio-16x9 overflow-hidden",
-                                children: [
-                                  (0, i.jsx)("iframe", {
-                                    src: "https://www.youtube.com/embed/buQ48j8Zr94?si=mEIkJQ8cAf9Xfqnd",
-                                    title: "YouTube video player",
-                                    frameBorder: "0",
-                                    height: "315",
-                                    width: "560",
-                                    allow:
-                                      "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-                                    allowFullScreen: true,
-                                  }),
-                                ],
-                              }),
+                              // (0, i.jsxs)("div", {
+                              //   className: "ratio ratio-16x9 overflow-hidden",
+                              //   children: [
+                              //     (0, i.jsx)("iframe", {
+                              //       src: "https://www.youtube.com/embed/buQ48j8Zr94?si=mEIkJQ8cAf9Xfqnd",
+                              //       title: "YouTube video player",
+                              //       frameBorder: "0",
+                              //       height: "315",
+                              //       width: "560",
+                              //       allow:
+                              //         "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+                              //       allowFullScreen: true,
+                              //     }),
+                              //   ],
+                              // }),
                             ],
                           }),
                           (0, i.jsxs)("div", {

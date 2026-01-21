@@ -105,12 +105,12 @@
                       (0, i.jsxs)("div", {
                         className: "col-lg-8 ps-lg-4 mt-lg-0 mt-8 content",
                         children: [
-                          (0, i.jsx)("img", {
-                            className: "rounded-3",
-                            src: "/assets/imgs/services-details-2/triggerframework/img-1.png",
-                            alt: "Codm",
-                            style: { width: "500px", height: "350px" },
-                          }),
+                          // (0, i.jsx)("img", {
+                          //   className: "rounded-3",
+                          //   src: "/assets/imgs/services-details-2/triggerframework/img-1.png",
+                          //   alt: "Codm",
+                          //   style: { width: "500px", height: "350px" },
+                          // }),
                           (0, i.jsx)("h4", {
                             className: "my-3",
                             children: "What is Salesforce Trigger Framework?",
@@ -1298,20 +1298,20 @@ trigger TriggerHandlerPattern on Contact (before insert, before update) {
                           (0, i.jsxs)("div", {
                             className: "p-3",
                             children: [
-                              (0, i.jsxs)("div", {
-                                className: "ratio ratio-16x9 overflow-hidden",
-                                children: [
-                                  (0, i.jsx)("iframe", {
-                                    src: "https://www.youtube.com/embed/U5ZOA9EY3Kg?si=nrqD9K1hzc6I9TjU",
-                                    title: "YouTube video player",
-                                    frameBorder: "0",
-                                    height: "315",
-                                    width: "560",
-                                    allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-                                    allowFullScreen: true
-                                  })
-                                ]
-                              }),
+                              // (0, i.jsxs)("div", {
+                              //   className: "ratio ratio-16x9 overflow-hidden",
+                              //   children: [
+                              //     (0, i.jsx)("iframe", {
+                              //       src: "https://www.youtube.com/embed/U5ZOA9EY3Kg?si=nrqD9K1hzc6I9TjU",
+                              //       title: "YouTube video player",
+                              //       frameBorder: "0",
+                              //       height: "315",
+                              //       width: "560",
+                              //       allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+                              //       allowFullScreen: true
+                              //     })
+                              //   ]
+                              // }),
                             ]
                           }),
                           (0, i.jsxs)("div", {

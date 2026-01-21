@@ -148,20 +148,20 @@
   className: "pe-md-3 pb-3 pb-md-0 position-relative z-1",
   "data-aos": "fade-zoom-in",
   "data-aos-delay": 300,
-  children: [
-    (0, a.jsx)("iframe", {
-      width: "560",
-      height: "215",
-      src: "https://www.youtube.com/embed/SlhESAKF1Tk?si=JauOCasltRDH_xDP",
-      title: "YouTube video player",
-      frameBorder: "0",
-      allow:
-        "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
-      referrerPolicy: "strict-origin-when-cross-origin",
-      allowFullScreen: true,
-      className: "rounded-3 border border-3 border-white w-100", // Optional styling
-    }),
-  ],
+  // children: [
+  //   (0, a.jsx)("iframe", {
+  //     width: "100",
+  //     height: "100",
+  //     src: "https://www.youtube.com/embed/SlhESAKF1Tk?si=JauOCasltRDH_xDP",
+  //     title: "YouTube video player",
+  //     frameBorder: "0",
+  //     allow:
+  //       "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+  //     referrerPolicy: "strict-origin-when-cross-origin",
+  //     allowFullScreen: true,
+  //     className: "rounded-3 border border-3 border-white w-100", // Optional styling
+  //   }),
+  // ],
 }),
 
                           (0, a.jsx)("img", {
