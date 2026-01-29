@@ -112,6 +112,14 @@
                                   },
                                 }),
                               }),
+                              (0, i.jsxs)("p", {
+                                className: "text-white fw-medium opacity-50 mt-3 mb-0",
+                                children: [
+                                  "Founded: December 7, 2023",
+                                  (0, i.jsx)("br", {}),
+                                  "Company House Number : 15333870",
+                                ],
+                              }),
                               (0, i.jsx)("p", {
                                 className:
                                   "text-white fw-medium mt-3 mb-6 opacity-50",
@@ -278,12 +286,11 @@
                                   alt: "UK",
                                   width: 20,
                                   height: 14,
-                                  className: "mt-3",
+                                   className: "mt-3",
                                 }),
-                                "Regus - Edmund House, 12–22 Newhall St, Birmingham B3 3AS, UK",
+                                "Headquarters: 71–75 Shelton Street, Covent Garden, London WC2H 9JQ, UK",
                               ],
                             }),
-
                             (0, i.jsxs)("p", {
                               className: "text-white mt-30 d-flex align-items-start gap-2",
                               children: [
@@ -292,11 +299,13 @@
                                   alt: "UK",
                                   width: 20,
                                   height: 14,
-                                   className: "mt-3",
+                                  className: "mt-3",
                                 }),
-                                "71–75 Shelton Street, Covent Garden, London WC2H 9JQ, UK",
+                                "Additional Office: Regus - Edmund House, 12–22 Newhall St, Birmingham B3 3AS, UK",
                               ],
                             }),
+
+                            
                           ],
                         })
 
