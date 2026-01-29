@@ -121,7 +121,7 @@
                               "At Codm, we empower businesses to transform their customer relationships, streamline operations, and boost revenue using Salesforce CRM platform. Whether you're a small business or a global enterprise, our Salesforce CRM services are tailored to help you unlock the full potential of your customer data and workflows.",
                               (0, i.jsx)("span", {
                                 className: "text-900 fw-bold",
-                                children: "Our innovative business",
+                                children: " Our innovative business",
                               }),
                               " services are designed to help you navigate the complexities of the modern marketplace, leveraging cutting-edge technology and forward-thinking strategies to transform your operations and achieve your goals. We implement intelligent automation tools tailored to your specific needs.",
                             ],
@@ -241,7 +241,7 @@
                           (0, i.jsx)("p", {
                             className: "mb-4",
                             children:
-                              "Salesforce CRM (Customer Relationship Management) is a cloud-based platform that enables businesses to manage sales, marketing, customer service, and more—all in one place. With powerful automation, analytics, and integration capabilities, Salesforce helps you nurture leads, close deals faster, and deliver personalized customer experiences.",
+                              "Salesforce CRM (Customer Relationship Management) is a cloud-based platform that enables businesses to manage sales, marketing, customer service, and more all in one place. With powerful automation, analytics, and integration capabilities, Salesforce helps you nurture leads, close deals faster, and deliver personalized customer experiences.",
                           }),
                           (0, i.jsxs)("div", {
                             className: "row",

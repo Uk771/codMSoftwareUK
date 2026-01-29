@@ -52,7 +52,7 @@
                         (0, a.jsxs)("h2", {
                           className: "fw-medium mt-4 lh-sm",
                           children: [
-                            "The Innovation Behind the Experience",
+                            "Sectors and Business Domains We Serve",
                             (0, a.jsx)("span", {
                               className: "text-primary fst-italic",
                               "data-aos": "fade-zoom-in",
