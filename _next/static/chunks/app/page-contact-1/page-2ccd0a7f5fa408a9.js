@@ -237,7 +237,7 @@
                             }),
                             (0, n.jsxs)("p", {
                               className: "text-500",
-                              style: { display: "grid"},
+                              style: { display: "grid" },
                               // children: [
                               //   "Contact the sales department about cooperation projects ",
                               //   (0, n.jsx)("br", {}),
@@ -245,23 +245,27 @@
                               // ],
                               children: [
                                 (0, n.jsx)("br", {}),
-                                (0, n.jsx)("span", { children: [
-                                  (0, n.jsx)("img", {
-                                    src: "/assets/imgs/contact-4/Flag of UK.png",
-                                    alt: "India Flag",
-                                    style: { width: "28px", height: "20px", marginRight: "6px" }
-                                  }),
-                                  "Regus - Edmund house, 12-22 Newhall St, Birmingham B3 3AS,UK"
-                                ]}),
+                                (0, n.jsx)("span", {
+                                  children: [
+                                    (0, n.jsx)("img", {
+                                      src: "/assets/imgs/contact-4/Flag of UK.png",
+                                      alt: "India Flag",
+                                      style: { width: "28px", height: "20px", marginRight: "6px" }
+                                    }),
+                                    "Regus - Edmund house, 12-22 Newhall St, Birmingham B3 3AS,UK"
+                                  ]
+                                }),
                                 (0, n.jsx)("br", {}),
-                                (0, n.jsx)("span", { children: [
-                                  (0, n.jsx)("img", {
-                                    src: "/assets/imgs/contact-4/Flag of UK.png",
-                                    alt: "USA Flag",
-                                    style: { width: "28px", height: "20px",marginRight: "6px" }
-                                  }),
-                                  "London : 71-75, Shelton Street, Covent,Garden London, WC2H 9JQ, UK"
-                                ]}),
+                                (0, n.jsx)("span", {
+                                  children: [
+                                    (0, n.jsx)("img", {
+                                      src: "/assets/imgs/contact-4/Flag of UK.png",
+                                      alt: "USA Flag",
+                                      style: { width: "28px", height: "20px", marginRight: "6px" }
+                                    }),
+                                    "London : 71-75, Shelton Street, Covent,Garden London, WC2H 9JQ, UK"
+                                  ]
+                                }),
                               ]
                             }),
                           ],
@@ -286,53 +290,57 @@
                             (0, n.jsx)("h6", { children: "Global Branch" }),
                             (0, n.jsxs)("p", {
                               className: "text-500 ",
-                              style: { display: "grid"},
+                              style: { display: "grid" },
                               children: [
                                 (0, n.jsx)("br", {}),
-                                (0, n.jsx)("span", { children: [
-                                  (0, n.jsx)("img", {
-                                    src: "/assets/imgs/contact-4/Flag_of_India.png",
-                                    alt: "India Flag",
-                                    style: { width: "28px", height: "20px", marginRight: "6px" }
-                                  }),
-                                  // (0, n.jsx)("strong", { children: "SaaS AI Labs" }),
-                                   (0, n.jsx)("a", { 
-                                    href: "https://saasailabs.codmsoftware.co.uk", 
-                                    target: "_blank", 
-                                    rel: "noopener noreferrer", 
-                                    style: { 
-                                      fontWeight: "bold", 
-                                      color: "#6a0dad", 
-                                      textDecoration: "none" 
-                                    },
-                                    children: " SaaS AI Labs "
-                                  }),
-                                  (0, n.jsx)("br", {}),
-                                  "Ihdp Business Park Plot Number 7, Serenia second floor, Sector 127, Noida Uttar Pradesh 201304",
-                                ]}),
+                                (0, n.jsx)("span", {
+                                  children: [
+                                    (0, n.jsx)("img", {
+                                      src: "/assets/imgs/contact-4/Flag_of_India.png",
+                                      alt: "India Flag",
+                                      style: { width: "28px", height: "20px", marginRight: "6px" }
+                                    }),
+                                    // (0, n.jsx)("strong", { children: "SaaS AI Labs" }),
+                                    (0, n.jsx)("a", {
+                                      href: "https://saasailabs.codmsoftware.co.uk",
+                                      target: "_blank",
+                                      rel: "noopener noreferrer",
+                                      style: {
+                                        fontWeight: "bold",
+                                        color: "#6a0dad",
+                                        textDecoration: "none"
+                                      },
+                                      children: " SaaS AI Labs "
+                                    }),
+                                    (0, n.jsx)("br", {}),
+                                    "Ihdp Business Park Plot Number 7, Serenia second floor, Sector 127, Noida Uttar Pradesh 201304",
+                                  ]
+                                }),
                                 (0, n.jsx)("br", {}),
-                                (0, n.jsx)("span", { children: [
-                                  (0, n.jsx)("img", {
-                                    src: "/assets/imgs/contact-4/Flag_of_the_United_States.png",
-                                    alt: "USA Flag",
-                                    style: { width: "28px", height: "20px", marginRight: "6px" }
-                                  }),
-                                  // (0, n.jsx)("strong", { children: "Talent4World" }),
-                                   (0, n.jsx)("a", { 
-                                    href: "https://www.talent4world.com/index.html", 
-                                    target: "_blank", 
-                                    rel: "noopener noreferrer", 
-                                    style: { 
-                                      fontWeight: "bold", 
-                                      color: "#6a0dad", 
-                                      textDecoration: "none" 
-                                    },
-                                    children: " Talent4World "
-                                  }),
-                                  (0, n.jsx)("br", {}),
-                                  "LLC 4501 Nightland Dr Plano, TX 75024 - USA",
-                                ]}),
-                              ], 
+                                (0, n.jsx)("span", {
+                                  children: [
+                                    (0, n.jsx)("img", {
+                                      src: "/assets/imgs/contact-4/Flag_of_the_United_States.png",
+                                      alt: "USA Flag",
+                                      style: { width: "28px", height: "20px", marginRight: "6px" }
+                                    }),
+                                    // (0, n.jsx)("strong", { children: "Talent4World" }),
+                                    (0, n.jsx)("a", {
+                                      href: "https://www.talent4world.com/index.html",
+                                      target: "_blank",
+                                      rel: "noopener noreferrer",
+                                      style: {
+                                        fontWeight: "bold",
+                                        color: "#6a0dad",
+                                        textDecoration: "none"
+                                      },
+                                      children: " Talent4World "
+                                    }),
+                                    (0, n.jsx)("br", {}),
+                                    "LLC 4501 Nightland Dr Plano, TX 75024 - USA",
+                                  ]
+                                }),
+                              ],
                             }),
                           ],
                         }),
@@ -506,67 +514,245 @@
                                     "Do you want to know more or contact our sales department?",
                                 }),
                                 (0, n.jsx)
-                                ("form", {
-                                  action:"https://formsubmit.co/info@codmsoftware.co.uk",
-                                  method:"POST",
-                                  children: (0, n.jsxs)("div", {
-                                    className: "row mt-5",
-                                    children: [
-                                      (0, n.jsx)("div", {
-                                        className: "col-md-6",
-                                        children: (0, n.jsxs)("div", {
-                                          className:
-                                            "input-group d-flex align-items-center",
-                                          children: [
-                                            (0, n.jsx)("div", {
-                                              className:
-                                                "icon-input border border-end-0 rounded-2 rounded-end-0 ps-3",
-                                              children: (0, n.jsxs)("svg", {
-                                                xmlns:
-                                                  "http://www.w3.org/2000/svg",
-                                                width: 24,
-                                                height: 24,
-                                                viewBox: "0 0 24 24",
-                                                fill: "none",
-                                                children: [
-                                                  (0, n.jsx)("path", {
-                                                    d: "M12 11.25C13.7949 11.25 15.25 9.79493 15.25 8C15.25 6.20507 13.7949 4.75 12 4.75C10.2051 4.75 8.75 6.20507 8.75 8C8.75 9.79493 10.2051 11.25 12 11.25Z",
-                                                    stroke: "white",
-                                                    strokeWidth: "1.5",
-                                                    strokeLinecap: "round",
-                                                    strokeLinejoin: "round",
-                                                  }),
-                                                  (0, n.jsx)("path", {
-                                                    d: "M6.84723 19.25H17.1522C18.2941 19.25 19.1737 18.2681 18.6405 17.2584C17.856 15.7731 16.0677 14 11.9997 14C7.93174 14 6.1434 15.7731 5.35897 17.2584C4.8257 18.2681 5.70531 19.25 6.84723 19.25Z",
-                                                    stroke: "white",
-                                                    strokeWidth: "1.5",
-                                                    strokeLinecap: "round",
-                                                    strokeLinejoin: "round",
-                                                  }),
-                                                ],
+                                  ("form", {
+                                    action: "https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00DgD000000rsAL",
+                                    method: "POST",
+                                    children: (0, n.jsxs)("div", {
+                                      className: "row mt-5",
+                                      children: [
+                                        (0, n.jsx)("div", {
+                                          className: "col-md-6",
+                                          children: (0, n.jsxs)("div", {
+                                            className:
+                                              "input-group d-flex align-items-center",
+                                            children: [
+                                              (0, n.jsx)("div", {
+                                                className:
+                                                  "icon-input border border-end-0 rounded-2 rounded-end-0 ps-3",
+                                                children: (0, n.jsxs)("svg", {
+                                                  xmlns:
+                                                    "http://www.w3.org/2000/svg",
+                                                  width: 24,
+                                                  height: 24,
+                                                  viewBox: "0 0 24 24",
+                                                  fill: "none",
+                                                  children: [
+                                                    (0, n.jsx)("path", {
+                                                      d: "M12 11.25C13.7949 11.25 15.25 9.79493 15.25 8C15.25 6.20507 13.7949 4.75 12 4.75C10.2051 4.75 8.75 6.20507 8.75 8C8.75 9.79493 10.2051 11.25 12 11.25Z",
+                                                      stroke: "white",
+                                                      strokeWidth: "1.5",
+                                                      strokeLinecap: "round",
+                                                      strokeLinejoin: "round",
+                                                    }),
+                                                    (0, n.jsx)("path", {
+                                                      d: "M6.84723 19.25H17.1522C18.2941 19.25 19.1737 18.2681 18.6405 17.2584C17.856 15.7731 16.0677 14 11.9997 14C7.93174 14 6.1434 15.7731 5.35897 17.2584C4.8257 18.2681 5.70531 19.25 6.84723 19.25Z",
+                                                      stroke: "white",
+                                                      strokeWidth: "1.5",
+                                                      strokeLinecap: "round",
+                                                      strokeLinejoin: "round",
+                                                    }),
+                                                  ],
+                                                }),
                                               }),
-                                            }),
-                                            (0, n.jsx)("input", {
-                                              type: "text",
-                                              className:
-                                                "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                                              name: "name",
-                                              placeholder: "Your name *",
-                                              "aria-label": "username",
-                                            }),
-                                          ],
+                                              (0, n.jsx)("input", {
+                                                type: "text",
+                                                className:
+                                                  "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
+                                                name: "first_name",
+                                                placeholder: "Your name *",
+                                                "aria-label": "username",
+                                              }),
+                                              (0, n.jsx)("input", {
+                                                type: "hidden",
+                                                name: "oid",
+                                                value: "00DgD000000rsAL",
+                                              }),
+                                              (0, n.jsx)("input", {
+                                                type: "hidden",
+                                                name: "retURL",
+                                                value: "https://codmsoftware.co.uk/SalesforceCRM.html",
+                                              }),
+
+                                            ],
+                                          }),
                                         }),
-                                      }),
-                                      (0, n.jsx)("div", {
-                                        className: "col-md-6",
-                                        children: (0, n.jsxs)("div", {
-                                          className:
-                                            "input-group d-flex align-items-center mt-4 mt-md-0",
-                                          children: [
-                                            (0, n.jsx)("div", {
-                                              className:
-                                                "icon-input border border-end-0 rounded-2 rounded-end-0 ps-3",
-                                              children: (0, n.jsx)("svg", {
+                                        (0, n.jsx)("div", {
+                                          className: "col-md-6",
+                                          children: (0, n.jsxs)("div", {
+                                            className:
+                                              "input-group d-flex align-items-center mt-4 mt-md-0",
+                                            children: [
+                                              (0, n.jsx)("div", {
+                                                className:
+                                                  "icon-input border border-end-0 rounded-2 rounded-end-0 ps-3",
+                                                children: (0, n.jsx)("svg", {
+                                                  xmlns:
+                                                    "http://www.w3.org/2000/svg",
+                                                  width: 24,
+                                                  height: 24,
+                                                  viewBox: "0 0 24 24",
+                                                  fill: "none",
+                                                  children: (0, n.jsx)("path", {
+                                                    d: "M8.89286 4.75H6.06818C5.34017 4.75 4.75 5.34017 4.75 6.06818C4.75 13.3483 10.6517 19.25 17.9318 19.25C18.6598 19.25 19.25 18.6598 19.25 17.9318V15.1071L16.1429 13.0357L14.5317 14.6468C14.2519 14.9267 13.8337 15.0137 13.4821 14.8321C12.8858 14.524 11.9181 13.9452 10.9643 13.0357C9.98768 12.1045 9.41548 11.1011 9.12829 10.494C8.96734 10.1537 9.06052 9.76091 9.32669 9.49474L10.9643 7.85714L8.89286 4.75Z",
+                                                    stroke: "white",
+                                                    strokeWidth: "1.5",
+                                                    strokeLinecap: "round",
+                                                    strokeLinejoin: "round",
+                                                  }),
+                                                }),
+                                              }),
+                                              (0, n.jsx)("input", {
+                                                type: "text",
+                                                className:
+                                                  "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
+                                                name: "email",
+                                                placeholder: "info@",
+                                                "aria-label": "email",
+                                              }),
+                                            ],
+                                          }),
+                                        }),
+                                        (0, n.jsx)("div", {
+                                          className: "col-md-6",
+                                          children: (0, n.jsxs)("div", {
+                                            className:
+                                              "input-group d-flex align-items-center mt-4",
+                                            children: [
+                                              (0, n.jsx)("div", {
+                                                className:
+                                                  "icon-input border border-end-0 rounded-2 rounded-end-0 ps-3",
+                                                children: (0, n.jsxs)("svg", {
+                                                  xmlns:
+                                                    "http://www.w3.org/2000/svg",
+                                                  width: 24,
+                                                  height: 24,
+                                                  viewBox: "0 0 24 24",
+                                                  fill: "none",
+                                                  children: [
+                                                    (0, n.jsx)("path", {
+                                                      d: "M4.75 7.75C4.75 6.64543 5.64543 5.75 6.75 5.75H17.25C18.3546 5.75 19.25 6.64543 19.25 7.75V16.25C19.25 17.3546 18.3546 18.25 17.25 18.25H6.75C5.64543 18.25 4.75 17.3546 4.75 16.25V7.75Z",
+                                                      stroke: "white",
+                                                      strokeWidth: "1.5",
+                                                      strokeLinecap: "round",
+                                                      strokeLinejoin: "round",
+                                                    }),
+                                                    (0, n.jsx)("path", {
+                                                      d: "M5.5 6.5L12 12.25L18.5 6.5",
+                                                      stroke: "white",
+                                                      strokeWidth: "1.5",
+                                                      strokeLinecap: "round",
+                                                      strokeLinejoin: "round",
+                                                    }),
+                                                  ],
+                                                }),
+                                              }),
+                                              (0, n.jsx)("input", {
+                                                type: "text",
+                                                className:
+                                                  "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
+                                                name: "Phone",
+                                                placeholder: "Phone",
+                                                "aria-label": "phone",
+                                              }),
+                                            ],
+                                          }),
+                                        }),
+                                        (0, n.jsx)("div", {
+                                          className: "col-md-6",
+                                          children: (0, n.jsxs)("div", {
+                                            className:
+                                              "input-group d-flex align-items-center mt-4",
+                                            children: [
+                                              (0, n.jsx)("div", {
+                                                className:
+                                                  "icon-input border border-end-0 rounded-2 rounded-end-0 ps-3",
+                                                children: (0, n.jsxs)("svg", {
+                                                  xmlns:
+                                                    "http://www.w3.org/2000/svg",
+                                                  width: 24,
+                                                  height: 24,
+                                                  viewBox: "0 0 24 24",
+                                                  fill: "none",
+                                                  children: [
+                                                    (0, n.jsx)("path", {
+                                                      d: "M6.75 19.25H17.25C18.3546 19.25 19.25 18.3546 19.25 17.25V9.75001L12 4.75L4.75 9.75001V17.25C4.75 18.3546 5.64544 19.25 6.75 19.25Z",
+                                                      stroke: "white",
+                                                      strokeWidth: "1.5",
+                                                      strokeLinecap: "round",
+                                                      strokeLinejoin: "round",
+                                                    }),
+                                                    (0, n.jsx)("path", {
+                                                      d: "M9.75 15.749C9.75 14.6444 10.6455 13.749 11.75 13.749H12.25C13.3546 13.749 14.25 14.6444 14.25 15.749V19.249H9.75V15.749Z",
+                                                      stroke: "white",
+                                                      strokeWidth: "1.5",
+                                                      strokeLinecap: "round",
+                                                      strokeLinejoin: "round",
+                                                    }),
+                                                  ],
+                                                }),
+                                              }),
+                                              (0, n.jsx)("input", {
+                                                type: "text",
+                                                className:
+                                                  "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
+                                                name: "Subject",
+                                                placeholder: "Subject",
+                                                "aria-label": "subject",
+                                              }),
+                                            ],
+                                          }),
+                                        }),
+                                        (0, n.jsx)("div", {
+                                          className: "col-12",
+                                          children: (0, n.jsxs)("div", {
+                                            className: "input-group d-flex mt-4",
+                                            children: [
+                                              (0, n.jsx)("div", {
+                                                className:
+                                                  "icon-input pt-2 ps-3 align-items-start border border-end-0 rounded-1 rounded-end-0",
+                                                children: (0, n.jsxs)("svg", {
+                                                  xmlns:
+                                                    "http://www.w3.org/2000/svg",
+                                                  width: 18,
+                                                  height: 18,
+                                                  viewBox: "0 0 18 18",
+                                                  fill: "none",
+                                                  children: [
+                                                    (0, n.jsx)("path", {
+                                                      d: "M5.5 2.14844H3C1.89543 2.14844 1 3.04387 1 4.14844V14.6484C1 15.753 1.89543 16.6484 3 16.6484H13.5C14.6046 16.6484 15.5 15.753 15.5 14.6484V12.1484",
+                                                      stroke: "white",
+                                                      strokeWidth: "1.5",
+                                                      strokeLinecap: "round",
+                                                      strokeLinejoin: "round",
+                                                    }),
+                                                    (0, n.jsx)("path", {
+                                                      d: "M17.3285 1.20344L16.4448 0.319749C16.0185 -0.106583 15.3248 -0.106583 14.8984 0.319749L7.82915 7.38907C7.76373 7.45449 7.71914 7.53782 7.70096 7.62854L7.2591 9.83772C7.22839 9.99137 7.27647 10.1502 7.38729 10.261C7.47605 10.3498 7.59561 10.3983 7.71864 10.3983C7.74923 10.3983 7.77997 10.3953 7.81053 10.3892L10.0197 9.94732C10.1104 9.92917 10.1938 9.88455 10.2592 9.81913L17.3285 2.74984C17.3285 2.74984 17.3286 2.74984 17.3286 2.74981C17.7549 2.32351 17.7549 1.6298 17.3285 1.20344ZM9.69678 9.05607L8.31606 9.33225L8.59224 7.95153L14.3461 2.19754L15.4507 3.30214L9.69678 9.05607ZM16.6658 2.0871L16.1135 2.6394L15.0089 1.53479L15.5612 0.982524C15.6221 0.921601 15.7212 0.92157 15.7821 0.982493L16.6658 1.86618C16.7267 1.92707 16.7267 2.0262 16.6658 2.0871Z",
+                                                      fill: "white",
+                                                    }),
+                                                  ],
+                                                }),
+                                              }),
+                                              (0, n.jsx)("textarea", {
+                                                className:
+                                                  "form-control border border-start-0 ms-0 rounded-start-0 rounded-1 pb-10",
+                                                name: "description",
+                                                placeholder:
+                                                  "Describe Your Project in Short",
+                                                "aria-label": "With textarea",
+                                              }),
+                                            ],
+                                          }),
+                                        }),
+                                        (0, n.jsx)("div", {
+                                          className: "col-12",
+                                          children: (0, n.jsxs)("button", {
+                                            type: "submit",
+                                            className:
+                                              "btn bg-white-keep text-primary hover-up mt-3",
+                                            children: [
+                                              "Send Message",
+                                              (0, n.jsx)("svg", {
+                                                className: "ms-2",
                                                 xmlns:
                                                   "http://www.w3.org/2000/svg",
                                                 width: 24,
@@ -574,184 +760,17 @@
                                                 viewBox: "0 0 24 24",
                                                 fill: "none",
                                                 children: (0, n.jsx)("path", {
-                                                  d: "M8.89286 4.75H6.06818C5.34017 4.75 4.75 5.34017 4.75 6.06818C4.75 13.3483 10.6517 19.25 17.9318 19.25C18.6598 19.25 19.25 18.6598 19.25 17.9318V15.1071L16.1429 13.0357L14.5317 14.6468C14.2519 14.9267 13.8337 15.0137 13.4821 14.8321C12.8858 14.524 11.9181 13.9452 10.9643 13.0357C9.98768 12.1045 9.41548 11.1011 9.12829 10.494C8.96734 10.1537 9.06052 9.76091 9.32669 9.49474L10.9643 7.85714L8.89286 4.75Z",
-                                                  stroke: "white",
-                                                  strokeWidth: "1.5",
-                                                  strokeLinecap: "round",
-                                                  strokeLinejoin: "round",
+                                                  d: "M21.1059 12.2562H0.5V11.7443H21.1059H22.313L21.4594 10.8907L17.0558 6.48705L17.4177 6.12508L23.2929 12.0002L17.4177 17.8754L17.0558 17.5134L21.4594 13.1098L22.313 12.2562H21.1059Z",
+                                                  fill: "black",
+                                                  stroke: "#6D4DF2",
                                                 }),
                                               }),
-                                            }),
-                                            (0, n.jsx)("input", {
-                                              type: "text",
-                                              className:
-                                                "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                                              name: "email",
-                                              placeholder: "info@",
-                                              "aria-label": "email",
-                                            }),
-                                          ],
+                                            ],
+                                          }),
                                         }),
-                                      }),
-                                      (0, n.jsx)("div", {
-                                        className: "col-md-6",
-                                        children: (0, n.jsxs)("div", {
-                                          className:
-                                            "input-group d-flex align-items-center mt-4",
-                                          children: [
-                                            (0, n.jsx)("div", {
-                                              className:
-                                                "icon-input border border-end-0 rounded-2 rounded-end-0 ps-3",
-                                              children: (0, n.jsxs)("svg", {
-                                                xmlns:
-                                                  "http://www.w3.org/2000/svg",
-                                                width: 24,
-                                                height: 24,
-                                                viewBox: "0 0 24 24",
-                                                fill: "none",
-                                                children: [
-                                                  (0, n.jsx)("path", {
-                                                    d: "M4.75 7.75C4.75 6.64543 5.64543 5.75 6.75 5.75H17.25C18.3546 5.75 19.25 6.64543 19.25 7.75V16.25C19.25 17.3546 18.3546 18.25 17.25 18.25H6.75C5.64543 18.25 4.75 17.3546 4.75 16.25V7.75Z",
-                                                    stroke: "white",
-                                                    strokeWidth: "1.5",
-                                                    strokeLinecap: "round",
-                                                    strokeLinejoin: "round",
-                                                  }),
-                                                  (0, n.jsx)("path", {
-                                                    d: "M5.5 6.5L12 12.25L18.5 6.5",
-                                                    stroke: "white",
-                                                    strokeWidth: "1.5",
-                                                    strokeLinecap: "round",
-                                                    strokeLinejoin: "round",
-                                                  }),
-                                                ],
-                                              }),
-                                            }),
-                                            (0, n.jsx)("input", {
-                                              type: "text",
-                                              className:
-                                                "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                                              name: "Phone",
-                                              placeholder: "Phone",
-                                              "aria-label": "phone",
-                                            }),
-                                          ],
-                                        }),
-                                      }),
-                                      (0, n.jsx)("div", {
-                                        className: "col-md-6",
-                                        children: (0, n.jsxs)("div", {
-                                          className:
-                                            "input-group d-flex align-items-center mt-4",
-                                          children: [
-                                            (0, n.jsx)("div", {
-                                              className:
-                                                "icon-input border border-end-0 rounded-2 rounded-end-0 ps-3",
-                                              children: (0, n.jsxs)("svg", {
-                                                xmlns:
-                                                  "http://www.w3.org/2000/svg",
-                                                width: 24,
-                                                height: 24,
-                                                viewBox: "0 0 24 24",
-                                                fill: "none",
-                                                children: [
-                                                  (0, n.jsx)("path", {
-                                                    d: "M6.75 19.25H17.25C18.3546 19.25 19.25 18.3546 19.25 17.25V9.75001L12 4.75L4.75 9.75001V17.25C4.75 18.3546 5.64544 19.25 6.75 19.25Z",
-                                                    stroke: "white",
-                                                    strokeWidth: "1.5",
-                                                    strokeLinecap: "round",
-                                                    strokeLinejoin: "round",
-                                                  }),
-                                                  (0, n.jsx)("path", {
-                                                    d: "M9.75 15.749C9.75 14.6444 10.6455 13.749 11.75 13.749H12.25C13.3546 13.749 14.25 14.6444 14.25 15.749V19.249H9.75V15.749Z",
-                                                    stroke: "white",
-                                                    strokeWidth: "1.5",
-                                                    strokeLinecap: "round",
-                                                    strokeLinejoin: "round",
-                                                  }),
-                                                ],
-                                              }),
-                                            }),
-                                            (0, n.jsx)("input", {
-                                              type: "text",
-                                              className:
-                                                "form-control ms-0 border rounded-2 rounded-start-0 border-start-0",
-                                              name: "Subject",
-                                              placeholder: "Subject",
-                                              "aria-label": "subject",
-                                            }),
-                                          ],
-                                        }),
-                                      }),
-                                      (0, n.jsx)("div", {
-                                        className: "col-12",
-                                        children: (0, n.jsxs)("div", {
-                                          className: "input-group d-flex mt-4",
-                                          children: [
-                                            (0, n.jsx)("div", {
-                                              className:
-                                                "icon-input pt-2 ps-3 align-items-start border border-end-0 rounded-1 rounded-end-0",
-                                              children: (0, n.jsxs)("svg", {
-                                                xmlns:
-                                                  "http://www.w3.org/2000/svg",
-                                                width: 18,
-                                                height: 18,
-                                                viewBox: "0 0 18 18",
-                                                fill: "none",
-                                                children: [
-                                                  (0, n.jsx)("path", {
-                                                    d: "M5.5 2.14844H3C1.89543 2.14844 1 3.04387 1 4.14844V14.6484C1 15.753 1.89543 16.6484 3 16.6484H13.5C14.6046 16.6484 15.5 15.753 15.5 14.6484V12.1484",
-                                                    stroke: "white",
-                                                    strokeWidth: "1.5",
-                                                    strokeLinecap: "round",
-                                                    strokeLinejoin: "round",
-                                                  }),
-                                                  (0, n.jsx)("path", {
-                                                    d: "M17.3285 1.20344L16.4448 0.319749C16.0185 -0.106583 15.3248 -0.106583 14.8984 0.319749L7.82915 7.38907C7.76373 7.45449 7.71914 7.53782 7.70096 7.62854L7.2591 9.83772C7.22839 9.99137 7.27647 10.1502 7.38729 10.261C7.47605 10.3498 7.59561 10.3983 7.71864 10.3983C7.74923 10.3983 7.77997 10.3953 7.81053 10.3892L10.0197 9.94732C10.1104 9.92917 10.1938 9.88455 10.2592 9.81913L17.3285 2.74984C17.3285 2.74984 17.3286 2.74984 17.3286 2.74981C17.7549 2.32351 17.7549 1.6298 17.3285 1.20344ZM9.69678 9.05607L8.31606 9.33225L8.59224 7.95153L14.3461 2.19754L15.4507 3.30214L9.69678 9.05607ZM16.6658 2.0871L16.1135 2.6394L15.0089 1.53479L15.5612 0.982524C15.6221 0.921601 15.7212 0.92157 15.7821 0.982493L16.6658 1.86618C16.7267 1.92707 16.7267 2.0262 16.6658 2.0871Z",
-                                                    fill: "white",
-                                                  }),
-                                                ],
-                                              }),
-                                            }),
-                                            (0, n.jsx)("textarea", {
-                                              className:
-                                                "form-control border border-start-0 ms-0 rounded-start-0 rounded-1 pb-10",
-                                              name: "description",
-                                              placeholder:
-                                                "Describe Your Project in Short",
-                                              "aria-label": "With textarea",
-                                            }),
-                                          ],
-                                        }),
-                                      }),
-                                      (0, n.jsx)("div", {
-                                        className: "col-12",
-                                        children: (0, n.jsxs)("button", {
-                                          type: "submit",
-                                          className:
-                                            "btn bg-white-keep text-primary hover-up mt-3",
-                                          children: [
-                                            "Send Message",
-                                            (0, n.jsx)("svg", {
-                                              className: "ms-2",
-                                              xmlns:
-                                                "http://www.w3.org/2000/svg",
-                                              width: 24,
-                                              height: 24,
-                                              viewBox: "0 0 24 24",
-                                              fill: "none",
-                                              children: (0, n.jsx)("path", {
-                                                d: "M21.1059 12.2562H0.5V11.7443H21.1059H22.313L21.4594 10.8907L17.0558 6.48705L17.4177 6.12508L23.2929 12.0002L17.4177 17.8754L17.0558 17.5134L21.4594 13.1098L22.313 12.2562H21.1059Z",
-                                                fill: "black",
-                                                stroke: "#6D4DF2",
-                                              }),
-                                            }),
-                                          ],
-                                        }),
-                                      }),
-                                    ],
+                                      ],
+                                    }),
                                   }),
-                                }),
                               ],
                             }),
                             (0, n.jsx)("div", {
@@ -787,15 +806,15 @@
           },
         });
       var n = function () {
-          return (n =
-            Object.assign ||
-            function (e) {
-              for (var t, s = 1, n = arguments.length; s < n; s++)
-                for (var i in (t = arguments[s]))
-                  Object.prototype.hasOwnProperty.call(t, i) && (e[i] = t[i]);
-              return e;
-            }).apply(this, arguments);
-        },
+        return (n =
+          Object.assign ||
+          function (e) {
+            for (var t, s = 1, n = arguments.length; s < n; s++)
+              for (var i in (t = arguments[s]))
+                Object.prototype.hasOwnProperty.call(t, i) && (e[i] = t[i]);
+            return e;
+          }).apply(this, arguments);
+      },
         i = (function () {
           function e(e, t, s) {
             var i = this;
@@ -833,17 +852,17 @@
                   i.useEasing
                     ? i.countDown
                       ? (i.frameVal =
-                          i.startVal -
-                          i.easingFn(t, 0, i.startVal - i.endVal, i.duration))
+                        i.startVal -
+                        i.easingFn(t, 0, i.startVal - i.endVal, i.duration))
                       : (i.frameVal = i.easingFn(
-                          t,
-                          i.startVal,
-                          i.endVal - i.startVal,
-                          i.duration
-                        ))
+                        t,
+                        i.startVal,
+                        i.endVal - i.startVal,
+                        i.duration
+                      ))
                     : (i.frameVal =
-                        i.startVal +
-                        (i.endVal - i.startVal) * (t / i.duration));
+                      i.startVal +
+                      (i.endVal - i.startVal) * (t / i.duration));
                 var s = i.countDown
                   ? i.frameVal < i.endVal
                   : i.frameVal > i.endVal;
@@ -855,8 +874,8 @@
                   t < i.duration
                     ? (i.rAF = requestAnimationFrame(i.count))
                     : null !== i.finalEndVal
-                    ? i.update(i.finalEndVal)
-                    : i.options.onCompleteCallback &&
+                      ? i.update(i.finalEndVal)
+                      : i.options.onCompleteCallback &&
                       i.options.onCompleteCallback();
               }),
               (this.formatNumber = function (e) {
@@ -868,8 +887,8 @@
                   );
                 if (
                   ((t = r[0]),
-                  (s = r.length > 1 ? i.options.decimal + r[1] : ""),
-                  i.options.useGrouping)
+                    (s = r.length > 1 ? i.options.decimal + r[1] : ""),
+                    i.options.useGrouping)
                 ) {
                   n = "";
                   for (var a = 3, o = 0, l = 0, c = t.length; l < c; ++l)
@@ -883,18 +902,18 @@
                 }
                 return (
                   i.options.numerals &&
-                    i.options.numerals.length &&
-                    ((t = t.replace(/[0-9]/g, function (e) {
-                      return i.options.numerals[+e];
-                    })),
+                  i.options.numerals.length &&
+                  ((t = t.replace(/[0-9]/g, function (e) {
+                    return i.options.numerals[+e];
+                  })),
                     (s = s.replace(/[0-9]/g, function (e) {
                       return i.options.numerals[+e];
                     }))),
                   (e < 0 ? "-" : "") +
-                    i.options.prefix +
-                    t +
-                    s +
-                    i.options.suffix
+                  i.options.prefix +
+                  t +
+                  s +
+                  i.options.suffix
                 );
               }),
               (this.easeOutExpo = function (e, t, s, n) {
@@ -922,19 +941,19 @@
                 ? this.printValue(this.startVal)
                 : (this.error = "[CountUp] target is null or undefined"),
               "undefined" != typeof window &&
-                this.options.enableScrollSpy &&
-                (this.error
-                  ? console.error(this.error, e)
-                  : ((window.onScrollFns = window.onScrollFns || []),
-                    window.onScrollFns.push(function () {
-                      return i.handleScroll(i);
-                    }),
-                    (window.onscroll = function () {
-                      window.onScrollFns.forEach(function (e) {
-                        return e();
-                      });
-                    }),
-                    this.handleScroll(this)));
+              this.options.enableScrollSpy &&
+              (this.error
+                ? console.error(this.error, e)
+                : ((window.onScrollFns = window.onScrollFns || []),
+                  window.onScrollFns.push(function () {
+                    return i.handleScroll(i);
+                  }),
+                  (window.onscroll = function () {
+                    window.onScrollFns.forEach(function (e) {
+                      return e();
+                    });
+                  }),
+                  this.handleScroll(this)));
           }
           return (
             (e.prototype.handleScroll = function (e) {
@@ -956,7 +975,7 @@
               var e = this.finalEndVal ? this.finalEndVal : this.endVal;
               if (
                 ((this.countDown = this.startVal > e),
-                Math.abs(e - this.startVal) >
+                  Math.abs(e - this.startVal) >
                   this.options.smartEasingThreshold && this.options.useEasing)
               ) {
                 this.finalEndVal = e;
@@ -971,12 +990,12 @@
             (e.prototype.start = function (e) {
               this.error ||
                 (this.options.onStartCallback && this.options.onStartCallback(),
-                e && (this.options.onCompleteCallback = e),
-                this.duration > 0
-                  ? (this.determineDirectionAndSmartEasing(),
-                    (this.paused = !1),
-                    (this.rAF = requestAnimationFrame(this.count)))
-                  : this.printValue(this.endVal));
+                  e && (this.options.onCompleteCallback = e),
+                  this.duration > 0
+                    ? (this.determineDirectionAndSmartEasing(),
+                      (this.paused = !1),
+                      (this.rAF = requestAnimationFrame(this.count)))
+                    : this.printValue(this.endVal));
             }),
             (e.prototype.pauseResume = function () {
               this.paused
@@ -1001,7 +1020,7 @@
                 (this.startTime = null),
                 (this.endVal = this.validateValue(e)),
                 this.endVal !== this.frameVal &&
-                  ((this.startVal = this.frameVal),
+                ((this.startVal = this.frameVal),
                   null == this.finalEndVal && this.resetDuration(),
                   (this.finalEndVal = null),
                   this.determineDirectionAndSmartEasing(),
@@ -1018,10 +1037,10 @@
                 )
                   ? this.options.plugin.render(this.el, s)
                   : "INPUT" === this.el.tagName
-                  ? (this.el.value = s)
-                  : "text" === this.el.tagName || "tspan" === this.el.tagName
-                  ? (this.el.textContent = s)
-                  : (this.el.innerHTML = s);
+                    ? (this.el.value = s)
+                    : "text" === this.el.tagName || "tspan" === this.el.tagName
+                      ? (this.el.textContent = s)
+                      : (this.el.innerHTML = s);
               }
             }),
             (e.prototype.ensureNumber = function (e) {
@@ -1032,7 +1051,7 @@
               return this.ensureNumber(t)
                 ? t
                 : ((this.error =
-                    "[CountUp] invalid start or end value: ".concat(e)),
+                  "[CountUp] invalid start or end value: ".concat(e)),
                   null);
             }),
             (e.prototype.resetDuration = function () {
@@ -1065,10 +1084,10 @@
           var s = null != arguments[t] ? arguments[t] : {};
           t % 2
             ? r(Object(s), !0).forEach(function (t) {
-                !(function (e, t, s) {
-                  var n;
-                  (t =
-                    "symbol" ==
+              !(function (e, t, s) {
+                var n;
+                (t =
+                  "symbol" ==
                     typeof (n = (function (e, t) {
                       if ("object" != typeof e || !e) return e;
                       var s = e[Symbol.toPrimitive];
@@ -1081,20 +1100,20 @@
                       }
                       return ("string" === t ? String : Number)(e);
                     })(t, "string"))
-                      ? n
-                      : String(n)) in e
-                    ? Object.defineProperty(e, t, {
-                        value: s,
-                        enumerable: !0,
-                        configurable: !0,
-                        writable: !0,
-                      })
-                    : (e[t] = s);
-                })(e, t, s[t]);
-              })
+                    ? n
+                    : String(n)) in e
+                  ? Object.defineProperty(e, t, {
+                    value: s,
+                    enumerable: !0,
+                    configurable: !0,
+                    writable: !0,
+                  })
+                  : (e[t] = s);
+              })(e, t, s[t]);
+            })
             : Object.getOwnPropertyDescriptors
-            ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(s))
-            : r(Object(s)).forEach(function (t) {
+              ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(s))
+              : r(Object(s)).forEach(function (t) {
                 Object.defineProperty(
                   e,
                   t,
@@ -1108,13 +1127,13 @@
         return (o = Object.assign
           ? Object.assign.bind()
           : function (e) {
-              for (var t = 1; t < arguments.length; t++) {
-                var s = arguments[t];
-                for (var n in s)
-                  Object.prototype.hasOwnProperty.call(s, n) && (e[n] = s[n]);
-              }
-              return e;
-            }).apply(this, arguments);
+            for (var t = 1; t < arguments.length; t++) {
+              var s = arguments[t];
+              for (var n in s)
+                Object.prototype.hasOwnProperty.call(s, n) && (e[n] = s[n]);
+            }
+            return e;
+          }).apply(this, arguments);
       }
       function l(e, t) {
         if (null == e) return {};
@@ -1135,8 +1154,8 @@
           for (n = 0; n < r.length; n++)
             (s = r[n]),
               !(t.indexOf(s) >= 0) &&
-                Object.prototype.propertyIsEnumerable.call(e, s) &&
-                (i[s] = e[s]);
+              Object.prototype.propertyIsEnumerable.call(e, s) &&
+              (i[s] = e[s]);
         }
         return i;
       }
@@ -1147,8 +1166,8 @@
       }
       var d =
         "undefined" != typeof window &&
-        void 0 !== window.document &&
-        void 0 !== window.document.createElement
+          void 0 !== window.document &&
+          void 0 !== window.document.createElement
           ? n.useLayoutEffect
           : n.useEffect;
       function u(e) {
@@ -1165,44 +1184,44 @@
         );
       }
       var m = function (e, t) {
-          var s = t.decimal,
-            n = t.decimals,
-            r = t.duration,
-            a = t.easingFn,
-            o = t.end,
-            l = t.formattingFn,
-            c = t.numerals,
-            d = t.prefix,
-            u = t.separator,
-            m = t.start,
-            h = t.suffix,
-            p = t.useEasing,
-            f = t.useGrouping,
-            g = t.useIndianSeparators,
-            x = t.enableScrollSpy,
-            b = t.scrollSpyDelay,
-            j = t.scrollSpyOnce,
-            v = t.plugin;
-          return new i.CountUp(e, o, {
-            startVal: m,
-            duration: r,
-            decimal: s,
-            decimalPlaces: n,
-            easingFn: a,
-            formattingFn: l,
-            numerals: c,
-            separator: u,
-            prefix: d,
-            suffix: h,
-            plugin: v,
-            useEasing: p,
-            useIndianSeparators: g,
-            useGrouping: f,
-            enableScrollSpy: x,
-            scrollSpyDelay: b,
-            scrollSpyOnce: j,
-          });
-        },
+        var s = t.decimal,
+          n = t.decimals,
+          r = t.duration,
+          a = t.easingFn,
+          o = t.end,
+          l = t.formattingFn,
+          c = t.numerals,
+          d = t.prefix,
+          u = t.separator,
+          m = t.start,
+          h = t.suffix,
+          p = t.useEasing,
+          f = t.useGrouping,
+          g = t.useIndianSeparators,
+          x = t.enableScrollSpy,
+          b = t.scrollSpyDelay,
+          j = t.scrollSpyOnce,
+          v = t.plugin;
+        return new i.CountUp(e, o, {
+          startVal: m,
+          duration: r,
+          decimal: s,
+          decimalPlaces: n,
+          easingFn: a,
+          formattingFn: l,
+          numerals: c,
+          separator: u,
+          prefix: d,
+          suffix: h,
+          plugin: v,
+          useEasing: p,
+          useIndianSeparators: g,
+          useGrouping: f,
+          enableScrollSpy: x,
+          scrollSpyDelay: b,
+          scrollSpyOnce: j,
+        });
+      },
         h = [
           "ref",
           "startOnMount",
@@ -1231,77 +1250,77 @@
         },
         f = function (e) {
           var t = Object.fromEntries(
-              Object.entries(e).filter(function (e) {
-                return (
-                  void 0 !==
-                  ((function (e) {
-                    if (Array.isArray(e)) return e;
-                  })(e) ||
-                    (function (e, t) {
-                      var s =
-                        null == e
-                          ? null
-                          : ("undefined" != typeof Symbol &&
-                              e[Symbol.iterator]) ||
-                            e["@@iterator"];
-                      if (null != s) {
-                        var n,
-                          i,
-                          r,
-                          a,
-                          o = [],
-                          l = !0,
-                          c = !1;
+            Object.entries(e).filter(function (e) {
+              return (
+                void 0 !==
+                ((function (e) {
+                  if (Array.isArray(e)) return e;
+                })(e) ||
+                  (function (e, t) {
+                    var s =
+                      null == e
+                        ? null
+                        : ("undefined" != typeof Symbol &&
+                          e[Symbol.iterator]) ||
+                        e["@@iterator"];
+                    if (null != s) {
+                      var n,
+                        i,
+                        r,
+                        a,
+                        o = [],
+                        l = !0,
+                        c = !1;
+                      try {
+                        for (
+                          r = (s = s.call(e)).next;
+                          !(l = (n = r.call(s)).done) &&
+                          (o.push(n.value), 2 !== o.length);
+                          l = !0
+                        );
+                      } catch (e) {
+                        (c = !0), (i = e);
+                      } finally {
                         try {
-                          for (
-                            r = (s = s.call(e)).next;
-                            !(l = (n = r.call(s)).done) &&
-                            (o.push(n.value), 2 !== o.length);
-                            l = !0
-                          );
-                        } catch (e) {
-                          (c = !0), (i = e);
+                          if (
+                            !l &&
+                            null != s.return &&
+                            ((a = s.return()), Object(a) !== a)
+                          )
+                            return;
                         } finally {
-                          try {
-                            if (
-                              !l &&
-                              null != s.return &&
-                              ((a = s.return()), Object(a) !== a)
-                            )
-                              return;
-                          } finally {
-                            if (c) throw i;
-                          }
+                          if (c) throw i;
                         }
-                        return o;
                       }
-                    })(e, 2) ||
-                    (function (e, t) {
-                      if (e) {
-                        if ("string" == typeof e) return c(e, 2);
-                        var s = Object.prototype.toString.call(e).slice(8, -1);
-                        if (
-                          ("Object" === s &&
-                            e.constructor &&
-                            (s = e.constructor.name),
+                      return o;
+                    }
+                  })(e, 2) ||
+                  (function (e, t) {
+                    if (e) {
+                      if ("string" == typeof e) return c(e, 2);
+                      var s = Object.prototype.toString.call(e).slice(8, -1);
+                      if (
+                        ("Object" === s &&
+                          e.constructor &&
+                          (s = e.constructor.name),
                           "Map" === s || "Set" === s)
-                        )
-                          return Array.from(e);
-                        if (
-                          "Arguments" === s ||
-                          /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(s)
-                        )
-                          return c(e, 2);
-                      }
-                    })(e, 2) ||
-                    (function () {
-                      throw TypeError(
-                        "Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."
-                      );
-                    })())[1]
-                );
-              })
-            ),
+                      )
+                        return Array.from(e);
+                      if (
+                        "Arguments" === s ||
+                        /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(s)
+                      )
+                        return c(e, 2);
+                    }
+                  })(e, 2) ||
+                  (function () {
+                    throw TypeError(
+                      "Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."
+                    );
+                  })())[1]
+              );
+            })
+          ),
             s = n.useMemo(
               function () {
                 return a(a({}, p), t);
@@ -1347,8 +1366,8 @@
             S = u(function () {
               k().el &&
                 (N.current && clearTimeout(N.current),
-                k().reset(),
-                null == b || b({ pauseResume: E, start: L, update: O }));
+                  k().reset(),
+                  null == b || b({ pauseResume: E, start: L, update: O }));
             }),
             O = u(function (e) {
               k().update(e),
@@ -1454,41 +1473,41 @@
           },
           [N, s, k]
         ),
-        n.useEffect(
-          function () {
-            !s && h.current && N();
-          },
-          [
-            N,
-            s,
-            e.start,
-            e.suffix,
-            e.prefix,
-            e.duration,
-            e.separator,
-            e.decimals,
-            e.decimal,
-            e.className,
-            e.formattingFn,
-          ]
-        ),
-        n.useEffect(function () {
-          h.current = !0;
-        }, []),
-        "function" == typeof r)
+          n.useEffect(
+            function () {
+              !s && h.current && N();
+            },
+            [
+              N,
+              s,
+              e.start,
+              e.suffix,
+              e.prefix,
+              e.duration,
+              e.separator,
+              e.decimals,
+              e.decimal,
+              e.className,
+              e.formattingFn,
+            ]
+          ),
+          n.useEffect(function () {
+            h.current = !0;
+          }, []),
+          "function" == typeof r)
           ? r({
-              countUpRef: m,
-              start: x,
-              reset: b,
-              update: j,
-              pauseResume: v,
-              getCountUp: w,
-            })
+            countUpRef: m,
+            start: x,
+            reset: b,
+            update: j,
+            pauseResume: v,
+            getCountUp: w,
+          })
           : n.createElement(
-              "span",
-              o({ className: t, ref: m, style: c }, i),
-              void 0 !== e.start ? w().formattingFn(e.start) : ""
-            );
+            "span",
+            o({ className: t, ref: m, style: c }, i),
+            void 0 !== e.start ? w().formattingFn(e.start) : ""
+          );
       };
     },
   },

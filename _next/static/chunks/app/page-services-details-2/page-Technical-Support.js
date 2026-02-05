@@ -1058,7 +1058,7 @@
                 //                     children: "Leave a message",
                 //                   }),
                 //                   (0, i.jsx)("form", {
-                //                     action: "https://formsubmit.co/info@codmsoftware.co.uk",
+                //                     action: "https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00DgD000000rsAL",
                 //                     method: "POST",
                 //                     children: (0, i.jsxs)("div", {
                 //                       className: "row mt-5",
@@ -1490,7 +1490,7 @@
                                     children: "Leave a message",
                                   }),
                                   (0, i.jsx)("form", {
-                                    action: "https://formsubmit.co/info@codmsoftware.co.uk",
+                                    action: "https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00DgD000000rsAL",
                                     method : "post",
                                     children: (0, i.jsxs)("div", {
                                       className: "row mt-5",
